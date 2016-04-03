@@ -1,0 +1,708 @@
+
+
+FORMAT 	WXF
+GAME 	NGUYEN Huu Phuc(D)ÓàµÂÃ÷,29
+TIME       ;
+RESULT     0.5-0.5
+RED        NGUYEN Huu Phuc ; NT ; Canada-Toronto
+BLACK      ÓàµÂÃ÷ ; NT ; Thailand
+DATE       24-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  H2+3   e3+5   
+4.  E7+5   r9+1   5.  R1+1   r9.4   6.  R1.4   r4+3   
+7.  R4+3   h2+3   8.  A6+5   a4+5   9.  P3+1   p3+1   
+10. C2+2   p3+1   11. R4.7   p7+1   12. R7+3   h7+6   
+13. R7-3   p7.8   14. H3+2   h6+8   15. R7.2   }END
+
+
+FORMAT 	WXF
+GAME 	LIU Kuo Hua(W)LU George,47
+TIME       ;
+RESULT     1-0
+RED        LIU Kuo Hua ; IM ; China-Taipei
+BLACK      LU George ; NT ; Australia
+DATE       27-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  H8+7   p3+1   2.  C2.5   h8+7   3.  H2+3   r9.8   
+4.  R1+1   c8.9   5.  P3+1   r8+4   6.  C8+4   p7+1   
+7.  C8-1   h2+3   8.  P3+1   r8+2   9.  C8-4   r8.7   
+10. R1+1   r7-2   11. C8.3   r7.8   12. H3+4   r8.6   
+13. C3+8   a6+5   14. R9.8   r1.2   15. R8+4   e3+5   
+16. C5.4   h3+2   17. R8.6   p3+1   18. R6.7   h2-4   
+19. C4+3   h4+3   20. C4+3   c2-1   21. R1.3   h7+6   
+22. C4.8   e5-7   23. R3+7   a5-6   24. C8.1   }END
+
+
+FORMAT 	WXF
+GAME 	YU ZuWang(W)ÍÐÂÞÄÜ,120
+TIME       ;
+RESULT     1-0
+RED        YU ZuWang ; NT ; Malaysia East
+BLACK      ÍÐÂÞÄÜ ; NT ; NA
+DATE       27-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  C2.5   c8.5   2.  R1+1   h2+3   3.  H2+3   r1+1   
+4.  R1.6   c2+2   5.  R6+4   c2.1   6.  E7+9   r1.2   
+7.  H8+6   r9+1   8.  C5.6   p3+1   9.  R6.7   r9.4   
+10. A6+5   h3+2   11. R7+4   h2+1   12. P3+1   h8+7   
+13. R7-3   c1.5   14. E3+5   r2+6   15. H6+8   c++3   
+16. K5.6   r4+4   17. H8+7   h1-2   18. R9.8   c-.4   
+19. A5+4   c5.7   20. R8+5   c7.4   21. K6.5   a6+5   
+22. P3+1   p7+1   23. R8.3   e7+5   24. R3+1   c+.3   
+25. R7.6   r4.6   26. H7+8   c4.1   27. E9+7   c1.2   
+28. A4+5   r6+1   29. H8-6   c3+2   30. R6.8   c2.4   
+31. E7-5   c3.1   32. R8.9   c1.2   33. P7+1   r6.9   
+34. H6+5   c2-7   35. R9.8   c2.5   36. P7+1   r9.5   
+37. R8-4   c5.6   38. P7+1   h7-6   39. P7.6   c4.1   
+40. R3.1   p5+1   41. R1+3   p5+1   42. R8+2   c1+2   
+43. R1-4   c1+5   44. R8.9   c1-3   45. R1.5   r5.4   
+46. P6.5   p5+1   47. P5.4   c6.5   48. E5-7   c1.2   
+49. R9.8   c2.3   50. R5.4   p5.6   51. P4.5   c5.3   
+52. R8.7   c-.1   53. R7.9   c1.6   54. R9-1   r4.5   
+55. P5.6   c6.5   56. K5.4   p6+1   57. A5+4   c5.6   
+58. R9-1   h6+7   59. R4+1   h7+8   60. R4-1   h8+7   }END
+
+
+FORMAT 	WXF
+GAME 	Â·Ò×Å·(L)NG Wing Sang,84
+TIME       ;
+RESULT     0-1
+RED        Â·Ò×Å· ; NT ; NA
+BLACK      NG Wing Sang ; NT ; Holland
+DATE       26-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  C8.5   h8+7   2.  H8+7   p3+1   3.  P3+1   c2.4   
+4.  C2.4   h2+3   5.  H2+3   r1.2   6.  R9+1   a6+5   
+7.  R1.2   c8.9   8.  R2+6   e7+5   9.  R9.2   h3+4   
+10. R+.3   c9-1   11. R2+7   r9.7   12. E3+1   c4+1   
+13. R3+1   r7+2   14. R2.1   r7.6   15. A4+5   h4+3   
+16. C5+4   c4.3   17. E1-3   h3-4   18. E3+5   r6-2   
+19. P3+1   p3+1   20. P5+1   p3+1   21. P5+1   c3+4   
+22. C4.7   h4+2   23. C7.9   h2+4   24. P3.4   h4+3   
+25. K5.4   p3+1   26. H3+4   r2+6   27. A5+4   r2.6   
+28. A6+5   r+-1   29. C9+4   r+.2   30. R1-2   r6.8   
+31. R1.3   r2+4   32. K4+1   h3-5   33. R3-5   h5-4   
+34. C9-2   r2-3   35. P1+1   r2.1   36. C9.7   r1.8   
+37. P1+1   r++2   38. R3.2   r8+8   39. K4-1   r8+1   
+40. K4+1   h4+6   41. A5-6   h6+8   42. K4.5   r8-1   }END
+
+
+FORMAT 	WXF
+GAME 	Â·Ò×Å·(L)LEE Kah Kheng,60
+TIME       ;
+RESULT     0-1
+RED        Â·Ò×Å· ; NT ; NA
+BLACK      LEE Kah Kheng ; FM ; Mailaysia West
+DATE       22-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  C8.5   c2.5   2.  H8+7   h2+3   3.  R9.8   p3+1   
+4.  P3+1   r1+1   5.  H2+3   r1.6   6.  C2+4   h8+7   
+7.  R8+6   r9+1   8.  R8.7   c5-1   9.  C2-6   r6+3   
+10. H3+2   c5.3   11. R7.6   c8+7   12. R1.2   r6.4   
+13. R6-1   h3+4   14. H2+3   e3+5   15. R2+7   c3+1   
+16. P3+1   r9.6   17. C5+4   a4+5   18. C5-1   r6+6   
+19. E7+5   r6.7   20. C5.7   e5+3   21. R2.3   e3-5   
+22. R3+1   r7-3   23. H7-9   h4-6   24. R3.2   r7-1   
+25. P7+1   h6+4   26. P5+1   h4+3   27. P5+1   h3+1   
+28. R2-7   r7.4   29. A4+5   r4+5   30. H9-7   c3+7   }END
+
+
+FORMAT 	WXF
+GAME 	JIRAPARKDEEPAN Vithaya(D)KNG Ter Yong,144
+TIME       ;
+RESULT     0.5-0.5
+RED        JIRAPARKDEEPAN Vithaya ; FM ; Thailand
+BLACK      KNG Ter Yong ; FM ; Singapore
+DATE       23-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  C8.6   p3+1   2.  H8+9   h2+3   3.  R9.8   r1.2   
+4.  R8+6   p7+1   5.  H2+3   e7+5   6.  E3+5   h8+7   
+7.  A4+5   c8+1   8.  R8-2   c2.1   9.  R8.4   c8+1   
+10. P3+1   h3+4   11. R4.5   p7+1   12. R5.3   a6+5   
+13. R1.4   r9.6   14. R4+9   a5-6   15. P9+1   r2+1   
+16. H3+4   h4+5   17. R3+2   c8-4   18. C6+5   h5-6   
+19. C2.4   r2.4   20. C4+3   r4+1   21. R3+1   r4+3   
+22. R3-3   c1+3   23. C4.2   c1.6   24. C2-1   c8+1   
+25. C2.4   c8.1   26. H9-7   c1.3   27. H7+9   c3.1   
+28. C4-3   r4.7   29. E5+3   c1+6   30. E7+9   p5+1   
+31. A5-4   p5+1   32. C4.9   p5.4   33. C9+5   p4+1   
+34. C9.7   p9+1   35. E3-5   a6+5   36. A4+5   k5.6   
+37. A5+4   a5+4   38. C7.2   p4.3   39. C2-5   a4+5   
+40. C2.1   p+.4   41. C1+4   p4.5   42. P1+1   p5.4   
+43. C1.5   p4.5   44. P1+1   e3+1   45. P1+1   e1-3   
+46. P1.2   e3+1   47. P2.3   e1-3   48. P3.4   e3+1   
+49. P4.5   e1-3   50. P5.4   e3+1   51. C5.2   e1-3   
+52. C2-4   k6.5   53. C2.4   p5.4   54. C4.7   k5.6   
+55. K5.4   p4.5   56. E9+7   p5.4   57. C7+4   p4.5   
+58. C7.8   p5.4   59. C8+4   k6+1   60. P4.5   p4.5   
+61. P5.6   p5.4   62. P6.7   p4.5   63. P7+1   e3+1   
+64. C8-8   e1+3   65. C8.4   a5+6   66. C4+6   a4-5   
+67. C4-1   p5.6   68. A4-5   p6.5   69. E5-7   p5.4   
+70. A5+4   p4.5   71. C4.5   e5+7   72. C5.8   e3-5   }END
+
+
+FORMAT 	WXF
+GAME 	JIRAPARKDEEPAN Vithaya(W)LIU SuHing,111
+TIME       ;
+RESULT     1-0
+RED        JIRAPARKDEEPAN Vithaya ; FM ; Thailand
+BLACK      LIU SuHing ; NT ; United Kingdom
+DATE       24-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  C2.6   r9+1   2.  H2+3   r9.4   3.  H8+7   p3+1   
+4.  R1.2   h8+7   5.  A6+5   c8.9   6.  P3+1   r4+3   
+7.  C8.9   c2.4   8.  C6.4   h2+3   9.  E7+5   r4.6   
+10. R9.8   h3+4   11. R2+6   e7+5   12. R2.3   c9-1   
+13. R8+4   r6+2   14. H3+2   r6.8   15. R3.2   c9.3   
+16. P3+1   e5+7   17. R8+4   c3+2   18. R2+2   a4+5   
+19. H2+1   r8-3   20. R2-2   c3.8   21. H1-2   e7-5   
+22. P9+1   h4+3   23. R8-5   c4.3   24. C9+1   h3-4   
+25. H7+6   c8+1   26. R8+5   h4+6   27. H6+4   h7+6   
+28. H2+4   c8.7   29. C4.2   e5-7   30. P5+1   c3.8   
+31. H4+6   c7-3   32. R8-5   r1+2   33. C2+4   c8.7   
+34. R8.4   h6-7   35. A5-6   r1.4   36. R4.6   c+.5   
+37. C2.5   h7-6   38. C5-1   h6+5   39. C9+3   c7+2   
+40. C9.5   r4+1   41. R6+3   c7.4   42. P1+1   k5.4   
+43. C-+2   e3+5   44. P5+1   c4+3   45. P9+1   p3+1   
+46. P1+1   p3.4   47. P1.2   p4.5   48. C5-2   c4.5   
+49. A6+5   c5-2   50. P9.8   e7+9   51. C5+3   e9-7   
+52. C5-1   e7+5   53. P8+1   e5-7   54. P2.3   e7+5   
+55. P3.4   c5+1   56. P8.7   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG Gao Yang(W)LIN Sen-Rong,57
+TIME       ;
+RESULT     1-0
+RED        ZHANG Gao Yang ; NT ; Australia
+BLACK      LIN Sen-Rong ; NT ; Austria
+DATE       26-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p3+1   
+4.  H8+9   h2+3   5.  R9+1   a4+5   6.  P3+1   e3+5   
+7.  P7+1   r1.4   8.  C8.7   h3+2   9.  P7+1   e5+3   
+10. P9+1   h2+1   11. C7+1   c2+5   12. H3+4   r4+5   
+13. R9.8   h1+3   14. R8.7   c2.5   15. H4-5   h3-5   
+16. C7.8   r4-1   17. H9+7   r4.5   18. C8+6   c8+4   
+19. A6+5   h5-7   20. R7.6   c8.5   21. K5.6   a5+4   
+22. R2+9   h--8   23. R6+6   h8+9   24. R6+2   k5+1   
+25. R6-1   k5+1   26. H7+6   k5.6   27. H6+7   r5.8   
+28. C8-2   e3-5   29. H7+6   }END
+
+
+FORMAT 	WXF
+GAME 	LIN Sen-Rong(L)ÍÏÂÞÄÜ,137
+TIME       ;
+RESULT     0-1
+RED        LIN Sen-Rong ; NT ; Austria
+BLACK      ÍÏÂÞÄÜ ; NT ; NA
+DATE       25-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  C2.5   c8.5   2.  R1+1   h8+7   3.  H2+3   r9.8   
+4.  R1.6   c2.3   5.  R6+7   h2+1   6.  R6-1   c3+4   
+7.  R6-4   c5.3   8.  H8+9   c++1   9.  P3+1   r1.2   
+10. H3+4   e7+5   11. C8+1   r2+5   12. P5+1   r2.5   
+13. R6.4   a6+5   14. R9+1   r8.6   15. R9.4   c+-2   
+16. H4+3   r6+6   17. R4+2   r5.7   18. H3-4   c+.5   
+19. C8.5   c3+7   20. A6+5   c5+2   21. E3+5   c3-5   
+22. H4+6   p5+1   23. R4+5   r7.4   24. H9+7   h1-3   
+25. C5.3   h3+4   26. C3+3   p5+1   27. H6+4   h4-6   
+28. H7+5   c3.6   29. H5-3   r4.6   30. H3+2   h7-8   
+31. H4+6   a5+4   32. R4-1   r6+1   33. C3-2   a4+5   
+34. R4-1   p3+1   35. C3.2   r6.8   36. C2+5   r8-2   
+37. C2.1   c6.7   38. R4.9   p3+1   39. R9.3   k5.6   
+40. E5+7   r8+2   41. P9+1   r8.1   42. R3.4   k6.5   
+43. R4.3   k5.6   44. E7-5   r1-1   45. R3.4   k6.5   
+46. R4.1   c7.5   47. K5.6   r1.4   48. K6.5   r4.5   
+49. R1.2   k5.6   50. R2+3   k6+1   51. R2-6   c5+3   
+52. K5.6   r5.4   53. A5+6   r4+2   54. K6.5   c5-3   
+55. K5+1   r4.6   56. R2+2   c5-1   57. R2+1   c5.6   
+58. P1+1   c6+6   59. P1+1   a5+6   60. P1+1   r6-3   
+61. P1+1   k6.5   62. P1.2   r6.5   63. K5.4   e5-7   
+64. C1-7   r5.6   65. C1.4   c6-2   66. R2.5   e7+5   
+67. R5-4   c6.7   68. K4.5   c7-7   69. R5.3   }END
+
+
+FORMAT 	WXF
+GAME 	LU George(D)LIN JianZhi,71
+TIME       ;
+RESULT     0.5-0.5
+RED        LU George ; NT ; Australia
+BLACK      LIN JianZhi ; NT ; China-Taipei
+DATE       25-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  P7+1   h8+7   2.  P3+1   e3+5   3.  C2.3   h2+4   
+4.  E7+5   r9.8   5.  H2+1   r1.3   6.  R1+1   c8.9   
+7.  H8+7   r8+4   8.  R9+1   p3+1   9.  R9.6   h4+6   
+10. P7+1   r3+4   11. H1+3   r3-4   12. R6+6   r8+2   
+13. R6.8   r8.7   14. H7+6   h7-9   15. R1.4   a6+5   
+16. C3.2   r7.8   17. R8-1   c9+4   18. R8.5   h9+8   
+19. H6+4   h8+7   20. E5+3   r8+1   21. C8+2   c9.1   
+22. R5.9   c1.2   23. R4.8   r3+6   24. R9-3   r8-3   
+25. H4+6   r3.5   26. E3-5   c2.3   27. A6+5   r8.3   
+28. R8.6   e5-3   29. C8.5   k5.6   30. H6+4   r5-1   
+31. R6+2   c3+2   32. R9.7   r3+2   33. R6.7   c3.1   
+34. H4+2   k6.5   35. H2-3   r5.2   36. R7.9   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG ChuCheng(W)DING Wa Chong,133
+TIME       ;
+RESULT     1-0
+RED        JIANG ChuCheng ; NT ; NA
+BLACK      DING Wa Chong ; NT ; Holland
+DATE       25-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  P7+1   e3+5   2.  C8.5   h2+3   3.  H8+7   r1.2   
+4.  R9.8   c8.6   5.  H2+3   p7+1   6.  R1.2   h8+7   
+7.  P5+1   r9.8   8.  C2+4   c6+5   9.  C2.7   r8+9   
+10. H3-2   c2+4   11. C5+1   h7+6   12. R8+1   h6+7   
+13. P7+1   c6-2   14. C7.6   c2.3   15. R8+8   c3+3   
+16. K5+1   h3-2   17. C5+3   a4+5   18. P5+1   h2+3   
+19. H7-9   c3.6   20. H2+3   h3+5   21. H3-4   h5-7   
+22. H4+5   h++5   23. E3+5   h7+8   24. H9+7   h8+9   
+25. C6.5   h9+7   26. K5-1   k5.4   27. P7+1   p1+1   
+28. H7+8   c6.8   29. H8+9   c8-4   30. C5.2   h7-6   
+31. H9+7   k4.5   32. P7.6   h6+5   33. P5+1   h5-4   
+34. H7-6   a5+6   35. P5.4   a6+5   36. P6.5   e5+3   
+37. P4.3   p7+1   38. P5.4   e7+5   39. P3+1   h4-6   
+40. C2+1   p7+1   41. P3.4   a5+6   42. P4+1   c8.5   
+43. A6+5   e5-3   44. K5.4   p7+1   45. P4+1   c5+1   
+46. H6+4   c5.6   47. K4.5   e3+5   48. K5.6   h6+8   
+49. C2+2   h8-7   50. C2.4   h7-8   51. C4-2   h8+6   
+52. K6+1   e5-3   53. A5+6   p7.6   54. H4+6   h6-4   
+55. H6-7   p6.5   56. H7+6   p9+1   57. H6-4   h4+5   
+58. P4.5   k5.4   59. H4-5   h5-3   60. P5.4   p9+1   
+61. K6-1   p9.8   62. K6.5   p8.7   63. A6-5   k4.5   
+64. A5-4   p7.6   65. H5+6   p6+1   66. K5.6   p6+1   
+67. H6+7   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG QingMing(W)YAN Dot San,205
+TIME       ;
+RESULT     1-0
+RED        JIANG QingMing ; NT ; Burna
+BLACK      YAN Dot San ; FM ; USA-San Francisco
+DATE       25-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  C8.5   h2+3   2.  H8+7   r1.2   3.  R9+1   c2.1   
+4.  R9.4   h8+7   5.  H2+3   a6+5   6.  P5+1   e7+5   
+7.  H3+5   p3+1   8.  P5+1   p5+1   9.  R4+5   p5+1   
+10. C5+2   h3+4   11. C5+1   h4+5   12. H7+5   r9.6   
+13. R4.3   r6+6   14. C2+1   r6-1   15. H5+3   c8-1   
+16. E3+5   r6-1   17. R3.4   r2+5   18. P7+1   p3+1   
+19. A4+5   c8.6   20. R1.2   r6-1   21. H3+4   r2-1   
+22. C5-2   r2.6   23. H4+3   p3.4   24. C2+5   p4.5   
+25. C5.8   k5.6   26. C2.4   k6+1   27. P3+1   c1+4   
+28. C8.3   r6-2   29. C3-3   a5+4   30. C3.4   k6.5   
+31. R2+6   r6-1   32. R2.9   k5-1   33. R9-3   r6.7   
+34. C4.3   p5.6   35. R9+3   p6.7   36. E5+3   p9+1   
+37. R9.3   p9+1   38. P1+1   r7.9   39. R3+1   r9+4   
+40. C3+2   a4-5   41. C3.5   r9-5   42. R3-1   r9.8   
+43. R3.4   r8+9   44. A5-4   r8-2   45. C5+2   r8-1   
+46. E3-5   r8-2   47. C5.1   r8.9   48. C1.2   r9.8   
+49. C2.1   r8-4   50. E5-3   r8.9   51. C1.2   r9.8   
+52. C2.1   r8+5   53. C1+1   r8.9   54. C1.2   r9.8   
+55. C2.1   r8.7   56. E7+5   r7.9   57. C1.2   r9.8   
+58. C2.1   r8.9   59. C1.2   r9-1   60. C2-1   r9.8   
+61. C2.1   r8.9   62. C1.2   r9+1   63. C2+5   r9-5   
+64. C2-5   r9+4   65. A4+5   r9-4   66. C2.5   r9.8   
+67. K5.4   r8.9   68. E5+3   r9.7   69. C5-2   r7.8   
+70. C5+2   r8.7   71. E3+1   r7.8   72. C5-2   r8+9   
+73. K4+1   r8-1   74. K4-1   r8+1   75. K4+1   r8-1   
+76. K4-1   r8+1   77. K4+1   r8-9   78. R4.7   r8+6   
+79. R7+3   r8.6   80. A5+4   k5.6   81. R7-3   r6+1   
+82. K4.5   e5+7   83. K5.6   r6-5   84. A6+5   r6.4   
+85. A5+6   a5+6   86. R7.4   k6+1   87. C5.4   k6.5   
+88. C4+5   k5.4   89. R4-4   a4+5   90. C4+1   k4-1   
+91. R4.2   e7-9   92. C4-8   a5-6   93. K6.5   r4.5   
+94. K5.4   k4.5   95. E3-5   r5.7   96. C4.5   a6+5   
+97. R2.4   k5.4   98. C5+8   k4+1   99. C5-4   r7+4   
+100. C5.7   r7+2   101. K4-1   r7.4   102. E5-3   r4+1   
+103. K4+1   }END
+
+
+FORMAT 	WXF
+GAME 	MOU HaiQin(L)ÓàµÂÃ÷,51
+TIME       ;
+RESULT     0-1
+RED        MOU HaiQin ; FM ; USA-New York
+BLACK      ÓàµÂÃ÷ ; NT ; Thailand
+DATE       27-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  P7+1   h8+7   2.  H8+7   p7+1   3.  C8.9   c2.5   
+4.  R9.8   h2+3   5.  H2+3   p5+1   6.  E3+5   r9+1   
+7.  A4+5   r9.6   8.  C2.1   h7+5   9.  R1.2   c8.7   
+10. H7+6   p5+1   11. H6+5   h3+5   12. P5+1   c5+3   
+13. R8+3   c7.5   14. R2+6   h5+6   15. R8.4   r1+1   
+16. C1-1   c+-1   17. R2-2   h6-4   18. R4.6   h4+2   
+19. R6.8   r1.4   20. R2+2   r4+4   21. R2.5   r4.5   
+22. R8.5   r5+1   23. H3+5   c++3   24. E7+5   h2+1   
+25. E5-7   r6+7   26. H5-4   }END
+
+
+FORMAT 	WXF
+GAME 	LEE Michuel(D)LEE Kah Kheng,59
+TIME       ;
+RESULT     0.5-0.5
+RED        LEE Michuel ; NT ; USA-San Francisco
+BLACK      LEE Kah Kheng ; FM ; Mailaysia West
+DATE       26-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   r9+1   
+4.  R1.2   r9.2   5.  H8+7   h2+4   6.  C8.9   h8+9   
+7.  H7+6   a4+5   8.  C9.6   p9+1   9.  A6+5   r1+1   
+10. C6-2   r2+4   11. C5.6   h4+2   12. E7+5   p3+1   
+13. H6+5   p3+1   14. R2+4   r2-1   15. H5+7   c8.3   
+16. E5+7   p1+1   17. R9+2   r2+5   18. R2.6   r1+2   
+19. P3+1   h9+8   20. R6+1   h8-6   21. R6.4   c3.4   
+22. H3+4   p7+1   23. P3+1   h6-8   24. H4-2   r1.5   
+25. H2-4   r5+3   26. R4.6   c4+5   27. R9.6   h8+7   
+28. R-+1   r2-3   29. R-.8   r5.2   30. R6-2   }END
+
+
+FORMAT 	WXF
+GAME 	MOU HaiQin(W)LU George,67
+TIME       ;
+RESULT     1-0
+RED        MOU HaiQin ; FM ; USA-New York
+BLACK      LU George ; NT ; Australia
+DATE       25-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   r9+1   
+4.  R1.2   p3+1   5.  H8+9   p3+1   6.  R2+4   r9.4   
+7.  R2.7   r4+2   8.  P9+1   p1+1   9.  H9+8   p1+1   
+10. C8+7   r1.2   11. R9+4   p9+1   12. A6+5   h8+9   
+13. C5.8   r2.3   14. E7+5   a4+5   15. R9+1   c8.7   
+16. P3+1   r3.4   17. H3+4   r++2   18. R7.6   r4+5   
+19. H8+6   p5+1   20. H4+5   c3.2   21. H5+3   c2.7   
+22. P5+1   h9+8   23. P5+1   h8+6   24. H6+8   a5-4   
+25. R9-1   r4-2   26. H8+7   r4-2   27. R9.7   e5+3   
+28. R7+1   c7.2   29. R7-2   a6+5   30. C8.9   k5.6   
+31. C9+7   k6+1   32. C9-1   c2-1   33. R7.4   r4+4   
+34. H7-5   }END
+
+
+FORMAT 	WXF
+GAME 	YAN Dot San(D)LIN YaoSen,225
+TIME       ;
+RESULT     0.5-0.5
+RED        YAN Dot San ; FM ; USA-San Francisco
+BLACK      LIN YaoSen ; NT ; Singapore
+DATE       22-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  C8.5   c2.5   2.  R9+1   h2+3   3.  H8+7   r1.2   
+4.  R9.4   a4+5   5.  P3+1   h8+9   6.  H2+3   c8.6   
+7.  H3+2   r2+5   8.  E3+1   p3+1   9.  R4+4   p3+1   
+10. P7+1   r2.3   11. A4+5   r3+1   12. R1.3   c5.4   
+13. C5+4   c4.5   14. C5.1   h9-7   15. R3+2   c5.4   
+16. C1-2   h7+5   17. R4.5   c6+3   18. P3+1   c6.9   
+19. P1+1   r9+5   20. C2+1   c4+4   21. C2.6   r9.8   
+22. C6+3   h5+4   23. P3+1   h4+2   24. H7-8   r3+3   
+25. R3.6   r3.2   26. R5.7   r2-3   27. C6.5   e7+5   
+28. R7+2   r8+4   29. A5-4   r2.5   30. A6+5   r5-3   
+31. R6+6   a5-4   32. R7+2   a6+5   33. R7-5   h2-3   
+34. R6.7   h3+1   35. R-.3   r8-3   36. P9+1   r8.1   
+37. R7-8   h1-3   38. P3+1   p1+1   39. P9+1   h3+1   
+40. R3-2   h1+2   41. R3.8   h2-3   42. P3+1   r1.7   
+43. P3.4   r7.6   44. P4.5   k5+1   45. R7.6   h3+4   
+46. R8+6   k5-1   47. R6+2   r5.3   48. K5.6   r3+3   
+49. R8.6   a4+5   50. E1-3   r3.2   51. R-.2   r2+3   
+52. K6+1   h4+2   53. K6+1   r6.4   54. R6-5   h2-4   
+55. R2+7   a5-6   56. R2-2   r2-7   57. R2-4   r2+5   
+58. K6-1   r2+1   59. K6-1   r2+1   60. K6+1   r2-1   
+61. K6-1   h4+2   62. K6.5   r2.3   63. R2.8   h2+4   
+64. K5.6   h4-3   65. K6.5   e5-3   66. E3+5   r3-1   
+67. A5+6   a6+5   68. E5-3   r3+2   69. K5+1   h3-4   
+70. R8.6   h4+2   71. R6.3   e3+5   72. K5.4   r3-5   
+73. A4+5   r3.6   74. A5+4   h2-3   75. A6-5   h3+4   
+76. K4-1   r6.2   77. R3.6   h4-5   78. K4.5   r2.5   
+79. R6.3   h5+3   80. R3.7   r5+1   81. R7.4   a5-6   
+82. R4.7   k5+1   83. R7.4   r5.2   84. R4.7   r2.4   
+85. R7.5   h3+4   86. A5+6   k5.4   87. A4-5   e5+7   
+88. E3+1   a6+5   89. R5+2   e7-9   90. R5-2   a5+4   
+91. E1-3   r4-1   92. E3+5   e9-7   93. E5-3   h4-3   
+94. E3+5   r4.8   95. E5-7   r8+1   96. E7+5   h3+1   
+97. R5.9   e7+5   98. R9.5   h1-3   99. E5-7   h3+5   
+100. E7+5   h5-7   101. E5-7   k4.5   102. E7+5   k5.6   
+103. A5-4   r8.1   104. A4+5   r1.4   105. R5+4   r4.8   
+106. K5.6   r8+4   107. K6+1   a4-5   108. R5-2   h7+9   
+109. R5-2   r8.2   110. R5.2   r2-6   111. R2+1   h9-8   
+112. R2.4   a5+6   113. K6-1   }END
+
+
+FORMAT 	WXF
+GAME 	RUAN You(D)JIANG ChuCheng,37
+TIME       ;
+RESULT     0.5-0.5
+RED        RUAN You ; NT ; USA-Los Angeles
+BLACK      JIANG ChuCheng ; NT ; NA
+DATE       27-8-1999
+PLACE      Fanyu
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  H2+3   h2+3   2.  P3+1   p3+1   3.  H8+7   h8+7   
+4.  C2.1   h3+2   5.  C8+5   c8.2   6.  R9+1   r9.8   
+7.  R1.2   r8+9   8.  H3-2   e3+5   9.  E3+5   a4+5   
+10. R9.6   r1.4   11. R6+8   a5-4   12. H2+3   p7+1   
+13. P3+1   e5+7   14. H3+2   c2.1   15. H2+1   h7+9   
+16. C1+4   h2+1   17. H7+9   c1+4   18. C1.9   c1.5   
+19. A4+5   }END
+
+
+FORMAT 	WXF
+GAME 	RUAN You(L)HII Kong Ming,80
+TIME       ;
+RESULT     0-1
+RED        RUAN You ; NT ; USA-Los Angeles
+BLACK      HII Kong Ming ; NT ; Malaysia East
+DATE       25-8-1999
+PLACE      Fanyu
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8+4   e7+5   
+7.  C8.7   r1+3   8.  R9.8   r1.3   9.  R8+7   c8.9   
+10. R2+9   h7-8   11. R8+1   a4+5   12. R8-7   c9.6   
+13. R8.2   h8+9   14. H3+4   e5-7   15. C5.3   e3+5   
+16. R2+6   c6+2   17. R2+1   r3.4   18. R2.4   c6-2   
+19. C3.5   p9+1   20. A4+5   r4+2   21. H4+5   r4.7   
+22. E3+1   r7+1   23. H5-7   r7.5   24. H7+8   h3+4   
+25. H8-6   h4+6   26. H6-7   r5-3   27. E1+3   p7+1   
+28. R4.2   p7+1   29. R2-5   h6+5   30. E7+5   r5+4   
+31. H9-8   r5-4   32. H8+6   e5+3   33. R2.5   r5.8   
+34. R5+2   c6.5   35. H6+5   h9+7   36. R5+1   p7+1   
+37. A5-4   p7.6   38. A6+5   p6.5   39. H7-5   r8.9   
+40. R5-2   h7-6   }END
+
+
+FORMAT 	WXF
+GAME 	JOUNI Tolonen(L)MA ZhongWei,54
+TIME       ;
+RESULT     0-1
+RED        JOUNI Tolonen ; NT  ; Finland
+BLACK      MA ZhongWei ; CM ; China-Taipei
+DATE       22-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  C2.5   h2+3   2.  P3+1   h8+9   3.  H2+3   r9+1   
+4.  R1.2   c8.6   5.  H3+4   c6+7   6.  E3+1   c6.4   
+7.  K5.6   r9.4   8.  K6.5   r4+6   9.  C8+2   a4+5   
+10. C8.7   e3+5   11. R9+2   r4-2   12. R9.8   c2+7   
+13. R8-2   r1.4   14. E7+9   h3-1   15. H4+5   r++2   
+16. C7.5   h1-3   17. R2.4   r-+3   18. H5+3   k5.4   
+19. R4+8   h3+2   20. H3+5   a6+5   21. R4.5   r++2   
+22. R8.6   r4+6   23. K5+1   r4-1   24. K5-1   r4-2   
+25. E1-3   r4.5   26. C+.4   h2+3   27. R5+1   k4.5   }END
+
+
+FORMAT 	WXF
+GAME 	ÍÐÂÞÄÜ(L)LIU SuHing,80
+TIME       ;
+RESULT     0-1
+RED        ÍÐÂÞÄÜ ; NT ; NA
+BLACK      LIU SuHing ; NT ; United Kingdom
+DATE       26-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  E3+5   c8.5   2.  H2+3   h8+7   3.  C2.1   r9.8   
+4.  H8+7   h2+3   5.  P7+1   r8+4   6.  R9+1   p3+1   
+7.  R1.2   r8.4   8.  R2+4   c5.4   9.  P7+1   r4.3   
+10. H7+6   e3+5   11. P3+1   c2+3   12. H6-8   r3+2   
+13. C8+2   r3.2   14. C8.7   h3+4   15. C1-1   r2.4   
+16. A4+5   r1.3   17. C7.4   r4-1   18. C4-4   r4.2   
+19. R2+2   h4+6   20. H3+4   r2.6   21. R2.3   r3+6   
+22. R9.6   a4+5   23. C1.3   r6+3   24. C3+1   r3.5   
+25. R6+5   r5.1   26. C3.4   p1+1   27. R3.4   h7+8   
+28. R4+2   h8+7   29. R4.2   h7+8   30. R2-6   r1.9   
+31. R6.5   c4+4   32. R5.2   h8-6   33. R-.4   r6-1   
+34. A5+4   c4.5   35. A6+5   p1+1   36. R2.6   c5.2   
+37. K5.6   c2+3   38. K6+1   c2-9   39. K6-1   p1+1   
+40. C4.2   c2+9   }END
+
+
+FORMAT 	WXF
+GAME 	NG Wing Sang(W)LIU SuHing,127
+TIME       ;
+RESULT     1-0
+RED        NG Wing Sang ; NT ; Holland
+BLACK      LIU SuHing ; NT ; United Kingdom
+DATE       27-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  R9+1   c8.9   
+4.  P3+1   p7+1   5.  R9.3   e7+5   6.  R3+3   c9-1   
+7.  E3+5   h2+1   8.  H7+8   c2.4   9.  A4+5   r1+1   
+10. H2+3   c9.7   11. R3.6   c7+6   12. C8.3   r9.8   
+13. R6+3   r8+7   14. R1.3   h7+6   15. H8-7   r1.8   
+16. R6-2   r-.7   17. C3+2   r7+3   18. P9+1   a6+5   
+19. R3.4   r8-3   20. R4+4   h6-7   21. R6.3   r8.7   
+22. C3-4   h7+8   23. R4.2   p1+1   24. H7+6   p1+1   
+25. H6+5   r7.5   26. H5+7   h1+2   27. H7+9   e3+1   
+28. P5+1   r5.6   29. C3.2   h8-7   30. C2.3   h7+8   
+31. C3.1   h2-4   32. C1+6   h4-6   33. P1+1   h8-9   
+34. R2+3   e5-7   35. C1.5   k5.6   36. H9-7   e1-3   
+37. R2.3   e3+5   38. R3-3   p1.2   39. C5.1   p2.3   
+40. E5+7   h6+7   41. C1.2   h7-6   42. C2-6   p3+1   
+43. E7-5   k6.5   44. H7-9   r6.7   45. R3.2   h9+7   
+46. R2-1   r7.6   47. R2.3   h7-9   48. R3+1   r6.7   
+49. R3.4   h9+8   50. R4.2   h8-9   51. H9-8   r7.6   
+52. H8+7   e5-3   53. C2.4   h9+7   54. R2.3   h7-5   
+55. H7-9   r6.7   56. R3.2   e3+1   57. C4+6   h5+6   
+58. R2.4   h--4   59. C4.5   k5.6   60. H9-8   e7+5   
+61. H8-6   r7.8   62. E7+9   h4+2   63. E5-7   h2-3   
+64. C5-1   }END
+
+
+FORMAT 	WXF
+GAME 	DING Wa Chong(D)YU ZuWang,92
+TIME       ;
+RESULT     0.5-0.5
+RED        DING Wa Chong ; NT ; Holland
+BLACK      YU ZuWang ; NT ; Malaysia East
+DATE       26-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  H2+3   p7+1   2.  P7+1   h8+7   3.  E3+5   e3+5   
+4.  C8.6   h2+4   5.  H8+7   h7+8   6.  C2+5   c2.8   
+7.  H7+6   r9+1   8.  R9.8   r1.2   9.  R8+9   h4-2   
+10. H6+5   r9.4   11. A4+5   r4+2   12. H5-4   h8+7   
+13. R1.2   c8.7   14. R2+7   h7-6   15. H3+2   p7+1   
+16. E5+3   r4+2   17. H2+1   r4.6   18. H1+3   h6-7   
+19. R2.3   r6.3   20. R3-1   h2+1   21. C6+4   r3+1   
+22. R3.5   p1+1   23. R5-1   r3-2   24. C6.5   a4+5   
+25. R5-1   h1+2   26. P9+1   h2-3   27. C5.2   r3.8   
+28. C2.3   r8-1   29. C3+2   p1+1   30. R5.9   r8+3   
+31. P5+1   r8.9   32. P5+1   r9-2   33. R9.5   p3+1   
+34. E3-5   r9.7   35. C3.2   h3+2   36. R5-1   h2-3   
+37. C2-4   r7-1   38. C2.5   r7+1   39. C5.9   r7-1   
+40. R5.8   r7.1   41. C9-2   r1+1   42. R8+4   p3+1   
+43. R8.7   r1.5   44. C9+7   r5.1   45. R7+2   a5-4   
+46. R7.8   r1-4   }END
+
+
+FORMAT 	WXF
+GAME 	DING Wa Chong(W)Â·Ò×Å·,45
+TIME       ;
+RESULT     1-0
+RED        DING Wa Chong ; NT ; Holland
+BLACK      Â·Ò×Å· ; NT ; NA
+DATE       27-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  H2+3   h2+3   2.  E3+5   e7+5   3.  P7+1   p7+1   
+4.  H8+7   h8+7   5.  H7+6   p3+1   6.  P7+1   e5+3   
+7.  C8.6   r1.2   8.  R9.8   r9+1   9.  C2.1   h7+8   
+10. A4+5   h8+7   11. R8+4   h7+9   12. R1+2   r2+1   
+13. R1.2   r9.8   14. R8.7   e3+5   15. H6+4   c8.6   
+16. R2+6   r2.8   17. H4+6   c2.1   18. R7+1   c1+4   
+19. R7.4   c6.7   20. R4+2   c7+5   21. R4.5   a4+5   
+22. H6+7   k5.4   23. R5.6   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN LuoPing(D)WANG JingYuan,76
+TIME       ;
+RESULT     0.5-0.5
+RED        CHEN LuoPing ; NT ; Philippines
+BLACK      WANG JingYuan ; NT ; Canada-Calgary
+DATE       27-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  C2.5   c8.5   2.  R1+1   h8+7   3.  H2+3   r9.8   
+4.  R1.6   h2+3   5.  H8+7   r8+4   6.  P3+1   p3+1   
+7.  R9+1   a4+5   8.  R6+5   e3+1   9.  R6.7   r1.3   
+10. R9.6   c2+2   11. H3+4   r8.6   12. R6+3   p5+1   
+13. H4+6   c2.4   14. R6+1   r6-1   15. R6+1   r6.4   
+16. R7.6   h3+5   17. C8+4   r3.4   18. R6.7   r4.3   
+19. R7+3   e1-3   20. C8.3   e7+9   21. C3.9   p5+1   
+22. C5+2   h5+4   23. H7-5   h7+6   24. H5+4   h6+5   
+25. E3+5   h4-2   26. A4+5   h2+3   27. C5+1   k5.4   
+28. C9.2   h3+4   29. C2+3   k4+1   30. C2-6   p3+1   
+31. E5+7   h5-3   32. H4+6   h4-2   33. K5.4   k4-1   
+34. E7+9   h3+1   35. P3+1   c5.3   36. P3+1   c3.1   
+37. C5-3   c1+2   38. C5.6   k4.5   }END
+
+
+FORMAT 	WXF
+GAME 	DAO Cao Khoa(D)NGUYEN Huu Phuc,42
+TIME       ;
+RESULT     0.5-0.5
+RED        DAO Cao Khoa ; NT ; Vietnam
+BLACK      NGUYEN Huu Phuc ; NT ; Canada-Toronto
+DATE       27-8-1999
+PLACE      
+EVENT      "Forshang cup" world Championship ; 1999
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   c8.9   
+4.  H8+7   h2+3   5.  P3+1   r1+1   6.  C8.9   r1.4   
+7.  R9.8   c2.1   8.  H3+4   r8+4   9.  H4+3   c9.8   
+10. C5.4   p3+1   11. R8+4   p3+1   12. R8.7   c1-1   
+13. E3+5   c1.3   14. R7.6   r4+4   15. H7+6   e7+5   
+16. C9.6   p1+1   17. A4+5   c3.7   18. H3-4   c7.8   
+19. R1.4   r8+5   20. R4.2   c-+8   21. H4+3   a6+5   }END
+
