@@ -1,4 +1,4 @@
-
+#print(self.board[i][j], end= ' ')
 # coding: utf-8
 
 # In[1]:
@@ -3396,7 +3396,7 @@ class Engine(Board):
     def Display(self):
         for i in range(len(self.board)):
             for j in range(len(self.board[i])):
-                print(self.board[i][j], end= ' ')
+                print(self.board[i][j], end=' ')
                 
             print()
     
