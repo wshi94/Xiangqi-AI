@@ -1,0 +1,2730 @@
+
+
+FORMAT 	WXF
+GAME 	DAO Cao Khoa(W)CHEN Song,55
+TIME       ;
+RESULT     1-0
+RED        DAO Cao Khoa ; NT ; Vietnam ; ÌÕ¸ß¿Æ , ³³°ª¬ì
+BLACK      CHEN Song ; NT ; NA ; ³ÂËÉ , ³¯ªQ
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   h7+6   6.  P7+1   r1+1   
+7.  R2.4   h6+7   8.  H7+6   h7+5   9.  E7+5   r1.4   
+10. H6+7   r4+6   11. R9+2   c8.5   12. C8.7   r4-4   
+13. R9.8   a4+5   14. A6+5   p7+1   15. R4.3   r8+4   
+16. R3-2   c2+2   17. R3.6   r4+2   18. H7-6   h3-1   
+19. P7+1   c2-1   20. P7+1   r8.4   21. R8+2   c5.2   
+22. R8.7   c++6   23. R7.8   c+.1   24. R8+3   r4+1   
+25. R8+1   e7+5   26. R8.9   r4.2   27. K5.6   p1+1   
+28. R9.6   }END
+
+
+FORMAT 	WXF
+GAME 	HOR Weng Yeow(W)LING Lee Kiong,223
+TIME       ;
+RESULT     1-0
+RED        HOR Weng Yeow ; IM ; Mailaysia West ; ºÎÈÙÒ« , ¦óºaÄ£
+BLACK      LING Lee Kiong ; NT ; Malaysia East ; ÁÖÀûÇ¿ , ÁÖÀûÇ¿
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  P7+1   c8.4   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  C2+4   p7+1   5.  C2.3   e3+5   6.  R2+9   h7-8   
+7.  C8.5   h8+7   8.  H8+7   h2+4   9.  R9.8   c2.3   
+10. R8+8   h4+2   11. C3.7   h2+1   12. R8-3   c4+2   
+13. P9+1   e5+3   14. R8+2   h1-3   15. R8.7   h3-5   
+16. R7-2   c4+3   17. H3-5   a4+5   18. R7.3   c4-5   
+19. H7+6   r1.3   20. R3.7   r3+4   21. P7+1   h7+8   
+22. P3+1   h8+9   23. E3+1   c4.1   24. C5+4   k5.4   
+25. H6+8   c1+3   26. H8+7   k4+1   27. P3+1   c1.8   
+28. H5+4   c8+4   29. A4+5   e7+9   30. H7-9   e9+7   
+31. H4+3   h9+7   32. H9+8   a5+6   33. C5.9   h7-5   
+34. C9+2   h--3   35. C9.7   k4.5   36. E7+5   h5+7   
+37. H3+1   h7-6   38. E1+3   c8-6   39. H8-9   k5-1   
+40. H9-8   c8.2   41. H1-3   a6+5   42. C7-2   k5.4   
+43. C7.6   k4.5   44. C6-2   h6-7   45. C6.5   k5.6   
+46. H3+1   c2.9   47. H8-6   a5+4   48. C5-1   c9-2   
+49. H6+8   a6-5   50. P7.6   h7+9   51. A5+6   h9+8   
+52. A6+5   h8+7   53. K5.6   a5-4   54. P6+1   a4+5   
+55. H8+6   h7-6   56. H6-4   c9+3   57. A5+4   c9.6   
+58. E3-1   h6-8   59. A6-5   c6.1   60. E1+3   c1.6   
+61. C5.3   k6.5   62. P6.5   k5.6   63. P5.4   k6+1   
+64. C3.2   k6-1   65. H4-3   h8-9   66. H3+4   h9-7   
+67. H4+6   c6+2   68. C2+3   h7+8   69. C2.3   c6.7   
+70. E3-1   c7.2   71. C3-1   c2-5   72. H6-4   c2+3   
+73. P4.3   h8+7   74. E1+3   h7-5   75. C3.5   c2.4   
+76. K6.5   c4-1   77. E3-1   c4.1   78. H4+2   c1-1   
+79. H2+4   h5+7   80. E5+3   c1-1   81. A5+6   c1.4   
+82. C5.4   k6.5   83. H4+6   h7-5   84. H6-8   h5+6   
+85. K5.4   h6-4   86. C4-4   c4+6   87. H8+7   k5.6   
+88. C4+4   k6+1   89. P3.4   a5+6   90. E3-5   c4+1   
+91. K4+1   c4+1   92. E1+3   c4-1   93. C4+2   h4-5   
+94. C4.9   c4-8   95. C9+1   k6-1   96. H7-5   k6.5   
+97. P4.5   c4+1   98. H5+7   k5.4   99. C9-8   h5+6   
+100. K4-1   h6-4   101. P5+1   c4.6   102. K4.5   h4-6   
+103. P5.6   c6.5   104. K5.4   c5.6   105. K4.5   c6.5   
+106. K5.4   c5.4   107. P6+1   k4+1   108. K4.5   h6-5   
+109. H7-6   h5+4   110. C9.6   k4-1   111. E5+7   k4+1   
+112. H6+8   }END
+
+
+FORMAT 	WXF
+GAME 	ÕÅ¾´ºÍ(D)WONG Hok Him,24
+TIME       ;
+RESULT     0.5-0.5
+RED        ÕÅ¾´ºÍ ; NT ; NA ; ÕÅ¾´ºÍ , ÕÅ¾´ºÍ
+BLACK      WONG Hok Him ; NT ; China-Hong Kong ; »ÆÑ§Ç« , ¶À¾ÇÁ¾
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  A4+5   p7+1   2.  P7+1   h8+7   3.  H2+3   e7+5   
+4.  E3+5   h2+1   5.  H8+7   r1+1   6.  R1.4   c8.9   
+7.  C2+2   r9.8   8.  C2.1   c9.8   9.  C1.2   c8.9   
+10. C2.1   c9.8   11. C1.2   c8.9   12. C2.1   c9.8   }END
+
+
+FORMAT 	WXF
+GAME 	LAI Han Soon(L)XIE Jing,40
+TIME       ;
+RESULT     0-1
+RED        LAI Han Soon ; NT ; Singapore ; ÀµººË³ , ¿àº~¶¶
+BLACK      XIE Jing ; NT ; China-Shanghai ; Ð»¾¸ , ÁÂ¹t
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1+1   r9.8   
+4.  R1.6   r8+4   5.  H8+7   a6+5   6.  P3+1   h2+3   
+7.  H3+4   p3+1   8.  C8+4   r8.6   9.  R6+3   p5+1   
+10. H4-3   h3+2   11. P7+1   p3+1   12. R6.7   r6-1   
+13. R7+1   r6.2   14. H7+6   e3+1   15. A6+5   r1.2   
+16. H6+8   c2+2   17. C5.8   c2.1   18. C8+7   r2-3   
+19. R7.9   p1+1   20. P9+1   r2+5   }END
+
+
+FORMAT 	WXF
+GAME 	LAU VengTak(L)WU Kui Lin,72
+TIME       ;
+RESULT     0-1
+RED        LAU VengTak ; FM ; China-Macau ; ÁõÓÀµÂ , ¼B¥Ã¼w
+
+BLACK      WU Kui Lin ; IGM ; China-Taipei ; Îâ¹óÁÙ , §d¶QÁ{
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  H8+7   p3+1   2.  C2.5   h8+7   3.  H2+3   r9.8   
+4.  R1+1   h2+3   5.  R1.6   r1+1   6.  P5+1   r1.6   
+7.  P5+1   a6+5   8.  H7+5   p5+1   9.  P7+1   h3+5   
+10. C5+3   c2.5   11. C8.5   r6+5   12. R6+5   c5+2   
+13. C5+3   c8+2   14. P3+1   c8+2   15. H5-6   c8.7   
+16. E3+1   p3+1   17. R9+2   r8+4   18. C5-2   p3.4   
+19. P1+1   r8.3   20. C5.3   r6.7   21. H3+5   p4.5   
+22. R9.7   r3.5   23. H5-4   r7+2   24. R7.4   p5.6   
+25. A6+5   r5.8   26. H6+5   r8+2   27. H5+4   p6+1   
+28. R6-3   p6+1   29. R6.2   p6+1   30. R2+3   p6+1   
+31. A5-4   r7.6   32. H4+3   h5-7   33. R2.3   r6-6   
+34. E7+5   r6.5   35. E1-3   h7+5   36. R3.1   h5+3   }END
+
+
+FORMAT 	WXF
+GAME 	LEUNG TatMan(W)Tjai Tjie Kiang,67
+TIME       ;
+RESULT     1-0
+RED        LEUNG TatMan ; NT ; China-Hong Kong ; Áº´ïÃñ , ±ç¹F¥Á
+BLACK      Tjai Tjie Kiang ; NT ; Indonesia ; ²ÌÖ¾Ç¿ , ½²§Ó±j
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  C2.5   h2+3   
+4.  H2+3   r9.8   5.  R1+1   h7+8   6.  H7+6   e7+5   
+7.  C8.7   c2-1   8.  R9.8   c2.7   9.  R1.4   r1+1   
+10. H6+5   h8+7   11. H5+3   c8+3   12. R8+7   c8.7   
+13. H+-4   h7+5   14. E3+1   h3+5   15. E7+5   r1.6   
+16. R8-6   c+.6   17. H4+6   c7+6   18. C7.3   r8+7   
+19. R4+1   r8.9   20. P5+1   r9-1   21. P5+1   r9.5   
+22. P5+1   r5-3   23. R8.6   p7+1   24. A4+5   p7+1   
+25. C3.2   c6+1   26. C2+7   a6+5   27. H6+7   k5.6   
+28. C2-9   r6+2   29. R6+2   p9+1   30. E5-7   p9+1   
+31. R4.5   r5+4   32. E7+5   r6.5   33. C2.4   c6.5   
+34. R6+1   }END
+
+
+FORMAT 	WXF
+GAME 	LUM Tek Sim(L)YAMAZAKI Hideo,70
+TIME       ;
+RESULT     0-1
+RED        LUM Tek Sim ; NT ; Brunei ; ÁÖµÂÐÇ , ªL¼w¬P
+BLACK      YAMAZAKI Hideo ; NT ; Japan ; É½ÆéÐã·ò , ¤s±T¨q¤Ò
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  C2.6   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  C6.5   c2.5   5.  H8+7   h2+3   6.  R9.8   p3+1   
+7.  P3+1   c8.7   8.  C8+5   r1+1   9.  C8.5   e7+5   
+10. R8+4   r8+9   11. H3-2   r1.8   12. H2+1   c7.3   
+13. A6+5   r8+3   14. C5.3   r8+3   15. C3.4   c3+3   
+16. H7+6   r8-3   17. P1+1   h3+4   18. R8-4   c3-4   
+19. E3+5   c3+1   20. R8+3   c3+2   21. H6-7   p3+1   
+22. R8-2   p3+1   23. R8.7   p3+1   24. R7+1   r8+3   
+25. R7.6   h4+5   26. R6+1   h5-6   27. E5-3   a6+5   
+28. R6.4   h6+4   29. R4+3   p5+1   30. R4.3   h7+5   
+31. C4+4   h5+3   32. C4.1   h3+2   33. R3.4   r8.1   
+34. R4-4   r1+2   35. A5-6   h2+3   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN WanWei(L)ZHANG Gao Yang,54
+TIME       ;
+RESULT     0-1
+RED        CHEN WanWei ; NT ; Philippines ; ³ÂÍòÍþ , ³¯¸U«Â
+BLACK      ZHANG Gao Yang ; NT ; Australia ; ÕÅ¸ßÑï , ±i°ª´­
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   r1+1   8.  C8.9   r1.6   9.  R3-1   c9.7   
+10. R3.8   c2.1   11. R9+1   r8+5   12. P5+1   a6+5   
+13. H7+5   c1+4   14. C9.6   c1.7   15. E3+1   r6+5   
+16. A6+5   r6.5   17. R8+2   r5.3   18. R9-1   h7+8   
+19. R8.7   e3+5   20. R7-1   h8+6   21. E1+3   c-+2   
+22. R7+2   r8.7   23. C6+2   h6+5   24. E7+5   r7.5   
+25. C6-2   r5+2   26. H3-1   c-.8   27. C6+2   c8+5   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG JunMing(D)SUN YongZheng,64
+TIME       ;
+RESULT     0.5-0.5
+RED        HUANG JunMing ; NT ; Singapore ; »Æ¿¡Ãú , ¶À«T»Ê
+BLACK      SUN YongZheng ; CM ; China-Shanghai ; ËïÓÂÕ÷ , ®]«i©º
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. H3+5   r8+8   11. H8+7   p7+1   12. H5+6   e3+5   
+13. R9+2   p7.8   14. A4+5   r8+1   15. H7+8   c2+5   
+16. R9.8   c7+8   17. R8+1   r1.2   18. P7+1   c7-5   
+19. A5-4   c7.4   20. P7.6   p8.9   21. R4-2   p3+1   
+22. P6.7   p5+1   23. R8.5   e5+3   24. R5+2   e3-5   
+25. H8+7   r8-5   26. R5-2   r8.3   27. H7-5   h3+5   
+28. R4+2   r2+5   29. H5-6   r3+2   30. C5+4   r2.4   
+31. R4-3   h7+5   32. R5+3   r3.4   }END
+
+
+FORMAT 	WXF
+GAME 	Íõ·É»¢(L)LAY Kan Hock,46
+TIME       ;
+RESULT     0-1
+RED        Íõ·É»¢ ; NT ; NA ; Íõ·É»¢ , Íõ·É»¢
+BLACK      LAY Kan Hock ; ICM ; Mailaysia West ; Àè½ð¸£ , ¾¤ª÷ºÖ
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P3+1   c8.9   
+4.  H8+7   p3+1   5.  C8.9   h2+3   6.  R9.8   r1.2   
+7.  R8+4   e7+5   8.  P7+1   p3+1   9.  R8.7   h3+4   
+10. R1+1   c2.3   11. R1.4   r8+4   12. H7+6   r2+5   
+13. R7.8   h4+2   14. H6+4   h2+4   15. C9.6   h4-3   
+16. E7+9   h3+2   17. C6-1   a4+5   18. R4+3   p7+1   
+19. H4+6   c3.4   20. H6-7   p7+1   21. R4.3   h7+6   
+22. A4+5   h6+4   23. C5.6   r8.3   }END
+
+
+FORMAT 	WXF
+GAME 	Ò¶ººÃñ(L)Èî»ÆÁÖ,76
+TIME       ;
+RESULT     0-1
+RED        Ò¶ººÃñ ; NT ; NA ; Ò¶ººÃñ , Ò¶ººÃñ
+BLACK      Èî»ÆÁÖ ; NT ; NA ; Èî»ÆÁÖ , Èî»ÆÁÖ
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  C2.5   c8.5   2.  R1+1   h8+7   3.  H2+3   r9.8   
+4.  R1.6   h2+3   5.  R6+5   e3+1   6.  R6.7   r1.3   
+7.  C8.7   h3-5   8.  R7+3   h5-3   9.  H8+9   c2+4   
+10. R9.8   c2.5   11. H3+5   c5+4   12. A6+5   r8+5   
+13. R8+6   r8.4   14. R8.9   a4+5   15. R9-2   r4+1   
+16. C7.8   k5.4   17. C8-2   p7+1   18. R9+3   h7+6   
+19. R9-2   c5-2   20. C5+2   h6+7   21. R9-1   r4+2   
+22. C5-1   c5+1   23. R9.8   p5+1   24. P9+1   e7+5   
+25. R8-2   h7-6   26. C5-1   h6+7   27. C5+1   p7+1   
+28. R8.3   h3+2   29. E3+1   r4-2   30. H9+8   r4.5   
+31. R3.6   r5.4   32. K5.6   r4+1   33. A5+6   h2+3   
+34. E1+3   c5.4   35. K6.5   h7-5   36. A4+5   c4.1   
+37. H8+7   e5-3   38. H7-5   c1+4   }END
+
+
+FORMAT 	WXF
+GAME 	SHOSHI Kazuharo(W)Àî¹âÎä,80
+TIME       ;
+RESULT     1-0
+RED        SHOSHI Kazuharo ; NT ; Japan ; ËùË¾ºÍÇç , ©Ò¥q©M´¸
+BLACK      Àî¹âÎä ; NT ; NA ; Àî¹âÎä , Àî¹âÎä
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   h7+6   6.  H8+7   e3+5   
+7.  C8+1   p7+1   8.  R2-1   h6+7   9.  H7+6   r1+1   
+10. C5.6   r1.7   11. E7+5   r8+1   12. A6+5   c8.7   
+13. R2+3   r7.8   14. H6+4   c7+2   15. E5+3   c2+3   
+16. C8.3   c7+2   17. H4-3   c2.7   18. E3+5   c7.8   
+19. H++4   c8+2   20. E5-3   c8.4   21. A5+6   r8.7   
+22. H4-2   p3+1   23. R9.7   r7+3   24. E3+5   h3+2   
+25. P9+1   p9+1   26. H3+4   r7.5   27. H2-3   h2+1   
+28. R7+3   h1+2   29. R7-2   h2-1   30. P7+1   e5+3   
+31. A6-5   e3-5   32. R7+2   p1+1   33. R7.9   p1+1   
+34. R9+1   a6+5   35. R9+2   r5.7   36. R9.5   a5+6   
+37. P5+1   a4+5   38. R5-1   r7+2   39. R5.1   a5+4   
+40. P5+1   a6-5   }END
+
+
+FORMAT 	WXF
+GAME 	TAGUCHI F.(W)ÂÞÎ°ÐÛ,70
+TIME       ;
+RESULT     1-0
+RED        TAGUCHI F. ; NT ; Japan ; Ìï¿Ú¸£·ò , ¥Ð¤fºÖ¤Ò
+BLACK      ÂÞÎ°ÐÛ ; NT ; NA ; ÂÞÎ°ÐÛ , ÂÞÎ°ÐÛ
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  H7+6   c2+3   6.  H6+7   c2+1   
+7.  R1.2   c8+4   8.  A4+5   e7+5   9.  R9+1   c2.3   
+10. H7-8   r8+5   11. E7+9   p1+1   12. R9.7   p1+1   
+13. R7+2   p1.2   14. H3-1   h3+4   15. R7.6   h4+6   
+16. R6+1   r1+4   17. H1+2   r8+1   18. R2+3   h6+8   
+19. C5.2   p7+1   20. R6.3   r1.7   21. C8.3   h7+6   
+22. C3.5   h6+5   23. C5+4   a6+5   24. R3.2   r7-4   
+25. R2-1   p2+1   26. P7+1   h5-6   27. P3+1   p2.1   
+28. E9-7   h6+4   29. P7.6   r7.6   30. E3+5   h4+2   
+31. C2-1   p9+1   32. P3+1   r6+8   33. R2+6   r6-8   
+34. R2.4   k5.6   35. P3.4   h2-4   }END
+
+
+FORMAT 	WXF
+GAME 	³ÂÖÒÓ¢(L)ZHENG YiTing,112
+TIME       ;
+RESULT     0-1
+RED        ³ÂÖÒÓ¢ ; NT ; NA ; ³ÂÖÒÓ¢ , ³ÂÖÒÓ¢
+BLACK      ZHENG YiTing ; NT ; Canada-Winipeg ; Ö£ÞÈÍ¢ , ¾G«³§Ê
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.6   r1.2   6.  R9.8   c2+4   
+7.  R2+4   c8.9   8.  R2.4   a4+5   9.  P9+1   c2-2   
+10. P3+1   r8+4   11. C6.7   e3+5   12. P7+1   p7+1   
+13. R4.3   h7+6   14. H3+4   h6+4   15. C7-1   c2.7   
+16. R8+9   h3-2   17. H4+3   h4+5   18. E7+5   c9.7   
+19. A4+5   h2+1   20. R3.5   c+.2   21. R5+2   c2-1   
+22. R5-1   e5+7   23. P7+1   c2.7   24. R5+1   c+.8   
+25. C7+5   h1+3   26. P7+1   e7-5   27. H9+7   p9+1   
+28. H7+5   r8+2   29. P7.8   c7.9   30. P8.9   c9+1   
+31. R5-1   r8.5   32. R5.2   r5-1   33. R2+1   c9+3   
+34. R2-1   p9+1   35. P-+1   p9.8   36. R2.1   c9.8   
+37. A5-4   c8.1   38. R1.8   c1.5   39. A4+5   r5.7   
+40. K5.4   r7.6   41. K4.5   a5-4   42. R8.5   r6+1   
+43. P+.8   a6+5   44. P9+1   k5.6   45. R5-2   r6.5   
+46. P8.7   r5-3   47. P9.8   e5-3   48. A5-4   k6+1   
+49. A6+5   a5-6   50. K5.6   k6.5   51. K6.5   p8+1   
+52. K5.6   p8.7   53. K6.5   p7.8   54. K5.6   r5.7   
+55. A5+4   p8+1   56. K6.5   r7+6   }END
+
+
+FORMAT 	WXF
+GAME 	JIRAPARKDEEPAN Vithaya(D)ÈîÎä¾ü,73
+TIME       ;
+RESULT     0.5-0.5
+RED        JIRAPARKDEEPAN Vithaya ; FM ; Thailand ; ÂíÎäÁ® , °¨ªZ·G
+BLACK      ÈîÎä¾ü ; NT ; Vietnam ; ÈîÎä¾ü , ÈîÎä¾ü
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   p7+1   
+4.  P7+1   h8+7   5.  C8+4   a4+5   6.  R2+6   r9+2   
+7.  R2.3   c6-1   8.  P5+1   c6.7   9.  R3.4   h7+8   
+10. C5+4   h3+5   11. C8.5   c2.5   12. R4+2   c7+5   
+13. H3+5   k5.4   14. R9+1   c5+3   15. E7+5   r9.4   
+16. R9.6   r4+6   17. H8+6   c7.1   18. H6+4   h8+7   
+19. H4+5   h7-5   20. R4-3   r1+2   21. R4.6   r1.4   
+22. R6+2   a5+4   23. C5.9   p9+1   24. C9-1   p3+1   
+25. P7+1   h5-3   26. H5+7   c1+3   27. A6+5   e3+5   
+28. C9-4   a6+5   29. A5+6   h3+5   30. C9.1   h5+6   
+31. K5+1   h6-8   32. C1+1   c1-6   33. H7+5   c1.5   
+34. K5.6   c5.4   35. K6.5   c4.8   36. K5.6   a5-6   
+37. A6-5   }END
+
+
+FORMAT 	WXF
+GAME 	WAN ChunLin(W)Ò¦½Ý·¼,85
+TIME       ;
+RESULT     1-0
+RED        WAN ChunLin ; CM ; China-Shanghai ; Íò´ºÁÖ , ¸U¬KªL
+BLACK      Ò¦½Ý·¼ ; NT ; NA ; Ò¦½Ý·¼ , Ò¦½Ý·¼
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  C8+2   e7+5   6.  R1.2   r1+1   
+7.  R9+1   r1.4   8.  H7+6   c8+4   9.  R2+1   p3+1   
+10. C5.6   r4.6   11. R2.7   c8-2   12. E7+5   p3+1   
+13. R7+3   h3+4   14. C6+3   c8.4   15. R7+3   c2-1   
+16. R7.6   c4.6   17. R9.4   r8+7   18. H3-5   r8-6   
+19. H5+7   c6-2   20. R6-1   c6+1   21. R6-1   c6+4   
+22. C8+3   h7+8   23. A6+5   c6.3   24. R4+7   r8.6   
+25. H6-7   r6.3   26. H7+6   h8+7   27. R6+1   p5+1   
+28. H6+7   p5+1   29. C8-2   a4+5   30. C8.5   c2+2   
+31. H7-8   c2-3   32. H8+6   h7-6   33. H6+8   r3.2   
+34. R6.7   k5.4   35. C5.8   r2+2   36. R7.8   c2+4   
+37. P5+1   c2.3   38. R8.1   p1+1   39. P5+1   h6+7   
+40. R1.7   c3.2   41. R7-3   h7-5   42. R7.8   c2.3   
+43. R8.5   }END
+
+
+FORMAT 	WXF
+GAME 	ÍõÃ÷Ç¿(L)TRAN Huu-Ngang,104
+TIME       ;
+RESULT     0-1
+RED        ÍõÃ÷Ç¿ ; NT ; Philippines ; ÍõÃ÷Ç¿ , ÍõÃ÷Ç¿
+BLACK      TRAN Huu-Ngang ; NT ; Austria ; ³ÂÓÑ°² , ³¯¤Í¦w
+
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R1
+AUTHOR     Felix Tan
+START{
+1.  P7+1   p7+1   2.  C2.3   c8.5   3.  P3+1   e7+9   
+4.  P3+1   e9+7   5.  H8+7   h8+7   6.  E3+5   r9.8   
+7.  H2+4   h7+6   8.  C8+3   e7-9   9.  P7+1   h6+8   
+10. R1.2   p3+1   11. H4+3   h2+3   12. C8+1   h3+4   
+13. H3+4   e9+7   14. H4+6   c2.4   15. C8.5   a6+5   
+16. C5-2   r1.2   17. R9+1   r2+3   18. R9.2   r2.4   
+19. R++3   r8+5   20. R2+4   r4.5   21. R2+5   a5-6   
+22. R2-3   r5+1   23. C5+3   e7-5   24. R2.1   h4+5   
+25. H7+5   r5+2   26. P9+1   c4+4   27. R1.9   r5.9   
+28. R9.6   c4.5   29. A6+5   c5.1   30. P9+1   c1+3   
+31. A5-6   r9.5   32. R6-4   p3+1   33. A4+5   p3+1   
+34. C3+4   r5-3   35. R6.9   c1.2   36. R9.8   c2.1   
+37. C3-2   p3.4   38. P9.8   p4.5   39. R8-2   c1-8   
+40. R8+3   c1.9   41. C3.1   c9.7   42. C1.3   c7+2   
+43. R8.9   r5+1   44. R9.8   c7.9   45. P8+1   c9+6   
+46. P8+1   r5-1   47. R8+1   a6+5   48. C3.1   r5.8   
+49. C1.2   c9-4   50. C2+1   c9-1   51. C2-1   c9.3   
+52. R8.3   r8.3   }END
+
+
+FORMAT 	WXF
+GAME 	Tjai Tjie Kiang(W)Íõ·É»¢,55
+TIME       ;
+RESULT     1-0
+RED        Tjai Tjie Kiang ; NT ; Indonesia ; ²ÌÖ¾Ç¿ , ½²§Ó±j
+BLACK      Íõ·É»¢ ; NT ; Mailaysia West ; Íõ·É»¢ , Íõ·É»¢
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c2.5   5.  H3+4   h2+3   6.  P3+1   p7+1   
+7.  R2+3   r8+6   8.  H4-2   r1.2   9.  H8+7   p7+1   
+10. R9.8   r2+4   11. C8.9   r2.8   12. C5.3   r8+2   
+13. C3+5   h3-5   14. C3-1   r8-3   15. C3.7   p5+1   
+16. R8+6   r8.4   17. E7+5   p7.6   18. R8.9   p9+1   
+19. C7-1   r4+5   20. A4+5   c5.8   21. P7+1   c8+7   
+22. E3+1   r4-6   23. R9.2   c8.9   24. H7+8   r4.7   
+25. E5+3   p6.7   26. H8+7   e7+5   27. C9.5   p7.6   
+28. C5+3   }END
+
+
+FORMAT 	WXF
+GAME 	YAN Andrew(W)LAI Han Soon,83
+TIME       ;
+RESULT     1-0
+RED        YAN Andrew ; NT ; Australia ; ÑÕÖÖÍú , ÃCºØ©ô¡@
+BLACK      LAI Han Soon ; NT ; Singapore ; ÀµººË³ , ¿àº~¶¶
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  C8.9   r1.2   9.  R9.8   c9.7   
+10. R3.4   h7+8   11. C5+4   h3+5   12. R4.5   c7+5   
+13. E3+5   c2+6   14. H7+6   p7+1   15. H6+4   h8+6   
+16. R5.7   r2+7   17. H4+6   r8+2   18. R8+1   r2+1   
+19. H6+7   k5.4   20. C9.6   k4+1   21. H7-6   r8.4   
+22. R7+2   k4-1   23. R7+1   k4+1   24. R7-1   k4-1   
+25. C6+5   a5+4   26. R7+1   k4+1   27. R7.4   r2.4   
+28. H6+8   k4.5   29. H8+7   k5+1   30. P5+1   a4-5   
+31. R4-4   h6+7   32. P5+1   a5-4   33. R4+3   r4-5   
+34. P7+1   c7.3   35. P7.6   r4.3   36. H7-8   h7-6   
+37. P6+1   r3.2   38. H8+9   r2-3   39. P5+1   h6-5   
+40. P6.5   k5.4   41. R4-5   k4-1   42. R4.7   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN LiFeng 
+(D)DAO Cao Khoa,80
+TIME       ;
+RESULT     0.5-0.5
+RED        CHEN LiFeng 
+ ; NT ; China-Taipei ; ³ÂÁ¢·á , ³¯¥ßÂ×
+BLACK      DAO Cao Khoa ; NT ; Vietnam ; ÌÕ¸ß¿Æ , ³³°ª¬ì
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  H7+6   c9.7   9.  R3.4   r8+5   
+10. C8+2   e3+5   11. C5.6   p3+1   12. P3+1   r8-1   
+13. P7+1   e5+3   14. C8.7   h3+4   15. C6+3   p7+1   
+16. C6+3   c7.4   17. C7.3   r8.7   18. E7+5   c2+1   
+19. R4-2   c2+2   20. H6+5   h7+5   21. R4.8   e3-5   
+22. A6+5   h5+3   23. R9.7   r1.4   24. R7.6   p1+1   
+25. R8+1   c4+3   26. R8+1   c4-3   27. R8-1   c4+3   
+28. R8+1   c4-3   29. R8.1   c4.1   30. R6+9   a5-4   
+31. P1+1   h3+2   32. R1-1   r7-1   33. R1.6   a6+5   
+34. P1+1   c1+5   35. K5.6   r7.2   36. C3.5   k5.6   
+37. R6.4   k6.5   38. R4.6   k5.6   39. R6.4   k6.5   
+40. R4.6   k5.6   }END
+
+
+FORMAT 	WXF
+GAME 	CHIU Yu Kuen(D)WAN ChunLin,75
+TIME       ;
+RESULT     0.5-0.5
+RED        CHIU Yu Kuen ; IM ; China-Hong Kong ; ÕÔÈêÈ¨ , »¯¦¼Åv
+BLACK      WAN ChunLin ; CM ; China-Shanghai ; Íò´ºÁÖ , ¸U¬KªL
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P7+1   p7+1   5.  C8.6   r1.2   6.  H8+7   c2.1   
+7.  H7+6   e7+5   8.  R2+6   r2+6   9.  R9+2   r2.4   
+10. H6+5   h3+5   11. C5+4   a6+5   12. A6+5   r9.8   
+13. R2+3   h7-8   14. R9.8   c6.7   15. E7+5   c7+4   
+16. C5.9   h8+7   17. R8+4   h7+5   18. R8.7   h5+6   
+19. R7.2   c1+4   20. C9.5   h6-5   21. R2.5   p9+1   
+22. P7+1   e5+3   23. R5-2   e3-5   24. P1+1   p9+1   
+25. R5.1   c1+1   26. H3+1   r4.5   27. R1+5   a5-6   
+28. H1+2   c7+2   29. R1-6   r5-3   30. R1.3   c7.8   
+31. R3.9   c1.2   32. R9.2   c8.7   33. R2.8   c2.1   
+34. R8.3   c7.6   35. R3.4   r5.8   36. E5+7   r8+1   
+37. C6.5   a6+5   38. E7-9   }END
+
+
+FORMAT 	WXF
+GAME 	CHONG Heung Ming(W)LAU VengTak,43
+TIME       ;
+RESULT     1-0
+RED        CHONG Heung Ming ; NT ; Philippines ; ×¯ºêÃ÷ , ÉÜ§»©ú
+BLACK      LAU VengTak ; FM ; China-Macau ; ÁõÓÀµÂ , ¼B¥Ã¼w
+
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  H8+9   p3+1   5.  P3+1   e3+5   6.  C8.7   h3+2   
+7.  R9+1   a4+5   8.  R9.6   c8+4   9.  H3+4   c8.3   
+10. R2+9   c3+3   11. A6+5   h7-8   12. R6+5   h2+1   
+13. R6.8   h1+3   14. R8+1   h3-4   15. H9-7   r1.4   
+16. R8-7   h4+6   17. C5.4   c3.6   18. K5.4   r4+8   
+19. H7+6   r4.1   20. C4.5   h8+7   21. H4+5   r1-2   
+22. H5-7   }END
+
+
+FORMAT 	WXF
+GAME 	GUO YuLong(W)ÍõÃ÷Ç¿,71
+TIME       ;
+RESULT     1-0
+RED        GUO YuLong ; NT ; China-Macau ; ¹ùÔ£Â¡ , ³¢¸Î¶©
+BLACK      ÍõÃ÷Ç¿ ; NT ; Philippines ; ÍõÃ÷Ç¿ , ÍõÃ÷Ç¿
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  R1.2   c2+4   6.  R2+4   c2.7   
+7.  E3+1   c8.9   8.  R2.4   r1.2   9.  P7+1   p3+1   
+10. H7+8   r2.1   11. C5.7   r8+8   12. A6+5   a4+5   
+13. E7+5   r8-5   14. P9+1   p5+1   15. R9.6   p9+1   
+16. R4-1   c7.8   17. R6+4   c8+1   18. E1-3   r1+2   
+19. R4+1   c8-3   20. C7-2   e3+5   21. P9+1   p5+1   
+22. R6.5   h3+5   23. P9+1   r1.4   24. R4.2   r8.6   
+25. C8.6   c9.8   26. C7.6   r4.2   27. H8+6   r6.9   
+28. R5.8   r2+3   29. R2.8   c+.4   30. C-+5   h5-3   
+31. P9+1   r9.1   32. C+.5   r1-1   33. C6+5   r1+7   
+34. A5-6   c8+2   35. C6.3   c8.5   36. C3.7   }END
+
+
+FORMAT 	WXF
+GAME 	HOR Weng Yeow(D)YAMAZAKI Hideo,82
+TIME       ;
+RESULT     0.5-0.5
+RED        HOR Weng Yeow ; IM ; Mailaysia West ; ºÎÈÙÒ« , ¦óºaÄ£
+BLACK      YAMAZAKI Hideo ; NT ; Japan ; É½ÆéÐã·ò , ¤s±T¨q¤Ò
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  A6+5   h8+7   
+4.  H2+3   p7+1   5.  R1.2   r9.8   6.  R2+6   h2+4   
+7.  C8.6   r1.2   8.  H8+7   r2+6   9.  R9.8   r2+3   
+10. H7-8   c8.9   11. R2.3   a4+5   12. H8+7   c9-1   
+13. P5+1   c9.7   14. R3.4   p7+1   15. H3+5   p7+1   
+16. E3+1   p3+1   17. P5+1   p3+1   18. H5+7   e5+3   
+19. H+-5   c3+5   20. H5-7   p5+1   21. R4.6   h4+2   
+22. R6+1   e3-5   23. R6.8   r8+5   24. R8+2   a5-4   
+25. C6+5   h7+6   26. R8-4   c7.5   27. C6.8   r8.3   
+28. R8.6   e5-3   29. K5.6   c5+6   30. R6.5   a6+5   
+31. R5-3   r3+1   32. H7-9   r3.1   33. R5+3   h6+8   
+34. H9+7   r1.4   35. K6.5   h8+6   36. R5.4   r4.3   
+37. H7-6   a5+4   38. E7+5   h6+7   39. R4-4   p7+1   
+40. E1-3   r3.9   41. C8-6   r9.3   }END
+
+
+FORMAT 	WXF
+GAME 	ÕÅ¾´ºÍ(W)Áº¹úÒê,55
+TIME       ;
+RESULT     1-0
+RED        ÕÅ¾´ºÍ ; NT ; Indonesia ; ÕÅ¾´ºÍ , ÕÅ¾´ºÍ
+BLACK      Áº¹úÒê ; NT ; Malaysia East ; Áº¹úÒê , Áº¹úÒê
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  H8+9   h8+7   2.  P3+1   c2.5   3.  C2.5   h2+3   
+4.  H2+3   r1.2   5.  C8.6   a6+5   6.  R1.2   r2+5   
+7.  E3+1   r9.8   8.  R2+6   p5+1   9.  A6+5   p5+1   
+10. C5+2   c8.9   11. R2.3   h7+5   12. R9.8   r2.4   
+13. C6.5   c5+3   14. C5+2   c9.5   15. P9+1   c5+3   
+16. P5+1   r4.5   17. R8+4   h5+4   18. P3+1   e7+5   
+19. P3.4   r8.7   20. R3+3   e5-7   21. P4.5   p3+1   
+22. H9-7   e3+5   23. H7+5   p3+1   24. R8.7   h3+2   
+25. P5.6   h2+3   26. R7.6   r5.4   27. H5+6   h3-4   
+28. H3+2   }END
+
+
+FORMAT 	WXF
+GAME 	Àî¹âÎä(L)JIRAPARKDEEPAN Vithaya,28
+TIME       ;
+RESULT     0-1
+RED        Àî¹âÎä ; NT ; Brunei ; Àî¹âÎä , Àî¹âÎä
+BLACK      JIRAPARKDEEPAN Vithaya ; FM ; Thailand ; ÂíÎäÁ® , °¨ªZ·G
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  E3+5   p3+1   2.  H8+7   h2+3   3.  C2.4   h3+4   
+4.  P3+1   c8.3   5.  H2+3   h8+7   6.  R1.2   e7+5   
+7.  C8+4   p3+1   8.  C8.7   h4+2   9.  C7.3   p3+1   
+10. H7-9   h2+4   11. R9.8   h4+3   12. K5+1   p3.2   
+13. R8+3   h3-2   14. H9+8   r1.2   }END
+
+
+FORMAT 	WXF
+GAME 	LEI Kam Fun(W)CHEN WanWei,57
+TIME       ;
+RESULT     1-0
+RED        LEI Kam Fun ; FM ; China-Macau ; Àî½õ»¶ , §õÀAÅw
+BLACK      CHEN WanWei ; NT ; Philippines ; ³ÂÍòÍþ , ³¯¸U«Â
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  H8+7   p3+1   2.  P3+1   h2+3   3.  H2+3   h8+7   
+4.  C2.1   r9.8   5.  R1.2   c8+4   6.  H3+4   c8.7   
+7.  R2+9   h7-8   8.  C8+4   c7.3   9.  E7+5   r1+1   
+10. C1+4   h8+7   11. C1-2   e3+5   12. C8.3   c2+2   
+13. A6+5   r1.9   14. R9.6   a4+5   15. R6+3   p3+1   
+16. P3+1   c2+2   17. R6+3   c2-1   18. P5+1   h7-8   
+19. H4+5   r9+3   20. C1.7   h3+5   21. R6.5   p1+1   
+22. P5+1   c2-1   23. R5.8   c2.3   24. P3.4   r9+2   
+25. R8+3   c--4   26. C7.3   c-.4   27. H7+5   r9-3   
+28. C+.5   r9+3   29. H5+6   }END
+
+
+FORMAT 	WXF
+GAME 	LING Lee Kiong(D)SUWANDI Eddy,98
+TIME       ;
+RESULT     0.5-0.5
+RED        LING Lee Kiong ; NT ; Malaysia East ; ÁÖÀûÇ¿ , ÁÖÀûÇ¿
+BLACK      SUWANDI Eddy ; NT ; Indonesia ; ²ÌµÂ»³ , ½²¼wÃh
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  P1+1   c2.5   2.  H8+7   h2+3   3.  H2+1   r1.2   
+4.  H1+2   c8+2   5.  P7+1   r2+4   6.  A6+5   h8+7   
+7.  R9.8   r9+1   8.  C2.3   p3+1   9.  H2+4   p3+1   
+10. H4+3   r9+1   11. H3+4   k5.6   12. C8.9   p3+1   
+13. R1.2   c8.3   14. R8+5   h3+2   15. R2+5   e3+1   
+16. H7-6   c3+5   17. H6+5   e1+3   18. R2.6   a4+5   
+19. R6+1   c5+4   20. R6.5   p3.4   21. R5.3   e3-5   
+22. R3.8   h2+1   23. R8.6   p4.3   24. K5.6   h1-2   
+25. R6.8   h2+4   26. R8-2   h4+5   27. E3+5   c3-2   
+28. R8+5   k6+1   29. R8.3   e5-3   30. R3-1   k6-1   
+31. R3.5   r9.4   32. A5+6   e3+5   33. R5.9   r4+1   
+34. R9-1   r4.5   35. E5-7   c3.7   36. C9.3   c5.4   
+37. A6-5   p3+1   38. R9.6   c4.1   39. E7+9   r5+3   
+40. P3+1   r5-1   41. R6-4   c1-2   42. R6+2   r5.7   
+43. R6.4   k6.5   44. C3.5   r7.5   45. E9+7   c1+2   
+46. R4-1   r5-1   47. R4+2   c1.8   48. R4.2   c8.7   
+49. R2.3   c7.8   }END
+
+
+FORMAT 	WXF
+GAME 	LIN HongMin(W)LEUNG TatMan,55
+TIME       ;
+RESULT     1-0
+RED        LIN HongMin ; GM ; China-Shanghai ; ÁÖºêÃô , ªL§»±Ó
+BLACK      LEUNG TatMan ; NT ; China-Hong Kong ; Áº´ïÃñ , ±ç¹F¥Á
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  E3+5   c2.4   2.  R9+1   h2+3   3.  H8+9   r1.2   
+4.  R9.6   h8+7   5.  P9+1   r2+4   6.  R6+3   r2.6   
+7.  H9+8   p3+1   8.  H2+1   a6+5   9.  P1+1   p7+1   
+10. H1+2   c8+5   11. H2+4   h7+6   12. R6.4   c8.2   
+13. R4+1   e7+5   14. R1.2   c2-1   15. R2+4   c4+4   
+16. P7+1   p3+1   17. R2.7   h3+2   18. R7.2   c4-4   
+19. H8+6   h2-1   20. R4+1   c2.7   21. R4.5   p9+1   
+22. P1+1   r9+4   23. H6+4   e5-7   24. R5.9   c4.6   
+25. H4+2   r9+2   26. H2-3   c6.5   27. A6+5   c7+2   
+28. R2-1   }END
+
+
+FORMAT 	WXF
+GAME 	LUM Tek Sim(L)¶Å¹ú±ò,70
+TIME       ;
+RESULT     0-1
+RED        LUM Tek Sim ; NT ; Brunei ; ÁÖµÂÐÇ , ªL¼w¬P
+BLACK      ¶Å¹ú±ò ; NT ; NA ; ¶Å¹ú±ò , ¶Å¹ú±ò
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  C2.6   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+2   
+4.  P7+1   c2.3   5.  E3+5   h2+1   6.  H8+9   r1.2   
+7.  R9.8   r2+6   8.  P9+1   p7+1   9.  A4+5   c8+3   
+10. R2.4   e7+5   11. C8.7   r2+3   12. H9-8   a6+5   
+13. H8+9   c3.4   14. C7-1   c4+3   15. P7+1   p3+1   
+16. C6.7   c4.3   17. C+.6   c3+2   18. H9+8   c3.5   
+19. E7+5   c8.5   20. A5+4   p3+1   21. H8+9   r8+8   
+22. C7.4   r8.7   23. K5+1   c5.7   24. C6.3   r7-1   
+25. R4.2   r7.6   26. R2+7   h7+6   27. C4+4   r6-3   
+28. R2-1   r6.5   29. K5-1   r5+2   30. A6+5   h1+3   
+31. R2.1   h3+4   32. H9+8   e5-7   33. R1-2   h4+3   
+34. R1.7   r5+2   35. K5.4   h3-5   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG JunMing(W)ZHANG Gao Yang,71
+TIME       ;
+RESULT     1-0
+RED        HUANG JunMing ; NT ; Singapore ; »Æ¿¡Ãú , ¶À«T»Ê
+BLACK      ZHANG Gao Yang ; NT ; Australia ; ÕÅ¸ßÑï , ±i°ª´­
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  H8+9   p1+1   5.  C8.7   r1.2   6.  R9.8   c2+4   
+7.  P3+1   e3+5   8.  R2+6   c8.9   9.  R2+3   h7-8   
+10. R8+1   h8+7   11. R8.2   r2+5   12. P9+1   r2.1   
+13. R2.8   r1+1   14. R8+1   c9-1   15. C7-1   c9.2   
+16. R8.6   r1-1   17. E3+1   c-.6   18. C7.9   c2.1   
+19. C9+2   r1+1   20. R6+4   c6+2   21. R6+2   a4+5   
+22. R6.7   h3+1   23. H3+4   h1+3   24. P7+1   h3+1   
+25. H4+6   c6+4   26. H9-7   h1+3   27. C5.8   h3+5   
+28. E7+5   c6.2   29. R7.8   c2.9   30. A4+5   c9.8   
+31. H6+4   k5.4   32. R8+1   k4+1   33. H7+8   c8-4   
+34. P3+1   p7+1   35. H8+6   a5+6   36. R8.5   }END
+
+
+FORMAT 	WXF
+GAME 	Èî»ÆÁÖ(W)CHEN Cheng Kuo,81
+TIME       ;
+RESULT     1-0
+RED        Èî»ÆÁÖ ; NT ; Vietnam ; Èî»ÆÁÖ , Èî»ÆÁÖ
+BLACK      CHEN Cheng Kuo ; NT ; China-Taipei ; ³ÂÕñ¹ú , ³¯®¶°ê
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  C8.5   h2+3   2.  H8+7   r1.2   3.  R9.8   h8+7   
+4.  H2+1   p3+1   5.  R8+6   p7+1   6.  R8.7   c2.1   
+7.  C2.4   r2+5   8.  R1.2   h7-5   9.  R7-1   r2.6   
+10. A6+5   e7+5   11. R7-1   r6.3   12. P7+1   h5-7   
+13. H7+6   r9+1   14. H6+5   r9.2   15. H5-3   c8.7   
+16. A5-6   r2+2   17. C4+1   a4+5   18. H3-5   h3+4   
+19. P7+1   h4+5   20. A4+5   h7+6   21. P3+1   e5+3   
+22. P3+1   e3-5   23. P3.4   h6-7   24. R2+4   r2.3   
+25. H5+4   c7.6   26. R2.5   h5-3   27. C4.8   c1.2   
+28. H4-6   h3+2   29. P4+1   r3.4   30. P4+1   r4+1   
+31. P4.5   e3+5   32. C8.3   h2-4   33. C3-2   c2.4   
+34. H1+3   h7+6   35. R5+3   k5.4   36. R5-4   h4-5   
+37. R5.7   r4+2   38. R7+6   k4+1   39. H3+5   c4+3   
+40. R7-1   k4-1   41. C5+3   }END
+
+
+FORMAT 	WXF
+GAME 	ÈîÎä¾ü(D)WU Kui Lin,88
+TIME       ;
+RESULT     0.5-0.5
+RED        ÈîÎä¾ü ; NT ; Vietnam ; ÈîÎä¾ü , ÈîÎä¾ü
+BLACK      WU Kui Lin ; IGM ; China-Taipei ; Îâ¹óÁÙ , §d¶QÁ{
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+4   
+7.  R2+4   h7+6   8.  P9+1   p7+1   9.  R2.3   c8.5   
+10. A6+5   r8+5   11. R3.2   h6+8   12. P3+1   h8+7   
+13. C7.3   e7+9   14. P7+1   c5+4   15. H9-7   c2+2   
+16. H7+6   a4+5   17. P1+1   r2+4   18. C3+1   e3+5   
+19. K5.6   c5-1   20. C3.5   c5+2   21. E7+5   e9-7   
+22. K6.5   r2.4   23. H6+8   c2.3   24. R8.7   r4.2   
+25. R7+1   r2+1   26. C5.1   r2-1   27. C1+3   p5+1   
+28. R7.6   p3+1   29. R6.7   p5+1   30. P7+1   r2.3   
+31. R7+4   e5+3   32. P3+1   h3+2   33. C1.8   p5.4   
+34. P3.4   e3-5   35. P4.5   k5.4   36. A5+6   k4.5   
+37. A4+5   k5.4   38. P1+1   k4.5   39. P1.2   k5.4   
+40. C8.1   h2+3   41. C1-2   h3+1   42. P2+1   h1+3   
+43. K5.4   h3-2   44. C1+1   h2-3   }END
+
+
+FORMAT 	WXF
+GAME 	Ò¶ººÃñ(L)ÂÞÎ°ÐÛ,106
+TIME       ;
+RESULT     0-1
+RED        Ò¶ººÃñ ; NT ; Thailand ; Ò¶ººÃñ , Ò¶ººÃñ
+BLACK      ÂÞÎ°ÐÛ ; NT ; Brunei ; ÂÞÎ°ÐÛ , ÂÞÎ°ÐÛ
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p3+1   
+4.  R2+4   c2.4   5.  P7+1   p3+1   6.  R2.7   e7+5   
+7.  H8+7   r1+2   8.  R9+1   c8+2   9.  R9.6   c8.7   
+10. H7+8   c7+3   11. C8.3   a6+5   12. C5.8   r1.3   
+13. R6.7   r3+3   14. R7+3   h2+1   15. C3.7   r8+4   
+16. C8-1   r8.6   17. C8.7   k5.6   18. A6+5   p1+1   
+19. C+.4   k6.5   20. H8+9   r6+2   21. C4.7   k5.6   
+22. R7.5   r6-2   23. E3+5   r6.2   24. R5.4   a5+6   
+25. H9+7   r2+4   26. C++7   a4+5   27. R4.7   e5-3   
+28. H7-6   r2-4   29. R7+5   c4-2   30. C7+4   p7+1   
+31. H6-7   r2-4   32. R7.8   h1-2   33. H7+5   h2+3   
+34. H5+3   c4.1   35. P5+1   c1+6   36. P3+1   p1+1   
+37. H3+2   h7+8   38. P3+1   h8+7   39. C7+1   p9+1   
+40. C7-1   c1+3   41. E7+9   h3+4   42. P5+1   p5+1   
+43. C7.5   h4+3   44. E9+7   h7+9   45. C5.4   k6.5   
+46. H2-1   h9+7   47. C4-4   c1-1   48. H1-2   h7-8   
+49. C4.9   h3+2   50. A5+6   h8+6   51. K5+1   h2+4   
+52. C9.6   h4-2   53. P1+1   p1.2   }END
+
+
+FORMAT 	WXF
+GAME 	SHOSHI Kazuharo(L)LAY Kan Hock,52
+TIME       ;
+RESULT     0-1
+RED        SHOSHI Kazuharo ; NT ; Japan ; ËùË¾ºÍÇç , ©Ò¥q©M´¸
+BLACK      LAY Kan Hock ; ICM ; Mailaysia West ; Àè½ð¸£ , ¾¤ª÷ºÖ
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c2.5   5.  P7+1   r1+1   6.  H8+7   r1.8   
+7.  R9.8   c8.7   8.  C8.9   r++8   9.  H3-2   r8+9   
+10. R8+9   r8.7   11. R8.7   c7+1   12. C9+4   c7.3   
+13. C9+3   r7-4   14. R7.8   p7+1   15. A6+5   r7.4   
+16. R8-7   a4+5   17. R8+7   a5-4   18. R8-7   a4+5   
+19. R8.7   c5+4   20. R7+1   h7+6   21. C9.8   k5.4   
+22. C8-9   e7+5   23. P9+1   p5+1   24. P9+1   p5+1   
+25. P9.8   h6+7   26. P8+1   h7+5   }END
+
+
+FORMAT 	WXF
+GAME 	ZHENG YiTing(W)TAGUCHI F.,53
+TIME       ;
+RESULT     1-0
+RED        ZHENG YiTing ; NT ; Mailaysia West ; Ö£ÞÈÍ¢ , ¾G«³§Ê
+BLACK      TAGUCHI F. ; NT ; Japan ; Ìï¿Ú¸£·ò , ¥Ð¤fºÖ¤Ò
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p3+1   
+4.  P3+1   h2+3   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   h2+1   8.  C7.6   e3+5   9.  R9.8   c2.3   
+10. H3+4   a4+5   11. H4+6   c3+1   12. R2+6   p7+1   
+13. R2-2   c8+2   14. H6+7   p7+1   15. R2.3   c8.7   
+16. R8+5   c7-1   17. C5.3   r8+3   18. C3+4   c3.7   
+19. R8-3   p1+1   20. R3.9   r1.3   21. H7+9   r3.4   
+22. A6+5   r8+3   23. R8.9   r8.5   24. E7+5   p5+1   
+25. H+-8   r4.3   26. R++5   r5.4   27. H8+7   }END
+
+
+FORMAT 	WXF
+GAME 	TRAN Huu-Ngang(W)LIM KimSin,99
+TIME       ;
+RESULT     1-0
+RED        TRAN Huu-Ngang ; NT ; Australia ; ³ÂÓÑ°² , ³¯¤Í¦w
+
+BLACK      LIM KimSin ; NT ; Singapore ; ÁÖ½ðÐÇ , ªLª÷¬P
+
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  P3+1   c8.7   2.  E3+5   h8+9   3.  H2+3   r9.8   
+4.  R1.2   h2+3   5.  C2+5   e3+5   6.  P7+1   r1+1   
+7.  C8.7   r1.6   8.  H8+9   r6+3   9.  R9.8   c2-2   
+10. C2+1   a4+5   11. R2+7   c7.6   12. H3+2   c2.4   
+13. H2+3   c4+3   14. H3+1   c6.9   15. R2.1   r8+1   
+16. A6+5   r8+5   17. R1+1   r8.5   18. R8+8   c4+5   
+19. C7.6   c4.1   20. R8.7   r5.1   21. C6-2   r6.4   
+22. R7-1   c1.2   23. R7.8   r4+4   24. R8-5   p5+1   
+25. R1-2   p5+1   26. R1.7   p1+1   27. R7.5   p1+1   
+28. P3+1   p5+1   29. P3+1   p1.2   30. R8+2   r1+1   
+31. R8+5   a5-4   32. C6+9   r1+2   33. C6.4   k5+1   
+34. C4.7   c2+1   35. R8-9   r1.2   36. R5-3   r4-4   
+37. P3+1   r2-5   38. C7-2   r4.5   39. R5.2   r5.8   
+40. R2.7   r8.7   41. P3.4   r7.6   42. P1+1   r2-2   
+43. R7.9   r2.3   44. R9+5   k5-1   45. P4+1   r6-3   
+46. R9.4   r3+1   47. P1+1   r3.5   48. P1.2   e7+9   
+49. R4-5   e9-7   50. R4.2   }END
+
+
+FORMAT 	WXF
+GAME 	XIE Jing(W)YUNG Tak Keung,55
+TIME       ;
+RESULT     1-0
+RED        XIE Jing ; NT ; China-Shanghai ; Ð»¾¸ , ÁÂ¹t
+BLACK      YUNG Tak Keung ; ICM ; China-Hong Kong ; ÎÌµÂÇ¿ , ¯Î¼w±j
+DATE       11/23/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R2
+AUTHOR     Felix Tan
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  C2.5   h2+3   
+4.  H2+3   r9.8   5.  R1+1   e3+5   6.  R1.4   a4+5   
+7.  C8.9   c2+4   8.  R9.8   c2.3   9.  P5+1   c8+4   
+10. H3-5   r8+5   11. R8+7   r1.4   12. P3+1   r4+8   
+13. H7+5   c8+1   14. R4+1   c8.5   15. R4.5   k5.4   
+16. C9-2   r4-2   17. H+-3   r8.7   18. R8.7   k4.5   
+19. R7.8   h7+6   20. R5.4   r4-2   21. R4+1   c3+2   
+22. R8-6   c3.4   23. P5+1   r4.5   24. R8.6   r7+2   
+25. R4+2   r5+1   26. R4.8   a5-4   27. C9+6   a6+5   
+28. R6+7   }END
+
+
+FORMAT 	WXF
+GAME 	YAN Andrew(D)ÈîÎä¾ü,64
+TIME       ;
+RESULT     0.5-0.5
+RED        YAN Andrew ; NT ; Australia ; ÑÕÖÖÍú , ÃCºØ©ô¡@
+BLACK      ÈîÎä¾ü ; NT ; Vietnam ; ÈîÎä¾ü , ÈîÎä¾ü
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  P7+1   p7+1   5.  R2+6   a4+5   6.  C8.7   h7+6   
+7.  R2-2   e3+5   8.  R2.4   h6-7   9.  H8+9   c2+4   
+10. P3+1   p7+1   11. R4.3   h7+8   12. R9.8   r1.2   
+13. P9+1   r8+1   14. P7+1   p3+1   15. R3.8   r2+5   
+16. H9+8   c2.3   17. H8-9   c3-1   18. C5.6   a5-4   
+19. E7+5   r8.4   20. A6+5   c8.7   21. E3+1   r4+5   
+22. C6-2   c3.4   23. C7.6   r4.1   24. C-+4   r1+1   
+25. R8+4   h8+7   26. E1+3   r1+2   27. A5-6   r1-3   
+28. A4+5   r1.4   29. C+.4   r4-2   30. C4-4   r4.6   
+31. R8.6   a6+5   32. C6.8   c7+1   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN Cheng Kuo(W)Tjai Tjie Kiang,136
+TIME       ;
+RESULT     1-0
+RED        CHEN Cheng Kuo ; NT ; China-Taipei ; ³ÂÕñ¹ú , ³¯®¶°ê
+BLACK      Tjai Tjie Kiang ; NT ; Indonesia ; ²ÌÖ¾Ç¿ , ½²§Ó±j
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  P7+1   p7+1   2.  C2.3   c8.5   3.  C8.5   h2+3   
+4.  H8+7   r1.2   5.  R9.8   c2+4   6.  P3+1   e7+9   
+7.  P3+1   h8+6   8.  R1+1   r9.8   9.  H2+1   r8+5   
+10. R1.4   h6+8   11. P3+1   r8.7   12. P3.2   h8-7   
+13. R4+1   a4+5   14. C5-1   h7+6   15. E7+5   r7.8   
+16. P2.1   c2+1   17. P++1   c5.9   18. H1+3   e3+5   
+19. H3+4   e5+7   20. R4+1   c9-1   21. P5+1   r8+3   
+22. C3+2   h6+8   23. C3.1   a5+6   24. P5+1   a6+5   
+25. P5+1   c9.6   26. P5.4   c2-4   27. C1.5   k5.6   
+28. H4-6   c2.6   29. R8+9   h3-2   30. H6+5   c+.7   
+31. R4.8   c7-3   32. C-.8   h2+4   33. H5+6   c6.4   
+34. A4+5   r8-3   35. C5+2   e7-5   36. C5.9   h8+6   
+37. R8.4   r8-1   38. R4+1   h6-7   39. R4-1   r8.2   
+40. C8.9   h7+8   41. C+-1   c7+4   42. C+.3   r2.7   
+43. H7+6   p3+1   44. P7+1   r7.3   45. H6+4   r3.5   
+46. A5+6   c4.2   47. C9.8   c2+4   48. P1+1   c2.5   
+49. A6-5   k6.5   50. P1+1   h8-6   51. H4+2   h6-4   
+52. H2-3   r5.7   53. R4.5   h4+3   54. K5.4   r7.6   
+55. A5+4   r6.4   56. A4-5   r4.6   57. K4.5   r6.7   
+58. P1+1   r7.8   59. P1.2   r8+5   60. A5-4   r8-5   
+61. A6+5   e5-3   62. P2.3   r8.6   63. H3+2   r6.8   
+64. H2+3   k5.6   65. C8+5   c5-2   66. P3.4   c5.4   
+67. R5.1   h3-2   68. R1+6   k6+1   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN LiFeng 
+(W)ÕÅ¾´ºÍ,87
+TIME       ;
+RESULT     1-0
+RED        CHEN LiFeng 
+ ; NT ; China-Taipei ; ³ÂÁ¢·á , ³¯¥ßÂ×
+BLACK      ÕÅ¾´ºÍ ; NT ; Indonesia ; ÕÅ¾´ºÍ , ÕÅ¾´ºÍ
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P7+1   p7+1   5.  C8.6   r1.2   6.  H8+7   c2.1   
+7.  H7+6   e7+5   8.  R9+2   r2+6   9.  R2+6   r2.4   
+10. H6+5   h3+5   11. C5+4   a6+5   12. A6+5   r9.8   
+13. R2.3   c6-2   14. C5-1   r4-2   15. C5-1   p7+1   
+16. P3+1   c6.7   17. R3.7   h7+6   18. R7.3   r4+2   
+19. C6.7   r4.3   20. E7+5   c7+2   21. P3+1   h6+7   
+22. C5+1   c1.3   23. C7.6   r8+8   24. C6+5   c7.6   
+25. C6.4   c3.6   26. R9.6   k5.6   27. R3.4   c6-1   
+28. R4.1   c6.7   29. R1.4   c7.6   30. R6+4   h7+9   
+31. R4.1   h9+7   32. K5.6   r8-8   33. P3+1   r3.1   
+34. P3+1   r1+3   35. K6+1   c6+7   36. A5+6   k6.5   
+37. P3+1   r8.6   38. R1+2   r1-1   39. K6-1   r1+1   
+40. K6+1   r6+4   41. R1+1   r6-4   42. R1.4   k5.6   
+43. R6.4   k6.5   44. P3+1   }END
+
+
+FORMAT 	WXF
+GAME 	DAO Cao Khoa(W)ZHANG Gao Yang,33
+TIME       ;
+RESULT     1-0
+RED        DAO Cao Khoa ; NT ; Vietnam ; ÌÕ¸ß¿Æ , ³³°ª¬ì
+BLACK      ZHANG Gao Yang ; NT ; Australia ; ÕÅ¸ßÑï , ±i°ª´­
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  H8+9   p1+1   5.  C8.7   r1.2   6.  R9.8   p7+1   
+7.  R2+6   c8.9   8.  R2.3   r8+2   9.  P7+1   c2+4   
+10. P5+1   e3+5   11. P7+1   e5+3   12. P5+1   c9-1   
+13. P5.6   h3-5   14. P6.7   p3+1   15. R3-1   r2+5   
+16. P9+1   p1+1   17. H9+8   
+/*<b10 Black run out of time>*/}END
+
+
+FORMAT 	WXF
+GAME 	SUWANDI Eddy(D)WU Kui Lin,151
+TIME       ;
+RESULT     0.5-0.5
+RED        SUWANDI Eddy ; NT ; Indonesia ; ²ÌµÂ»³ , ½²¼wÃh
+BLACK      WU Kui Lin ; IGM ; China-Taipei ; Îâ¹óÁÙ , §d¶QÁ{
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+4   
+7.  R2+4   h7+6   8.  P9+1   p7+1   9.  R2.3   c8.5   
+10. R3.4   h6+8   11. A6+5   p3+1   12. H9+8   h8+7   
+13. C7.3   c2.5   14. P1+1   c+-1   15. R8+2   r2+3   
+16. H8-6   r2+4   17. C3.8   r8+4   18. H6-4   c++1   
+19. H4+5   r8.4   20. R4-1   r4+4   21. R4.5   h3+4   
+22. R5.4   c5+3   23. C8+3   h4-3   24. C8+1   r4.3   
+25. R4.5   r3+1   26. A5-6   c5+2   27. E3+5   r3.1   
+28. R5+1   e3+5   29. P3+1   r1-3   30. C8.7   r1.2   
+31. P7+1   p9+1   32. P7+1   e5+3   33. R5.7   e7+5   
+34. C7.6   p9+1   35. P3+1   r2.4   36. C6.8   p9+1   
+37. P3.4   r4.6   38. R7.6   r6-2   39. R6+3   h3+2   
+40. R6-4   e5-3   41. R6.1   e3-5   42. R1.5   p5+1   
+43. C8.7   h2-4   44. R5.6   h4-6   45. R6+1   h6+7   
+46. R6.3   a6+5   47. A4+5   k5.6   48. C7.2   r6+2   
+49. C2-2   h7-5   50. R3.7   h5+3   51. C2+1   r6-2   
+52. C2-2   h3+5   53. C2.9   r6-1   54. E5-7   h5+7   
+55. R7-1   h7-5   56. R7.5   r6.3   57. E7+9   k6.5   
+58. A5-4   r3.5   59. E9+7   h5-3   60. C9-2   p5+1   
+61. R5-1   h3+1   62. C9+5   p5+1   63. R5.9   h1+3   
+64. R9-1   p5.6   65. A6+5   h3-5   66. R9+1   r5.2   
+67. R9-2   p6+1   68. C9-4   r2+2   69. R9.7   p6+1   
+70. C9.6   r2+3   71. C6-2   r2-1   72. C6+1   h5+7   
+73. R7+3   r2+2   74. C6-1   h7-5   75. R7.5   h5-7   
+76. R5-1   }END
+
+
+FORMAT 	WXF
+GAME 	LAU VengTak(L)JIRAPARKDEEPAN Vithaya,36
+TIME       ;
+RESULT     0-1
+RED        LAU VengTak ; FM ; China-Macau ; ÁõÓÀµÂ , ¼B¥Ã¼w
+
+BLACK      JIRAPARKDEEPAN Vithaya ; FM ; Thailand ; ÂíÎäÁ® , °¨ªZ·G
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P7+1   r9+1   5.  P3+1   r9.4   6.  C5.4   c2.1   
+7.  H8+7   r1.2   8.  H3+4   r2+4   9.  R2+6   p3+1   
+10. R2.3   c6+5   11. C8.4   p3+1   12. P3+1   p3+1   
+13. H7-5   h3+4   14. H4+6   r2.4   15. E7+5   e7+5   
+16. C4+3   e5+7   17. C4-2   p3.4   18. R3+1   c1.5   }END
+
+
+FORMAT 	WXF
+GAME 	LAY Kan Hock(L)WAN ChunLin,94
+TIME       ;
+RESULT     0-1
+RED        LAY Kan Hock ; ICM ; Mailaysia West ; Àè½ð¸£ , ¾¤ª÷ºÖ
+BLACK      WAN ChunLin ; CM ; China-Shanghai ; Íò´ºÁÖ , ¸U¬KªL
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  P7+1   c8.6   3.  H8+7   h8+7   
+4.  H7+6   a4+5   5.  H2+3   r9.8   6.  R1+1   e3+5   
+7.  R1.4   p7+1   8.  C8+2   p3+1   9.  P7+1   r1.4   
+10. R4+3   e5+3   11. H6+8   h3+4   12. R4.7   c2+3   
+13. R7.8   r8+6   14. A6+5   c6.4   15. C5.8   r8.7   
+16. E7+5   r4.2   17. P9+1   e7+5   18. P9+1   c4.2   
+19. H8+7   h4-3   20. C8+5   r7+1   21. P9+1   h7+6   
+22. P9.8   h3+4   23. C8.9   r2.1   24. C9+1   r7-1   
+25. P8+1   e3-1   26. R8+1   r1+1   27. R8.6   h6-7   
+28. P8.9   r1-1   29. P9+1   r1.4   30. R6.8   r7.5   
+31. P9.8   r5.3   32. R9+8   r4.3   33. P1+1   r+-2   
+34. R8-1   p5+1   35. A5-6   h7+5   36. A4+5   h5-3   
+37. R9-1   r+-1   38. R8+3   e5+3   39. R9+1   h3+5   
+40. R8.1   p5+1   41. R1-1   h5+4   42. R1+2   p5+1   
+43. R1.4   p5+1   44. E3+5   h4+5   45. R4-6   h5+3   
+46. K5.4   e3-5   47. P1+1   p7+1   }END
+
+
+FORMAT 	WXF
+GAME 	LING Lee Kiong(L)HUANG JunMing,64
+TIME       ;
+RESULT     0-1
+RED        LING Lee Kiong ; NT ; Malaysia East ; ÁÖÀûÇ¿ , ÁÖÀûÇ¿
+BLACK      HUANG JunMing ; NT ; Singapore ; »Æ¿¡Ãú , ¶À«T»Ê
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  H2+3   p7+1   2.  P9+1   h8+7   3.  H8+9   h2+3   
+4.  H9+8   c2+5   5.  C2.8   p3+1   6.  R1.2   r9.8   
+7.  R2+6   h7+6   8.  R2-1   e7+5   9.  P3+1   h6-7   
+10. R2-1   p7+1   11. R2.3   h7+8   12. E7+5   r1+1   
+13. A6+5   r1.4   14. P9+1   p1+1   15. R9+5   r4+7   
+16. H8+9   r8+1   17. H9+7   c8.3   18. R3.2   r8.2   
+19. C8+3   h8-7   20. C8-1   h7+6   21. R2.4   h6+4   
+22. R9-1   h4+2   23. A5+6   r4.7   24. H3-5   r2.4   
+25. C8.6   c3+4   26. E5-7   c3-1   27. C6-1   h2+3   
+28. K5.6   h3-4   29. E7+9   h4+2   30. R9.8   r4+6   
+31. K6.5   a4+5   32. H5+4   r7.1   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN WanWei(W)ÂÞÎ°ÐÛ,55
+TIME       ;
+RESULT     1-0
+RED        CHEN WanWei ; NT ; Philippines ; ³ÂÍòÍþ , ³¯¸U«Â
+BLACK      ÂÞÎ°ÐÛ ; NT ; Brunei ; ÂÞÎ°ÐÛ , ÂÞÎ°ÐÛ
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  C8.9   c9.7   9.  R3.4   r1.2   
+10. R9.8   e3+5   11. H7+6   r8+5   12. P3+1   r8.7   
+13. H3+4   c2+3   14. E3+1   r7.8   15. H6+5   h7+5   
+16. H4+5   h3+5   17. C5+4   r8.3   18. E7+5   r3+1   
+19. P5+1   r3.1   20. R8+2   r1.9   21. A4+5   c2+1   
+22. C9+1   c2-5   23. C9-2   p1+1   24. K5.4   k5.4   
+25. C9.6   r2.1   26. R8.6   c2.4   27. R4+2   r1+1   
+28. R4.3   }END
+
+
+FORMAT 	WXF
+GAME 	Ò¶ººÃñ(D)GUO YuLong,56
+TIME       ;
+RESULT     0.5-0.5
+RED        Ò¶ººÃñ ; NT ; Thailand ; Ò¶ººÃñ , Ò¶ººÃñ
+BLACK      GUO YuLong ; NT ; China-Macau ; ¹ùÔ£Â¡ , ³¢¸Î¶©
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c2.5   5.  H8+7   r1+1   6.  R9.8   r1.8   
+7.  P7+1   c8.7   8.  C8+1   r++8   9.  H3-2   c7.2   
+10. R8+3   r8+9   11. R8+6   r8.7   12. R8.7   r7-4   
+13. R7-3   p7+1   14. C5-1   r7+2   15. H7+6   r7.4   
+16. H6+5   c5+4   17. E7+5   h7+6   18. C5+2   h6+5   
+19. H5-3   r4.5   20. A6+5   a6+5   21. P7+1   h5-3   
+22. R7.9   h3+4   23. K5.6   h4+2   24. K6.5   h2-4   
+25. K5.6   h4+2   26. K6.5   r5.3   27. R9.6   r3-3   
+28. H3+1   h2-1   }END
+
+
+FORMAT 	WXF
+GAME 	SHOSHI Kazuharo(L)LEUNG TatMan,84
+TIME       ;
+RESULT     0-1
+RED        SHOSHI Kazuharo ; NT ; Japan ; ËùË¾ºÍÇç , ©Ò¥q©M´¸
+BLACK      LEUNG TatMan ; NT ; China-Hong Kong ; Áº´ïÃñ , ±ç¹F¥Á
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   p7+1   5.  H8+7   r1.2   6.  P7+1   h7+6   
+7.  R9.8   e7+5   8.  R8+6   a6+5   9.  C5-1   c6.7   
+10. R2+4   r9.6   11. R2.4   p3+1   12. P7+1   e5+3   
+13. R8.7   e3+5   14. H7+8   c2-1   15. R7.8   p7+1   
+16. R4.3   c2+4   17. R8+3   h3-2   18. R3.8   h6+5   
+19. E7+5   c7+5   20. C5+2   c7.4   21. R8+5   r6+6   
+22. C5.8   p5+1   23. A6+5   c4.1   24. C8-2   c1+2   
+25. R8-7   p1+1   26. P3+1   p5+1   27. P1+1   a5+4   
+28. R8.9   c1-3   29. C8.9   c1.5   30. R9+3   r6-3   
+31. R9-1   r6.5   32. R9.8   c5.8   33. C9+2   e3-1   
+34. R8.9   c8+3   35. C9+4   p5+1   36. E5-7   e5-3   
+37. C9-2   p5.6   38. R9-3   p6+1   39. C9-3   p6+1   
+40. C9.5   r5.3   41. E7+9   r3+4   42. C5+3   r3.5   }END
+
+
+FORMAT 	WXF
+GAME 	SUN YongZheng(D)HOR Weng Yeow,47
+TIME       ;
+RESULT     0.5-0.5
+RED        SUN YongZheng ; CM ; China-Shanghai ; ËïÓÂÕ÷ , ®]«i©º
+BLACK      HOR Weng Yeow ; IM ; Mailaysia West ; ºÎÈÙÒ« , ¦óºaÄ£
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   r9+1   3.  R1.2   h8+9   
+4.  H8+7   c8.6   5.  C8.9   r1.2   6.  R9.8   c2+4   
+7.  R2+7   c6.5   8.  P7+1   r9.4   9.  C5.4   c2.3   
+10. E7+5   r2+9   11. H7-8   c3.7   12. H8+7   p9+1   
+13. R2-3   a4+5   14. H3-2   r4+5   15. R2-1   c7-2   
+16. H2+3   p5+1   17. H3+4   r4-3   18. A4+5   c5.4   
+19. R2+1   e3+5   20. C9-2   p3+1   21. H4-2   c7.8   
+22. H2+4   c8.7   23. H4-2   c7.8   24. H2+4   }END
+
+
+FORMAT 	WXF
+GAME 	TAGUCHI F.(L)YUNG Tak Keung,46
+TIME       ;
+RESULT     0-1
+RED        TAGUCHI F. ; NT ; Japan ; Ìï¿Ú¸£·ò , ¥Ð¤fºÖ¤Ò
+BLACK      YUNG Tak Keung ; ICM ; China-Hong Kong ; ÎÌµÂÇ¿ , ¯Î¼w±j
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  P3+1   p3+1   5.  R2+5   e3+1   6.  C8+4   h2+3   
+7.  H8+7   r9.4   8.  P9+1   r4+2   9.  C8-2   r4+2   
+10. C8-2   r4.7   11. C5-1   p7+1   12. R2-1   r7.8   
+13. H3+2   p7+1   14. H2+3   h3+4   15. H3+5   e7+5   
+16. P9+1   c2.3   17. R9+4   r1.2   18. C8+3   p3+1   
+19. C5.8   p3.2   20. H7-5   r2+4   21. C8+4   p2.1   
+22. P9+1   h4+3   23. C8+3   h7+6   }END
+
+
+FORMAT 	WXF
+GAME 	ZHENG YiTing(L)XIE Jing,54
+TIME       ;
+RESULT     0-1
+RED        ZHENG YiTing ; NT ; Mailaysia West ; Ö£ÞÈÍ¢ , ¾G«³§Ê
+BLACK      XIE Jing ; NT ; China-Shanghai ; Ð»¾¸ , ÁÂ¹t
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  C2.5   c8.5   2.  H2+3   r9+1   3.  C5+4   a4+5   
+4.  C8.5   h2+3   5.  C+-1   r9.6   6.  H8+7   r1.2   
+7.  R9.8   c2+4   8.  R1.2   h8+7   9.  A6+5   r6+5   
+10. C+.6   h7+5   11. R2+4   h5+6   12. C6-3   p3+1   
+13. C5+5   e3+5   14. E7+5   h3+5   15. P3+1   r6.7   
+16. H3-1   r7.5   17. R2-1   r5.8   18. H1+2   h6-4   
+19. C6+1   c2+2   20. H2-4   h4+3   21. H4+5   h5+6   
+22. H5+4   h6+4   23. H4+3   k5.4   24. R8.6   c2-2   
+25. H7-9   p3+1   26. H9+8   p3.4   27. R6.7   r2+6   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN Song(L)LEI Kam Fun,62
+TIME       ;
+RESULT     0-1
+RED        CHEN Song ; NT ; Thailand ; ³ÂËÉ , ³¯ªQ
+BLACK      LEI Kam Fun ; FM ; China-Macau ; Àî½õ»¶ , §õÀAÅw
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  H2+3   p7+1   2.  P7+1   h8+7   3.  H8+7   r9+1   
+4.  H7+6   e3+5   5.  C8.6   c8+3   6.  R9.8   c2.3   
+7.  R8+7   r9.3   8.  H6+7   h2+4   9.  C6.7   h4+3   
+10. C7+4   c3+3   11. R8-1   c3+1   12. P3+1   p7+1   
+13. H3+2   p7.8   14. E3+5   a4+5   15. R1.3   h7+6   
+16. C7.1   r1.4   17. C1+3   r4+6   18. R3+8   c3.5   
+19. A4+5   r3.4   20. K5.4   c5-1   21. C2.4   h6+7   
+22. C4.3   r-+3   23. R3.4   r-.6   24. R4-3   h7-6   
+25. R8.5   r4.6   26. C3.4   r6.9   27. C1-3   r9+3   
+28. K4+1   h6+7   29. C4.3   p8+1   30. R5.3   r9-2   
+31. R3.9   r9.7   }END
+
+
+FORMAT 	WXF
+GAME 	³ÂÖÒÓ¢(D)LAI Han Soon,92
+TIME       ;
+RESULT     0.5-0.5
+RED        ³ÂÖÒÓ¢ ; NT ; Malaysia East ; ³ÂÖÒÓ¢ , ³ÂÖÒÓ¢
+BLACK      LAI Han Soon ; NT ; Singapore ; ÀµººË³ , ¿àº~¶¶
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  C8.6   h3-5   8.  R3-1   e3+5   9.  R3.6   h5-3   
+10. C6+7   r1+1   11. R9+1   c2.4   12. C6.4   k5.6   
+13. R9.4   k6.5   14. H8+7   r8+6   15. R4+2   r1.2   
+16. R6+1   c9.7   17. P5+1   r8.7   18. R4.3   c7+5   
+19. H3+5   c7-3   20. R6-5   r2.6   21. R6.3   c7+1   
+22. P5+1   p5+1   23. C5+3   k5.6   24. A4+5   c4+1   
+25. E3+5   c4.5   26. C5+2   r6+1   27. C5.3   r6.7   
+28. H7+6   c5.6   29. H5+6   h3+5   30. H++4   h5+6   
+31. R3.4   r7.6   32. H6+7   r6-1   33. R4+4   e7+9   
+34. H7+5   h6-5   35. R4.8   r6+1   36. H5-7   c7-4   
+37. R8.2   h5+3   38. R2+1   h3-5   39. P7+1   r6+1   
+40. R2+2   r6.5   41. H7+6   r5-1   42. H6-7   r5+1   
+43. H7+6   r5-1   44. P7.6   k6.5   45. H6-7   r5+1   
+46. H7+9   c7+2   }END
+
+
+FORMAT 	WXF
+GAME 	TRAN Huu-Ngang(L)Èî»ÆÁÖ,112
+TIME       ;
+RESULT     0-1
+RED        TRAN Huu-Ngang ; NT ; Australia ; ³ÂÓÑ°² , ³¯¤Í¦w
+
+BLACK      Èî»ÆÁÖ ; NT ; Vietnam ; Èî»ÆÁÖ , Èî»ÆÁÖ
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  P3+1   p3+1   2.  H2+3   h2+3   3.  H8+9   e7+5   
+4.  C8.6   r1.2   5.  R9.8   c2+5   6.  E3+5   c8+4   
+7.  R1+1   h8+7   8.  R1.7   c8.7   9.  P7+1   r9.8   
+10. C2-2   r8+4   11. P7+1   r8.3   12. R7+4   e5+3   
+13. R8+1   c7.1   14. R8.7   e3+5   15. R7+2   c2-1   
+16. R7+1   c2.9   17. C6+4   c9-2   18. R7.4   r2+3   
+19. R4+3   h3-5   20. C6-5   p5+1   21. R4+1   p7+1   
+22. P3+1   e5+7   23. R4-4   e3-5   24. C6.4   p1+1   
+25. C2.3   r2.8   26. C4.7   h5+3   27. H9+7   h7+5   
+28. R4.6   h5+3   29. C7+4   e5+3   30. C3+5   c9+5   
+31. E5-3   r8.7   32. C3-1   c9-4   33. R6+3   r7+2   
+34. R6.7   r7+2   35. R7-2   r7+2   36. R7.9   c9+4   
+37. K5+1   r7-1   38. K5+1   r7-4   39. R9-2   c9-3   
+40. R9+3   c9.3   41. R9.1   c3-4   42. K5-1   a4+5   
+43. R1.5   c3.8   44. K5.6   r7.6   45. A6+5   c8+6   
+46. K6-1   p5+1   47. P5+1   r6.4   48. A5+6   r4+3   
+49. K6.5   r4.3   50. P5+1   r3+2   51. K5+1   r3-1   
+52. K5-1   r3-4   53. A4+5   c8-6   54. K5.4   c8.4   
+55. K4.5   k5.4   56. K5.4   k4+1   }END
+
+
+FORMAT 	WXF
+GAME 	ÍõÃ÷Ç¿(W)LUM Tek Sim,69
+TIME       ;
+RESULT     1-0
+RED        ÍõÃ÷Ç¿ ; NT ; Philippines ; ÍõÃ÷Ç¿ , ÍõÃ÷Ç¿
+BLACK      LUM Tek Sim ; NT ; Brunei ; ÁÖµÂÐÇ , ªL¼w¬P
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  P7+1   p7+1   2.  C2.3   c8.5   3.  P3+1   c5+4   
+4.  H8+7   c5-2   5.  P3+1   h8+9   6.  P3.4   c5.1   
+7.  C8.9   c2.5   8.  E3+5   h2+1   9.  P9+1   c1+3   
+10. R9+2   r9.8   11. R9+1   r1+1   12. H2+4   r1.4   
+13. R9.3   r4+7   14. H4+5   r4-2   15. C3+7   a6+5   
+16. R1.3   p9+1   17. A4+5   h9+8   18. R+.2   c5.2   
+19. C3-6   r4-4   20. H5+3   h8-7   21. R2+6   h7-8   
+22. R3.2   h8+9   23. H7+5   c2+1   24. H3+1   h1-3   
+25. C3+6   h3+5   26. C3.1   h5-7   27. R2+9   a5-6   
+28. R2-1   a6+5   29. P1+1   c2-1   30. H5+3   r4.6   
+31. P4+1   h7+6   32. R2+1   r6-2   33. R2.4   k5.6   
+34. H3+4   c2.1   35. H1+2   }END
+
+
+FORMAT 	WXF
+GAME 	WONG Hok Him(W)YAMAZAKI Hideo,61
+TIME       ;
+RESULT     1-0
+RED        WONG Hok Him ; NT ; China-Hong Kong ; »ÆÑ§Ç« , ¶À¾ÇÁ¾
+BLACK      YAMAZAKI Hideo ; NT ; Japan ; É½ÆéÐã·ò , ¤s±T¨q¤Ò
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+2   
+7.  R2+6   h7+6   8.  R8+4   e3+5   9.  P9+1   p3+1   
+10. R2-3   a4+5   11. C7-1   h6+7   12. C5.7   h7-8   
+13. R2+2   p3+1   14. R8+1   h3+2   15. C++2   h2+4   
+16. P5+1   r2+7   17. H3+4   p5+1   18. C-.2   r2.6   
+19. H4-5   h4+5   20. E3+5   p5+1   21. C2+6   p5+1   
+22. R2+1   p5+1   23. H9+8   r8+1   24. E7+5   r6.5   
+25. A4+5   p7+1   26. C7+4   a5-4   27. C7-2   r8.7   
+28. H8+6   p7.8   29. C2.4   r5-3   30. H6+8   r5.6   
+31. C7.5   }END
+
+
+FORMAT 	WXF
+GAME 	Ò¦½Ý·¼(W)Áº¹úÒê,77
+TIME       ;
+RESULT     1-0
+RED        Ò¦½Ý·¼ ; NT ; Singapore ; Ò¦½Ý·¼ , Ò¦½Ý·¼
+BLACK      Áº¹úÒê ; NT ; Malaysia East ; Áº¹úÒê , Áº¹úÒê
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R3
+AUTHOR     Felix Tan
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  R9+1   h2+3   
+4.  E3+5   e3+5   5.  R9.3   c2-1   6.  P3+1   p7+1   
+7.  R3+3   h7+6   8.  R3.4   h6-7   9.  R4+2   r9+2   
+10. H2+3   a4+5   11. H3+4   c8-1   12. H4+6   r1.3   
+13. H7+8   p3+1   14. P7+1   h3+4   15. P7.6   r3+6   
+16. C8+6   c8.2   17. R4.3   r3.5   18. C2.3   h7-9   
+19. R1.2   r9.6   20. R2+4   r6+4   21. C3-1   r6+2   
+22. A4+5   p5+1   23. P6.5   r5-2   24. H8+7   r5.7   
+25. R3-1   e5+7   26. C3+3   c2.3   27. C3.5   e7-5   
+28. R2+1   r6-3   29. R2.5   c3+1   30. H7-8   h9+8   
+31. H8+6   c3+2   32. R5+1   r6.8   33. H6+4   c3-3   
+34. R5.7   k5.4   35. R7+2   r8.6   36. R7-2   h8+6   
+37. C5+1   r6.4   38. C5.6   h6-8   39. R7.9   }END
+
+
+FORMAT 	WXF
+GAME 	Tjai Tjie Kiang(W)ÍõÃ÷Ç¿,111
+TIME       ;
+RESULT     1-0
+RED        Tjai Tjie Kiang ; NT ; Indonesia ; ²ÌÖ¾Ç¿ , ½²§Ó±j
+BLACK      ÍõÃ÷Ç¿ ; NT  ; Philippines ; ÍõÃ÷Ç¿ , ÍõÃ÷Ç¿
+DATE       11/24/2004
+PLACE      China BeiJing
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c2.5   5.  H3+4   h2+3   6.  P3+1   r1.2   
+7.  C8.6   c8.3   8.  R2+9   h7-8   9.  H8+9   c3-1   
+10. P3+1   r2+4   11. R9.8   r2.6   12. H4-3   a6+5   
+13. C5-1   c3+2   14. C5+1   c3-2   15. C6.7   h8+9   
+16. P3.2   h9-7   17. P2.3   r6.7   18. C5.6   r7-1   
+19. E7+5   c3-1   20. A6+5   c5.6   21. H3+4   r7+1   
+22. C7+4   e7+5   23. H9+7   c6+1   24. R8+6   p5+1   
+25. R8+1   c6-1   26. C6+6   h7+6   27. H4-6   c3+1   
+28. R8-3   e3+1   29. R8.7   p5+1   30. P5+1   r7.4   
+31. H6+5   r4-3   32. H5+4   a5+6   33. C7.1   h3+2   
+34. R7.8   h2+4   35. R8+2   h6+4   36. R8.2   r4+1   
+37. H7+6   r4+2   38. E5+7   p1+1   39. P1+1   e1-3   
+40. R2-3   r4.7   41. E3+5   h4-5   42. R2+6   k5+1   
+43. R2.6   h5+3   44. R6-5   r7-1   45. C1-1   p1+1   
+46. P9+1   h3+1   47. P5+1   k5-1   48. P5.4   a6-5   
+49. R6.2   r7.9   50. R2+5   a5-6   51. R2-6   a6+5   
+52. P4.5   h1-2   53. R2.5   h2-4   54. P5+1   h4+3   
+55. P5+1   e3+5   56. R5+4   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN Cheng Kuo(W)TRAN Huu-Ngang,95
+TIME       ;
+RESULT     1-0
+RED        CHEN Cheng Kuo ; NT ; China-Taipei ; ³ÂÕñ¹ú , ³¯®¶°ê
+BLACK      TRAN Huu-Ngang ; NT ; Australia ; ³ÂÓÑ°² , ³¯¤Í¦w
+
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  P7+1   p7+1   2.  C2.3   e7+5   3.  H2+1   h8+7   
+4.  R1.2   r9.8   5.  R2+4   c8.9   6.  R2+5   h7-8   
+7.  C8.5   h2+3   8.  R9+1   h8+7   9.  H8+7   r1.2   
+10. P3+1   c2.1   11. P3+1   e5+7   12. H1+3   r2+4   
+13. R9.4   r2.4   14. R4+5   h7-8   15. H3+5   a4+5   
+16. A4+5   c9.6   17. C3.2   e7-9   18. C2+4   e9-7   
+19. C2.5   h3+5   20. R4.5   e3+5   21. R5.7   r4.5   
+22. P7+1   p9+1   23. H7+8   c1.4   24. P7.6   r5.8   
+25. H5+4   r8.7   26. E3+1   h8+7   27. P5+1   h7+6   
+28. P5+1   h6+7   29. E1+3   h7+5   30. E7+5   p1+1   
+31. R7.9   c4.3   32. H8+7   a5-4   33. R9-1   r7-1   
+34. P5+1   c6.9   35. P6+1   c3.2   36. R9.8   c2.3   
+37. R8.1   c3-1   38. R1.2   c9.6   39. P1+1   c3.9   
+40. P1+1   a4+5   41. P9+1   e5-3   42. P9+1   e7+9   
+43. P9.8   e9+7   44. R2+3   c9+1   45. H4-5   c6+2   
+46. P5.4   r7-3   47. P1+1   c9.5   48. P6+1   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN LiFeng 
+(L)YAN Andrew,52
+TIME       ;
+RESULT     0-1
+RED        CHEN LiFeng 
+ ; NT ; China-Taipei ; ³ÂÁ¢·á , ³¯¥ßÂ×
+BLACK      YAN Andrew ; NT ; Australia ; ÑÕÖÖÍú , ÃCºØ©ô¡@
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   h7+6   6.  H8+7   e3+5   
+7.  C8.9   r1.2   8.  R9.8   c2+4   9.  R2.4   h6+7   
+10. H7+6   c8+4   11. R8+2   a4+5   12. H6+5   h3+5   
+13. C5+4   c8+1   14. H3-5   c8.1   15. E7+9   h7+8   
+16. H5+4   r8+4   17. H4+5   r2+4   18. H5+7   r8+2   
+19. P5+1   r8.4   20. C5.1   r4.5   21. A4+5   r5.9   
+22. R8.2   c2.5   23. A5-4   r9+2   24. H7+9   r2-2   
+25. C1.3   h8+6   26. R2.6   h6-5   }END
+
+
+FORMAT 	WXF
+GAME 	CHIU Yu Kuen(W)ZHENG YiTing,113
+TIME       ;
+RESULT     1-0
+RED        CHIU Yu Kuen ; IM ; China-Hong Kong ; ÕÔÈêÈ¨ , »¯¦¼Åv
+BLACK      ZHENG YiTing ; NT ; Mailaysia West ; Ö£ÞÈÍ¢ , ¾G«³§Ê
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+7   a4+5   5.  C8.9   r1.2   6.  R9.8   p7+1   
+7.  R2+6   h7+6   8.  R8+6   e3+5   9.  P7+1   p7+1   
+10. R2-1   h6-7   11. R2-2   p7.6   12. H7+6   c8+1   
+13. R2+1   p3+1   14. R8-2   p3+1   15. R8.7   h3+4   
+16. C9.6   r2.4   17. C6+3   r4+4   18. C5.6   r4.7   
+19. R2.4   r7+2   20. R7.8   c2+1   21. E7+5   c8.6   
+22. R4.5   r8+4   23. H6+5   c2.4   24. R8+5   c4-3   
+25. R5.6   h7+5   26. R6.5   h5+3   27. R5.7   h3-5   
+28. R7.5   h5-3   29. R8-3   c6.7   30. H3-5   r8.3   
+31. R5.3   r7-1   32. E5+3   c7-1   33. E3-5   p9+1   
+34. H5+3   c4.1   35. R8-3   h3+2   36. P5+1   c7+1   
+37. C6+4   c1+6   38. C6.5   p1+1   39. H3+4   c7.9   
+40. A6+5   c1+3   41. A5+6   p1+1   42. H4-3   p1+1   
+43. R8+1   p1+1   44. H3+5   c9+3   45. C5-1   h2-3   
+46. R8+2   c9.6   47. R8.4   c6+2   48. H5+7   c6.2   
+49. K5+1   c1-1   50. K5-1   c2-3   51. A4+5   c2-1   
+52. K5.4   c2.5   53. P5+1   p1.2   54. H7-8   r3.5   
+55. H8+7   r5.3   56. R4.1   a5+6   57. A5+4   
+/*<b10 Black run out of time>*/}END
+
+
+FORMAT 	WXF
+GAME 	CHONG Heung Ming(W)ÕÅ¾´ºÍ,77
+TIME       ;
+RESULT     1-0
+RED        CHONG Heung Ming ; NT ; Philippines ; ×¯ºêÃ÷ , ÉÜ§»©ú
+BLACK      ÕÅ¾´ºÍ ; NT ; Indonesia ; ÕÅ¾´ºÍ , ÕÅ¾´ºÍ
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P3+1   p3+1   5.  H8+9   r9+1   6.  C8+4   e7+5   
+7.  R2+6   p1+1   8.  R9+1   a6+5   9.  R9.4   r1+3   
+10. C8.3   r1-2   11. R4+3   r1.4   12. P9+1   r4+6   
+13. R4.8   h3+4   14. A4+5   r4.3   15. R2-1   h4+3   
+16. H9+7   r3-1   17. P9+1   r3+3   18. C5+4   r3-4   
+19. R8.7   p3+1   20. C5.8   c6-2   21. H3+4   r9.6   
+22. H4+6   c6.7   23. R2+1   r6+3   24. C3+3   e5-7   
+25. H6+4   k5.6   26. R2.3   e3+5   27. E3+5   p3.4   
+28. P9+1   h7+5   29. P9+1   h5+6   30. P9.8   h6+5   
+31. A5+4   h5+3   32. K5+1   r6+3   33. K5.6   h3+1   
+34. K6.5   h1-2   35. K5-1   r6.5   36. A6+5   h2+3   
+37. C8.5   r5.7   38. P5+1   p4.5   39. C5-1   }END
+
+
+FORMAT 	WXF
+GAME 	DAO Cao Khoa(L)WAN ChunLin,36
+TIME       ;
+RESULT     0-1
+RED        DAO Cao Khoa ; NT ; Vietnam ; ÌÕ¸ß¿Æ , ³³°ª¬ì
+BLACK      WAN ChunLin ; CM ; China-Shanghai ; Íò´ºÁÖ , ¸U¬KªL
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  H8+7   c2.1   6.  P7+1   p7+1   
+7.  H7+6   e7+5   8.  R2+6   r2+6   9.  A6+5   a6+5   
+10. R2.3   r9.7   11. P7+1   r2-1   12. H6+4   p3+1   
+13. R3+1   r7+2   14. H4+3   p3+1   15. E7+9   c1+4   
+16. E9+7   c1.7   17. E3+1   c7-4   18. R9.7   r2+1   }END
+
+
+FORMAT 	WXF
+GAME 	GUO YuLong(W)TAGUCHI F.,81
+TIME       ;
+RESULT     1-0
+RED        GUO YuLong ; NT ; China-Macau ; ¹ùÔ£Â¡ , ³¢¸Î¶©
+BLACK      TAGUCHI F. ; NT ; Japan ; Ìï¿Ú¸£·ò , ¥Ð¤fºÖ¤Ò
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   p3+1   3.  R1.2   r9.8   
+4.  H8+9   h2+3   5.  P3+1   e3+5   6.  C8+4   p7+1   
+7.  P3+1   e5+7   8.  R9+1   a4+5   9.  R9.6   p1+1   
+10. R2+4   h3+2   11. C8.1   e7+5   12. C1.3   c8.9   
+13. R6+5   r8+5   14. H3+2   h2+1   15. R6.8   c2.4   
+16. C5.3   h1+3   17. R8.5   p1+1   18. H2+4   p1+1   
+19. H9-7   r1+5   20. E3+5   p1.2   21. R5.8   a5-4   
+22. H4+3   c4.7   23. C+.5   a6+5   24. C3+5   p2.3   
+25. C5-1   r1.6   26. R8.2   k5.6   27. A6+5   h3-5   
+28. R2+3   k6+1   29. R2-1   k6-1   30. R2+1   k6+1   
+31. R2-6   h5-6   32. C3.2   p++1   33. H7-9   h6-7   
+34. C5-2   k6-1   35. C2-3   h7+5   36. C2.3   r6.1   
+37. R2+6   k6+1   38. R2-3   h5-3   39. R2.4   a5+6   
+40. C3.4   h3+4   41. R4+1   }END
+
+
+FORMAT 	WXF
+GAME 	HOR Weng Yeow(D)YUNG Tak Keung,130
+TIME       ;
+RESULT     0.5-0.5
+RED        HOR Weng Yeow ; IM ; Mailaysia West ; ºÎÈÙÒ« , ¦óºaÄ£
+BLACK      YUNG Tak Keung ; ICM ; China-Hong Kong ; ÎÌµÂÇ¿ , ¯Î¼w±j
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  P7+1   e3+5   2.  C2.5   h8+7   3.  H2+3   r9.8   
+4.  R1.2   h2+4   5.  C8.7   p7+1   6.  R9+1   c8+4   
+7.  R2+1   r1.2   8.  H8+9   c2+5   9.  R2.8   c2.5   
+10. R8+8   h4-2   11. E7+5   h7+6   12. R9.6   h6+5   
+13. H3+5   c8.5   14. A6+5   r8+1   15. R6+2   c5-2   
+16. C7+4   r8.2   17. R6+3   r2+6   18. C7.5   a6+5   
+19. C5.9   h2+3   20. C9+3   e5-3   21. C9-4   e7+5   
+22. P9+1   c5+2   23. P1+1   h3+2   24. R6.8   r2.3   
+25. K5.6   h2+3   26. H9+7   r3-1   27. R8.6   c5-2   
+28. C9+1   r3.7   29. C9.1   r7.6   30. E3+1   k5.6   
+31. R6-1   r6-3   32. C1+3   c5+1   33. R6-1   c5-1   
+34. P9+1   r6.2   35. E1-3   r2+6   36. K6+1   r2-6   
+37. C1-1   r2+5   38. K6-1   r2+1   39. K6+1   r2-6   
+40. C1.2   r2.8   41. C2.3   r8.2   42. R6+1   c5-1   
+43. P9.8   r2.1   44. R6.4   k6.5   45. R4+1   r1+5   
+46. K6-1   r1+1   47. K6+1   c5+1   48. R4-1   c5-1   
+49. P8+1   r1-3   50. R4.6   c5.8   51. P1+1   c8+5   
+52. A5+4   r1.6   53. R6-1   r6+1   54. R6.2   c8.9   
+55. P1.2   r6+1   56. K6-1   r6+1   57. K6+1   r6-1   
+58. K6-1   r6-7   59. C3-2   r6+2   60. P2.3   r6.2   
+61. R2+5   a5-6   62. R2-3   r2+6   63. K6+1   r2-1   
+64. K6-1   r2-4   65. C3.5   e5+7   }END
+
+
+FORMAT 	WXF
+GAME 	LAI Han Soon(L)JIRAPARKDEEPAN Vithaya,92
+TIME       ;
+RESULT     0-1
+RED        LAI Han Soon ; NT ; Singapore ; ÀµººË³ , ¿àº~¶¶
+BLACK      JIRAPARKDEEPAN Vithaya ; FM ; Thailand ; ÂíÎäÁ® , °¨ªZ·G
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. H3+5   r8+8   11. H8+7   p7+1   12. H5+6   e3+5   
+13. H6+7   r1.3   14. H+-5   h7+8   15. R4.3   h8+6   
+16. R3+2   h6+4   17. A4+5   h4+3   18. K5.4   h3+1   
+19. R3-5   r8-4   20. C8+3   r8.5   21. H5-7   r5+3   
+22. E3+5   p3+1   23. H7+5   r3+3   24. H5+3   p3+1   
+25. C8.5   h1-3   26. R3.4   k5.4   27. R4+3   r3.6   
+28. H3+4   p3.4   29. P1+1   c2+1   30. P9+1   c2.5   
+31. C5-2   h3-2   32. C5.1   h2-3   33. C1.9   a5+6   
+34. C9-3   c5.2   35. H4-2   c2-2   36. H2+3   c2.6   
+37. A5+4   c6+6   38. H3-4   p4+1   39. H4-2   c6-2   
+40. H2+1   p4.5   41. H1+2   p5.6   42. K4.5   p6+1   
+43. H2-3   c6-2   44. H3-4   h3+2   45. H4-6   p6+1   
+46. A6+5   c6.5   }END
+
+
+FORMAT 	WXF
+GAME 	Àî¹âÎä(L)LING Lee Kiong,80
+TIME       ;
+RESULT     0-1
+RED        Àî¹âÎä ; NT ; Brunei ; Àî¹âÎä , Àî¹âÎä
+BLACK      LING Lee Kiong ; NT ; Malaysia East ; ÁÖÀûÇ¿ , ÁÖÀûÇ¿
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   p9+1   3.  R1.2   h8+9   
+4.  P7+1   r9.8   5.  R2+4   c2+2   6.  H8+7   e3+5   
+7.  R9+1   c2.8   8.  R2.6   a6+5   9.  H7+8   c-.6   
+10. R9.4   p1+1   11. P5+1   p1+1   12. H8+7   p1+1   
+13. P5+1   c8-1   14. H3+5   p1.2   15. C8.9   r1+3   
+16. H7-8   r1+2   17. H8+7   p2+1   18. H5+6   r1-2   
+19. H6+5   e7+5   20. H7+5   c8-2   21. C9-1   r1-2   
+22. C9.5   c8.6   23. R4.3   r8+4   24. C-.6   r8.5   
+25. R3.2   r5.8   26. R2+4   h9+8   27. P7+1   h8+7   
+28. P7+1   h7+5   29. E3+5   h3-2   30. C6.5   r1+1   
+31. E5-3   r1+4   32. R6.5   h2+4   33. H5+7   c-.7   
+34. C5+5   k5.6   35. C5.4   c7.6   36. C4+2   k6+1   
+37. P7.6   r1.9   38. R5-2   p2+1   39. R5.6   r9.3   
+40. H7-8   h4+2   }END
+
+
+FORMAT 	WXF
+GAME 	LEI Kam Fun(W)YAMAZAKI Hideo,77
+TIME       ;
+RESULT     1-0
+RED        LEI Kam Fun ; FM ; China-Macau ; Àî½õ»¶ , §õÀAÅw
+BLACK      YAMAZAKI Hideo ; NT ; Japan ; É½ÆéÐã·ò , ¤s±T¨q¤Ò
+DATE       11/24/2004
+PLACE      China BeiJing
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  H8+7   p3+1   2.  P3+1   h2+3   3.  H2+3   r1+1   
+4.  C2.1   h8+9   5.  C8.9   c2+2   6.  R9.8   r9.8   
+7.  R8+4   e3+5   8.  P9+1   r1.6   9.  E3+5   r6+5   
+10. P7+1   p3+1   11. R8.7   c2-4   12. H7+6   r6+2   
+13. A4+5   c2.3   14. C9-1   r6-5   15. R7.8   c8.6   
+16. P1+1   r8+7   17. C9+1   p7+1   18. P3+1   c3+9   
+19. E5-7   r8.7   20. P3.4   r6.8   21. E7+5   r7-1   
+22. R8-1   h9-7   23. C1.4   c6.9   24. C9+1   r7.8   
+25. C4-2   r+-1   26. H6+7   e5-3   27. R1.3   h7+5   
+28. R3+9   a4+5   29. R3-2   r--1   30. R3.2   r8-3   
+31. R8.7   h5+7   32. P4.3   h7-8   33. H7-6   c9+3   
+34. R7+3   r8.6   35. H6+4   r6.4   36. C9.7   h3-1   
+37. R7.9   e3+1   38. R9.5   h8+6   39. C4+7   }END
+
+
+FORMAT 	WXF
+GAME 	LEUNG TatMan(L)LAY Kan Hock,143
+TIME       ;
+RESULT     0-1
+RED        LEUNG TatMan ; NT ; China-Hong Kong ; Áº´ïÃñ , ±ç¹F¥Á
+BLACK      LAY Kan Hock ; ICM ; Mailaysia West ; Àè½ð¸£ , ¾¤ª÷ºÖ
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   p1+1   8.  P9+1   r1+5   9.  R2+4   e7+5   
+10. R9.4   a6+5   11. R4+5   h2+1   12. C7-1   c2+3   
+13. P5+1   c2-2   14. R4+2   c2-2   15. R4-2   c2+2   
+16. R4+2   c2-2   17. R4-2   r1.4   18. R4.3   c2+1   
+19. P3+1   c8.9   20. C7.3   r8.6   21. P5+1   r4+3   
+22. A6+5   r6+8   23. P5+1   c2+7   24. H9-8   h1+2   
+25. R2+5   h7-8   26. C5+5   e3+5   27. H3+5   r6.7   
+28. H5-6   r7-4   29. R3.1   e5-7   30. E3+5   h8+7   
+31. R1.2   h7+6   32. R2-2   h6+7   33. H6+8   r7-1   
+34. R2.3   r7+2   35. E5+3   c9+2   36. E7+5   c9.5   
+37. H++6   c5+2   38. H8+6   h2-4   39. K5.6   c5.9   
+40. H++7   c9+3   41. E5-3   h4-6   42. H7-5   h7-9   
+43. H5-4   h9+8   44. E3-1   h6-8   45. E1+3   c9-3   
+46. P7+1   c9.6   47. E3+1   c6-1   48. H6+5   h+-6   
+49. P7+1   c6.5   50. P7.6   h8-9   51. H5+7   c5.4   
+52. K6.5   h9-7   53. P6+1   h7+6   54. H7-6   h++8   
+55. H6+5   h8+9   56. H4+2   h6+5   57. H5+4   c4+1   
+58. H2+4   h9-7   59. K5.6   c4-1   60. H--5   h7-6   
+61. H4-5   h5+3   62. K6+1   c4.1   63. A5+4   c1-4   
+64. H-+7   c1.4   65. P6.7   h6-4   66. P7.6   h4+5   
+67. P6.7   h5+6   68. K6+1   h3-1   69. A4-5   h6-7   
+70. K6-1   h1-3   71. A5+4   h7-6   72. P5.4   }END
+
+
+FORMAT 	WXF
+GAME 	LIN HongMin(D)Èî»ÆÁÖ,52
+TIME       ;
+RESULT     0.5-0.5
+RED        LIN HongMin ; GM ; China-Shanghai ; ÁÖºêÃô , ªL§»±Ó
+BLACK      Èî»ÆÁÖ ; NT ; Vietnam ; Èî»ÆÁÖ , Èî»ÆÁÖ
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  R9+1   e3+5   
+4.  H2+3   r9+1   5.  R9.6   h2+3   6.  C2+4   h7+8   
+7.  C2.7   r1+1   8.  C8+3   h8+7   9.  R1.2   c8.7   
+10. R2+7   r1.7   11. R6.2   c2.1   12. A4+5   r7.2   
+13. P7+1   e5+3   14. C8.3   c7.4   15. R+-3   e3-5   
+16. C3+1   r2+6   17. R+.7   h3-2   18. C7.6   c4.3   
+19. C6-4   r2-3   20. E3+5   r9.7   21. R7.3   r2.3   
+22. H7-9   c1+4   23. R2+3   r3+4   24. C3-3   r7+4   
+25. R2.3   c1.7   26. R3-1   r3.1   }END
+
+
+FORMAT 	WXF
+GAME 	ÂÞÎ°ÐÛ(L)LING Lee Kiong,102
+TIME       ;
+RESULT     0-1
+RED        ÂÞÎ°ÐÛ ; NT ; Brunei ; ÂÞÎ°ÐÛ , ÂÞÎ°ÐÛ
+BLACK      LING Lee Kiong ; NT ; Malaysia East ; ÁÖÀûÇ¿ , ÁÖÀûÇ¿
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P7+1   p7+1   5.  C8.6   c2+6   6.  R9+2   r1.2   
+7.  R9.8   r2+7   8.  C5.8   r9.8   9.  R2+9   h7-8   
+10. E7+5   h8+7   11. C8+3   c6+4   12. P9+1   e3+5   
+13. C6.7   h7+6   14. P7+1   h6+4   15. P7+1   h4-2   
+16. P7+1   h2-3   17. C7+4   p9+1   18. H8+6   c2.3   
+19. C7-3   c6-5   20. C7.9   h3+4   21. P5+1   c6.1   
+22. H3+5   c3-4   23. C9+3   c1+4   24. H6+8   c1.2   
+25. H5-7   h4+3   26. C9.7   c3+3   27. C7-4   h3-5   
+28. C7-1   c2+1   29. C7.1   c2.9   30. C1+4   h5+7   
+31. H8-6   h7-5   32. C1.2   c9.6   33. C2-4   p7+1   
+34. C2.5   h5+6   35. C5.4   h6-8   36. C4.5   h8+7   
+37. C5.4   p7+1   38. A6+5   p5+1   39. H6+7   c6.4   
+40. K5.6   p7.6   41. H7+6   a4+5   42. H6+8   c4-5   
+43. H8+7   p5+1   44. E5-7   k5.4   45. H7-8   p5+1   
+46. H8-7   c4+4   47. H7+9   p5.4   48. K6.5   c4.7   
+49. K5.6   c7+4   50. K6+1   c7.3   51. H9-7   c3-1   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG JunMing(W)Ò¶ººÃñ,71
+TIME       ;
+RESULT     1-0
+RED        HUANG JunMing ; NT ; Singapore ; »Æ¿¡Ãú , ¶À«T»Ê
+BLACK      Ò¶ººÃñ ; NT ; Thailand ; Ò¶ººÃñ , Ò¶ººÃñ
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P3+1   c2+1   9.  P7+1   c8+2   
+10. R9.7   a4+5   11. H3+4   r1.4   12. P3+1   c2.7   
+13. H4+2   r8+4   14. R2+1   h7+8   15. P7+1   e5+3   
+16. H7+8   e7+5   17. H8+7   r4.2   18. C8.6   c7-2   
+19. C6+4   p9+1   20. R7+4   h8+7   21. R7-1   c7+7   
+22. A4+5   r2+4   23. C6-3   h7-6   24. P5+1   c7-5   
+25. P5+1   c7.5   26. H7-5   r2.5   27. R7+3   r5+2   
+28. C6+5   r5.1   29. C5+5   h6-5   30. R7.5   r1.9   
+31. R5-1   p1+1   32. C6-6   p1+1   33. C6.3   r9.7   
+34. C3.5   p1+1   35. R5.3   r7.5   36. R3-3   }END
+
+
+FORMAT 	WXF
+GAME 	Íõ·É»¢(D)LUM Tek Sim,62
+TIME       ;
+RESULT     0.5-0.5
+RED        Íõ·É»¢ ; NT ; Mailaysia West ; Íõ·É»¢ , Íõ·É»¢
+BLACK      LUM Tek Sim ; NT ; Brunei ; ÁÖµÂÐÇ , ªL¼w¬P
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   c8.9   6.  R2.3   r8+2   
+7.  C8.7   e3+5   8.  H8+9   c2+1   9.  R9.8   h3-1   
+10. R8+3   a4+5   11. R3.4   r1.4   12. C7.8   c2+4   
+13. R8-1   h1+3   14. R8+5   r4.3   15. C5.7   h7+8   
+16. R4.1   h8+7   17. A6+5   r8+6   18. P9+1   r3.4   
+19. C7.6   r4+4   20. R8-4   p3+1   21. P7+1   r4.3   
+22. R8.7   h3+4   23. R7+2   e5+3   24. E7+5   h4+6   
+25. R1.4   r8-3   26. H9+7   c9.3   27. H7+5   h7-5   
+28. R4-2   r8.6   29. H3+4   h5+3   30. H4+5   c3.1   
+31. H5-7   c1+3   }END
+
+
+FORMAT 	WXF
+GAME 	SHOSHI Kazuharo(D)LAU VengTak,57
+TIME       ;
+RESULT     0.5-0.5
+RED        SHOSHI Kazuharo ; NT ; Japan ; ËùË¾ºÍÇç , ©Ò¥q©M´¸
+BLACK      LAU VengTak ; FM ; China-Macau ; ÁõÓÀµÂ , ¼B¥Ã¼w
+
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  P7+1   p7+1   5.  R2+6   h7+6   6.  H8+7   p7+1   
+7.  R2-1   h6-7   8.  R2.3   c8-1   9.  P3+1   c8.7   
+10. R3.8   c2+5   11. C5.8   e7+5   12. E7+5   r8+4   
+13. R8.2   h7+8   14. H7+8   c7+6   15. C8.3   r1.2   
+16. R9.8   h8+6   17. C3+1   h6-4   18. H8-7   r2+9   
+19. H7-8   h4+5   20. C3-2   h5+7   21. P1+1   p5+1   
+22. C3.5   h7+5   23. A4+5   h3+5   24. H8+7   p5+1   
+25. H7+8   p3+1   26. H8+7   p3+1   27. E5+7   p5.6   
+28. E7-5   a6+5   29. H7-8   }END
+
+
+FORMAT 	WXF
+GAME 	SUWANDI Eddy(W)CHEN WanWei,75
+TIME       ;
+RESULT     1-0
+RED        SUWANDI Eddy ; NT ; Indonesia ; ²ÌµÂ»³ , ½²¼wÃh
+BLACK      CHEN WanWei ; NT ; Philippines ; ³ÂÍòÍþ , ³¯¸U«Â
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  R1.2   r9.8   
+4.  R2+6   h2+3   5.  P7+1   r1+1   6.  C8.7   e3+5   
+7.  R2.3   h7-5   8.  H8+9   c2+4   9.  P3+1   c8+4   
+10. H3+4   r1.4   11. P7+1   r4+6   12. C7+4   p7+1   
+13. H4+6   e5+3   14. C5+4   h3+5   15. R3.5   e7+5   
+16. H6+4   r8.7   17. C7+2   h5+7   18. R5.8   h7+6   
+19. A6+5   r4-4   20. R8.6   h6-4   21. H4+6   k5+1   
+22. C7.9   r7+3   23. E7+5   h4-2   24. R9.6   h2-3   
+25. H6+7   e5-3   26. R6+9   r7.5   27. P9+1   c2-2   
+28. R6.7   r5+3   29. R7-4   c8+3   30. H9+7   c2-2   
+31. H7+6   r5.4   32. H6+4   k5.4   33. R7.8   r4-3   
+34. H4-3   c2.5   35. R8.5   c5+1   36. H3+2   k4-1   
+37. C9.3   c5-3   38. C3-4   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN Song(D)Ò¦½Ý·¼,112
+TIME       ;
+RESULT     0.5-0.5
+RED        CHEN Song ; NT ; Thailand ; ³ÂËÉ , ³¯ªQ
+BLACK      Ò¦½Ý·¼ ; NT ; Singapore ; Ò¦½Ý·¼ , Ò¦½Ý·¼
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  H2+3   p7+1   2.  P7+1   h8+7   3.  H8+7   r9+1   
+4.  H7+6   r9.4   5.  H6+7   h2+3   6.  E3+5   r4+2   
+7.  C8.7   c2+4   8.  R9.8   r1.2   9.  C2+2   c2.3   
+10. R8+9   h3-2   11. C2.5   e3+5   12. R1.2   c8+2   
+13. H7-8   r4+5   14. C7.9   h2+3   15. A4+5   h3+4   
+16. C9.6   h4+2   17. C5.8   r4.2   18. C6+5   e5-3   
+19. C6-3   e3+5   20. P3+1   p7+1   21. E5+3   c8.7   
+22. E3-5   h7+6   23. C6.4   a4+5   24. H3+2   h6-4   
+25. H2+1   c3.4   26. R2+6   h4+3   27. R2.5   c7.5   
+28. C4.6   c5.3   29. A5+6   p1+1   30. A6+5   h3+4   
+31. A5+6   r2-3   32. C6.5   c4.2   33. E7+9   c3+2   
+34. E5+7   r2-1   35. R5.9   c3.1   36. R9.7   c2.3   
+37. E7-5   c1.5   38. E5-7   r2.5   39. R7-3   r5+1   
+40. K5.6   c5+3   41. H1+3   c5.8   42. R7.2   c8.7   
+43. H3-4   r5-2   44. R2.6   r5.6   45. R6+2   p1+1   
+46. P1+1   c7-8   47. P1+1   c7.6   48. H4-5   p1.2   
+49. R6.8   r6+3   50. R8.4   r6-2   51. H5+4   a5+6   
+52. H4+2   c6.4   53. A6-5   a6+5   54. H2-3   e5+7   
+55. P1.2   e7+9   56. K6.5   a5+4   }END
+
+
+FORMAT 	WXF
+GAME 	XIE Jing(W)TRUONG A Ming,115
+TIME       ;
+RESULT     1-0
+RED        XIE Jing ; NT ; China-Shanghai ; Ð»¾¸ , ÁÂ¹t
+BLACK      TRUONG A Ming ; ICM ; Vietnam ; ÕÅÑÇÃ÷ , ±i¨È©ú
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. H3+5   p7+1   11. H5+6   r8+8   12. H8+7   e3+5   
+13. H6+7   r1.3   14. H+-5   p3+1   15. C5-1   p3+1   
+16. C8-1   r8-2   17. E7+5   h7+8   18. R4.3   c2-1   
+19. R3-2   p7.6   20. C5.7   p3+1   21. A6+5   p6.5   
+22. C8+2   p5.4   23. R9.6   r8.6   24. R6+3   r6.4   
+25. C8.6   r3.4   26. C6+2   p3+1   27. C7.6   h8-6   
+28. R3.7   r4.2   29. P5.4   h6-8   30. R7-2   c2.3   
+31. R7+4   p1+1   32. C+.5   c3.4   33. P1+1   c7.9   
+34. R7-2   c9+1   35. A5-6   c4+5   36. H5-7   c4-5   
+37. H7+5   c4-1   38. C6.3   c4+2   39. H5-3   k5.4   
+40. H3+2   c4.8   41. R7.6   k4.5   42. E5+3   c8.7   
+43. C3+6   r2+6   44. E3-5   r2.6   45. R6.8   k5.4   
+46. R8+5   k4+1   47. C3+1   a5+4   48. R8.4   c9+3   
+49. R4-1   k4-1   50. C3-4   r6.4   51. R4-2   c9+1   
+52. C3.5   c9.1   53. R4+3   k4+1   54. R4-1   k4-1   
+55. C-+3   a4-5   56. A6+5   r4-4   57. C+-1   r4+1   
+58. R4.5   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG Gao Yang(L)WU Kui Lin,50
+TIME       ;
+RESULT     0-1
+RED        ZHANG Gao Yang ; NT ; Australia ; ÕÅ¸ßÑï , ±i°ª´­
+BLACK      WU Kui Lin ; IGM ; China-Taipei ; Îâ¹óÁÙ , §d¶QÁ{
+DATE       11/24/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R4
+AUTHOR     Felix Tan
+START{
+1.  C8.5   h2+3   2.  H8+7   r1.2   3.  R9.8   p3+1   
+4.  R8+6   h8+7   5.  P5+1   a6+5   6.  H2+3   p7+1   
+7.  R8.7   c2+4   8.  P5+1   r2+2   9.  H3+5   c8+1   
+10. R7-1   e7+5   11. R7-1   p5+1   12. R7.4   h3+2   
+13. R1+1   h2+3   14. R4+2   p5+1   15. H5+7   r2.3   
+16. R4.2   r3+3   17. C5-1   h7+6   18. E3+5   r3-1   
+19. C5.7   p5+1   20. C2+3   r9.6   21. R1.4   p5+1   
+22. E7+5   r3.5   23. C7.5   r5+3   24. R4+4   c2.7   
+25. R4+4   a5-6   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN LiFeng 
+(D)WAN ChunLin,27
+TIME       ;
+RESULT     0.5-0.5
+RED        CHEN LiFeng 
+ ; NT ; China-Taipei ; ³ÂÁ¢·á , ³¯¥ßÂ×
+BLACK      WAN ChunLin ; CM ; China-Shanghai ; Íò´ºÁÖ , ¸U¬KªL
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   p7+1   5.  H8+7   r9+1   6.  R9.8   r1.2   
+7.  R2+6   r9.4   8.  A4+5   a4+5   9.  R2.3   c6-1   
+10. R3.4   c6+1   11. R4.3   c6-1   12. R3.4   c6+1   
+13. R4.3   c6-1   14. R3.4   }END
+
+
+FORMAT 	WXF
+GAME 	SUWANDI Eddy(L)ZHANG Gao Yang,88
+TIME       ;
+RESULT     0-1
+RED        SUWANDI Eddy ; NT ; Indonesia ; ²ÌµÂ»³ , ½²¼wÃh
+BLACK      ZHANG Gao Yang ; NT ; Australia ; ÕÅ¸ßÑï , ±i°ª´­
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   p1+1   8.  P9+1   r1+5   9.  R2+4   e3+5   
+10. R9.6   a6+5   11. C7-1   r1+1   12. C7.9   r1.2   
+13. H3+4   c8+2   14. A4+5   r2+1   15. C5.3   h2+3   
+16. R6+2   h3+2   17. E3+5   r2-3   18. H9+7   r2.1   
+19. H7-8   r1+4   20. H8+6   c8.6   21. R2+5   h7-8   
+22. R6+2   c2+2   23. R6+1   r1-3   24. H4-6   h8+7   
+25. H++7   c6-1   26. R6-1   e5+3   27. R6.7   r1.2   
+28. H6+5   e7+5   29. R7.4   p5+1   30. R4.5   c6.5   
+31. R5.6   c2-3   32. H5+6   a5+4   33. R6.4   a4+5   
+34. R4+1   c2+2   35. R4+2   r2.4   36. H6-7   c2+6   
+37. H7+8   c5+4   38. A5+6   r4.7   39. C3.4   h7+5   
+40. C4+3   h5+4   41. C4+1   r7+4   42. K5+1   r7-1   
+43. K5-1   r7.3   44. R4.2   k5.6   }END
+
+
+FORMAT 	WXF
+GAME 	HOR Weng Yeow(W)GUO YuLong,73
+TIME       ;
+RESULT     1-0
+RED        HOR Weng Yeow ; IM ; Mailaysia West ; ºÎÈÙÒ« , ¦óºaÄ£
+BLACK      GUO YuLong ; NT ; China-Macau ; ¹ùÔ£Â¡ , ³¢¸Î¶©
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  A6+5   r9+1   
+4.  C8.6   r9.4   5.  H2+3   r4+3   6.  R1.2   h8+9   
+7.  H8+7   h2+1   8.  R9.8   r1.2   9.  R8+9   h1-2   
+10. R2+4   a4+5   11. R2.6   r4+1   12. H7+6   c3+3   
+13. C5+4   h2+3   14. C5.1   p3+1   15. E7+5   c3.2   
+16. H6+4   p1+1   17. P3+1   a5+4   18. H4+6   a6+5   
+19. P5+1   h3+4   20. P5+1   h4+3   21. C1.2   h9+8   
+22. P5+1   p7+1   23. P5+1   e7+5   24. P3+1   e5+7   
+25. C2.5   e7-5   26. C5-1   h8-6   27. H3+5   c8+2   
+28. P1+1   c8.7   29. P1+1   c2-4   30. P1.2   c7-1   
+31. H6-4   c2+3   32. C5.8   h3-2   33. P2.3   c7-3   
+34. P3+1   h6-7   35. P3+1   h7+9   36. P3.2   h9+8   
+37. C6+3   }END
+
+
+FORMAT 	WXF
+GAME 	LAU VengTak(L)LAY Kan Hock,58
+TIME       ;
+RESULT     0-1
+RED        LAU VengTak ; FM ; China-Macau ; ÁõÓÀµÂ , ¼B¥Ã¼w
+
+BLACK      LAY Kan Hock ; ICM ; Mailaysia West ; Àè½ð¸£ , ¾¤ª÷ºÖ
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  H8+7   p3+1   2.  C2.5   h8+7   3.  H2+3   r9.8   
+4.  R1+1   p7+1   5.  R1.6   h2+3   6.  P5+1   c8+2   
+7.  H7+5   a6+5   8.  C8.7   h3+4   9.  P5+1   h4+5   
+10. H3+5   c2.5   11. H5+6   c5+2   12. A6+5   c8+5   
+13. R9.8   c8.9   14. R6+2   r8+9   15. K5.6   r1+2   
+16. P7+1   r8.7   17. K6+1   c9-1   18. A5+4   r7-1   
+19. K6-1   c9+1   20. A4+5   r7+1   21. K6+1   c9-1   
+22. A5-4   r1.4   23. P7+1   e3+1   24. C7.8   r7-1   
+25. K6-1   r7.3   26. C8+7   e1-3   27. P7.8   c9+1   
+28. A4+5   p7+1   29. P3+1   c5.8   }END
+
+
+FORMAT 	WXF
+GAME 	Áº¹úÒê(L)YAMAZAKI Hideo,114
+TIME       ;
+RESULT     0-1
+RED        Áº¹úÒê ; NT ; Malaysia East ; Áº¹úÒê , Áº¹úÒê
+BLACK      YAMAZAKI Hideo ; NT ; Japan ; É½ÆéÐã·ò , ¤s±T¨q¤Ò
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   a4+5   6.  H8+7   e3+5   
+7.  C8.9   c2+4   8.  P5+1   r1.4   9.  R9.8   r4+6   
+10. H7+8   r4.3   11. H8+9   c8.9   12. R2+3   h7-8   
+13. H9+7   c9.3   14. C5+4   c3.2   15. R8.9   r3-1   
+16. P5+1   r3-1   17. P5.6   r3.4   18. C5-3   c-+3   
+19. A6+5   r4+2   20. C5.8   r4.2   21. E7+5   h8+7   
+22. R9.6   h7+6   23. R6+5   c2.5   24. C9.6   h6+7   
+25. P9+1   p3+1   26. K5.6   p7+1   27. R6-1   p7.6   
+28. P9+1   e5-3   29. P9.8   e7+5   30. C6.9   r2.1   
+31. E5-7   p3+1   32. R6.7   r1.4   33. C9.6   p6.7   
+34. H3-2   p7.6   35. H2+3   p6.7   36. H3-2   h7+6   
+37. R7.5   r4+1   38. K6.5   r4.3   39. E7+5   r3.2   
+40. K5.6   r2+2   41. K6+1   r2-5   42. K6-1   r2+5   
+43. K6+1   r2-6   44. K6-1   p7.6   45. R5.4   r2+6   
+46. K6+1   h6-5   47. A5+6   r2-1   48. K6-1   r2+1   
+49. K6+1   h5+3   50. K6.5   r2.4   51. K5.4   r4-2   
+52. R4.5   r4+1   53. A4+5   r4.5   54. K4-1   r5.8   
+55. R5.1   r8+1   56. R1+2   h3-4   57. K4.5   h4+5   }END
+
+
+FORMAT 	WXF
+GAME 	LING Lee Kiong(W)TAGUCHI F.,43
+TIME       ;
+RESULT     1-0
+RED        LING Lee Kiong ; NT ; Malaysia East ; ÁÖÀûÇ¿ , ÁÖÀûÇ¿
+BLACK      TAGUCHI F. ; NT ; Japan ; Ìï¿Ú¸£·ò , ¥Ð¤fºÖ¤Ò
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  H2+3   p7+1   2.  P9+1   h8+7   3.  H8+9   h2+3   
+4.  H9+8   h7+6   5.  R9+1   c2+5   6.  C2.8   c8.6   
+7.  R1.2   e7+5   8.  R9.6   p1+1   9.  P9+1   r1+4   
+10. R2+6   a6+5   11. H8+6   p3+1   12. H6+7   c6.3   
+13. R6+7   p7+1   14. R2.5   p7+1   15. R5.7   r1.2   
+16. C8.9   c3.1   17. H3-5   h6+5   18. C9.5   r9+2   
+19. H5+7   p7.6   20. R7+3   r2-1   21. R7-2   e5-7   
+22. R6.5   }END
+
+
+FORMAT 	WXF
+GAME 	ÂÞÎ°ÐÛ(L)LIM KimSin,52
+TIME       ;
+RESULT     0-1
+RED        ÂÞÎ°ÐÛ ; NT ; Brunei ; ÂÞÎ°ÐÛ , ÂÞÎ°ÐÛ
+BLACK      LIM KimSin ; NT ; Singapore ; ÁÖ½ðÐÇ , ªLª÷¬P
+
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  P3+1   r9.4   5.  H8+7   h2+3   6.  P7+1   c2.1   
+7.  R9.8   r4+5   8.  H3+4   r4.3   9.  H4+6   r3+1   
+10. H6+7   c1+4   11. C8+7   c1.3   12. R2+8   c5+4   
+13. A6+5   h7-5   14. K5.6   h5+3   15. R2.7   r1+1   
+16. R7-1   r1.4   17. K6.5   r4.2   18. R8.9   r2-1   
+19. R7.6   c3.9   20. R6-1   r2+6   21. R6.5   e3+5   
+22. R5.3   r2.3   23. K5.6   c9+2   24. E7+9   r+.1   
+25. R9.8   r1.2   26. R8.9   r2.3   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN WanWei(L)¶Å¹ú±ò,66
+TIME       ;
+RESULT     0-1
+RED        CHEN WanWei ; NT ; Philippines ; ³ÂÍòÍþ , ³¯¸U«Â
+BLACK      ¶Å¹ú±ò ; NT ; Thailand ; ¶Å¹ú±ò , ¶Å¹ú±ò
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   p3+1   3.  R1.2   r9.8   
+4.  H8+9   h2+3   5.  C8.7   h3+2   6.  R2+6   e3+5   
+7.  R9+1   c8.9   8.  R2+3   h7-8   9.  C5+4   a4+5   
+10. R9.6   r1.4   11. R6+8   k5.4   12. P9+1   h8+7   
+13. C5-1   h2+1   14. C7-1   p7+1   15. C7.9   h1+3   
+16. C9.6   c2+5   17. H9+8   c2.7   18. H8-7   c9+4   
+19. H7-5   c7.5   20. E3+5   c9.5   21. C6+4   h7-9   
+22. C6+1   k4.5   23. C6.3   h9+8   24. C3.1   h8+9   
+25. C1.3   h9+8   26. C5.6   h8-6   27. C6-4   c5-3   
+28. C3.9   h6+4   29. C9.8   h4-5   30. C8-4   h5+7   
+31. C6.7   h7-5   32. C8.7   p7+1   33. P9+1   p7+1   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG JunMing(W)Àî¹âÎä,55
+TIME       ;
+RESULT     1-0
+RED        HUANG JunMing ; NT ; Singapore ; »Æ¿¡Ãú , ¶À«T»Ê
+BLACK      Àî¹âÎä ; NT ; Brunei ; Àî¹âÎä , Àî¹âÎä
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   c2+2   6.  R2+6   c8.9   
+7.  R2.3   r8+2   8.  P7+1   e3+5   9.  P7+1   e5+3   
+10. R9.8   r1.2   11. R8+4   a4+5   12. H9+7   c2-2   
+13. R8+2   h3-4   14. H7+6   c9-1   15. C7.8   c2-1   
+16. R8+1   h4+5   17. R8.5   e7+5   18. C8+7   c9.7   
+19. R3.4   p7+1   20. P3+1   h7+8   21. P3+1   h8+7   
+22. C5+4   p1+1   23. C5.1   r8.7   24. R4.7   c2.3   
+25. H6+4   c7.6   26. C1+3   r7-2   27. H4+5   k5+1   
+28. C8.3   }END
+
+
+FORMAT 	WXF
+GAME 	Èî»ÆÁÖ(D)CHIU Yu Kuen,86
+TIME       ;
+RESULT     0.5-0.5
+RED        Èî»ÆÁÖ ; NT ; Vietnam ; Èî»ÆÁÖ , Èî»ÆÁÖ
+BLACK      CHIU Yu Kuen ; IM ; China-Hong Kong ; ÕÔÈêÈ¨ , »¯¦¼Åv
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  C8.5   h2+3   2.  H8+7   r1.2   3.  R9.8   p3+1   
+4.  R8+6   h8+7   5.  C2.4   r9.8   6.  H2+3   h3+4   
+7.  R1.2   r2+1   8.  R2+4   h4+3   9.  C4+2   p7+1   
+10. P3+1   e7+5   11. P3+1   e5+7   12. C4.3   e7-5   
+13. H3+4   r2.6   14. H4+5   a6+5   15. R8+1   r8.6   
+16. C3.4   h7+5   17. C4+5   c8.2   18. C5+4   r6-1   
+19. E3+5   c2.3   20. P1+1   h3-4   21. H7+6   h4+6   
+22. A6+5   p3+1   23. E5+7   h6-5   24. H6+5   c3+7   
+25. E7-5   c3-8   26. R2.7   c3.1   27. H5+7   c1+5   
+28. R7.9   c1.2   29. R9+2   r6+4   30. R9.1   r6.3   
+31. H7-5   r3.5   32. H5+3   e5-7   33. R1.5   r5.7   
+34. R5.8   c2.1   35. R8.9   c1.2   36. H3-5   r7.5   
+37. P5+1   r5.4   38. R9-3   c2-4   39. R9.3   e7+9   
+40. R3+4   a5+4   41. P5+1   r4.5   42. R3.6   r5-1   
+43. R6.8   r5.9   }END
+
+
+FORMAT 	WXF
+GAME 	ÈîÎä¾ü(W)YUNG Tak Keung,137
+TIME       ;
+RESULT     1-0
+RED        ÈîÎä¾ü ; NT  ; Vietnam ; ÈîÎä¾ü , ÈîÎä¾ü
+BLACK      YUNG Tak Keung ; ICM ; China-Hong Kong ; ÎÌµÂÇ¿ , ¯Î¼w±j
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  P3+1   r9.8   
+4.  H8+7   p3+1   5.  C8+4   c2.3   6.  E7+9   h2+1   
+7.  R1+1   p3+1   8.  E9+7   h1+3   9.  R1.6   h3+5   
+10. H3+4   a6+5   11. H4+6   c3.4   12. H6+5   e7+5   
+13. C5+3   p5+1   14. R6+5   r8+6   15. E7-5   p5+1   
+16. P5+1   r8.3   17. R9+2   r1+2   18. C8.3   r1.3   
+19. H7-5   r-+2   20. H5+3   p1+1   21. R9.8   r+.1   
+22. R8+2   p1+1   23. R8.7   r3.2   24. R6-2   h7+5   
+25. R6+2   h5-7   26. R6-2   h7+5   27. R6+2   h5-7   
+28. A4+5   p1.2   29. R7+2   p2+1   30. R6-3   r1-1   
+31. R6.5   r1.4   32. P5+1   c4.1   33. R7.9   c1.3   
+34. C3.7   p2.3   35. P5+1   h7+6   36. R5.2   r4+1   
+37. R2+6   a5-6   38. C7.1   h6-7   39. R2-2   r2.9   
+40. P5+1   e3+5   41. P1+1   r9+1   42. C1.8   h7+6   
+43. C8+3   a4+5   44. R2+2   c3.2   45. R9+3   h6-7   
+46. R2-7   r9-1   47. E5-7   r9.8   48. R2.1   e5-7   
+49. C8.4   a5-4   50. C4-7   c2.3   51. E7+9   c3.5   
+52. C4.5   k5.6   53. R9-5   r4.6   54. R9.5   c5+5   
+55. R5-2   p3.4   56. E9-7   r6.7   57. A5-4   a4+5   
+58. R1+7   r8-4   59. R1-8   r8+4   60. R1.8   p4.5   
+61. R8+8   k6+1   62. H3+5   r7.6   63. A6+5   r8.5   
+64. H5+7   r5+3   65. E3+5   e7+9   66. R8.1   h7+8   
+67. R1-1   k6-1   68. H7+5   r6-2   69. R1.5   }END
+
+
+FORMAT 	WXF
+GAME 	Ò¶ººÃñ(L)CHONG Heung Ming,48
+TIME       ;
+RESULT     0-1
+RED        Ò¶ººÃñ ; NT ; Thailand ; Ò¶ººÃñ , Ò¶ººÃñ
+BLACK      CHONG Heung Ming ; NT ; Philippines ; ×¯ºêÃ÷ , ÉÜ§»©ú
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P7+1   p7+1   5.  R2+6   a4+5   6.  R2.3   r9+2   
+7.  C8+4   c6-1   8.  H8+7   c6.7   9.  R3.4   e3+5   
+10. P5+1   h7+8   11. R4.3   r9.7   12. R3+1   h8-7   
+13. H7+6   p7+1   14. P3+1   r1.4   15. H6+7   r4+4   
+16. C8-4   h7+8   17. C8.7   c2+4   18. P5+1   p5+1   
+19. P3+1   c7+6   20. C7.3   h8+9   21. R9.8   c2.5   
+22. C5+3   h9+7   23. R8+2   h7-6   24. P3.4   k5.4   }END
+
+
+FORMAT 	WXF
+GAME 	ÅËº£·æ(L)ÕÅ¾´ºÍ,48
+TIME       ;
+RESULT     0-1
+RED        ÅËº£·æ ; NT ; NA ; ÅËº£·æ , ÅËº£·æ
+BLACK      ÕÅ¾´ºÍ ; NT ; Indonesia ; ÕÅ¾´ºÍ , ÕÅ¾´ºÍ
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  H8+9   p7+1   5.  R2+4   e3+5   6.  R9+1   a4+5   
+7.  R9.6   r9.8   8.  R2+5   h7-8   9.  C8+4   p3+1   
+10. C8.1   p1+1   11. R6+3   c2+5   12. H3-1   h8+7   
+13. C1.3   r1.2   14. H1+2   c2-1   15. H2+3   c2.5   
+16. A4+5   r2.4   17. R6+5   k5.4   18. C3.4   h7+6   
+19. H3+4   a5+6   20. P3+1   h6+7   21. C4-3   h7+8   
+22. P1+1   h3+4   23. H9-8   h4+6   24. H8+7   h6+4   }END
+
+
+FORMAT 	WXF
+GAME 	SHOSHI Kazuharo(D)Íõ·É»¢,52
+TIME       ;
+RESULT     0.5-0.5
+RED        SHOSHI Kazuharo ; NT ; Japan ; ËùË¾ºÍÇç , ©Ò¥q©M´¸
+BLACK      Íõ·É»¢ ; NT ; Mailaysia West ; Íõ·É»¢ , Íõ·É»¢
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c2.5   5.  P7+1   h2+3   6.  H8+7   r1.2   
+7.  R9.8   r2+4   8.  C8.9   r2.8   9.  R8+6   p7+1   
+10. R8.7   p7+1   11. R7+1   p7+1   12. R2+2   r+.7   
+13. H7+6   p7+1   14. R2.3   r7+3   15. C9.3   c5+4   
+16. A6+5   e7+5   17. R7-1   a6+5   18. H6+5   h7+6   
+19. H5-4   c8.7   20. C3.4   r8+3   21. R7.2   h6-8   
+22. P9+1   c5-1   23. H4+2   c7-2   24. C4+2   c5-1   
+25. C4.2   c5.8   26. C2+2   c7.5   }END
+
+
+FORMAT 	WXF
+GAME 	SUN YongZheng(D)WU Kui Lin,116
+TIME       ;
+RESULT     0.5-0.5
+RED        SUN YongZheng ; CM ; China-Shanghai ; ËïÓÂÕ÷ , ®]«i©º
+BLACK      WU Kui Lin ; IGM ; China-Taipei ; Îâ¹óÁÙ , §d¶QÁ{
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P3+1   p7+1   9.  R2.3   h7+6   
+10. R3.4   c2+1   11. R9.2   a4+5   12. R4.8   c2+3   
+13. C5.8   c8+2   14. E3+5   h6-7   15. P7+1   p3+1   
+16. R8.7   c8.3   17. R2+8   h7-8   18. C8-1   c3+3   
+19. R7-2   h3+2   20. C8.3   h2+4   21. R7+2   r1.4   
+22. H3+2   p5+1   23. A4+5   r4+3   24. A5+6   h4-3   
+25. H2-3   h8+9   26. P1+1   r4.8   27. A6+5   a5+6   
+28. H3+4   a6+5   29. H4-6   r8.5   30. H6-8   r5.4   
+31. R7.2   h9-7   32. R2.3   h7+8   33. R3.4   r4.5   
+34. C3.1   h8-7   35. R4.3   h7+8   36. R3.4   h8-7   
+37. R4.3   h7+8   38. R3.2   h8+6   39. R2.4   h6-7   
+40. A5+4   h3-2   41. H8+7   h2+4   42. R4.3   h7+6   
+43. C1.4   h6-8   44. R3.2   h8-7   45. R2.3   h7+8   
+46. R3.2   h8-7   47. R2+1   r5.8   48. R2.4   r8+6   
+49. C4-1   h7+8   50. R4+1   h8+9   51. R4.1   h9+7   
+52. A4-5   p5+1   53. P5+1   h7-5   54. R1.9   h5-3   
+55. R9.6   r8-3   56. C4.3   h3+5   57. R6.3   h4+3   
+58. R3-2   h5-4   }END
+
+
+FORMAT 	WXF
+GAME 	ZHENG YiTing(L)LEI Kam Fun,60
+TIME       ;
+RESULT     0-1
+RED        ZHENG YiTing ; NT ; Mailaysia West ; Ö£ÞÈÍ¢ , ¾G«³§Ê
+BLACK      LEI Kam Fun ; FM ; China-Macau ; Àî½õ»¶ , §õÀAÅw
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h2+3   2.  H2+3   p7+1   3.  P7+1   c8.6   
+4.  R1.2   h8+7   5.  C8+4   a4+5   6.  H8+7   e3+5   
+7.  R2+6   r1.4   8.  R2.3   r9+2   9.  A4+5   p3+1   
+10. P7+1   e5+3   11. P9+1   e3-5   12. C8.7   r4+3   
+13. H7+8   r9.8   14. R9+2   r8+3   15. R3+1   r8.2   
+16. R9.7   r2-2   17. C7-2   h3+4   18. R3+1   c2.3   
+19. C7.2   r4.3   20. R7+4   r2.3   21. E7+9   c3.2   
+22. A5+6   c2+7   23. E9-7   r3+6   24. C2+5   h4+6   
+25. H3-1   c2.4   26. C5.2   c4-1   27. K5+1   c4.9   
+28. C-+5   h6+7   29. K5+1   c6+2   30. P5+1   r3.7   }END
+
+
+FORMAT 	WXF
+GAME 	TRAN Huu-Ngang(D)Tjai Tjie Kiang,111
+TIME       ;
+RESULT     0.5-0.5
+RED        TRAN Huu-Ngang ; NT ; Australia ; ³ÂÓÑ°² , ³¯¤Í¦w
+
+BLACK      Tjai Tjie Kiang ; NT ; Indonesia ; ²ÌÖ¾Ç¿ , ½²§Ó±j
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  P3+1   p3+1   2.  H2+3   h2+3   3.  R1+1   h8+9   
+4.  E7+5   p9+1   5.  P7+1   p3+1   6.  R1.7   e7+5   
+7.  R7+3   c2-1   8.  H8+6   r9.7   9.  R7.4   a6+5   
+10. R4+1   c8+2   11. H3+2   r7.8   12. C2+3   r8+4   
+13. R4.2   h9+8   14. R9.7   r1+2   15. R7+6   h8+6   
+16. P5+1   c2.3   17. R7.8   h3+4   18. R8.7   c3.1   
+19. H6+7   r1.4   20. H7+8   p7+1   21. P3+1   h6+8   
+22. R7.6   c1+5   23. R6+1   c1+3   24. A6+5   a5+4   
+25. P3.4   h4+2   26. H2-4   p1+1   27. H8+6   h2+4   
+28. C8+4   p1+1   29. P5+1   c1-3   30. C8.5   a4+5   
+31. H4+2   h8+7   32. K5.6   h4-2   33. H6-7   h2+3   
+34. K6+1   h3+2   35. K6+1   p1.2   36. H7+8   k5.6   
+37. E5-7   c1.7   38. C5.3   c7.2   39. H8+7   h2-3   
+40. P4+1   p2.3   41. H2+1   h7-6   42. K6-1   c2.9   
+43. C3-2   h3-5   44. E3+5   c9-3   45. C3.4   h5-6   
+46. P5.4   c9-2   47. P-.3   c9.6   48. C4+4   k6+1   
+49. P3+1   p3.4   50. H7-8   h6-5   51. P3+1   p9+1   
+52. H8+7   p9.8   53. H7-6   p8+1   54. H6-4   k6-1   
+55. P3+1   p4+1   56. K6-1   }END
+
+
+FORMAT 	WXF
+GAME 	ÍõÃ÷Ç¿(W)JIRAPARKDEEPAN Vithaya,59
+TIME       ;
+RESULT     1-0
+RED        ÍõÃ÷Ç¿ ; NT  ; Philippines ; ÍõÃ÷Ç¿ , ÍõÃ÷Ç¿
+BLACK      JIRAPARKDEEPAN Vithaya ; FM ; Thailand ; ÂíÎäÁ® , °¨ªZ·G
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  P7+1   c2.3   2.  C8.5   h8+7   3.  H8+7   e7+5   
+4.  R9.8   r9+1   5.  H7+6   r9.6   6.  H2+3   h2+1   
+7.  C2.1   r6+4   8.  H6+5   h7+5   9.  C5+4   a4+5   
+10. E3+5   p1+1   11. C1+4   c8.9   12. P3+1   r6+1   
+13. R1.2   r1+1   14. P5+1   r1.4   15. P5+1   r4+5   
+16. R2+6   k5.4   17. A6+5   e5-7   18. C1.3   r6-3   
+19. P3+1   c3.5   20. P3.4   r6-1   21. H3+5   r6.7   
+22. P1+1   r4.5   23. C5-3   c5+4   24. R8+3   c5.9   
+25. R8.6   a5+4   26. P1+1   c++3   27. C3-6   a6+5   
+28. P1+1   c--2   29. P4+1   k4.5   30. R2.3   }END
+
+
+FORMAT 	WXF
+GAME 	WONG Hok Him(L)DAO Cao Khoa,56
+TIME       ;
+RESULT     0-1
+RED        WONG Hok Him ; NT ; China-Hong Kong ; »ÆÑ§Ç« , ¶À¾ÇÁ¾
+BLACK      DAO Cao Khoa ; NT ; Vietnam ; ÌÕ¸ß¿Æ , ³³°ª¬ì
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+4   
+7.  R2+4   c8.9   8.  R2.4   r8+1   9.  P9+1   r8.2   
+10. P3+1   p7+1   11. R4.3   h7+8   12. P5+1   e3+5   
+13. P5+1   p5+1   14. R3+5   c9.7   15. H3+2   c2.9   
+16. R8+8   r2+1   17. R3.2   c9.8   18. C5+5   r2.6   
+19. H9+8   c8+3   20. A6+5   r6+4   21. H8+7   r6.7   
+22. K5.6   c7+7   23. K6+1   c8-1   24. A5+4   r7+3   
+25. K6+1   r7.3   26. E7+5   r3-1   27. K6-1   r3+1   
+28. K6+1   c7-1   }END
+
+
+FORMAT 	WXF
+GAME 	XIE Jing(W)CHEN Cheng Kuo,109
+TIME       ;
+RESULT     1-0
+RED        XIE Jing ; NT ; China-Shanghai ; Ð»¾¸ , ÁÂ¹t
+BLACK      CHEN Cheng Kuo ; NT ; China-Taipei ; ³ÂÕñ¹ú , ³¯®¶°ê
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  P7+1   h8+7   2.  H8+7   r9+1   3.  E7+5   r9.4   
+4.  H2+1   r4+3   5.  C2.3   r4.2   6.  C8-2   r2.8   
+7.  R1+1   h2+1   8.  R1.8   c2.4   9.  P9+1   a6+5   
+10. R9+3   e7+5   11. P1+1   c8.9   12. C3-1   c9+3   
+13. R8+6   c9.6   14. R9.6   c6-3   15. C3.9   r1+1   
+16. C8.7   c4.3   17. H7+8   p3+1   18. C9+5   r1.3   
+19. C9.7   c3.4   20. P7+1   r8.3   21. P9+1   r+-1   
+22. C7+8   r3-2   23. P9+1   p7+1   24. A6+5   r3+3   
+25. P9+1   c4.1   26. R8-1   c6+1   27. R8+2   c1+7   
+28. R8.9   c1-7   29. R9.6   c1.4   30. R+.8   p9+1   
+31. R6+1   r3+2   32. R6.4   c6-1   33. P5+1   c4.1   
+34. R8-2   p9+1   35. R4.1   h7+6   36. P5+1   p5+1   
+37. H8+6   r3-2   38. R8.4   r3.4   39. R4-1   r4.2   
+40. R1.9   c6-2   41. R4+1   p5+1   42. H1+2   p5+1   
+43. H2+3   r2+5   44. A5-6   r2-2   45. R9-1   p5+1   
+46. R4.5   p5.6   47. H3+5   e3+5   48. R9+4   e5+3   
+49. R9.7   p6+1   50. R7+2   p6+1   51. K5.4   e3-1   
+52. R7.9   e1+3   53. K4.5   r2-6   54. R5-1   r2.3   
+55. R9-4   }END
+
+
+FORMAT 	WXF
+GAME 	Ò¦½Ý·¼(W)LUM Tek Sim,91
+TIME       ;
+RESULT     1-0
+RED        Ò¦½Ý·¼ ; NT ; Singapore ; Ò¦½Ý·¼ , Ò¦½Ý·¼
+BLACK      LUM Tek Sim ; NT ; Brunei ; ÁÖµÂÐÇ , ªL¼w¬P
+DATE       11/25/2004
+PLACE      ÖÐ¹ú±±¾©
+EVENT      Asia Cup ; 2004
+ROUND      Team R5
+AUTHOR     Felix Tan
+START{
+1.  P7+1   h8+7   2.  H8+7   c2.4   3.  R9.8   h2+1   
+4.  C2.5   e7+5   5.  H2+3   p7+1   6.  R1.2   r9.8   
+7.  P5+1   c4.2   8.  C8.9   r1.2   9.  C9+4   a4+5   
+10. R2+4   c8+2   11. R8+6   c8-1   12. R8-3   c2+2   
+13. P9+1   p7+1   14. R2.3   c2.7   15. R8+6   h1-2   
+16. C9.5   h7+5   17. C5+4   h2+3   18. C5.4   r8.7   
+19. H3+5   c8+1   20. E7+5   r7+3   21. A6+5   r7.6   
+22. R3+1   r6+6   23. A5-4   e5+7   24. P3+1   e3+5   
+25. H7+8   p3+1   26. P7+1   c8.3   27. H8+7   c3+2   
+28. P1+1   e5+3   29. H5+7   e7-5   30. P5+1   c3.4   
+31. P9+1   c4-1   32. P9.8   c4.9   33. H--5   c9-1   
+34. P8+1   h3-1   35. P8.9   c9.8   36. H5+4   a5+6   
+37. H4+2   a6+5   38. H7+8   p9+1   39. P5+1   e5-3   
+40. P3+1   c8+2   41. P3+1   p9+1   42. P3+1   p9.8   
+43. H2-4   p8.9   44. P3+1   c8.4   45. H4+6   a5+4   
+46. H6+8   }END
+
