@@ -587,7 +587,7 @@ class Horse_black2:
         #2 units horiontal + 1 unit vertical   OR
         #2 units vertical + 1 unit horiontal
         #BUT, unlike the knight in western chess, its blocked by an interveneing piece
-        
+        print("in move")
         #x.Input('n',8,'+',7)
         i = self.posx_h_black2
         j = self.posy_h_black2
@@ -600,7 +600,7 @@ class Horse_black2:
         
         #8 possible moves
         #blocked by an interveneing piece
-        if (    ((i+2)<10) & ((j+1)<9)     ):
+        if (    ((i+2)<10) & ((j+1)<9)     and Operator=='+'):
             path = self.board[i+1][j]
             if(     path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                 #self.board[i+1][j]='#'
@@ -614,9 +614,10 @@ class Horse_black2:
                             #update coordinates
                             self.posx_h_black2 = i+2
                             self.posy_h_black2 = j+1
-                            self.board[i+2][j+1]='h'
+                            self.board[i+2][j+1]='1'
+                            print("a")
             
-        if (    ((i+2)<10) &((j-1)>=0)     ):
+        if (    ((i+2)<10) &((j-1)>=0)     and Operator=='+'):
             path = self.board[i+1][j]
             if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"   ):
                 #self.board[i+1][j]='#'
@@ -630,10 +631,11 @@ class Horse_black2:
                             #update coordinates
                             self.posx_h_black2 = i+2
                             self.posy_h_black2 = j-1
-                            self.board[i+2][j-1]='h'
+                            self.board[i+2][j-1]='2'
+                            print("b")
             
             
-        if (    ((i-2)>=0) & ((j+1)<9)     ):
+        if (    ((i-2)>=0) & ((j+1)<9)     and Operator=='-'):
             path = self.board[i-1][j]
             if(    path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                 #self.board[i+1][j]='#'
@@ -647,10 +649,11 @@ class Horse_black2:
                             #update coordinates
                             self.posx_h_black2 = i-2
                             self.posy_h_black2 = j+1
-                            self.board[i-2][j+1]='h'
+                            self.board[i-2][j+1]='3'
+                            print("c")
                         
                         
-        if (    ((i-2)>=0) & ((j-1)>=0)     ):
+        if (    ((i-2)>=0) & ((j-1)>=0)     and Operator=='-'):
             path = self.board[i-1][j]
             if(     path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                 #self.board[i+1][j]='#'
@@ -664,9 +667,10 @@ class Horse_black2:
                             #update coordinates
                             self.posx_h_black2 = i-2
                             self.posy_h_black2 = j-1
-                            self.board[i-2][j-1]='h'
+                            self.board[i-2][j-1]='4'
+                            print("d")
             
-        if (    ((i-1)>=0) & ((j+2)<9)     ):
+        if (    ((i-1)>=0) & ((j+2)<9)     and Operator=='-'):
             path = self.board[i-1][j]
             if(    path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                 #self.board[i+1][j]='#'
@@ -680,9 +684,10 @@ class Horse_black2:
                             #update coordinates
                             self.posx_h_black2 = i-1
                             self.posy_h_black2 = j+2
-                            self.board[i-1][j+2]='h'
+                            self.board[i-1][j+2]='5'
+                            print("e")
                         
-        if (    ((i-1)>=0) & ((j-2)>=0)     ):
+        if (    ((i-1)>=0) & ((j-2)>=0)     and Operator=='-'):
             path = self.board[i-1][j]
             if(     path =="." or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                 #self.board[i+1][j]='#'
@@ -696,9 +701,10 @@ class Horse_black2:
                             #update coordinates
                             self.posx_h_black2 = i-1
                             self.posy_h_black2 = j-2
-                            self.board[i-1][j-2]='h'
+                            self.board[i-1][j-2]='6'
+                            print("f")
             
-        if (    ((i+1)<9) & ((j+2)<9)     ):
+        if (    ((i+1)<9) & ((j+2)<9)    and Operator=='+' ):
             path = self.board[i+1][j]
             if(    path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                 #self.board[i+1][j]='#'
@@ -712,10 +718,11 @@ class Horse_black2:
                             #update coordinates
                             self.posx_h_black2 = i+1
                             self.posy_h_black2 = j+2
-                            self.board[i+1][ j+2 ]='h'
+                            self.board[i+1][ j+2 ]='7'
+                            print("g")
             
             
-        if (    ((i+1)<9) & ((j-2)>=0)     ):
+        if (    ((i+1)<9) & ((j-2)>=0)     and Operator=='+' ):
             path = self.board[i+1][j]
             if(     path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                 #self.board[i+1][j]='#'
@@ -729,7 +736,8 @@ class Horse_black2:
                             #update coordinates
                             self.posx_h_black2 = i+1
                             self.posy_h_black2 = j-2
-                            self.board[i+1][j-2]='h'
+                            self.board[i+1][j-2]='8'
+                            print("h")
         
         
     
@@ -782,6 +790,7 @@ class Horse_black1:
                             self.posx_h_black1 = i+2
                             self.posy_h_black1 = j+1
                             self.board[i+2][j+1]='h'
+                            print("a")
             
         if (    ((i+2)<10) &((j-1)>=0)     ):
             path = self.board[i+1][j]

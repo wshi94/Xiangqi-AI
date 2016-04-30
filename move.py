@@ -25,7 +25,7 @@ text_file.close
 
 
 
-
+#from FitnessFunction import *
 
 from Xiangqi import *
 
@@ -59,6 +59,12 @@ while line:
 				if move[1].isdigit():
 					x.Input(move[0],int(move[1]),move[2],int(move[3]))
 					x.Display()
+					"""
+					piece_fit = PieceFitness(x.board)
+					print(piece_fit)
+					attack_fit = AttackingFitness(x.board)
+					print(attack_fit)
+					"""
 					move=""
 				elif 'END' in move:
 					move=""
@@ -69,6 +75,10 @@ while line:
 				else:
 					x.Input(move[0].strip(),move[1].strip(),move[2].strip(),int(move[3].strip()))
 					x.Display()
+					#piece_fit = PieceFitness(x.board)
+					#print(piece_fit)
+					#attack_fit = AttackingFitness(x.board)
+					#print(attack_fit)
 					move=""
 
 
@@ -98,6 +108,11 @@ while line:
 						try:
 							x.Input(move[0],int(move[1]),move[2],int(move[3]))
 							x.Display()
+							"""
+							piece_fit = PieceFitness(x.board)
+							print(piece_fit)
+							attack_fit = AttackingFitness(x.board)
+							print(attack_fit)"""
 						except:
 							pass
 						move=""
@@ -112,6 +127,10 @@ while line:
 						try:
 							x.Input(move[0].strip(),move[1].strip(),move[2].strip(),int(move[3].strip()))
 							x.Display()
+							#piece_fit = PieceFitness(x.board)
+							#print(piece_fit)
+							#attack_fit = AttackingFitness(x.board)
+							#print(attack_fit)
 						except:
 							pass
 						move=""
@@ -142,6 +161,10 @@ while line:
 				if move[1].isdigit():
 						x.Input(move[0],int(move[1]),move[2],int(move[3]))
 						x.Display()
+						#piece_fit = PieceFitness(x.board)
+						#print(piece_fit)
+						#attack_fit = AttackingFitness(x.board)
+						#print(attack_fit)
 						move=""
 				elif 'END' in move:
 					move=""
@@ -153,6 +176,10 @@ while line:
 				else:
 					x.Input(move[0].strip(),move[1].strip(),move[2].strip(),int(move[3].strip()))
 					x.Display()
+					#piece_fit = PieceFitness(x.board)
+					#print(piece_fit)
+					#attack_fit = AttackingFitness(x.board)
+					#print(attack_fit)
 					move=""
 
 	line = f.readline()
