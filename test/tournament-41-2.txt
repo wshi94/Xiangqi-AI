@@ -1,0 +1,490 @@
+
+
+FORMAT 	WXF
+GAME 	Sung Peter(D)Yu Anthony,46
+TIME       ;
+RESULT     0.5-0.5
+RED        Sung Peter ;;; ¼ÓÄÃ´ó¶«
+BLACK      Yu Anthony ;;; °Ä´óÀûÑÇ
+DATE       10/22/99
+PLACE      ÉòÑô
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      8-13
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+7   p3+1   5.  R2+6   c2+1   6.  P5+1   a4+5   
+7.  R9+1   e3+5   8.  R9.6   r1.4   9.  R2-5   r4.3   
+10. R6+5   c2+3   11. P5+1   p7+1   12. R2+5   c2.7   
+13. H3+5   p5+1   14. P7+1   c8.9   15. R2+3   h7-8   
+16. P7+1   h8+7   17. P7+1   p5+1   18. C5+2   h3+5   
+19. C5+1   c7.8   20. E7+5   c8-3   21. R6-5   c8.3   
+22. R6+5   c9.8   23. H7+8   c8+1   }END
+
+
+FORMAT 	WXF
+GAME 	ÕÅÍúºó(D)Wu Yongsheng,96
+TIME       ;
+RESULT     0.5-0.5
+RED        ÕÅÍúºó ;;; Ãåµé
+BLACK      Wu Yongsheng ;;; ºÉÀ¼
+DATE       10/22/99
+PLACE      ÉòÑô
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      8-14
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  R1.2   h2+3   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+9   a4+5   8.  C8.7   c9.7   9.  R3.4   e3+5   
+10. R9.8   c2-1   11. R8+7   r1.3   12. P7+1   e5+3   
+13. H9+7   e7+5   14. H7+6   h3-4   15. P5+1   p7+1   
+16. P3+1   r8+4   17. P5+1   r3.1   18. H6+5   e3-5   
+19. P5+1   r8.6   20. H3+5   r6-1   21. P5.4   h7+8   
+22. P4+1   a5+6   23. H5+7   a6+5   24. H7+5   k5.6   
+25. H5+3   h8+7   26. C5.4   k6.5   27. C4+1   h7+6   
+28. A4+5   h6-5   29. C7.2   c7.8   30. H3+5   h4+5   
+31. R8.5   c2.3   32. E3+5   h5-4   33. R5-1   r1+2   
+34. R5.1   a5-6   35. R1.7   r1.3   36. R7.6   h4+2   
+37. C4.5   r3+4   38. R6.5   k5.4   39. P3+1   a6+5   
+40. P3.4   r3-3   41. R5-2   h2+3   42. C2.7   r3+4   
+43. R5.6   c3.4   44. C5.6   r3-1   45. P9+1   k4.5   
+46. C6+5   c8.4   47. R6+4   r3.9   48. R6-2   r9-2   }END
+
+
+FORMAT 	WXF
+GAME 	Lin Sen-Rong(L)Àî»ªÕÁ,46
+TIME       ;
+RESULT     0-1
+RED        Lin Sen-Rong  ;;; °ÂµØÀû
+BLACK      Àî»ªÕÁ ;;; Ó¡Äá
+DATE       10/22/99
+PLACE      ÉòÑô
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      8-15
+START{
+1.  C2.5   h2+3   2.  H2+3   c2.1   3.  C8.6   r1.2   
+4.  H8+7   c8.7   5.  R9+1   e7+5   6.  R1.2   h8+9   
+7.  R9.4   a4+5   8.  P5+1   r2+6   9.  H3+5   r2.3   
+10. C6-1   p3+1   11. C6.7   r3.4   12. P5+1   p5+1   
+13. C5+3   h3+4   14. H5+4   c7.6   15. H4+2   c6.8   
+16. R2.1   c1.4   17. C7.9   p3+1   18. R1+2   p3+1   
+19. A4+5   c4.3   20. E7+9   c3+5   21. R4+5   h4+2   
+22. R1.4   h2+1   23. C9.8   c3+2   }END
+
+
+FORMAT 	WXF
+GAME 	Chen Guoliang(D)Zhao Guorong,28
+TIME       ;
+RESULT     0.5-0.5
+RED        Chen Guoliang ;;; 
+BLACK      Zhao Guorong ;;; 
+DATE       10/23/99
+PLACE      ÉòÑô
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      9-1
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   c9.7   8.  R3.4   a4+5   9.  C8.9   r1.2   
+10. R9.8   h7+8   11. R4.3   h8-7   12. R3.4   h7+8   
+13. R4.3   h8-7   14. R3.4   h7+8   }END
+
+
+FORMAT 	WXF
+GAME 	ÑîÆôÃ÷(D)Li Laiqun,24
+TIME       ;
+RESULT     0.5-0.5
+RED        ÑîÆôÃ÷ ;;; ÖÐ¹úÌ¨±±
+BLACK      Li Laiqun ;;; China
+DATE       10/23/99
+PLACE      ÉòÑô
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      15-2
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  H8+7   r9.8   
+4.  R1+1   r8+4   5.  R1.6   h2+3   6.  P3+1   p3+1   
+7.  R9+1   c2.1   8.  R6+5   r1.2   9.  R9.6   p7+1   
+10. R+.7   p7+1   11. R7+1   p7+1   12. H3-1   p7.6   }END
+
+
+FORMAT 	WXF
+GAME 	Miao Yongpeng(D)×¯ºêÃ÷,65
+TIME       ;
+RESULT     0.5-0.5
+RED        Miao Yongpeng ;;; ÖÐ¹úÉòÑô
+BLACK      ×¯ºêÃ÷ ;;; ·ÆÂÉ±ö
+DATE       10/23/99
+PLACE      ÉòÑô
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      9-3
+START{
+1.  P3+1   c8.7   2.  H8+7   p7+1   3.  C8.9   p7+1   
+4.  H2+1   h8+9   5.  R9.8   e3+5   6.  C2.6   r9+1   
+7.  R8+4   h9+7   8.  C6+4   h7+6   9.  C6.9   r1+1   
+10. R8.4   p7.6   11. C+.5   r1.5   12. R1.2   h2+3   
+13. C5+2   r9.5   14. R2+6   p3+1   15. R2.7   r5.4   
+16. P1+1   r4+3   17. P9+1   r4.7   18. E3+5   c2-2   
+19. P9+1   c2.3   20. R7.1   h3+4   21. C9.8   h4+3   
+22. C8+7   r7.4   23. A4+5   a6+5   24. H7+9   r4+4   
+25. H1-3   c7+2   26. H9+8   c7.2   27. P9.8   h3-2   
+28. R1.8   h2+3   29. R8-2   h3-4   30. P5+1   h4-3   
+31. C8.9   p6.5   32. R8.5   h3-2   33. C9.7   }END
+
+
+FORMAT 	WXF
+GAME 	Lu Jianchu(L)He Rongyao,76
+TIME       ;
+RESULT     0-1
+RED        Lu Jianchu ;;; ÂíÀ´Î÷ÑÇ
+BLACK      He Rongyao ;;; ÂíÀ´Î÷ÑÇ
+DATE       10/23/99
+PLACE      ÉòÑô
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      9-4
+START{
+1.  C2.5   h2+3   2.  P3+1   e7+5   3.  H2+3   p3+1   
+4.  H8+7   h8+6   5.  R1.2   h3+4   6.  R9+1   c2.3   
+7.  R9.4   r1+1   8.  P5+1   h4+3   9.  H3+5   r1.2   
+10. P5+1   p5+1   11. C5+3   a6+5   12. C8-1   r9+1   
+13. C8.5   r2+2   14. R2+6   c8.7   15. R4+3   c7-2   
+16. E3+5   c7.6   17. R4.6   r2.6   18. C+.4   h3-5   
+19. R6.5   r6+1   20. R2-6   r9.8   21. R2.1   r8+7   
+22. R5.6   r6+2   23. C5.6   h6+5   24. R6+2   h5+6   
+25. A6+5   r8-2   26. R6-2   c3+5   27. H5-7   h6+4   
+28. H7+8   h4+3   29. R1+2   r6.2   30. E5-3   r8.3   
+31. H8+6   r2+3   32. A5-6   r2-6   33. R1.4   r3.5   
+34. A4+5   h3-2   35. R6.4   r5.4   36. H6+4   r2.6   
+37. R++2   c6+7   38. R4-4   r4+2   }END
+
+
+FORMAT 	WXF
+GAME 	Hu Weizhang(W)ÐíËÉºÆ,47
+TIME       ;
+RESULT     1-0
+RED        Hu Weizhang ;;; ·¨¹ú
+BLACK      ÐíËÉºÆ ;;; ·¨¹ú
+DATE       10/23/99
+PLACE      ÉòÑô
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      9-5
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   c9.7   8.  R3.4   a4+5   9.  C8.9   r1.2   
+10. R9.8   h7+8   11. R4+2   c7+5   12. E3+1   c2+4   
+13. P5+1   c7.3   14. P5+1   p5+1   15. H7+5   r8+2   
+16. H5+6   c3.1   17. A4+5   h8+7   18. R8+2   h3-4   
+19. P7+1   p3+1   20. C9+4   r2+3   21. R8+1   r2+3   
+22. C9.5   h4+5   23. K5.4   k5.4   24. C-.6   }END
+
+
+FORMAT 	WXF
+GAME 	Jin So(W)Wong Chi Keung,83
+TIME       ;
+RESULT     1-0
+RED        Jin So ; CM ; China-Shenyang ; ½ðËÉ , ª÷ªQ
+BLACK      Wong Chi Keung ; ICM ; China-Hong Kong ; »ÆÖ¾Ç¿ , ¶À§Ó±j
+DATE       10/23/99
+PLACE      Shenyang
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      9-6
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   r9+1   
+4.  R1.2   r9.2   5.  H8+7   h2+4   6.  C8.9   h8+9   
+7.  H7+6   p9+1   8.  C9.6   r1+1   9.  A6+5   a4+5   
+10. C6-2   r2+4   11. R2+4   c8.6   12. C5.6   c3+3   
+13. H6+4   r2-1   14. H4+6   c3-1   15. C++6   c6+1   
+16. H6-5   p5+1   17. H5-7   r2+2   18. H7-6   c3.1   
+19. E7+9   p3+1   20. R2.6   c6+5   21. C+-2   p3+1   
+22. R6+1   r1.4   23. R9.8   p3+1   24. R8+3   p3.2   
+25. E9-7   c6.4   26. C+-5   r4+3   27. C-+5   p2.1   
+28. P3+1   p+.2   29. C-.9   c1.2   30. E7+9   p2.3   
+31. C9+5   p3.4   32. C9.6   p4.5   33. H3+5   p5+1   
+34. H5+7   c2.3   35. H7+9   c3-2   36. H9+8   c3.4   
+37. C-.5   h9+8   38. P3+1   h8+9   39. P3+1   h9-7   
+40. C5+1   h7-5   41. H8-7   c4-1   42. H7-5   }END
+
+
+FORMAT 	WXF
+GAME 	Ye Rongguang(W)Truong A Minh,117
+TIME       ;
+RESULT     1-0
+RED        Ye Rongguang ; NT ; Holland ; Ò¶ÈÙ¹â , ¸­ºa¥ú
+BLACK      Truong A Minh ; ICM ; Vietnam ; ÕÅÑÇÃ÷ , ±i¨È©ú
+DATE       10/23/99
+PLACE      Shenyang
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      9-7
+START{
+1.  P7+1   c8.4   2.  C8.5   h8+7   3.  C2.4   r9.8   
+4.  H2+1   r8+5   5.  E7+9   h2+3   6.  H8+7   c2+4   
+7.  R1+1   a4+5   8.  R1.6   r1.2   9.  R9.8   e3+5   
+10. R6+5   p7+1   11. R6.7   r2+2   12. A6+5   c4-2   
+13. C4+1   c4.3   14. R7.6   h7+6   15. R6-5   c2-2   
+16. C5.4   r8+2   17. C++1   r2-2   18. R6+7   r8-2   
+19. C+-1   h6-7   20. R6-4   r8+2   21. P1+1   c2.5   
+22. R8+9   h3-2   23. R6-2   h2+3   24. P7+1   c3+4   
+25. H7+8   c3.2   26. P5+1   c5.6   27. C+.7   c6-2   
+28. C7-1   r8-4   29. E9+7   h7+8   30. C4+1   c6.7   
+31. C4.7   h3-1   32. E7-5   r8.6   33. R6+4   c7+1   
+34. R6-1   c2-2   35. C++3   p5+1   36. C+.3   p5+1   
+37. R6+3   h1-3   38. C3.9   c2+2   39. C7.9   h3+2   
+40. R6.7   a5+4   41. P9+1   r6.2   42. R7-4   r2.5   
+43. R7+3   r5.2   44. H8+6   c2.3   45. R7.6   h8-7   
+46. H6+5   e7+5   47. R6.5   h7-5   48. R5-3   k5.4   
+49. H1+2   r2+6   50. A5-6   r2.4   51. K5+1   h5+6   
+52. R5+2   h6+8   53. H2+4   c3+3   54. E5+7   h8+9   
+55. R5+3   k4+1   56. H4+3   h2+4   57. H3-5   k4+1   
+58. H5+4   a6+5   59. R5.6   }END
+
+
+FORMAT 	WXF
+GAME 	Fan Qiyuan(W)Tran Bachien,105
+TIME       ;
+RESULT     1-0
+RED        Fan Qiyuan ; NT ; Vietnam ; ·¶ÆôÔ´ , ­S±Ò·½
+BLACK      Tran Bachien ; NT ; Australia ; ³Â°ØÏÍ , ³¯¬f½å
+DATE       10/23/99
+PLACE      Shenyang
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      9-8
+START{
+1.  P7+1   c2.3   2.  C2.5   h8+7   3.  H2+3   r9.8   
+4.  H8+7   c8.9   5.  H7+6   e3+5   6.  R1+1   r8+4   
+7.  H6+5   h7+5   8.  C5+4   a4+5   9.  R1.6   c3+3   
+10. R6+5   p3+1   11. R9.8   h2+3   12. C8.6   h3+5   
+13. R6.5   r1.4   14. A6+5   c3+2   15. E7+5   p3+1   
+16. P5+1   p3+1   17. P5+1   r4+6   18. P3+1   e5-3   
+19. H3+4   r4-1   20. H4+6   c9+4   21. R8+4   r4+1   
+22. R8+5   r8-2   23. K5.6   c9-2   24. H6-8   r4-4   
+25. H8-7   r4.3   26. H7-9   p3+1   27. C6+3   r8.4   
+28. R8-3   r3+4   29. R8.7   r4.3   30. R7+1   r3-4   
+31. C6.1   p9+1   32. R5.9   p3+1   33. H9+8   r3+4   
+34. R9.8   e7+5   35. P9+1   p9+1   36. K6.5   p3.4   
+37. A5-6   r3.4   38. A4+5   k5.4   39. H8+9   p4+1   
+40. A5-6   r4+3   41. K5+1   p9.8   42. H9+8   r4-1   
+43. K5-1   k4.5   44. H8-6   p8+1   45. H6+7   r4-7   
+46. H7-6   r4+1   47. P5+1   p8.7   48. R8+3   a5-4   
+49. P5+1   e3+5   50. H6+4   k5+1   51. R8-1   r4-1   
+52. R8-5   p++1   53. R8.2   }END
+
+
+FORMAT 	WXF
+GAME 	Lu Chkam(L)Fung Stephen,110
+TIME       ;
+RESULT     0-1
+RED        Lu Chkam ;;; Hong Kong
+BLACK      Fung Stephen ;;; ¼ÓÄÃ´ó¶«
+DATE       10/23/99
+PLACE      ÉòÑô
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      9-9
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  P7+1   c8+4   5.  H8+7   e3+5   6.  R9+1   a4+5   
+7.  R2+1   c2+4   8.  P5+1   c2.3   9.  E7+9   h2+3   
+10. R2.4   r1.2   11. R4+7   h7+8   12. P5+1   r8+2   
+13. P5.6   h8+7   14. P6+1   r2+6   15. R9.6   r8.6   
+16. R4-1   a5+6   17. P6+1   h3-1   18. R6+5   p5+1   
+19. R6.5   p5+1   20. P6.5   e7+5   21. R5+1   a6+5   
+22. R5-2   c3.5   23. H3+5   c8.5   24. H7+5   h7+5   
+25. E3+5   r2+1   26. R5-1   r2.5   27. A4+5   r5.1   
+28. R5.1   r1.5   29. H5+4   r5-4   30. H4+3   r5.7   
+31. H3-1   r7.8   32. H1-2   a5-6   33. H2-3   h1+3   
+34. R1.5   a6-5   35. P1+1   r8+4   36. H3+2   h3-4   
+37. P1+1   h4+5   38. H2-4   r8+2   39. A5-4   r8-7   
+40. H4+3   h5+7   41. R5.1   r8.5   42. A4+5   r5+4   
+43. P9+1   h7+5   44. P1.2   h5+4   45. K5.4   r5-2   
+46. R1.6   h4+2   47. R6+2   r5.6   48. K4.5   h2+1   
+49. A5+6   h1-3   50. K5+1   r6.5   51. K5.6   h3-1   
+52. A6+5   r5.2   53. R6-3   r2+4   54. K6-1   r2+1   
+55. K6+1   r2.5   }END
+
+
+FORMAT 	WXF
+GAME 	Sung Peter(D)³ÂÂÞÆ½,62
+TIME       ;
+RESULT     0.5-0.5
+RED        Sung Peter ;;; ¼ÓÄÃ´ó¶«
+BLACK      ³ÂÂÞÆ½ ;;; ·ÆÂÉ±ö
+DATE       10/23/99
+PLACE      ÉòÑô
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      9-10
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  P7+1   h2+3   5.  H8+7   e3+5   6.  R2+6   h7+6   
+7.  R9+1   a4+5   8.  R9.6   c2+2   9.  H3-1   p7+1   
+10. R2.4   h6+7   11. R4.2   p7.6   12. C8+1   h7-6   
+13. R2.4   h6+8   14. R4-2   c8.7   15. R6+3   h8-7   
+16. R4+2   h7-9   17. H1+2   c2.5   18. C5+3   p5+1   
+19. H7+8   r1.4   20. R6+5   a5-4   21. H2+4   r8+8   
+22. H8+7   r8.2   23. C8.6   a4+5   24. H7-5   r2-4   
+25. H5+7   p9+1   26. P5+1   h9+8   27. H4+2   r2.8   
+28. P5+1   r8+2   29. C6.4   e5-3   30. P7+1   c7.9   
+31. P5.6   h3+5   }END
+
+
+FORMAT 	WXF
+GAME 	He Chengjian(L)Gao Weixuan,155
+TIME       ;
+RESULT     0-1
+RED        He Chengjian ;;; ¼ÓÄÃ´óÎ÷
+BLACK      Gao Weixuan ;;; ÃÀ¹ú
+DATE       10/23/99
+PLACE      ÉòÑô
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      9-11
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  P7+1   h2+3   5.  R2+6   c8.9   6.  R2+3   h7-8   
+7.  H8+7   h8+7   8.  R9+1   e3+5   9.  H7+6   a4+5   
+10. R9.2   c2+3   11. H6+7   c2+1   12. P5+1   r1.4   
+13. R2+5   r4+7   14. C8-1   r4+1   15. C8+1   c2.3   
+16. H7+9   h3+2   17. R2.3   h7-8   18. H9+8   h2+4   
+19. A6+5   r4.2   20. A5+6   h4+5   21. C8.5   r2-8   
+22. C5+4   r2+3   23. P5+1   r2+1   24. R3-1   k5.4   
+25. C5.4   c9+4   26. P5.6   r2-1   27. R3+1   p9+1   
+28. C4.6   h8+9   29. R3.2   r2+6   30. E3+5   h9-7   
+31. R2-2   c3.5   32. K5.6   c5.4   33. K6.5   c4-3   
+34. P6+1   c9.1   35. A4+5   r2-3   36. P7+1   r2.7   
+37. R2.9   c1.2   38. R9+2   c2+3   39. A5-6   k4.5   
+40. R9.8   c2.1   41. H3-4   h7+6   42. R8-6   h6+5   
+43. A6-5   c1-4   44. P7+1   h5-7   45. H4+2   r7+2   
+46. R8+4   c1+1   47. R8-1   c1-2   48. H2+3   r7.9   
+49. H3+4   c1.5   50. R8.5   h7+8   51. K5.4   h8-6   
+52. R5.4   r9+1   53. K4+1   r9-4   54. P6.5   e5+7   
+55. P7+1   h6-8   56. R4-1   r9+1   57. P7+1   p9+1   
+58. P7.6   r9.4   59. P6.7   h8+9   60. R4.2   r4.6   
+61. R2.4   r6.8   62. R4.1   r8+2   63. K4-1   r8+1   
+64. K4+1   r8.7   65. P7.6   h9+7   66. K4+1   r7-1   
+67. R1+2   r7.8   68. R1.3   h7-9   69. R3-1   r8-3   
+70. K4-1   h9+8   71. R3-2   r8+1   72. P6.5   a6+5   
+73. K4-1   a5+6   74. K4.5   h8-7   75. H4-5   h7-6   
+76. K5.4   r8.6   77. K4.5   h6+5   78. R3+3   }END
+
+
+FORMAT 	WXF
+GAME 	Àî»ªÕÁ(L)Lin Yishi,118
+TIME       ;
+RESULT     0-1
+RED        Àî»ªÕÁ ;;; Ó¡Äá
+BLACK      Lin Yishi ;;; ÖÐ¹úÌ¨±±
+DATE       10/23/99
+PLACE      ÉòÑô
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      9-12
+START{
+1.  C2.5   c8.5   2.  H2+3   r9+1   3.  R1.2   h8+7   
+4.  C8.7   h2+1   5.  H8+9   r1.2   6.  R9.8   r9.4   
+7.  A4+5   p1+1   8.  R8+6   r4+3   9.  R2+4   c2.4   
+10. R8+3   h1-2   11. R2.8   h2+1   12. P3+1   h1+2   
+13. H3+4   r4.6   14. C5.4   r6.8   15. H4+3   c5+4   
+16. E7+5   c4+3   17. R8.7   c5-1   18. R7+2   e7+5   
+19. P7+1   c4.7   20. P7+1   e5+3   21. H3-4   e3-5   
+22. K5.4   h2+4   23. R7-3   h4+3   24. E5+3   r8+1   
+25. H4-5   r8.7   26. E3+1   r7+2   27. R7-1   r7.9   
+28. R7+1   h7+8   29. R7.2   r9+2   30. K4+1   h8+9   
+31. C4+6   r9-1   32. K4-1   h9+8   33. H5-3   r9+1   
+34. K4+1   r9-5   35. C4.1   r9.6   36. A5+4   r6.8   
+37. H9+7   r8+2   38. H3+2   h8-7   39. K4-1   c5+1   
+40. H2-3   c5.1   41. H7+6   a6+5   42. H6+4   c1-1   
+43. K4.5   p5+1   44. H3+4   c1.6   45. H--6   p1+1   
+46. H6+7   p5+1   47. H7+8   k5.6   48. C1.3   h7-6   
+49. H4-2   e5+7   50. C3-2   p9+1   51. H8-6   k6.5   
+52. C3.5   e3+5   53. C5-1   c6.8   54. H6+8   k5.6   
+55. H8+7   c8+1   56. C5.8   p9+1   57. C8+4   e5-3   
+58. H7-8   p9.8   59. H8-9   c8-2   }END
+
+
+FORMAT 	WXF
+GAME 	Ng Wing Sang(L)He Zhimin,86
+TIME       ;
+RESULT     0-1
+RED        Ng Wing Sang ; NT ; Holland ; ÎâÓÀÉú , §d¥Ã¥Í
+BLACK      He Zhimin ; NT ; Italy ; ºÎÖ¾Ãô , ¦ó§Ó±Ó
+DATE       10/23/99
+PLACE      Shenyang
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      9-13
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  R9+1   e7+5   
+4.  E3+5   h2+1   5.  H7+8   h7+6   6.  R9.4   h6+7   
+7.  R4+5   r1.2   8.  H8+7   c2.3   9.  H7+9   e3+1   
+10. C8.7   a6+5   11. C7+5   c8.3   12. H2+4   h7+6   
+13. R4-5   r9.8   14. C2.1   r8+3   15. R1+1   r2+6   
+16. R4+2   p7+1   17. A4+5   r2.3   18. E7+9   c3.2   
+19. R1.4   p7.6   20. R++1   r3.5   21. E5-7   c2+7   
+22. R++2   r8+6   23. R--1   r8-1   24. R-+1   r8.6   
+25. R4-5   r5.9   26. R4+1   c2-3   27. C1.3   r9.7   
+28. C3.2   r7.8   29. C2.3   c2.5   30. K5.4   p5+1   
+31. R4+4   p9+1   32. R4.9   e1-3   33. R9.1   r8.6   
+34. C3.4   r6-2   35. R1.3   r6.8   36. R3-3   p5+1   
+37. R3+1   r8+5   38. K4+1   c5.6   39. C4.8   p5+1   
+40. P7+1   c6-6   41. R3.5   p5.6   42. R5.4   r8-2   
+43. C8.5   p6+1   }END
+
+
+FORMAT 	WXF
+GAME 	Yu Anthony(L)Yu Chiu,72
+TIME       ;
+RESULT     0-1
+RED        Yu Anthony ; NT ; Australia ; ÓàËë¿µ , §EÁJ±d
+
+BLACK      Yu Chiu ; NT ; Canada-Vancouver ; Óà³¬½¡ , §E¶W°·
+DATE       10/23/99
+PLACE      Shenyang
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      9-14
+START{
+1.  P7+1   c8.5   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  H8+7   r8+4   5.  C2.1   r8+5   6.  H3-2   h2+3   
+7.  P3+1   r1+1   8.  E7+5   r1.6   9.  H2+3   r6+3   
+10. A6+5   p3+1   11. P7+1   r6.3   12. H3+2   r3.8   
+13. C8+2   h3+4   14. C1.2   r8.6   15. H2+3   c5.4   
+16. C8.5   a6+5   17. R9.8   c2+1   18. C2.3   c4.2   
+19. R8.6   p1+1   20. R6+4   c-.4   21. R6.7   c2.7   
+22. C3+4   e7+5   23. C5.6   h4+6   24. P5+1   r6-1   
+25. C6.4   r6+2   26. P1+1   r6-2   27. P3+1   r6+3   
+28. C3.2   r6.7   29. P3.2   h7+8   30. P5+1   p5+1   
+31. C2.9   r7.6   32. H7+6   r6.2   33. H6+4   r2-3   
+34. C9+3   r2.6   35. H4-5   h8+6   36. H5+3   r6-2   }END
+
+
+FORMAT 	WXF
+GAME 	Lin Sen-Rong(L)ÕÅÍúºó,24
+TIME       ;
+RESULT     0-1
+RED        Lin Sen-Rong  ;;; °ÂµØÀû
+BLACK      ÕÅÍúºó ;;; Ãåµé
+DATE       10/23/99
+PLACE      ÉòÑô
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      9-15
+START{
+1.  C2.5   h8+7   2.  H2+3   p3+1   3.  R1.2   r9.8   
+4.  R2+4   h2+3   5.  H8+7   c8.9   6.  R2.4   e3+5   
+7.  P7+1   r8+4   8.  C8+2   a4+5   9.  E7+9   r1.4   
+10. H7+6   p3+1   11. E9+7   h3+4   12. R4.5   h4+2   }END
+
+
+FORMAT 	WXF
+GAME 	Fung Stephen(W)Fan Kai Yuen,49
+TIME       ;
+RESULT     1-0
+RED        Fung Stephen ;;; Canada East
+BLACK      Fan Kai Yuen ;;; Vietnam
+DATE       Oct 20, 1999
+PLACE      ¨H¶§
+EVENT      World Xiangqi Champion Tournament ; 1999,
+ROUND      4
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  H8+7   c2+4   6.  R2+4   c8.9   
+7.  R2.4   c2.7   8.  E3+1   r1.2   9.  R9.8   e7+5   
+10. P7+1   p3+1   11. H7+8   r2.1   12. C5.7   r1+2   
+13. R8+1   r8+1   14. R8.6   h3-1   15. P9+1   h7-8   
+16. R4+5   k5.6   17. R6+8   k6+1   18. R6-1   k6-1   
+19. R6.2   h8+6   20. H8+7   r1.3   21. C8+7   e3+1   
+22. C8-8   h1-3   23. C8.4   h6+7   24. R2+1   k6+1   
+25. R2.5   }END
+

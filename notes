@@ -1,0 +1,31 @@
+Notes:
+
+	We should implement 3 algorithms
+		SVM
+		Naive Bayes
+		Random Forest
+		
+	Besides the PieceFitness, KingFitness, AttackingFitness, and PST, perhaps we can have
+	other features such as
+		defensive edges
+		mobility
+		number of pawns
+		number of cannons
+		number of etc
+		etc
+	
+	http://stanford.edu/~rohitm92/res/CS229_Final.pdf
+	
+	Games can be won by Red, Black, or a Tie
+	
+	We can do cross validation for validation.
+	
+	We can pick a random 5000 boards from the set to be used as the test
+
+TODO:
+
+	Extract the moves from the tournaments, and link the resultant boards with a label
+	
+	Store every board with associated label into an array
+	
+	Make fitness functions be able to evaluate the boards generated from our game

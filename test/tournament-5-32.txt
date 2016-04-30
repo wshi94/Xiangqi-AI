@@ -1,0 +1,2675 @@
+
+
+FORMAT 	WXF
+GAME 	Ding Chuanhua(W)YE ZhiNing,105
+TIME       ;
+RESULT     1-0
+RED        Ding Chuanhua ; NT ; NA ; ¶¡´«»ª , ¤B¶ÇµØ
+BLACK      YE ZhiNing  ; NT  ; NA ; Ò¶Ö¾Äþ , ¸­§Ó¹ç
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   c8.4   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  H8+7   h2+1   5.  P9+1   e7+5   6.  H7+8   c2+5   
+7.  C2.8   c4+3   8.  H8+9   r1.2   9.  C8.6   a6+5   
+10. R2+4   c4-3   11. P3+1   r9.6   12. P3+1   e5+7   
+13. P9+1   r6+4   14. R2.6   c4.6   15. H3+2   r6+4   
+16. A6+5   e3+5   17. E7+5   h7+6   18. H2+4   r6-4   
+19. H9+7   c6.3   20. P9+1   h1-3   21. R6+4   r2.3   
+22. P9.8   e5-7   23. R9+8   c3+3   24. P8.7   c3.8   
+25. R6.7   r3+1   26. R9.7   r6.3   27. C6.9   r3.1   
+28. E5-7   c8-4   29. R7-1   e7+5   30. P7.6   c8.7   
+31. E3+5   p5+1   32. P6.5   c7.9   33. P+.4   c9+5   
+34. R7.5   c9-2   35. R5.3   e7-9   36. R3-1   c9+5   
+37. R3-6   c9-4   38. R3+4   p9+1   39. E5-3   r1-1   
+40. P4.3   r1.3   41. E7+5   r3.1   42. C9.7   a5-6   
+43. C7+7   a4+5   44. P3+1   r1.5   45. R3.9   p5+1   
+46. R9+5   p5+1   47. C7.4   a5-4   48. C4.6   p5+1   
+49. P3.4   c9+4   50. C6-6   k5+1   51. R9-1   k5-1   
+52. P4+1   k5.4   53. P4.5   }END
+
+
+FORMAT 	WXF
+GAME 	Ceng Dongping(W)CHEN JianChang,93
+TIME       ;
+RESULT     1-0
+RED        Ceng Dongping ; NT ; China-Sichuan ; Ôø¶«Æ½ , ´¿ªF¥­
+BLACK      CHEN JianChang  ; NT  ; China-Nongxie ; ³Â½¨²ý , ³¯«Ø©÷
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   p7+1   2.  C2.3   e3+5   3.  H2+1   h8+7   
+4.  C8.5   r9.8   5.  H8+7   c8.9   6.  R9.8   h2+4   
+7.  R1+1   a4+5   8.  R1.6   c9-1   9.  P1+1   r1+1   
+10. R6+3   c2.3   11. R8+6   p1+1   12. H7+8   r1+1   
+13. C5.9   r8+4   14. A6+5   c9.7   15. C3.6   r1.2   
+16. R8+1   h4+2   17. C6.8   p7+1   18. E3+5   p7+1   
+19. C8+5   r8.2   20. C8.5   e7+5   21. P7+1   p3+1   
+22. H8+6   c3-1   23. H6+5   h7+6   24. H5+7   c7.3   
+25. R6.4   h6-7   26. H1+3   r2+2   27. H3+5   r2.1   
+28. H5+7   r1.5   29. R4.8   c3-1   30. H7+8   r5.3   
+31. H8-9   r3-4   32. R8+1   a5-4   33. H9+8   h7-5   
+34. H8-9   h5+7   35. H9-8   c3.1   36. C9+2   a6+5   
+37. H8+7   k5.6   38. H7-5   r3.6   39. R8.3   c1+2   
+40. H5+7   p5+1   41. C9+1   a5+4   42. C9.8   r6.5   
+43. C8+4   k6+1   44. R3+1   p5+1   45. R3.4   k6.5   
+46. R4.9   r5+2   47. H7+6   }END
+
+
+FORMAT 	WXF
+GAME 	Ôø¹úÈÙ(W)LI HaiJiao,73
+TIME       ;
+RESULT     1-0
+RED        Ôø¹úÈÙ ; NT ; NA ; Ôø¹úÈÙ , Ôø¹úÈÙ
+BLACK      LI HaiJiao  ; NT  ; China-Habrbin ; Àîº£òÔ , §õ®üµë
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+9   p3+1   6.  R2.3   c8-1   
+7.  R3-1   e3+1   8.  R3-1   c8.7   9.  R3.4   a4+5   
+10. C8.6   r1.4   11. R9.8   c2+2   12. A4+5   r8+6   
+13. P3+1   r8.7   14. E3+1   h7+6   15. R8+4   c7.6   
+16. R4.5   h6+8   17. R5.4   c6+1   18. H3-2   e7+5   
+19. R4+2   r7+2   20. R4-5   r7-2   21. C6+2   c6.8   
+22. R4-1   p3+1   23. R8.7   c8+7   24. R4.2   h8+9   
+25. R2+2   c2.3   26. C6.5   r7+3   27. A5-4   h9+8   
+28. C++3   a5+6   29. R2-1   r4+7   30. H9-8   h3+4   
+31. A6+5   r4+1   32. E7+9   r4.2   33. C-+4   k5.4   
+34. R7.6   r2+1   35. A5-6   c3-3   36. R6+1   c3.4   
+37. R6+3   }END
+
+
+FORMAT 	WXF
+GAME 	Yuan Yiping(W)CHEN DongGuo,65
+TIME       ;
+RESULT     1-0
+RED        Yuan Yiping ; NT ; NA ; Ô¬ÒæÆ½ , °K¯q¥­
+BLACK      CHEN DongGuo  ; NT  ; China-Tianjin ; ³Â¶«¹ú , ³¯ªF°ê
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8.6   h3+2   
+7.  R2+3   r1+3   8.  A6+5   r1.4   9.  P5+1   a6+5   
+10. H9-7   c8.9   11. R2.5   e7+5   12. H7+6   r4.3   
+13. P5+1   p5+1   14. H6+5   r3.4   15. H3+4   r8+9   
+16. H4-6   r4.6   17. H5+6   k5.6   18. C5.4   r6+4   
+19. A5+4   a5+4   20. R5.4   k6.5   21. H6+7   c2.3   
+22. H7+6   k5+1   23. C6.5   k5.4   24. R4.6   e5-7   
+25. H6-4   c3.4   26. R9.8   r8-5   27. R6+2   r8.4   
+28. H4-6   c4.5   29. C5.6   h2+4   30. R8+8   k4+1   
+31. H6+5   h4-5   32. R8-1   k4-1   33. H5-7   }END
+
+
+FORMAT 	WXF
+GAME 	Chi Xinde(D)Lin Hongmin,49
+TIME       ;
+RESULT     0.5-0.5
+RED        Chi Xinde ; NT ; China-Qingdao ; ³ÙÐÂµÂ , ¿ð·s¼w
+BLACK      Lin Hongmin ; GM ; China-Shanghai ; ÁÖºêÃô , ªL§»±Ó
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  C8+4   e7+5   6.  H8+9   p1+1   
+7.  C8.7   r1+3   8.  R9.8   r1.3   9.  R8+7   c8.9   
+10. R2+9   h7-8   11. R8-6   h8+6   12. R8.2   p3+1   
+13. R2+7   h6+4   14. H3+4   p5+1   15. P7+1   r3.6   
+16. H4-6   r6+3   17. H6+5   h4+5   18. C5+3   a4+5   
+19. P5+1   c9+4   20. P7+1   r6-1   21. H9+7   c9.4   
+22. R2-5   r6.5   23. E3+5   r5-1   24. R2.6   r5.3   
+25. P9+1   }END
+
+
+FORMAT 	WXF
+GAME 	Han Songling(W)Liu Jinyu,73
+TIME       ;
+RESULT     1-0
+RED        Han Songling ; CM ; China-Guangzhou ; º«ËÉÁä , ÁúªQÄÖ
+BLACK      Liu Jinyu ; NT ; NA ; Áõ½úÓñ , ¼B®Ê¥É
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P3+1   p3+1   2.  C8.7   e3+5   3.  H8+9   h2+3   
+4.  C2.5   c8.6   5.  H2+3   h8+7   6.  R1.2   c6+2   
+7.  R9+1   a4+5   8.  R9.4   c6.5   9.  C5+3   p5+1   
+10. R4.8   r1.2   11. R8+5   c2.1   12. R8+3   h3-2   
+13. R2+6   r9.8   14. R2.3   r8+6   15. E3+5   r8.7   
+16. P9+1   h2+4   17. R3.9   c1.3   18. R9.6   h4+5   
+19. A6+5   p5+1   20. P5+1   h5+6   21. H3-2   r7.5   
+22. R6-2   h7+8   23. P5+1   h6-7   24. P5.4   h8+9   
+25. R6+2   h7+6   26. R6-2   h6+4   27. C7.6   r5.6   
+28. H2+1   p9+1   29. P9+1   p9+1   30. P3+1   e5+7   
+31. R6.1   c3.5   32. H1-3   r6.7   33. H9+8   p3+1   
+34. R1.7   h4+6   35. C6.4   r7+2   36. H8+7   r7-2   
+37. H7-5   }END
+
+
+FORMAT 	WXF
+GAME 	Ren Jian(L)Tang Zhuoguang,78
+TIME       ;
+RESULT     0-1
+RED        Ren Jian ; CM ; NA ; ÈÎ½¡ , ¥ô°·
+BLACK      Tang Zhuoguang ; CM ; China-Guangzhou ; ÌÀ×¿¹â , ´ö¨ô¥ú
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  A6+5   a4+5   
+4.  H2+3   h8+9   5.  R1.2   r9.8   6.  P3+1   c3+3   
+7.  C5+4   h2+4   8.  C8.5   c8.7   9.  R2+9   h9-8   
+10. E7+9   c3-1   11. H3+4   p7+1   12. C+.3   p7+1   
+13. H4+6   h8+9   14. H6+5   c3.7   15. E3+1   e7+5   
+16. C3-2   c-+3   17. E1+3   h9+7   18. H8+7   r1+2   
+19. R9.6   c7.8   20. C5.2   r1.4   21. R6+7   a5+4   
+22. H7+6   p3+1   23. E3-5   h4+6   24. E9-7   h6+7   
+25. A5+6   h-+5   26. A4+5   c8+2   27. H6+4   h5+6   
+28. C2.3   h6+7   29. K5.4   c8.6   30. P5+1   h-+8   
+31. K4+1   e5+7   32. P5+1   c6.9   33. C3+1   c9+2   
+34. K4-1   h7-6   35. P5.6   c9-4   36. H4-5   p1+1   
+37. A5+4   a6+5   38. K4.5   c9.8   39. A6-5   p9+1   }END
+
+
+FORMAT 	WXF
+GAME 	Lu Yujiang(D)Liu Jun,74
+TIME       ;
+RESULT     0.5-0.5
+RED        Lu Yujiang ; NT ; NA ; Â½Óñ½­ , ³°¥É¦¿
+
+BLACK      Liu Jun ; NT ; China-Anhui ; Áõ¾ý , ¼B§g
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  P3+1   r9.8   3.  H2+3   c8.9   
+4.  H8+7   r8+4   5.  R1.2   r8+5   6.  H3-2   p3+1   
+7.  C8+4   h2+3   8.  C8.7   r1.2   9.  R9.8   e3+5   
+10. H2+3   p7+1   11. P3+1   e5+7   12. H3+4   c2+2   
+13. C5.3   e7-5   14. H4+3   e5+7   15. H3+1   e7-9   
+16. R8+4   h7+6   17. P7+1   p3+1   18. R8.7   c2.5   
+19. C3.5   c5+3   20. E3+5   p9+1   21. R7.4   r2+4   
+22. C7-2   h3-5   23. A6+5   e7+5   24. P5+1   h5+7   
+25. R4.3   e9+7   26. R3.2   r2+3   27. H7-6   r2-1   
+28. R2+2   h6+7   29. E5-3   r2.5   30. C7.8   r5-1   
+31. C8+5   a4+5   32. R2.3   h+-6   33. C8-2   a5+4   
+34. R3.4   r5.3   35. C8.5   r3+4   36. C5.4   h6+4   
+37. R4.3   h7-8   }END
+
+
+FORMAT 	WXF
+GAME 	LI ShouQian(W)YE FengMan,69
+TIME       ;
+RESULT     1-0
+RED        LI ShouQian  ; NT  ; China-Habrbin ; ÀîÊØÇ¨ , §õ¦u¾E
+BLACK      YE FengMan  ; NT  ; China-Fujian ; Ò¶·áÂú , ¸­¤¥º¡
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  R1+1   e3+5   6.  R1.4   a4+5   
+7.  C8.9   c2+4   8.  R9.8   c2.3   9.  P5+1   h7+8   
+10. P5+1   r8+1   11. C5+4   h8+7   12. R4+2   p7+1   
+13. R4.7   c8+4   14. H7+5   h3+5   15. P5+1   h7+5   
+16. E7+5   c8.3   17. H5+3   e5+7   18. R8+5   r8+2   
+19. H-+4   c3.7   20. R8-2   c7.8   21. H4+6   c8+3   
+22. H6+4   a5+6   23. A6+5   a6+5   24. H3+5   r8+5   
+25. C9.6   r1.3   26. P5.6   k5.6   27. E5+3   r8-5   
+28. H4+6   a5+4   29. C6.4   a6-5   30. P6+1   r8.5   
+31. H5-4   k6.5   32. H4+3   r5.7   33. C4.5   a5+4   
+34. H3+5   k5.4   35. H5+4   }END
+
+
+FORMAT 	WXF
+GAME 	Zhang Guangzeng(D)Wu Zhengwei,120
+TIME       ;
+RESULT     0.5-0.5
+RED        Zhang Guangzeng ; NT ; NA ; ÕÅ¹ãÔö , ±i¼s¼W
+BLACK      Wu Zhengwei ; CM ; China-Pudong ; ÚùÕýÎ° , à©¥¿°¶
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+9   h7+6   6.  R9+1   e3+5   
+7.  C8.6   p7+1   8.  R2.4   h6+7   9.  C5.4   a4+5   
+10. R9.8   r1.2   11. R8+3   p7.6   12. C6+1   c2+2   
+13. P9+1   c8+5   14. C6.3   c8.6   15. R4-2   r8+6   
+16. C3+4   r8.7   17. C3.7   r7+1   18. A6+5   r2+2   
+19. C7+1   r2-1   20. C7-1   c6.3   21. E7+5   p3+1   
+22. C7.9   r7-1   23. R4.5   p5+1   24. R5.6   p5+1   
+25. R6.5   r7-3   26. R5.6   r7.2   27. R6-2   r+-1   
+28. C9+2   r+.1   29. C9.4   a5-6   30. R6.7   p1+1   
+31. P9+1   r1+2   32. R7.6   a6+5   33. P5+1   r2.1   
+34. H9-7   r--1   35. H7+6   r++5   36. R6-2   r+.4   
+37. A5-6   c2-4   38. H6+5   c2.3   39. P7+1   p3+1   
+40. H5-7   e5+3   41. H7+5   r1+3   42. H5-3   e7+5   
+43. P5+1   e5+7   44. R8.5   e3-5   45. P5.4   r1.7   
+46. E3+1   c3+3   47. R5+1   c3.5   48. A6+5   c5.3   
+49. H3-5   c3-2   50. E1-3   c3-1   51. P1+1   c3.4   
+52. H5+7   c4.3   53. R5.6   c3+4   54. H7-6   r7.5   
+55. H6+8   c3+2   56. P4.3   r5.2   57. H8+9   e5+7   
+58. H9-7   r2.7   59. R6-2   c3+2   60. R6.3   c3.4   }END
+
+
+FORMAT 	WXF
+GAME 	Sun Shucheng(D)Huang Shiqing,206
+TIME       ;
+RESULT     0.5-0.5
+RED        Sun Shucheng ; CM ; China-Meitan Tixie ; ËïÊ÷³É , ®]¾ð¦¨
+BLACK      Huang Shiqing ; CM ; China-Guangxi ; »ÆÊÀÇå , ¶À¥@²M
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h2+3   2.  H2+3   p7+1   3.  R1.2   r9+2   
+4.  C8.6   h8+7   5.  H8+7   r1.2   6.  R9.8   p3+1   
+7.  R8+6   c2.1   8.  R8+3   h3-2   9.  R2+4   e7+5   
+10. P7+1   p3+1   11. R2.7   c1.4   12. H7+8   r9-1   
+13. C6.8   h2+1   14. R7.6   a6+5   15. P3+1   p7+1   
+16. R6.3   c8-2   17. E3+1   c8.7   18. R3.4   r9.8   
+19. H8+6   r8+3   20. H6+4   r8-3   21. P5+1   h1+3   
+22. C5.4   c7.6   23. R4.2   r8+4   24. H4+3   c6+1   
+25. H-+2   c4-1   26. C8+5   a5+6   27. C4+6   c4.7   
+28. C8.4   k5+1   29. C--1   p5+1   30. C+-1   p5+1   
+31. C-.9   h3+5   32. C4-1   p9+1   33. A4+5   p5.6   
+34. C9-1   h5+4   35. C4.3   h4+3   36. K5.4   c7.6   
+37. H2+4   h7+5   38. C3-5   h5+4   39. C9.5   e5+3   
+40. C3.7   h4-6   41. C5.1   h6+4   42. K4.5   h4+2   
+43. C7.6   k5-1   44. C1.5   c6.3   45. E7+9   c3.1   
+46. E9-7   e3-1   47. C5-3   c1+5   48. P1+1   p6+1   
+49. P1+1   c1-2   50. P1.2   h2+3   51. K5.4   c1.6   
+52. K4.5   c6.3   53. C5.7   p6+1   54. E1+3   p6+1   
+55. P2.3   c3+2   56. P3.4   c3.1   57. C7.9   c1.5   
+58. E3-5   k5.6   59. C9+4   c5-3   60. C9.7   k6.5   
+61. E7+9   a4+5   62. E9+7   e1+3   63. P4.5   c5.4   
+64. A5+4   c4-3   65. A6+5   a5+4   66. K5.6   c4+8   
+67. K6+1   h3-4   68. P5.6   e3-5   69. C7.5   a4-5   
+70. C5-3   h4+2   71. K6-1   h2-4   72. A5+6   e3+1   
+73. C5.4   p6.7   74. A4-5   h4-6   75. P6+1   h6+4   
+76. C4+2   e1+3   77. K6.5   p7.6   78. E7-9   p6.7   
+79. K5.4   k5.6   80. E9-7   h4-5   81. A5+4   h5+6   
+82. A6-5   k6.5   83. C4-1   k5.6   84. C4.8   h6-7   
+85. C8-3   h7+8   86. E5+7   e3-1   87. C8.9   e1-3   
+88. C9.7   k6+1   89. E7+9   k6-1   90. P6.5   k6.5   
+91. P5.4   a5+4   92. K4.5   a4-5   93. K5.6   k5.6   
+94. E7-5   k6.5   95. E5+3   k5.6   96. C7+2   h8-9   
+97. P4.5   h9+8   98. C7.5   h8-7   99. P5.4   h7+5   
+100. P4.3   k6.5   101. C5.6   p7.6   102. C6-2   h5+7   
+103. C6.8   e3+1   }END
+
+
+FORMAT 	WXF
+GAME 	Wang Bin(W)Xiao Gelian,91
+TIME       ;
+RESULT     1-0
+RED        Wang Bin ; CM ; China-Jiangsu ; Íõ±ó , ¤ýÙy
+BLACK      Xiao Gelian ; CM ; China-Yejin ; Ð¤¸ïÁª , ¨v­²Áp
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P3+1   c2+1   9.  P7+1   c8+2   
+10. R9.6   a4+5   11. C8-1   r1.4   12. R6+8   a5-4   
+13. C8.7   a4+5   14. H7+8   h3+4   15. C7+4   p7+1   
+16. R2.3   c8.7   17. C7.3   c2.7   18. H8+7   c7+3   
+19. R3-2   h7+6   20. R3-1   r8+5   21. E7+9   h4+3   
+22. R3.7   h3+5   23. E3+5   a5-4   24. R7.6   a6+5   
+25. H7+9   r8.6   26. A6+5   r6+1   27. P5+1   r6.1   
+28. P5+1   h6-7   29. R6+3   r1.6   30. R6.3   h7+8   
+31. P5+1   r6-4   32. H9+7   k5.6   33. H7-6   r6+4   
+34. R3+2   p9+1   35. P7+1   a5+6   36. R3.2   h8+9   
+37. P7+1   a4+5   38. P7+1   h9+7   39. P7+1   r6.4   
+40. R2.4   k6.5   41. R4-4   h7-9   42. R4+3   h9+7   
+43. P7.6   e7+9   44. R4.8   k5.6   45. P5+1   r4-3   
+46. P5+1   }END
+
+
+FORMAT 	WXF
+GAME 	Chen Xinan(W)XU JianMing,73
+TIME       ;
+RESULT     1-0
+RED        Chen Xinan ; CM ; China-Yunnan ; ³ÂÐÅ°² , ³¯«H¦w
+BLACK      XU JianMing  ; NT  ; NA ; Ðì½¨Ã÷ , ®}«Ø©ú
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   r9+1   
+4.  R1.2   r9.2   5.  H8+7   h2+4   6.  C8.9   h8+9   
+7.  H7+6   p9+1   8.  C5.6   r1+1   9.  A6+5   a4+5   
+10. E3+5   r2+3   11. R2+6   c8.6   12. C6-2   c3-2   
+13. R2-2   c3.4   14. C9.6   c4+5   15. R2.6   h4+2   
+16. R9.8   r2+5   17. C-.8   p3+1   18. P3+1   r1.3   
+19. P7+1   h2+3   20. R6.7   r3.2   21. C8+4   r2.4   
+22. C8+1   h3-2   23. H3+4   r4+2   24. C8.6   r4.2   
+25. R7.5   h9+8   26. R5+2   r2.5   27. H4+5   h8+9   
+28. H5-4   c6.8   29. A5-6   p7+1   30. P3+1   e5+7   
+31. C+.1   e7-5   32. C6+1   h9+8   33. A6+5   h2+3   
+34. C6.7   c8.7   35. H4+2   c7.8   36. C1.7   e5+3   
+37. C7-2   }END
+
+
+FORMAT 	WXF
+GAME 	LI Jie(L)Ge Weipu,50
+TIME       ;
+RESULT     0-1
+RED        LI Jie  ; NT  ; NA ; Àî½Ü , §õªN
+BLACK      Ge Weipu ; CM ; China-Shanghai ; ¸ðÎ¬ÆÑ , ¸¯ºû»Z
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  E3+5   e3+5   2.  H2+3   p7+1   3.  A4+5   h8+7   
+4.  H8+9   h2+3   5.  R1.4   p3+1   6.  C8.6   r1.2   
+7.  R9.8   c8.9   8.  C2+4   c2+5   9.  R4+4   r9.8   
+10. C2-2   c9-1   11. P9+1   c2-3   12. R8+1   h7+6   
+13. P3+1   c9.6   14. R4.5   h6+7   15. R5.4   c6.2   
+16. R8.7   r8+5   17. P7+1   p7+1   18. R4.3   r8.7   
+19. E5+3   p3+1   20. R7+3   c+.3   21. E3-5   c2.3   
+22. R7.3   h7+5   23. H3+4   r2+7   24. K5.4   r2.4   
+25. H4-5   r4.3   }END
+
+
+FORMAT 	WXF
+GAME 	WANG GuoFu(L)Yang Jian,52
+TIME       ;
+RESULT     0-1
+RED        WANG GuoFu  ; NT  ; NA ; Íõ¹ú¸» , ¤ý°ê´I
+BLACK      Yang Jian ; CM ; Chongqing ; Ñî½£ , ·¨¼C
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  E7+5   c8.6   2.  R1+1   h8+9   3.  R1.4   a4+5   
+4.  P1+1   r9.8   5.  H2+1   r8+4   6.  R4+3   p9+1   
+7.  H1+2   r8.4   8.  P1+1   r4.9   9.  H8+7   h2+3   
+10. A6+5   e3+5   11. C8.9   r1.4   12. R9.8   p3+1   
+13. C9+4   c2.1   14. C9.8   r4+3   15. C8+1   r9.4   
+16. R4.9   c1+1   17. C8.9   c1.2   18. C9+2   c2+1   
+19. R9+3   r-.2   20. R8+4   p3+1   21. P7+1   h3+1   
+22. C9-3   c6.1   23. C9-1   r4+2   24. P7+1   e5+3   
+25. C9.7   r4-2   26. C7-1   a5+6   }END
+
+
+FORMAT 	WXF
+GAME 	ÁºÀ¥¼Ñ(D)Wang Daming,56
+TIME       ;
+RESULT     0.5-0.5
+RED        ÁºÀ¥¼Ñ ; NT ; China-Guangxi ; ÁºÀ¥¼Ñ , ÁºÀ¥¼Ñ
+BLACK      Wang Daming ; NT ; China-Meitan Tixie ; Íõ´óÃ÷ , ¤ý¤j©ú
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  C8.6   h2+3   5.  H8+7   r1.2   6.  R9.8   c2+4   
+7.  C6+5   r9.7   8.  R2+6   h7-9   9.  R2-2   p7+1   
+10. C6-3   p3+1   11. R2.4   r7.2   12. A4+5   c5.7   
+13. P5+1   c2+1   14. R8+2   r++6   15. C5.8   r2+7   
+16. H7+5   a4+5   17. R4.2   c7.4   18. P3+1   e3+5   
+19. C6-2   h9+7   20. P3+1   e5+7   21. R2+2   h7+6   
+22. R2.5   h6+5   23. H3+5   c4.5   24. R5-1   r2-4   
+25. H5+3   h3+5   26. R5.6   r2+2   27. H3-4   c5+3   
+28. C6.5   e7-5   }END
+
+
+FORMAT 	WXF
+GAME 	Wu Yinhui(D)Deng Yuru,54
+TIME       ;
+RESULT     0.5-0.5
+RED        Wu Yinhui ; NT ; NA ; ÎâÒ÷»Ô , §d§u½÷
+BLACK      Deng Yuru ; NT ; NA ; µËÔ£Èç , ¾H¸Î¦p
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   h8+7   2.  C2.5   p7+1   3.  H2+3   h2+3   
+4.  R1.2   r9.8   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  H7+6   c9.7   9.  R3.4   r8+5   
+10. C8+2   e3+5   11. C5.6   p3+1   12. P3+1   r8-1   
+13. P7+1   e5+3   14. C8.7   h3+4   15. C6+3   p7+1   
+16. C6+3   c7.4   17. C7.3   e3-5   18. E7+5   c2.4   
+19. H6+5   r8.5   20. H5+7   h7+5   21. P5+1   r5+1   
+22. H3+4   r5.6   23. R4.5   r1.3   24. H7+9   r3+6   
+25. A6+5   r3.6   26. C3-2   r--2   27. R5.4   r6-3   }END
+
+
+FORMAT 	WXF
+GAME 	ZANG RuYi(D)Cui Yan,72
+TIME       ;
+RESULT     0.5-0.5
+RED        ZANG RuYi  ; CM  ; China-Beijing ; ²ØÈçÒâ , »N¦p·N
+BLACK      Cui Yan ; CM ; China-HuoCheTou ; ´ÞÑÒ , ±Z©¥
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  P7+1   p7+1   5.  C8+2   r1+1   6.  H8+7   h7+6   
+7.  H7+6   h6+4   8.  C8.6   c2+4   9.  R9.8   c2.7   
+10. A4+5   r1.8   11. R8+6   e7+5   12. R8.7   c8.7   
+13. R2+8   r8+1   14. E3+1   a6+5   15. P7+1   r8+4   
+16. R7.6   c-+1   17. R6+2   e5+3   18. C6+2   r8.4   
+19. R6.7   c-.4   20. R7-1   e3+1   21. C5+4   k5.6   
+22. C5-2   c4.5   23. R7.1   c5+3   24. H3+5   r4.5   
+25. R1+2   k6+1   26. H5-4   c7.8   27. R1-3   r5.6   
+28. R1.2   r6+1   29. P9+1   p7+1   30. H4+2   r6.3   
+31. R2.4   a5+6   32. H2+4   c8-6   33. H4+5   a4+5   
+34. R4.2   c8.3   35. R2+3   a5-4   36. H5+6   e3-5   }END
+
+
+FORMAT 	WXF
+GAME 	LI HaiJiao(L)LIANG Zheng,109
+TIME       ;
+RESULT     0-1
+RED        LI HaiJiao  ; NT  ; China-Habrbin ; Àîº£òÔ , §õ®üµë
+BLACK      LIANG Zheng  ; NT  ; China-Tianjin ; ÁºÕþ , ±ç¬F
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   c2.5   2.  H2+3   h2+3   3.  H8+9   h8+9   
+4.  R9.8   r9.8   5.  R1.2   c8+4   6.  A6+5   r1.2   
+7.  C8+4   p3+1   8.  P3+1   c8.7   9.  C8.7   r8+9   
+10. H3-2   r2+9   11. H9-8   e3+1   12. P1+1   c5.7   
+13. P5+1   c-.5   14. H8+7   c5+3   15. H2+1   c7.4   
+16. H1+3   c4.6   17. K5.6   a6+5   18. C5.2   c5.4   
+19. C2+5   h3-2   20. C7.3   p5+1   21. P3+1   h2+4   
+22. P3.4   p5+1   23. P4+1   c4+1   24. H3+2   p9+1   
+25. H2+1   e7+9   26. P1+1   c6.3   27. P1+1   e9-7   
+28. P1.2   p3+1   29. C2+2   a5-6   30. P2+1   h4+3   
+31. C3.7   c3-3   32. H7-9   a4+5   33. P2.3   c4-3   
+34. P4+1   a5+6   35. P3.4   c4.8   36. E7+5   p3+1   
+37. H9-7   c3+6   38. E5-7   c8+3   39. P9+1   c8-1   
+40. E7+5   c8.1   41. P4+1   c1.4   42. P4+1   k5+1   
+43. C2-6   e7+9   44. K6.5   p1+1   45. C2.1   p3.4   
+46. E3+1   p1+1   47. E1-3   p1.2   48. A5-6   p5+1   
+49. A6+5   p2.3   50. A5-6   c4.5   51. A6+5   e1+3   
+52. K5.6   e3-5   53. K6.5   k5.6   54. C1+1   p3+1   
+55. C1-1   }END
+
+
+FORMAT 	WXF
+GAME 	Öì¹óÓÑ(D)Zheng Xinnian,61
+TIME       ;
+RESULT     0.5-0.5
+RED        Öì¹óÓÑ ; NT ; NA ; Öì¹óÓÑ , Öì¹óÓÑ
+BLACK      Zheng Xinnian ; CM ; China-Yunnan ; Ö£ÐÂÄê , ¾G·s¦~
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1+1   r9.8   
+4.  R1.6   r8+4   5.  H8+7   h2+3   6.  P3+1   p3+1   
+7.  R9+1   c2+2   8.  H3+4   r8.6   9.  R6+3   p5+1   
+10. H4-3   p7+1   11. R9.6   a6+5   12. R+.4   r6+1   
+13. H3+4   p7+1   14. H4+3   p1+1   15. R6+3   r1+3   
+16. H3+5   e7+5   17. R6.3   h7+6   18. R3.4   h6-8   
+19. P7+1   p3+1   20. R4.7   h3+4   21. H7+6   h8+7   
+22. A6+5   c2-2   23. C8.6   c2+7   24. E7+9   r1.2   
+25. E3+1   h7+5   26. R7-1   c2.1   27. R7.5   r2+6   
+28. C6-2   r2-4   29. E9-7   c1.4   30. R5+2   r2.4   
+31. A5-6   }END
+
+
+FORMAT 	WXF
+GAME 	Yang Jian(D)Luo Zhongcai,51
+TIME       ;
+RESULT     0.5-0.5
+RED        Yang Jian ; CM ; Chongqing ; Ñî½£ , ·¨¼C
+BLACK      Luo Zhongcai ; NT ; NA ; ÂÞÖÒ²Å , ÂÞÖÒ²Å
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   e3+5   8.  R2+6   r1+3   9.  R9.6   a6+5   
+10. H3+4   c8.9   11. R2+3   h7-8   12. H4+3   c9.7   
+13. E3+1   h2+1   14. C7-1   h8+9   15. H3-4   p5+1   
+16. C5+3   r1.6   17. R6+3   p3+1   18. C7+3   h1-3   
+19. R6.7   r6+1   20. C5+1   h9+7   21. P3+1   c7+2   
+22. H4-2   k5.6   23. A4+5   c2+4   24. H2+3   c2.5   
+25. A5+4   e5+7   26. R7.5   }END
+
+
+FORMAT 	WXF
+GAME 	Ge Weipu(W)LIU XiangDong,59
+TIME       ;
+RESULT     1-0
+RED        Ge Weipu ; CM ; China-Shanghai ; ¸ðÎ¬ÆÑ , ¸¯ºû»Z
+BLACK      LIU XiangDong  ; NT  ; NA ; ÁõÏò¶« , ¼B¦VªF
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h2+3   2.  H2+3   p7+1   3.  R1.2   a4+5   
+4.  C8.6   h8+9   5.  H8+7   r9.8   6.  P7+1   e3+5   
+7.  R9.8   c2.1   8.  H7+6   c1+4   9.  R8+3   c1-2   
+10. H6+5   h3+5   11. C5+4   c8+4   12. R8+2   r1.4   
+13. C6.9   c1+2   14. E3+5   c1.3   15. A4+5   r4+3   
+16. C5-1   c3+1   17. P5+1   p9+1   18. P3+1   p7+1   
+19. H3+5   c3+1   20. H5+3   h9-7   21. C9+1   c8-2   
+22. R8+4   r4-3   23. R8-8   c3-2   24. R2+3   c3.4   
+25. C9.8   r4+3   26. C8+5   h7+9   27. C8.9   k5.4   
+28. R8+8   k4+1   29. C5.8   k4+1   30. H3+5   }END
+
+
+FORMAT 	WXF
+GAME 	Hu Qingyang(W)DING RuYi,64
+TIME       ;
+RESULT     1-0
+RED        Hu Qingyang ; CM ; China-Jilin ; ºúÇìÑô , ­J¼y¶§
+BLACK      DING RuYi  ; NT  ; China-Anhui ; ¶¡ÈçÒâ , ¤B¦p·N
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  E3+5   e7+5   2.  P7+1   h2+1   3.  H8+7   r1+1   
+4.  C8.9   r1.4   5.  R9.8   r4+3   6.  P9+1   a6+5   
+7.  H2+3   c2.3   8.  C9+4   h8+7   9.  A4+5   p7+1   
+10. R8+7   h7+8   11. H7+8   r9.6   12. H8+7   r4+4   
+13. C2+2   c8+3   14. R1.2   p7+1   15. R8.7   h1+3   
+16. R7-1   h8+6   17. E5+3   h6+4   18. R7.6   c8.3   
+19. E7+9   c3.2   20. C9.5   c2+3   21. A5-4   c2+1   
+22. A6+5   c2.1   23. E3-5   r4.3   24. R6-3   r3+1   
+25. R6-3   r3.2   26. P3+1   c1.4   27. A5-6   r2-6   
+28. R2+6   r2.1   29. H3+2   r1+2   30. H2+3   r6.7   
+31. R2.1   r1-1   32. P5+1   r1.6   }END
+
+
+FORMAT 	WXF
+GAME 	Li Peng(D)Chen Qiming,65
+TIME       ;
+RESULT     0.5-0.5
+RED        Li Peng ; NT ; China-Jidian ; ÀîÅô , §õÄP
+BLACK      Chen Qiming ; CM ; China-HuoCheTou ; ³ÂÆôÃ÷ , ³¯±Ò©ú
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   c8.9   6.  R2.3   c9-1   
+7.  C8.6   r1.2   8.  H8+7   c2.1   9.  R9+2   a4+5   
+10. H7+6   c9.7   11. R3.4   r8+5   12. P3+1   r8-1   
+13. H3+4   p3+1   14. H4+5   h3+5   15. H6+5   p7+1   
+16. R4+2   h7+5   17. C5+4   c1.5   18. R4.3   r8.5   
+19. R3-4   r5-1   20. C6.5   r5+3   21. A4+5   r5.9   
+22. P7+1   c5+4   23. P9+1   r2+6   24. P9+1   r2.3   
+25. P9.8   e7+5   26. R9+4   r3+3   27. R9-3   r3-2   
+28. K5.4   r9.6   29. C5.4   c5.2   30. R9-3   e5+3   
+31. P8+1   e3-5   32. P8+1   p9+1   33. P8+1   }END
+
+
+FORMAT 	WXF
+GAME 	Yang Deqi(W)XU QuangJiang,59
+TIME       ;
+RESULT     1-0
+RED        Yang Deqi ; CM ; China-HuoCheTou ; ÑîµÂç÷ , ·¨¼wµX
+BLACK      XU QuangJiang  ; NT  ; NA ; Ðì¹ã½­ , ®}¼s¦¿
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  C8.9   r1.2   9.  R9.8   c9.7   
+10. R3.4   h7+8   11. R4+2   c7+5   12. E3+1   c2+4   
+13. P5+1   p7+1   14. E1+3   c2.9   15. R8+9   c9+3   
+16. K5+1   h3-2   17. C5+4   e3+5   18. C5.9   h2+1   
+19. R4-5   p3+1   20. P7+1   r8+3   21. H7+6   e5+3   
+22. C+.5   e7+5   23. C9+5   e3-1   24. P5+1   r8.6   
+25. R4.8   e1-3   26. R8.7   e3+1   27. H6+7   h8+6   
+28. R7.4   e1-3   29. H7+8   c9-5   30. R4+1   }END
+
+
+FORMAT 	WXF
+GAME 	Chen Xiaokun(D)He Liansheng,56
+TIME       ;
+RESULT     0.5-0.5
+RED        Chen Xiaokun ; CM ; China-Hangzhou ; ³ÂÐ¢À¤ , ³¯§µ©[
+BLACK      He Liansheng ; CM ; China-Yunnan ; ºÎÁ¬Éú , ¦ó³s¥Í
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  P3+1   p3+1   5.  C8+4   e7+5   6.  H8+9   p1+1   
+7.  C8.7   r1+3   8.  R9.8   r1.3   9.  R8+7   c8.9   
+10. R2+9   h7-8   11. R8-6   r3.4   12. R8.2   h8+6   
+13. R2+7   h6+4   14. R2.7   h3+1   15. R7.3   p5+1   
+16. C5+3   a4+5   17. C5.2   c9.8   18. E3+5   r4.6   
+19. C2+1   p7+1   20. C2.9   r6.1   21. P3+1   e5+7   
+22. R3-3   c8.5   23. H9-7   r1.5   24. H7+8   c5+4   
+25. H3+5   r5+3   26. H8+7   h4+3   27. R3.7   e3+5   
+28. R7.9   r5.3   }END
+
+
+FORMAT 	WXF
+GAME 	Sun Shucheng(W)Yu Youhua,59
+TIME       ;
+RESULT     1-0
+RED        Sun Shucheng ; CM ; China-Meitan Tixie ; ËïÊ÷³É , ®]¾ð¦¨
+BLACK      Yu Youhua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  H7+6   c9.7   9.  R3.4   e7+5   
+10. R9+1   r1+1   11. H3-5   r8+5   12. C8+2   p3+1   
+13. H6+5   r8.3   14. H++7   r3.2   15. H5+7   r2+1   
+16. P5+1   r1.4   17. P5+1   r4+6   18. R9+1   h7+8   
+19. A4+5   r4-1   20. C5+1   r4+2   21. P5.6   h8+7   
+22. C5+2   c2-1   23. H-+8   r2-1   24. R9.4   c7.6   
+25. R+.6   c2.3   26. R4+6   r2.4   27. C5+1   h7-5   
+28. R6+2   r--1   29. K5.4   r++1   30. A5-6   }END
+
+
+FORMAT 	WXF
+GAME 	WU XueYan(L)Zhang Guangzeng,54
+TIME       ;
+RESULT     0-1
+RED        WU XueYan  ; NT  ; China-Shandong ; ÎâÑ§Ñ× , §d¾Çª¢
+BLACK      Zhang Guangzeng ; NT ; NA ; ÕÅ¹ãÔö , ±i¼s¼W
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   e3+5   6.  H8+7   h7+6   
+7.  C8+2   p7+1   8.  R2.4   p7+1   9.  R4-1   p7+1   
+10. R9+1   c8.7   11. E3+1   a4+5   12. R4-2   c2+2   
+13. H7+6   r1.4   14. R9.4   c2.4   15. P5+1   r8+4   
+16. R++2   r8+2   17. R+-2   r8-2   18. C8+2   c7.6   
+19. R-.8   c4.6   20. R4.6   c++1   21. P5+1   p5+1   
+22. R8+2   p5+1   23. H6+5   p7.6   24. H5+7   r4+6   
+25. R8.6   p6.5   26. E7+5   c-.3   27. R6+3   p5+1   }END
+
+
+FORMAT 	WXF
+GAME 	XU Bin(D)Xie Kui,64
+TIME       ;
+RESULT     0.5-0.5
+RED        XU Bin  ; NT  ; NA ; Ðì±ò , ®}±l
+BLACK      Xie Kui ; NT ; China-Shandong ; Ð»¿ù , ÁÂõÉ
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   c8.3   2.  E7+5   h8+7   3.  H2+1   r9.8   
+4.  C2.3   e3+5   5.  R1+1   r8+4   6.  R1.6   p3+1   
+7.  R6+3   c3-2   8.  R6+3   c2.3   9.  P7+1   r8.3   
+10. H8+6   a4+5   11. R6+1   h2+1   12. R9.8   p7+1   
+13. H6+4   h7+6   14. C3.2   h6+7   15. C8+5   h7-8   
+16. P1+1   c-.2   17. R6.8   r3.6   18. A6+5   c2+2   
+19. R-+7   c3.4   20. H1+2   r6+1   21. H4+2   r6.4   
+22. H++4   r4.9   23. C2+3   r9.8   24. H2-4   r8-1   
+25. H+-6   r8+1   26. H6+5   r8-2   27. H5-6   e5+3   
+28. H4+5   c4.6   29. R--1   r8.2   30. R8-2   r1.2   
+31. R8+3   h1-2   32. H5+3   c6.1   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN DongGuo(D)LI ShouQian,82
+TIME       ;
+RESULT     0.5-0.5
+RED        CHEN DongGuo  ; NT  ; China-Tianjin ; ³Â¶«¹ú , ³¯ªF°ê
+BLACK      LI ShouQian  ; NT  ; China-Habrbin ; ÀîÊØÇ¨ , §õ¦u¾E
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  E3+5   c2.4   2.  H8+7   p3+1   3.  R9.8   h2+3   
+4.  C8.9   h8+7   5.  P3+1   e7+5   6.  H2+3   a6+5   
+7.  A4+5   r9.6   8.  R1.4   r6+9   9.  A5-4   h3+4   
+10. P7+1   p3+1   11. E5+7   c8+2   12. H3+2   c8+3   
+13. C9.2   h4+6   14. R8+5   r1+1   15. R8.4   h6+4   
+16. R4.6   h4-5   17. C2.3   r1.3   18. E7+5   h5+6   
+19. H2+3   h6+7   20. K5+1   r3.2   21. K5.4   c4.3   
+22. H7+6   a5-6   23. P3+1   r2.6   24. R6.4   r6+3   
+25. H6+4   h--8   26. P3.2   a6+5   27. H4-6   h8+9   
+28. H3-4   c3.1   29. H6+5   c1+4   30. P1+1   h7-9   
+31. P2+1   h--8   32. H4+3   h9+8   33. C3-2   c1.2   
+34. P2+1   c2-5   35. H5+7   h-+6   36. H7-9   c2.3   
+37. H3+4   c3.6   38. K4.5   h8-7   39. K5-1   h7-5   
+40. C3.1   c6+2   41. C1+6   c6.5   }END
+
+
+FORMAT 	WXF
+GAME 	Öì¹óÉ­(W)Lu Yujiang,77
+TIME       ;
+RESULT     1-0
+RED        Öì¹óÉ­ ; NT ; NA ; Öì¹óÉ­ , Öì¹óÉ­
+BLACK      Lu Yujiang ; NT ; NA ; Â½Óñ½­ , ³°¥É¦¿
+
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  P7+1   c2+4   5.  H8+7   h2+3   6.  H7+6   c2.7   
+7.  R9.8   r9+1   8.  C8.7   r9.4   9.  H6+7   r4+2   
+10. A4+5   r1.2   11. R8+9   h3-2   12. P9+1   c5.3   
+13. C5.6   h2+1   14. H7-8   c3+5   15. H8-7   r4+3   
+16. E3+5   r4.3   17. H7-8   h1+3   18. H8+9   r3+1   
+19. R2.4   e3+5   20. R4+3   p7+1   21. P5+1   r3.2   
+22. R4.7   r2-3   23. E5+3   h7+8   24. C6+4   r2.7   
+25. E7+5   r7.6   26. P7+1   h3-4   27. C6-1   r6+4   
+28. P5+1   r6.7   29. C6.2   r7-1   30. P5+1   r7.8   
+31. C2.5   r8+2   32. A5-4   r8-5   33. P7.6   c7+1   
+34. P5+1   a6+5   35. P5+1   k5+1   36. H9+8   k5-1   
+37. C5-1   h4+6   38. R7.4   h6+7   39. C5-1   }END
+
+
+FORMAT 	WXF
+GAME 	Chen Hanfeng(W)Wang Daming,67
+TIME       ;
+RESULT     1-0
+RED        Chen Hanfeng ; NT ; China-Hangzhou ; ³Âº®·å , ³¯´H®p
+BLACK      Wang Daming ; NT ; China-Meitan Tixie ; Íõ´óÃ÷ , ¤ý¤j©ú
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.4   c2.5   2.  H8+7   p7+1   3.  R9.8   h2+3   
+4.  C8.9   r1.2   5.  R8+9   h3-2   6.  H2+3   c8.7   
+7.  R1.2   h8+9   8.  E3+5   r9.8   9.  R2+9   h9-8   
+10. P7+1   c7+4   11. C4+4   h2+1   12. C9+4   h8+7   
+13. P9+1   c5-1   14. P9+1   e7+5   15. P9.8   p7+1   
+16. P8+1   h7+8   17. C4+2   h8+6   18. H3-1   h6+4   
+19. P8+1   p7.6   20. P8.9   p6+1   21. P9.8   p9+1   
+22. C9-1   c5.3   23. C9.4   p3+1   24. A4+5   p3+1   
+25. P8.7   c3.2   26. C+-5   h4+3   27. K5.4   p3+1   
+28. H7+9   c2+8   29. H9+8   p3.4   30. H8+6   p4.5   
+31. C+.8   a6+5   32. H6+7   k5.6   33. C4+3   e5+3   
+34. C8-1   }END
+
+
+FORMAT 	WXF
+GAME 	Tong Benping(W)Song Guoqiang,87
+TIME       ;
+RESULT     1-0
+RED        Tong Benping ; CM ; China-Jiangsu ; Í¯±¾Æ½ , µ£¥»¥­
+BLACK      Song Guoqiang ; CM ; China-HuoCheTou ; ËÎ¹úÇ¿ , §º°ê±j
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  R1+1   e7+5   6.  R1.4   a6+5   
+7.  P5+1   c8+2   8.  H7+5   c2+4   9.  P3+1   p7+1   
+10. H5+3   c2.7   11. E3+1   r1.2   12. C8.7   r2+6   
+13. R9+2   c8.7   14. R9.8   r2.3   15. P7+1   c+.8   
+16. P7.6   r3.7   17. C7+5   r7-1   18. C7.3   c7+3   
+19. C3-5   r7+2   20. P5+1   c8+3   21. K5+1   r8.7   
+22. R8+1   p5+1   23. R8.2   c8.9   24. P6.5   r++1   
+25. R2-2   r+-2   26. R2-1   c9-3   27. P9+1   r+.3   
+28. K5-1   c9.5   29. A4+5   r3+3   30. R4+2   c5-1   
+31. R2+4   r3-4   32. P5+1   p3+1   33. P9+1   p1+1   
+34. P5+1   e3+5   35. K5.4   r3.1   36. C5+5   a5+4   
+37. A5+6   r1+4   38. K4.5   c5.3   39. R4.7   r7+2   
+40. C5-5   r7.6   41. R7.5   a4+5   42. C5+6   c3.5   
+43. R2.5   r1-4   44. R++2   }END
+
+
+FORMAT 	WXF
+GAME 	ÁºÀ¥¼Ñ(D)Zong Yongsheng,125
+TIME       ;
+RESULT     0.5-0.5
+RED        ÁºÀ¥¼Ñ ; NT ; China-Guangxi ; ÁºÀ¥¼Ñ , ÁºÀ¥¼Ñ
+BLACK      Zong Yongsheng ; CM ; China-Guangdong ; ×ÚÓÀÉú , ©v¥Ã¥Í
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   a4+5   
+7.  R9.6   c2.1   8.  P5+1   r1.2   9.  H3+5   c8.9   
+10. R2+3   h7-8   11. P3+1   c1+4   12. C8.9   c1.5   
+13. H7+5   r2+6   14. P3+1   r2.3   15. H5+3   c9.7   
+16. E3+1   r3+3   17. R6+1   p3+1   18. P3+1   c7+3   
+19. E1+3   e3+5   20. R6+4   p3.4   21. R6-2   r3-5   
+22. R6.9   p9+1   23. C9+4   h8+9   24. P3.4   h9+8   
+25. P4.5   h8+6   26. P++1   h6+5   27. P++1   a6+5   
+28. E3-5   h3+1   29. R9+2   r3+2   30. P5+1   r3.9   
+31. R9.1   p9+1   32. R1+3   r9.7   33. P5.4   p9.8   
+34. R1.2   p8.9   35. P4+1   r7-4   36. R2-6   r7.2   
+37. R2+6   r2.7   38. E5-3   p9+1   39. R2-5   r7.5   
+40. A4+5   r5.2   41. R2.3   e7+9   42. A5+6   r2+1   
+43. R3+2   k5.4   44. P4.5   r2+1   45. P5.6   r2.4   
+46. P6.7   r4.5   47. A6+5   r5.3   48. P7.8   r3.2   
+49. R3.7   k4.5   50. A5+4   r2.5   51. A6-5   p9.8   
+52. R7+3   a5-4   53. E3+5   e9-7   54. R7-6   r5-1   
+55. P8+1   r5-1   56. P8.7   k5.6   57. P7+1   r5-1   
+58. R7+1   r5.7   59. A5+6   p8.7   60. K5.4   p7+1   
+61. R7.4   r7.6   62. R4.3   e7+9   63. R3.2   }END
+
+
+FORMAT 	WXF
+GAME 	Zhuang Yuting(W)Deng Yuru,159
+TIME       ;
+RESULT     1-0
+RED        Zhuang Yuting ; GM ; China-Guangdong ; ×¯ÓñÍ¥ , ÉÜ¥É®x
+BLACK      Deng Yuru ; NT ; NA ; µËÔ£Èç , ¾H¸Î¦p
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  E3+5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  H8+7   h2+1   5.  P3+1   c2.4   6.  R9.8   r1.2   
+7.  A4+5   r2+6   8.  C2+1   p1+1   9.  P7+1   r2-2   
+10. C8.9   r2.6   11. H7+6   r6.4   12. H6-4   r8+1   
+13. P7+1   r4.3   14. H4+2   r8.6   15. R2.4   r6+8   
+16. A5-4   p7+1   17. P3+1   r3.7   18. C2-3   h1+2   
+19. R8+4   c4.2   20. R8.7   r7.4   21. R7+2   h2+4   
+22. R7.8   c2.3   23. R8.7   c3.2   24. R7-3   h4-6   
+25. C2.3   h6+8   26. H3+2   h7+6   27. H2-3   c2+5   
+28. A4+5   c2.7   29. C9.3   h6+8   30. C-+9   a6+5   
+31. E5+3   r4.6   32. C-.7   e3+1   33. E7+5   k5.6   
+34. A5+4   r6+2   35. A6+5   r6.5   36. R7+4   h8-7   
+37. R7.9   r5.6   38. E5-3   r6.1   39. E3-5   r1.3   
+40. C7.8   r3.2   41. C8.7   r2.3   42. C7.8   c5.6   
+43. C3.6   c6+4   44. C6-1   h7+6   45. R9-2   h6+8   
+46. R9+4   a5-4   47. R9.6   k6+1   48. R6.3   c6.5   
+49. C8+6   r3-5   50. R3-6   r3.2   51. R3.2   r2+5   
+52. R2+5   k6-1   53. R2+1   k6+1   54. R2-1   k6-1   
+55. R2-2   p5+1   56. R2.1   r2-4   57. C6-8   r2.6   
+58. C6+2   p5+1   59. P1+1   r6+3   60. P1+1   r6-1   
+61. R1+3   k6+1   62. P1+1   r6.9   63. P1+1   r9+1   
+64. P1+1   c5.9   65. R1.3   c9-5   66. R3-1   k6-1   
+67. R3+1   k6+1   68. R3-1   k6-1   69. E5+3   r9+1   
+70. E3+1   p5+1   71. R3+1   k6+1   72. R3-1   k6-1   
+73. C6-1   p5.6   74. R3+1   k6+1   75. R3-3   r9-4   
+76. C6+4   p6+1   77. R3.4   k6.5   78. R4.5   k5.6   
+79. A5+4   r9.6   80. C6-4   }END
+
+
+FORMAT 	WXF
+GAME 	Lv Qin(W)Huang Shiqing,135
+TIME       ;
+RESULT     1-0
+RED        Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+BLACK      Huang Shiqing ; CM ; China-Guangxi ; »ÆÊÀÇå , ¶À¥@²M
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   h8+7   2.  H8+7   p7+1   3.  C8.9   c2.3   
+4.  H7+6   r9+1   5.  C2.5   e3+5   6.  H2+3   r9.4   
+7.  H6+5   h7+5   8.  C5+4   a4+5   9.  E3+5   r4+2   
+10. C5-2   h2+4   11. R9.8   c8.7   12. A4+5   r1.2   
+13. R8+9   h4-2   14. R1.4   r4+1   15. R4+6   p3+1   
+16. P7+1   r4.3   17. R4.9   c3+1   18. R9+3   r3.2   
+19. P9+1   c3-3   20. R9-3   c7+4   21. R9.7   c3.4   
+22. R7+3   c7.6   23. P9+1   r2+1   24. R7-3   p7+1   
+25. R7.3   h2+3   26. C9.7   c4+6   27. R3.7   h3-1   
+28. P9+1   r2-3   29. C7.9   h1+3   30. P9.8   r2.1   
+31. R7.3   h3+4   32. R3-2   r1+3   33. R3+2   h4+5   
+34. R3.5   c6+1   35. C5+3   e7+5   36. R5-3   c6.1   
+37. E7+9   c4-5   38. R5+4   r1+2   39. R5-1   r1-1   
+40. H3+5   c4.1   41. H5+3   p9+1   42. P8+1   r1.3   
+43. R5.9   c1.4   44. R9-1   r3+1   45. P8+1   a5+6   
+46. R9.5   a6+5   47. H3+1   k5.6   48. P1+1   r3-4   
+49. H1-3   c4-1   50. R5.4   c4.1   51. K5.4   r3.5   
+52. P8.7   r5+4   53. P7.6   r5-4   54. A5+6   k6+1   
+55. P1+1   r5.4   56. P6.5   k6.5   57. R4+2   r4.7   
+58. R4+1   k5-1   59. R4-4   c1+1   60. P1.2   c1.3   
+61. A6+5   k5.4   62. R4+5   k4+1   63. R4.7   c3+2   
+64. H3+5   r7.6   65. K4.5   c3.5   66. R7-3   r6.9   
+67. K5.6   c5.4   68. R7.6   }END
+
+
+FORMAT 	WXF
+GAME 	Chen Qiming(W)Lu Zengrong,41
+TIME       ;
+RESULT     1-0
+RED        Chen Qiming ; CM ; China-HuoCheTou ; ³ÂÆôÃ÷ , ³¯±Ò©ú
+BLACK      Lu Zengrong ; NT ; China-Jiangsu ; Â½á¿áÉ , ³°±WÀ¯
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  H8+7   r9.4   5.  R2+4   h2+3   6.  P7+1   r1+1   
+7.  A6+5   p7+1   8.  C5.4   p5+1   9.  C8+2   c2+2   
+10. E7+5   h3+5   11. P3+1   c5-1   12. H3+4   p7+1   
+13. R2.3   c5.7   14. H4+5   h7+5   15. R3+2   c2-1   
+16. H7+6   r4+3   17. H6+4   e7+5   18. R3.4   a4+5   
+19. H4+2   c7+3   20. H2+3   k5.4   21. C8-4   }END
+
+
+FORMAT 	WXF
+GAME 	LU YueDong(D)DENG Hu,54
+TIME       ;
+RESULT     0.5-0.5
+RED        LU YueDong  ; NT  ; China-Ningbo ; Â³Ô½¶« , ¾|¶VªF
+BLACK      DENG Hu  ; NT  ; NA ; µË»¢ , ¾Hªê
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  H7+6   c9.7   9.  R3.4   e3+5   
+10. C8.9   r8+5   11. R9.8   r1.2   12. P3+1   r8.7   
+13. H3+4   c2+3   14. E3+1   r7.8   15. C5.3   c2.4   
+16. R8+9   h3-2   17. C3+5   c4-3   18. C3.6   a5+4   
+19. C9+4   c7.1   20. C9.5   c1.5   21. C5.1   c5+5   
+22. H4+6   r8.5   23. K5+1   r5-1   24. H6-5   r5+2   
+25. K5.4   a4-5   26. A4+5   r5.1   27. R4.7   h2+4   }END
+
+
+FORMAT 	WXF
+GAME 	Zhang Minge(W)Wang Zhian,67
+TIME       ;
+RESULT     1-0
+RED        Zhang Minge ; NT ; China-Hangzhou ; ÕÅÃñ¸ï , ±i¥Á­²
+BLACK      Wang Zhian ; NT ; NA ; ÍõÖ¾°² , ¤ý§Ó¦w
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   h7+6   6.  H8+7   r1+1   
+7.  R9+1   p7+1   8.  R2-1   h6+7   9.  R2.3   e7+5   
+10. R3-1   r8.7   11. R3+5   e5-7   12. H7+6   r1.7   
+13. C5.6   r7+3   14. E7+5   p9+1   15. A6+5   c2-1   
+16. C8.7   c2.7   17. R9.8   e7+5   18. R8+5   a4+5   
+19. R8+1   p3+1   20. P7+1   h3+4   21. R8+2   h4+6   
+22. C7+7   e5-3   23. R8.7   a5-4   24. R7.6   k5+1   
+25. R6.4   c7.6   26. P7+1   c8+3   27. E5+3   r7.3   
+28. P7.6   h6+7   29. H6+5   r3.6   30. P6+1   h+-5   
+31. H5+4   c8-2   32. P6.5   k5+1   33. R4.5   k5.6   
+34. H4+6   }END
+
+
+FORMAT 	WXF
+GAME 	Zhang Shixing(D)DING JiXian,106
+TIME       ;
+RESULT     0.5-0.5
+RED        Zhang Shixing ; NT ; China-Ningxie ; ÕÅÊÀÐË , ±i¥@¿³
+BLACK      DING JiXian  ; NT  ; NA ; ¶¡¼ÌÏÈ , ¤BÄ~¥ý
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  H8+7   c2+4   6.  P5+1   c8+4   
+7.  R9+1   c2.3   8.  E7+9   r1.2   9.  R9.6   r2+6   
+10. R6+6   e7+5   11. R6.7   a6+5   12. R7+1   c8-5   
+13. R7-1   c8+4   14. R7+1   c8.3   15. R2+9   h7-8   
+16. R7.6   c-+2   17. H3+5   c+.1   18. C5.9   r2+1   
+19. C9+4   h8+7   20. R6-3   r2-2   21. R6-2   c3+3   
+22. A6+5   r2.5   23. R6.7   c3.2   24. R7.8   c2.3   
+25. R8.7   p3+1   26. H5-6   r5.4   27. H6+5   c3.2   
+28. R7.8   c2.3   29. E3+5   c3-1   30. P3+1   r4.5   
+31. P3+1   e5+7   32. C9-1   p5+1   33. H5+3   r5+2   
+34. C9.5   e3+5   35. H3-5   r5.1   36. K5.6   c3-3   
+37. R8.6   k5.6   38. H5+3   r1.5   39. R6.4   k6.5   
+40. H3-5   c3+1   41. C5-3   c3.6   42. P9+1   h7+8   
+43. C5.1   h8+7   44. C1+4   c6.9   45. C1.3   e7-9   
+46. H5+6   h7+5   47. H6+5   c9+3   48. C3-6   p3+1   
+49. H5-6   p3+1   50. K6+1   a5+6   51. C3+2   c9-1   
+52. K6-1   h5-4   53. A5+4   h4+3   }END
+
+
+FORMAT 	WXF
+GAME 	YANG KeXiong(W)YE ZhiNing,103
+TIME       ;
+RESULT     1-0
+RED        YANG KeXiong  ; NT  ; NA ; Ñî¿ËÐÛ , ·¨§J¶¯
+BLACK      YE ZhiNing  ; NT  ; NA ; Ò¶Ö¾Äþ , ¸­§Ó¹ç
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  H2+3   p7+1   2.  C2.1   h8+7   3.  R1.2   r9.8   
+4.  R2+6   h2+3   5.  P7+1   h7+6   6.  H8+7   p7+1   
+7.  R2.4   h6+7   8.  C1-1   c8+5   9.  E7+5   p7.8   
+10. C1.2   r8+2   11. H7+6   r1+1   12. C8.6   r8.6   
+13. R4.3   r6.7   14. R3.1   r1.6   15. R9.8   r6+4   
+16. H6+7   c2.1   17. C2.7   c1+4   18. A6+5   c1.4   
+19. H7-8   r6-1   20. H8+9   c4-3   21. H9+7   c4.9   
+22. H7-5   r7.1   23. C7+8   a4+5   24. R8+9   r6.4   
+25. C7-3   a5-4   26. C7+3   a4+5   27. P7+1   r4-2   
+28. C7-3   a5-4   29. C7+3   a4+5   30. C7-2   r4-2   
+31. C7+2   r4+3   32. H5-4   r1+7   33. C6-2   c8+1   
+34. P7.6   r4.3   35. C7.4   a5-4   36. R8.6   k5+1   
+37. R6-1   k5-1   38. R6+1   k5+1   39. R6-1   k5-1   
+40. R6.4   c8.7   41. R4.6   r3.6   42. R6+1   k5+1   
+43. H4-6   c7.8   44. H6+7   h7+9   45. C6.7   h9+7   
+46. K5.6   c8+1   47. H7+6   r6-1   48. P6+1   c9-1   
+49. R6.5   k5.4   50. H6+8   r6.3   51. H8-7   e7+5   
+52. C4-4   }END
+
+
+FORMAT 	WXF
+GAME 	Wang Guifu(W)LIN ShiQiu,195
+TIME       ;
+RESULT     1-0
+RED        Wang Guifu ; CM ; China-Ningxie ; Íõ¹ó¸£ , ¤ý¶QºÖ
+BLACK      LIN ShiQiu  ; NT  ; NA ; ÁÖÊ«Çï , ªL¸Ö¬î
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P5+1   a4+5   5.  R2+6   p7+1   6.  P5+1   c6.5   
+7.  H8+7   c5+2   8.  H7+5   c5+3   9.  E7+5   e3+5   
+10. C8.9   p3+1   11. R9.8   r1.2   12. R2.3   r9+2   
+13. R8+6   p5+1   14. H5+4   c2.1   15. R8+3   h3-2   
+16. P3+1   h2+4   17. P3+1   h7+5   18. P3.2   c1.3   
+19. C9+4   r9.8   20. P2+1   r8.6   21. R3.4   r6+1   
+22. C9.4   c3+4   23. P2.3   p5+1   24. H3+2   p9+1   
+25. H4+6   p5+1   26. H2+4   p5.4   27. C4+2   e5+7   
+28. C4.1   h4+3   29. P9+1   h5+6   30. A6+5   h6+8   
+31. H4-6   p3+1   32. H-+7   c3-3   33. H6+7   k5.4   
+34. C1.4   a5+6   35. P3.4   h8+7   36. K5.6   a6+5   
+37. C4.3   h7-6   38. P9+1   p3+1   39. H7-8   c3.4   
+40. H8-6   p3+1   41. A5+4   p3+1   42. A4+5   c4-1   
+43. P9+1   k4.5   44. P9+1   p4+1   45. A5+6   h6+4   
+46. A4-5   p3.4   47. K6.5   h4-5   48. C3.2   h5+7   
+49. C2-6   c4+1   50. C2.3   e7+9   51. C3-1   h7+8   
+52. H6+8   p4.5   53. K5+1   h8-9   54. P4.5   h9+7   
+55. K5-1   c4-2   56. P5.6   p9+1   57. P9.8   a5-4   
+58. C3.9   c4.8   59. P8.7   a4+5   60. E5+3   p9+1   
+61. P7+1   h7-5   62. E3+5   c8+2   63. P6+1   h5+3   
+64. C9+7   a5+4   65. H8+6   k5.6   66. K5.4   h3-5   
+67. P7.6   c8-1   68. H6-5   h5-6   69. C9-3   c8+2   
+70. C9-4   h6-5   71. C9.4   h5+6   72. P6.5   c8-2   
+73. H5+4   c8.7   74. C4+3   p9.8   75. H4-3   h6-4   
+76. H3+4   h4+6   77. K4.5   p8.7   78. E5-3   c7-1   
+79. C4-4   p7+1   80. K5+1   e9-7   81. C4.9   e7+5   
+82. C9+9   p7.6   83. C9.6   c7.6   84. E3+5   h6-4   
+85. H4+2   c6.7   86. C6-1   h4-6   87. H2-1   h6+8   
+88. C6-3   h8+6   89. C6.9   c7+2   90. H1+2   c7-2   
+91. C9+3   h6-8   92. C9-6   p6+1   93. K5.6   h8-6   
+94. H2-1   h6+7   95. H1+3   h7+5   96. C9+6   h5-6   
+97. C9-7   p6.7   98. E3-1   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN WeiQiang(L)WANG SuiWang,136
+TIME       ;
+RESULT     0-1
+RED        CHEN WeiQiang  ; NT  ; NA ; ³ÂÎ°Ç¿ , ³¯°¶±j
+BLACK      WANG SuiWang  ; NT  ; China-Xian ; ÍôËæÍú , ¨LÀH©ô
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C8.6   p3+1   2.  H8+9   h2+3   3.  H2+3   r1.2   
+4.  E3+5   h8+7   5.  R9+1   c2.1   6.  R9.4   e3+5   
+7.  P3+1   r9+1   8.  C2.1   r9.4   9.  A4+5   r4+3   
+10. R1.2   c8+2   11. R4+5   c8.9   12. C1+3   r4.9   
+13. R4.3   h3+4   14. P3+1   r9.7   15. R3-1   e5+7   
+16. R2+4   h7+6   17. R2+2   r2+3   18. P5+1   c1.5   
+19. P5+1   c5+2   20. R2.4   h6+5   21. R4-3   h5+3   
+22. R4.6   h4-3   23. R6+4   r2-1   24. H3+5   h+-1   
+25. H5+6   h1-2   26. H9+8   a4+5   27. R6+1   h3+4   
+28. H8+6   r2.8   29. K5.4   r8.6   30. K4.5   r6.8   
+31. K5.4   r8.6   32. K4.5   r6+4   33. R6.8   r6.4   
+34. R8+1   a5-4   35. C6.8   r4-2   36. R8-4   r4+5   
+37. K5.6   c5.2   38. P7+1   p3+1   39. E5+7   p9+1   
+40. C8.1   e7+5   41. E7+9   p1+1   42. C1-2   c2.5   
+43. K6+1   p1+1   44. E7-5   p1+1   45. E9+7   p1.2   
+46. E5+3   p2.3   47. E7-5   p3.4   48. K6-1   p4.5   
+49. K6+1   p+.6   50. E3-1   c5.4   51. E5+7   p6.5   
+52. K6-1   p+.6   53. K6.5   p5+1   54. P1+1   p9+1   
+55. C1+4   p5+1   56. E1+3   p5+1   57. E7-9   c4.5   
+58. E9-7   p5.4   59. K5.6   p4.5   60. K6+1   a4+5   
+61. C1-2   p5.4   62. K6-1   a5-4   63. C1+1   p4.5   
+64. K6.5   p6+1   65. C1+3   c5-1   66. E3-5   p6+1   
+67. C1-2   c5+2   68. C1+2   p5.4   }END
+
+
+FORMAT 	WXF
+GAME 	Liu Dianzhong(W)Li Bo,175
+TIME       ;
+RESULT     1-0
+RED        Liu Dianzhong ; GM ; China-Hebei ; ÁõµîÖÐ , ¼B·µ¤¤
+BLACK      Li Bo ; NT ; NA ; Àî²¨ , §õªi
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  E3+5   p7+1   2.  H8+7   h8+7   3.  P7+1   h2+1   
+4.  R9+1   e7+5   5.  R9.3   c8-2   6.  P3+1   p7+1   
+7.  R3+3   c8.7   8.  R3.2   r1+1   9.  P9+1   r1.4   
+10. R1+1   r4+3   11. C8.9   a6+5   12. C9+4   c7.8   
+13. C2+7   r9.8   14. R2+5   h7-8   15. R1.8   c2.4   
+16. C9.5   h8+7   17. C5-2   h1+2   18. H2+3   h2-4   
+19. C5.4   r4.7   20. H3-1   h4+6   21. R8.2   c4+4   
+22. P5+1   r7+2   23. P5+1   r7.6   24. C4.3   h6+5   
+25. R2.6   r6.9   26. C3.6   c4.2   27. C6-1   r9-1   
+28. R6.8   c2.3   29. R8+2   r9+3   30. R8.7   r9.3   
+31. A4+5   h7+8   32. C6+1   h5+3   33. C6.3   r3.1   
+34. R7-1   r1-2   35. R7.6   p3+1   36. P7+1   e5+3   
+37. R6+4   h8+6   38. R6.1   e3-5   39. R1.6   h6+4   
+40. R6-2   h4+3   41. R6-3   h3-4   42. P5.4   h4-3   
+43. R6+3   r1.6   44. P4.5   r6.5   45. P5.6   r5.4   
+46. R6-1   h3+4   47. K5.4   h4-6   48. P6+1   h6-4   
+49. P9+1   h4+3   50. P6.5   h3-4   51. C3.5   h4+3   
+52. C5+1   h3-4   53. E5+7   h4-3   54. P5.6   h3+4   
+55. E7+5   e3+1   56. P9.8   e1-3   57. P8.7   h4+5   
+58. C5-1   h5+7   59. K4+1   h7+8   60. K4+1   h8-9   
+61. P7+1   h9-7   62. C5+1   h7-5   63. K4-1   h5-7   
+64. E5+3   h7-6   65. C5-2   h6+5   66. E7-5   h5+4   
+67. P7+1   h4-3   68. P7+1   h3-2   69. P6.7   h2-1   
+70. P++1   h1+2   71. P+.6   k5.4   72. C5+5   k4+1   
+73. C5.2   h2+3   74. C2-4   h3+4   75. P7.6   h4-3   
+76. A5+6   e5-7   77. A6+5   e7+5   78. E5+7   e5-7   
+79. C2-4   h3-2   80. C2.6   h2+3   81. C6.3   e7+9   
+82. C3.7   h3-2   83. K4+1   k4.5   84. P6+1   k5-1   
+85. C7.5   k5.4   86. C5.6   k4.5   87. C6.5   k5.4   
+88. P6.5   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG JinGang(L)HE AiWen,156
+TIME       ;
+RESULT     0-1
+RED        ZHANG JinGang  ; NT  ; China-Neimenggu ; ÕÅ½ð¸Õ , ±iª÷­è
+BLACK      HE AiWen  ; NT  ; China-Wuhan ; ºÎ°®ÎÄ , ¦ó·R¤å
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  C8.6   r1.2   5.  H8+7   p3+1   6.  P3+1   c2.1   
+7.  C6+4   e7+5   8.  R9+1   c8+4   9.  P5+1   r2+6   
+10. P5+1   p5+1   11. C6.7   a4+5   12. R9.6   r2-3   
+13. R6+2   r2.3   14. R2+3   r8+6   15. R6.2   p5+1   
+16. E7+9   h3+5   17. R2.6   h5+4   18. P7+1   p3+1   
+19. E9+7   r3+2   20. H7+6   r3.4   21. R6+1   p5.4   
+22. C5.9   c1+4   23. C9+4   c1.7   24. H3+5   p7+1   
+25. P3+1   e5+7   26. C9-4   e3+5   27. C9.1   p4.5   
+28. H5-4   c7.6   29. H4+6   c6.4   30. C1-1   e7-9   
+31. P1+1   p5.6   32. E3+1   h7+8   33. P1+1   p9+1   
+34. C1+4   h8+7   35. E1-3   c4.5   36. C1.5   h7+5   
+37. A4+5   h5+7   38. K5.4   c5.7   39. H6+7   c7-3   
+40. H7+8   c7.6   41. C5.4   p6.5   42. C4.9   h7-6   
+43. K4.5   c6.3   44. A5+4   c3+6   45. A6+5   c3.7   
+46. H8+7   k5.4   47. H7-5   c7-5   48. C9-4   e9-7   
+49. H5-6   a5+6   50. H6+4   p5.4   51. C9+4   c7.5   
+52. K5.6   c5-1   53. H4-3   e7+9   54. H3+2   a6+5   
+55. H2+3   e9+7   56. C9-4   h6-5   57. C9.6   a5+4   
+58. H3-2   c5.7   59. H2-1   e7-5   60. H1-3   k4.5   
+61. H3-5   p4.5   62. H5+7   p5+1   63. H7+6   p5.4   
+64. C6.9   e5+3   65. C9+3   c7.4   66. C9.5   k5.6   
+67. K6.5   a6-5   68. K5.6   h5+7   69. C5.4   k6.5   
+70. C4.5   h7-5   71. K6.5   c4.2   72. H6+7   p4.5   
+73. H7+9   c2.3   74. H9-8   k5.6   75. H8-9   e3-1   
+76. C5.1   h5+3   77. C1-3   c3.5   78. C1.4   k6.5   }END
+
+
+FORMAT 	WXF
+GAME 	HONG LeiXin(W)LIU YouZhi,69
+TIME       ;
+RESULT     1-0
+RED        HONG LeiXin  ; NT  ; China-Henan ; ºéÀÚöÎ , ¬x½UøÊ
+BLACK      LIU YouZhi  ; NT  ; China-Nongxie ; ÁõÓ×ÖÎ , ¼B¥®ªv
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  E3+5   h2+3   2.  H2+3   p3+1   3.  H8+9   h8+7   
+4.  P3+1   r1+1   5.  R9+1   r1.4   6.  R9.4   p1+1   
+7.  A4+5   a4+5   8.  R4+3   h3+2   9.  C8.6   e7+5   
+10. P9+1   p1+1   11. R4.9   r4+2   12. R1.4   c8.9   
+13. R4.2   r9.8   14. C2+5   p5+1   15. R9+5   a5-4   
+16. R9-4   h2-1   17. H9+8   h7-5   18. C2-2   r4.2   
+19. H8-6   r2.5   20. R9-1   c2+2   21. C2+3   h5-7   
+22. E5-3   a6+5   23. H3+4   r5.3   24. C6.3   c9+4   
+25. H4+3   r3.6   26. R2+3   c9+3   27. E3+5   c9-5   
+28. R9.8   h7+6   29. C2-1   h6-7   30. C2+1   c2.1   
+31. P3+1   p3+1   32. R8.7   c1.7   33. H3-1   p9+1   
+34. H6+5   r6.5   35. H5+3   }END
+
+
+FORMAT 	WXF
+GAME 	Li Lin(W)ZANG RuYi,104
+TIME       ;
+RESULT     1-0
+RED        Li Lin ; NT ; China-Nongxie ; ÀîÁÖ , §õªL
+BLACK      ZANG RuYi  ; CM  ; China-Beijing ; ²ØÈçÒâ , »N¦p·N
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P3+1   p7+1   9.  R2.3   h7+6   
+10. R9.4   c2+1   11. R4.2   a4+5   12. P7+1   c2-1   
+13. R3.4   h6-8   14. R2.6   p3+1   15. R4.7   r8+1   
+16. R6+5   c2+1   17. C5+4   h3+5   18. R6.5   h8-6   
+19. R5.4   r8.7   20. P5+1   c8+5   21. E7+5   r7+6   
+22. H7+6   r7-1   23. C8.2   c2+5   24. R7-4   r1.2   
+25. A4+5   r7.4   26. H6+7   r2+3   27. P5+1   e5+3   
+28. P1+1   r4.8   29. C2.4   r8+2   30. P5.6   e3-5   
+31. P6+1   r8-5   32. R4.2   h6+8   33. H7-6   r2.4   
+34. H6+8   r4.2   35. R7.8   h8+9   36. R8+2   h9-7   
+37. H8-6   r2.4   38. H6+8   r4.3   39. H8-6   r3+1   
+40. R8+7   a5-4   41. R8-4   r3+2   42. R8-2   r3-2   
+43. E5+3   r3+1   44. H6+4   r3.7   45. H4+6   r7.4   
+46. R8+3   p1+1   47. H6+7   r4-4   48. R8.7   a4+5   
+49. C4.8   k5.4   50. C8.6   k4.5   51. H7-6   a5+4   
+52. H6+4   r4.6   }END
+
+
+FORMAT 	WXF
+GAME 	Liu Jun(D)Liu Xing,62
+TIME       ;
+RESULT     0.5-0.5
+RED        Liu Jun ; NT ; China-Anhui ; Áõ¾ý , ¼B§g
+BLACK      Liu Xing ; CM ; China-Shenzhen ; ÁõÐÇ , ¼B¬P
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  C8.6   c9.7   8.  R3.4   h7+8   9.  H8+7   p7+1   
+10. R4+2   c7+5   11. E3+1   a4+5   12. R9.8   r1.2   
+13. E1+3   r8+2   14. H7+6   c2+3   15. H6+4   c2-4   
+16. C6+6   h8+6   17. R8+7   c2.1   18. R8+2   h3-2   
+19. C5+4   k5.4   20. C5.6   r8.4   21. H3-5   c1+5   
+22. C+.9   k4.5   23. C9-5   c7.1   24. P5+1   c1.5   
+25. H5+4   h2+3   26. R4-2   r4.5   27. H++2   r5+3   
+28. H2+3   k5.4   29. C6-5   h3+5   30. R4-1   r5.3   
+31. R4.6   h5-4   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG ZhiShu(D)SUN GuoPing,91
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHANG ZhiShu  ; NT  ; NA ; ÕÅÖ¾Ê÷ , ±i§Ó¾ð
+BLACK      SUN GuoPing  ; NT  ; NA ; Ëï¹úÆ½ , ®]°ê¥­
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h2+3   2.  P7+1   r9+1   3.  H2+3   h8+9   
+4.  R1.2   c8.7   5.  C8.7   e3+5   6.  H8+9   r9.4   
+7.  R9.8   r1.2   8.  R2+6   c2.1   9.  R8+9   h3-2   
+10. C5+4   a4+5   11. E3+5   r4+2   12. C5-2   p9+1   
+13. R2-2   p7+1   14. P9+1   h2+4   15. A4+5   h4+2   
+16. R2.4   p3+1   17. P7+1   h2+3   18. C5.7   h3+1   
+19. H9+8   h1+2   20. H8+7   h2-3   21. R4.7   c1.3   
+22. H7-6   c3+5   23. H6-7   r4.8   24. H7+6   h9+8   
+25. R7+2   r8.3   26. H6+7   h8+7   27. H7-5   h7-6   
+28. H3+4   c7.9   29. H4+2   c9+1   30. H5-7   h6+4   
+31. P5+1   a5+6   32. H7+6   a6+5   33. E5+7   c9-2   
+34. E7+5   p1+1   35. H6-4   h4-3   36. H4+6   h3+4   
+37. H6-4   h4+3   38. A5+6   p1+1   39. A6+5   p1.2   
+40. H4+6   p2+1   41. P5+1   h3-4   42. H6-5   c9.6   
+43. H2-3   c6.9   44. H3+2   c9+2   45. P5.4   c9.1   
+46. H2-3   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN HanHua(W)LIU Lu,48
+TIME       ;
+RESULT     1-0
+RED        CHEN HanHua  ; NT  ; NA ; ³Âºº»ª , ³¯º~µØ
+BLACK      LIU Lu  ; NT  ; China-Neimenggu ; ÁõÂ³ , ¼B¾|
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  R1.2   r9.8   
+4.  R2+6   h2+3   5.  P7+1   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. H3+5   p7+1   11. H5+6   r8+8   12. H6+7   r8.2   
+13. P5+1   p7.6   14. R4-3   r2-1   15. R9+2   r2+2   
+16. R9.6   e3+5   17. R4+5   c7+8   18. A4+5   r2-5   
+19. H7+5   r2.5   20. P5+1   c7-2   21. R6+1   c2+7   
+22. R4-1   h7+6   23. R4-2   r5-2   24. H5-3   r5+5   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN JianChang(W)Li Peng,79
+TIME       ;
+RESULT     1-0
+RED        CHEN JianChang  ; NT  ; China-Nongxie ; ³Â½¨²ý , ³¯«Ø©÷
+BLACK      Li Peng ; NT ; China-Jidian ; ÀîÅô , §õÄP
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  C8.7   c9.7   9.  R3.4   h7+8   
+10. R4-3   r8+2   11. H8+9   r1.2   12. R9.8   h8+7   
+13. P7+1   p3+1   14. C7+5   r8.3   15. C5+4   e3+5   
+16. R8+6   c7+1   17. A4+5   r3-2   18. K5.4   k5.4   
+19. R8.6   c2.4   20. P5+1   p3+1   21. H3+5   r2+6   
+22. R4+1   p3.2   23. E3+5   r3+4   24. H5+6   h7+8   
+25. K4.5   k4.5   26. R6.8   r2.9   27. R8-2   k5.4   
+28. H9+7   p7+1   29. R4-3   h8-7   30. R4+2   r9+3   
+31. A5-4   h7+9   32. R8.3   r9-1   33. R3-2   h9-8   
+34. R4.2   r9.8   35. R3+1   r8-2   36. R3.2   h8-7   
+37. P5.4   h7+9   38. R2+3   c4.3   39. C5-1   c3+4   
+40. C5.7   }END
+
+
+FORMAT 	WXF
+GAME 	ZHONG Jun(D)GAO ZhengSheng,73
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHONG Jun  ; NT  ; China-Guizhou ; ÖÓ¿¡ , ÄÁ«T
+BLACK      GAO ZhengSheng  ; NT  ; China-Henan ; ¸ßÖ£Éú , °ª¾G¥Í
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c2.5   5.  H8+9   r1+1   6.  R9.8   r1.8   
+7.  C8.6   r+.4   8.  A4+5   h2+1   9.  R8+5   r4+4   
+10. P3+1   p7+1   11. R8.3   r8+2   12. C5.4   a6+5   
+13. E3+5   c5.3   14. C4-1   e7+5   15. R3+1   p1+1   
+16. C4.3   c8+1   17. H3+4   r4.6   18. R2+2   r8.9   
+19. R2.4   r6.4   20. R4+3   p3+1   21. C3+6   r9.7   
+22. R3.5   r4+1   23. P5+1   h1+2   24. R5.1   r7.6   
+25. P5+1   r6+2   26. P5.4   h2+3   27. H9+7   c3+4   
+28. P1+1   p3+1   29. C6.9   r4-2   30. R1-1   c3.5   
+31. K5.4   r4+1   32. E5+7   r4.6   33. C9.4   c5-1   
+34. P4.5   p1+1   35. P9+1   c5.1   36. R1+4   a5-6   
+37. P1+1   }END
+
+
+FORMAT 	WXF
+GAME 	Jiang Quansheng(D)Ceng Qiquan,54
+TIME       ;
+RESULT     0.5-0.5
+RED        Jiang Quansheng ; CM ; China-Sichuan ; ½¯È«Ê¤ , ½±¥þ³Ó
+BLACK      Ceng Qiquan ; NT ; China-Tinye Tixie ; ÔøÆôÈ« , ´¿±Ò¥þ
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C8.6   p3+1   2.  H8+9   h2+3   3.  R9.8   r1.2   
+4.  R8+4   c2.1   5.  R8.6   e3+5   6.  P9+1   c8.6   
+7.  H2+3   h8+7   8.  P3+1   r9.8   9.  R1.2   r8+4   
+10. C2.1   r8+5   11. H3-2   r2+1   12. H2+3   r2.8   
+13. E3+5   r8+3   14. H9+8   c1+3   15. H8+9   h3+1   
+16. R6.9   h1-3   17. C1-1   r8+4   18. R9.4   a4+5   
+19. R4+2   h7-8   20. C1+5   h8+9   21. P1+1   r8-5   
+22. P1+1   h9-7   23. R4-1   p7+1   24. C6+6   c6.9   
+25. C6.3   c9+2   26. R4-1   p7+1   27. R4.3   c9+5   }END
+
+
+FORMAT 	WXF
+GAME 	Zhang Mingzhong(L)Li Aidong,54
+TIME       ;
+RESULT     0-1
+RED        Zhang Mingzhong ; NT ; China-Tinye Tixie ; ÕÅÃ÷ÖÒ , ±i©ú©¾
+BLACK      Li Aidong ; CM ; China-Sichuan ; Àî°¬¶« , §õ¦ãªF
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  P7+1   p7+1   5.  R2+6   a4+5   6.  H8+7   e3+5   
+7.  C8.9   c2+4   8.  P5+1   r1.4   9.  R9.8   r4+6   
+10. H3-5   r4.3   11. C9-1   c8.9   12. R2+3   h7-8   
+13. C9.7   r3.7   14. C5+1   c2-6   15. C5+3   c2.3   
+16. C5.3   r7.8   17. H7+6   p7+1   18. C3.9   h3+1   
+19. R8+6   r8.5   20. E7+5   r5.4   21. H5+7   p3+1   
+22. R8.9   p3+1   23. H6+7   p3+1   24. C7.8   p3+1   
+25. C8+8   a5-4   26. H7-5   a6+5   27. R9.2   c9+4   }END
+
+
+FORMAT 	WXF
+GAME 	Hou Zhaozhong(L)Chi Xinde,61
+TIME       ;
+RESULT     0-1
+RED        Hou Zhaozhong ; NT ; China-Shandong ; ºòÕÑÖÒ , ­Ô¬L©¾
+BLACK      Chi Xinde ; NT ; China-Qingdao ; ³ÙÐÂµÂ , ¿ð·s¼w
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  P7+1   p7+1   
+4.  H8+7   r9.8   5.  R1+1   e7+5   6.  R1.4   a6+5   
+7.  C8+1   c8+4   8.  H3-1   c8-2   9.  C8.7   r1.2   
+10. R9+1   c8+3   11. R4+1   c8.5   12. E3+5   c2.1   
+13. R9.6   r2+7   14. C7+3   h3-2   15. H1-3   c1+4   
+16. R6+2   c1-1   17. R4+4   h7+8   18. R6.9   p1+1   
+19. P7+1   h2+1   20. H7+6   h1+3   21. P7+1   r2-2   
+22. H6+5   h8+7   23. P7+1   r2-2   24. P7+1   r2.4   
+25. A6+5   h7+9   26. R4-4   h9+7   27. R4-1   r8+8   
+28. H5+3   r4.6   29. A5+4   c1.6   30. A4-5   c6.7   
+31. R4.3   }END
+
+
+FORMAT 	WXF
+GAME 	ZHOU XinPing(W)ZHOU SongYun,67
+TIME       ;
+RESULT     1-0
+RED        ZHOU XinPing  ; NT  ; China-Yaudian ; ÖÜÐÂÆ½ , ©P·s¥­
+BLACK      ZHOU SongYun  ; NT  ; NA ; ÖÜËÉÔÆ , ©PªQ¶³
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   c8.9   
+4.  H8+7   p7+1   5.  R1+1   h2+3   6.  R1.4   e3+5   
+7.  R4+3   a4+5   8.  C8.9   c2+4   9.  R9.8   c2.7   
+10. E3+1   r8+6   11. R8+7   p7+1   12. R4.3   h7+6   
+13. A4+5   r8-1   14. P5+1   r1.4   15. R8-4   r8-1   
+16. C5+4   h3+5   17. P5+1   h5-7   18. H7+6   c7.5   
+19. H3+5   h6+5   20. R8.5   r8+5   21. A5-4   h7+8   
+22. C9.6   h8+9   23. R3.5   r4.2   24. E7+5   r2+7   
+25. R-.6   e5-3   26. H6+7   c9.5   27. H7+5   e7+5   
+28. P5+1   h9-8   29. P5+1   e3+5   30. E5+3   h8+7   
+31. R5+3   r8-2   32. R5.9   r2-7   33. C6-1   h7-5   
+34. R6.5   }END
+
+
+FORMAT 	WXF
+GAME 	WANG CongXiang(W)YAO XueQing,63
+TIME       ;
+RESULT     1-0
+RED        WANG CongXiang  ; NT  ; NA ; Íõ´ÓÏé , ¤ý±q²»
+BLACK      YAO XueQing  ; NT  ; China-Guizhou ; Ò¦Ñ©Çå , «À³·²M
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   p7+1   2.  C2.3   e3+5   3.  H2+1   h8+7   
+4.  R1.2   r9.8   5.  H8+7   c8+5   6.  E7+5   c2.4   
+7.  A6+5   h2+3   8.  P1+1   r1.2   9.  C8+2   a4+5   
+10. P7+1   p3+1   11. C8.2   p3+1   12. R2+2   p3+1   
+13. H7-6   r8+3   14. C3-1   r8.6   15. R2.3   h3+4   
+16. P5+1   r6+5   17. C2-3   r6-3   18. P3+1   h4+5   
+19. R3.4   r6+2   20. A5+4   p7+1   21. C3+6   c4.7   
+22. C2.5   p3.4   23. H6+7   p4+1   24. R9.8   r2+9   
+25. H7-8   h5+7   26. C5.3   c7.9   27. C3+3   h7-9   
+28. H1+3   c9.6   29. C3+2   p1+1   30. A4+5   p4.5   
+31. E3+5   e5+7   32. H8+7   }END
+
+
+FORMAT 	WXF
+GAME 	Chen Yu(D)Gan Luanhu,51
+TIME       ;
+RESULT     0.5-0.5
+RED        Chen Yu ; NT ; China-Sichuan ; ³ÂÓã , ³¯³½
+BLACK      Gan Luanhu ; NT ; China-Tinye Tixie ; ¸Êèïìï , ¥Ì÷áÒé
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   c8.5   2.  H8+7   h8+7   3.  H2+3   r9.8   
+4.  R1.2   r8+4   5.  C2.1   r8+5   6.  H3-2   h2+1   
+7.  H2+3   p7+1   8.  E7+5   r1+1   9.  C8.9   c2+4   
+10. P3+1   p7+1   11. E5+3   r1.4   12. P9+1   h7+6   
+13. R9.8   h6+5   14. H7+5   r4+5   15. H3+4   r4.5   
+16. E3-5   c2.9   17. C9+4   r5-1   18. R8+3   c9.5   
+19. A6+5   p3+1   20. H4-3   p3+1   21. H3+5   r5+1   
+22. R8+3   r5-2   23. E5+7   r5.3   24. C1.5   r3+1   
+25. R8.5   a4+5   26. C9.1   }END
+
+
+FORMAT 	WXF
+GAME 	Liu Haohe(D)Ceng Dongping,66
+TIME       ;
+RESULT     0.5-0.5
+RED        Liu Haohe ; NT ; China-Chengdu ; ÁõºÆºÍ , ¼B¯E©M
+BLACK      Ceng Dongping ; NT ; China-Sichuan ; Ôø¶«Æ½ , ´¿ªF¥­
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  E3+5   c2.4   2.  H8+9   h2+3   3.  R9+1   h8+7   
+4.  P3+1   r1.2   5.  R9.4   r2+4   6.  P9+1   e7+5   
+7.  R4+3   c8+3   8.  P3+1   c8+4   9.  R1.2   r2.7   
+10. R4.6   a6+5   11. C8.6   c4+5   12. C2.6   p3+1   
+13. R2+7   r9.7   14. H9+8   r++2   15. H8+7   p5+1   
+16. R6+4   r+.6   17. H7+5   r7.6   18. A6+5   h3+5   
+19. R6.7   e3+5   20. C6.8   e5-3   21. R7+1   r-+2   
+22. R7-3   h5-4   23. R7+2   r-.2   24. R7.6   r2+5   
+25. R2.3   r2-4   26. K5.6   r6-3   27. K6.5   r2.4   
+28. R6.7   r4.3   29. R7-2   r6.3   30. R3.5   p3+1   
+31. R5-2   p3+1   32. R5.4   r3.5   33. R4.7   r5+3   }END
+
+
+FORMAT 	WXF
+GAME 	GUAN ZhiNian(D)Wan Chunlin,49
+TIME       ;
+RESULT     0.5-0.5
+RED        GUAN ZhiNian  ; NT  ; China-Nanjing ; ¹ÜÖ¾Äê , ºÞ§Ó¦~
+BLACK      Wan Chunlin ; CM ; China-Shanghai ; Íò´ºÁÖ , ¸U¬KªL
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+2   
+7.  R2+6   h7+6   8.  R8+4   e3+5   9.  P9+1   p3+1   
+10. R2-2   a4+5   11. P7+1   p7+1   12. R2.3   c8+3   
+13. R8-1   c8.3   14. C7+3   r8+5   15. R8+1   r8.7   
+16. P3+1   c3+2   17. H3+4   e5+3   18. R8.7   h3+4   
+19. H4+6   c2.4   20. R7-2   e7+5   21. P5+1   h6+4   
+22. R7+2   h4+5   23. E3+5   c4-2   24. R7.8   r2+5   
+25. H9+8   }END
+
+
+FORMAT 	WXF
+GAME 	Lin Hongmin(W)LIU YuZhong,35
+TIME       ;
+RESULT     1-0
+RED        Lin Hongmin ; GM ; China-Shanghai ; ÁÖºêÃô , ªL§»±Ó
+BLACK      LIU YuZhong  ; NT  ; China-Nanjing ; ÁõÓñÖÒ , ¼B¥É©¾
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  E3+5   h2+3   2.  P3+1   p3+1   3.  H2+3   h3+4   
+4.  H8+9   c8.4   5.  C2+3   h4+3   6.  C8+4   h3+2   
+7.  A4+5   h8+7   8.  C8.7   r9.8   9.  R1.2   r1.2   
+10. R9+1   c2.1   11. C2-4   h2-1   12. C2+5   r2+7   
+13. R9.6   c4.2   14. R6+5   r2-4   15. H9+7   p3+1   
+16. H7+5   h1-2   17. C7-1   r2.4   18. H5+6   }END
+
+
+FORMAT 	WXF
+GAME 	YE FengMan(L)Ge Weipu,90
+TIME       ;
+RESULT     0-1
+RED        YE FengMan  ; NT  ; China-Fujian ; Ò¶·áÂú , ¸­¤¥º¡
+BLACK      Ge Weipu ; CM ; China-Shanghai ; ¸ðÎ¬ÆÑ , ¸¯ºû»Z
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   h7+6   6.  H8+7   e3+5   
+7.  R2.4   h6+7   8.  C8+1   c8.7   9.  R4.3   h7+5   
+10. E7+5   c7.6   11. A6+5   a4+5   12. H3+4   r1.4   
+13. R9.6   r4+9   14. A5-6   c2+1   15. R3.1   p7+1   
+16. H4-3   r8+7   17. H3-5   r8.6   18. H5-7   p3+1   
+19. R1-2   p3+1   20. H+-9   p3+1   21. C8-1   r6+1   
+22. R1.3   r6.2   23. R3.7   c2-3   24. R7-1   c2.3   
+25. R7.8   c3+9   26. E5-7   r2.1   27. C8.9   r1.3   
+28. E3+5   c6+1   29. A4+5   h3+4   30. R8.6   h4+2   
+31. R6.8   h2-4   32. R8.6   h4+2   33. R6.8   h2-4   
+34. R8.6   h4+2   35. R6+1   h2+1   36. E7+9   r3-4   
+37. P1+1   r3.5   38. P5+1   r5.8   39. R6.7   e5+3   
+40. E9-7   c6-1   41. A5-4   c6.1   42. P9+1   c1.5   
+43. A6+5   r8.7   44. R7.8   c5.8   45. R8+5   a5-4   }END
+
+
+FORMAT 	WXF
+GAME 	Tang Zhuoguang(D)Wang Xiaohua,47
+TIME       ;
+RESULT     0.5-0.5
+RED        Tang Zhuoguang ; CM ; China-Guangzhou ; ÌÀ×¿¹â , ´ö¨ô¥ú
+BLACK      Wang Xiaohua ; CM ; China-Xiamen ; ÍõÏþ»ª , ¤ý¾åµØ
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  E3+5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  H8+7   p7+1   5.  P7+1   c2.3   6.  H7+8   h7+6   
+7.  A6+5   r8+6   8.  P9+1   h6+7   9.  C2.1   r8+3   
+10. H3-2   h7+9   11. H2+1   c5+4   12. R9+3   c5-1   
+13. H8+7   h2+1   14. H1+3   r1.2   15. C8.7   c5.8   
+16. H7+9   r2+2   17. C7+5   r2.3   18. H9+8   r3.2   
+19. H3+4   p5+1   20. R9.2   c8.5   21. P7+1   r2-2   
+22. P7.6   r2+4   23. P6.5   r2.5   24. R2.5   }END
+
+
+FORMAT 	WXF
+GAME 	Wu Zhengwei(W)MA LongTing,120
+TIME       ;
+RESULT     1-0
+RED        Wu Zhengwei ; CM ; China-Pudong ; ÚùÕýÎ° , à©¥¿°¶
+BLACK      MA LongTing  ; NT  ; China-Nanjing ; ÂíÁúÍ¤ , °¨Às«F
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+9   3.  R1.2   r9.8   
+4.  P7+1   e3+5   5.  H8+7   a4+5   6.  C8.9   p7+1   
+7.  R9.8   r1.2   8.  R8+6   c8+4   9.  P5+1   p9+1   
+10. C9+4   c2.1   11. R8+3   h3-2   12. C9.5   h2+3   
+13. C+-1   c8-1   14. H7+5   c8+1   15. H5-7   c8-1   
+16. H7+5   c8+1   17. A4+5   h3+5   18. P9+1   c1.2   
+19. P9+1   c2+3   20. P9.8   h9+7   21. P3+1   p7+1   
+22. H5+3   h5+7   23. H-+5   c2.5   24. C+.4   c5+2   
+25. E3+5   h--9   26. C4.1   h9+7   27. C1+3   r8+1   
+28. C1+1   h++5   29. C1-5   h5-7   30. R2+2   c8-2   
+31. P8+1   p3+1   32. P7+1   c8.3   33. R2+6   h--8   
+34. C1.2   h8+6   35. H5+6   h6+8   36. C2+1   h8+6   
+37. H6+5   e7+5   38. C2.4   c3-3   39. P8.7   a5-4   
+40. C4+3   c3.4   41. P7.6   k5+1   42. C4-3   k5-1   
+43. P6+1   c4.7   44. P6.5   c7+4   45. E5+3   a4+5   
+46. A5+6   k5.4   47. E7+9   h7-8   48. C4-4   h8+6   
+49. C4.6   k4.5   50. P5.6   h6+5   51. P6+1   a5+6   
+52. P1+1   a6+5   53. C6.5   k5.6   54. K5.4   a5-4   
+55. C5.4   a6-5   56. A6+5   h5+7   57. A5+4   h7+6   
+58. K4+1   k6+1   59. P1+1   k6+1   60. K4.5   k6-1   }END
+
+
+FORMAT 	WXF
+GAME 	XU JianMing(D)Ren Jian,50
+TIME       ;
+RESULT     0.5-0.5
+RED        XU JianMing  ; NT  ; NA ; Ðì½¨Ã÷ , ®}«Ø©ú
+BLACK      Ren Jian ; CM ; NA ; ÈÎ½¡ , ¥ô°·
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   p7+1   
+4.  C8.6   h8+7   5.  H8+7   r1.2   6.  P7+1   c6.4   
+7.  R2+4   e7+5   8.  R9+2   c4+4   9.  P5+1   c2+4   
+10. P3+1   h7+6   11. P3+1   h6+7   12. C5-1   r9.7   
+13. R2.3   r7+4   14. R3+1   e5+7   15. E7+5   c2.3   
+16. R9.8   e3+5   17. R8+7   h3-2   18. P5+1   p5+1   
+19. C5+4   a6+5   20. C5-2   c3.5   21. H3+5   h2+3   
+22. A4+5   h3+5   23. H7+8   p3+1   24. P7+1   h5+3   
+25. H8-6   h3+4   }END
+
+
+FORMAT 	WXF
+GAME 	Zhang Yingfu(W)Wang Xinhai,93
+TIME       ;
+RESULT     1-0
+RED        Zhang Yingfu ; CM ; China-HeilongJiang ; ÕÅÓ°¸» , ±i¼v´I
+BLACK      Wang Xinhai ; NT ; China-Fengzhi ; ÍõöÎº£ , ¤ýøÊ®ü
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   h8+7   2.  P3+1   c8.9   3.  C2.4   r9.8   
+4.  H2+3   r8+4   5.  R1.2   r8+5   6.  H3-2   c2.6   
+7.  H8+7   r1+1   8.  R9.8   r1.8   9.  H2+3   r8+3   
+10. C8+6   a6+5   11. E7+5   e7+5   12. H7+6   r8.4   
+13. C8-4   h2+3   14. H3+4   r4.8   15. C4.3   c9+4   
+16. H6+7   c9.1   17. A6+5   p1+1   18. R8.6   c1.3   
+19. H7-6   p1+1   20. C8-2   p1.2   21. C8.7   c3.1   
+22. P3+1   r8.7   23. P7+1   h3+1   24. P7+1   c6+1   
+25. P7.6   h1+3   26. P6.5   c6-2   27. P++1   e3+5   
+28. H6+7   a5+6   29. H4+6   a4+5   30. H6+5   p2+1   
+31. R6+5   h7-9   32. C3+4   r7.4   33. H5-6   h3+4   
+34. C7+2   a5+4   35. A5+6   k5.6   36. A4+5   h4+2   
+37. H7+5   a4-5   38. C3-3   h2+1   39. C3-2   p9+1   
+40. C7.5   h9+8   41. C5.9   h1-2   42. C3+5   c1+3   
+43. C9+5   h2+3   44. A5-6   h3-4   45. K5+1   c1-8   
+46. H6+7   c1.3   47. C3.8   }END
+
+
+FORMAT 	WXF
+GAME 	Ding Chuanhua(D)Zhang Xiaoping,66
+TIME       ;
+RESULT     0.5-0.5
+RED        Ding Chuanhua ; NT ; NA ; ¶¡´«»ª , ¤B¶ÇµØ
+BLACK      Zhang Xiaoping ; CM ; China-HeilongJiang ; ÕÅÏþÆ½ , ±i¾å¥­
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   e7+5   2.  H8+7   p7+1   3.  R9+1   h8+7   
+4.  E3+5   h2+1   5.  H2+4   r1+1   6.  H7+8   c2+5   
+7.  C2.8   r1.4   8.  P3+1   p7+1   9.  R1.3   h7+6   
+10. R3+4   r9.7   11. R3+5   e5-7   12. P9+1   r4+5   
+13. C8.9   c8.7   14. R9.8   r4.1   15. R8.6   c7.6   
+16. R6+4   c6+6   17. R6.4   c6.2   18. R4-4   r1.2   
+19. H8+9   c2+1   20. C9.6   r2.5   21. R4.8   c2.1   
+22. R8-1   c1-3   23. P1+1   r5-2   24. R8+3   c1+3   
+25. A4+5   r5.4   26. C6.7   e7+5   27. R8.9   c1.2   
+28. P9+1   c2-4   29. P9.8   r4.2   30. H9-8   r2+1   
+31. R9.5   r2-1   32. R5+3   p9+1   33. P1+1   r2.9   }END
+
+
+FORMAT 	WXF
+GAME 	Liu Jinyu(D)WANG GuoFu,68
+TIME       ;
+RESULT     0.5-0.5
+RED        Liu Jinyu ; NT ; NA ; Áõ½úÓñ , ¼B®Ê¥É
+BLACK      WANG GuoFu  ; NT  ; NA ; Íõ¹ú¸» , ¤ý°ê´I
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  P3+1   r9.8   3.  H2+3   c8.9   
+4.  H8+7   c2.5   5.  R9+1   h2+3   6.  H3+4   r8+4   
+7.  R9.6   r1.2   8.  H4+6   h7-8   9.  P7+1   r2+4   
+10. H6-8   r2.6   11. H8+7   p7+1   12. R6+3   a6+5   
+13. A6+5   c5.7   14. C5.6   c7+1   15. E7+5   c9.7   
+16. P3+1   r6.7   17. E3+1   e7+5   18. H+-8   h8+6   
+19. C8-2   h6+8   20. C8.7   e3+1   21. A5+4   r7.6   
+22. A4+5   h8+7   23. E5+3   h3+2   24. P7+1   e1+3   
+25. R1.2   r8+5   26. C7.2   c+.8   27. C2+5   h7-6   
+28. R6+1   h6+5   29. C2.5   r6.5   30. R6.5   p5+1   
+31. H7+6   h2-3   32. H8+7   p5+1   33. P5+1   c8+2   
+34. H6+8   c8.5   }END
+
+
+FORMAT 	WXF
+GAME 	CUI WeiPing(D)LI YiLi,89
+TIME       ;
+RESULT     0.5-0.5
+RED        CUI WeiPing  ; NT  ; NA ; ´ÞÎÀÆ½ , ±Z½Ã¥­
+BLACK      LI YiLi  ; NT  ; China-Shanyi ; ÀîÒ»Á¦ , §õ¤@¤O
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c2.5   
+4.  H8+7   c8+4   5.  P3+1   r1+1   6.  R9.8   r1.8   
+7.  H3+4   c8+1   8.  H7-5   r+.2   9.  C8+3   p3+1   
+10. H4+6   r2+1   11. H5+3   c8.5   12. R2+9   h7-8   
+13. H6+5   e7+5   14. E7+5   h2+3   15. C8-2   r2+3   
+16. H3-5   h3+4   17. H5-7   h4+5   18. H7+6   h5-6   
+19. R8+1   h6+4   20. A6+5   h8+6   21. P7+1   p3+1   
+22. E5+7   h4+3   23. R8+1   h6+4   24. R8.7   r2+1   
+25. R7.9   r2.9   26. E7-5   h4+3   27. H6+7   p9+1   
+28. P9+1   p9+1   29. P9+1   p1+1   30. R9+3   p9.8   
+31. R9-2   r9.1   32. H7-9   h3+2   33. H9+8   a4+5   
+34. K5.6   p5+1   35. H8+6   k5.4   36. A5+6   h2-4   
+37. A4+5   e3+1   38. K6+1   e5+7   39. K6-1   h4+3   
+40. K6.5   h3-2   41. H6-4   p5+1   42. H4+3   e7-9   
+43. H3+2   e9+7   44. H2-3   h2-4   45. H3-1   }END
+
+
+FORMAT 	WXF
+GAME 	LI YanWen(L)Gan Xiaojin,44
+TIME       ;
+RESULT     0-1
+RED        LI YanWen  ; NT  ; NA ; ÀîÑÓÎÄ , §õ©µ¤å
+BLACK      Gan Xiaojin ; NT ; China-Sichuan ; ¸ÊÐ¡½ú , ¥Ì¤p®Ê
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.4   c2.5   2.  H8+7   h2+3   3.  H2+3   h8+9   
+4.  R1.2   r9.8   5.  R9.8   r1.2   6.  P7+1   c8+4   
+7.  C4+5   c8.5   8.  R2+9   c+.2   9.  A4+5   c2+3   
+10. R2-7   r2+7   11. H7-8   r2+2   12. C4.7   r2.3   
+13. R2+6   r3-2   14. H3-2   a4+5   15. P1+1   p7+1   
+16. E3+5   h9+7   17. R2-4   r3-1   18. P3+1   h7+5   
+19. P3+1   h5+4   20. R2.6   p5+1   21. H2+4   p5+1   
+22. R6+2   h4-6   }END
+
+
+FORMAT 	WXF
+GAME 	LIU Chun(W)SHEN ZhaoRui,57
+TIME       ;
+RESULT     1-0
+RED        LIU Chun  ; NT  ; China-Chengdu ; Áõ´º , ¼B¬K
+BLACK      SHEN ZhaoRui  ; NT  ; NA ; ÉñÕ×Èð , ¯«¥ü·ç
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   p7+1   2.  C2.3   e3+5   3.  H2+1   h8+7   
+4.  R1.2   r9.8   5.  R2+6   h2+4   6.  E7+5   r1.3   
+7.  H8+6   c8.9   8.  R2+3   h7-8   9.  P1+1   h4+6   
+10. C8.7   r3.2   11. R9.8   c2+4   12. R8+2   h6+8   
+13. H1+2   r2+2   14. C3.2   c9.8   15. C2+4   c8+3   
+16. H6+4   c8.6   17. C7-1   c6-3   18. C2+1   e7+9   
+19. P3+1   c6.7   20. P3+1   e9+7   21. H4+5   h8+6   
+22. H5+3   c7+7   23. E5-3   e5+7   24. C2-5   r2.8   
+25. C7.2   r8.6   26. C+.4   h6+8   27. C2.4   r6.2   
+28. C-.8   h8+6   29. E3+5   }END
+
+
+FORMAT 	WXF
+GAME 	Zhang Huimin(D)Jiang Zhiliang,110
+TIME       ;
+RESULT     0.5-0.5
+RED        Zhang Huimin ; NT ; China ; ÕÅ»ÝÃñ , ±i´f¥Á
+BLACK      Jiang Zhiliang ; CM ; China-Anhui ; ½¯Ö¾Áº , ½±§Ó¼Ù
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  H2+3   p7+1   2.  C2.1   h8+7   3.  R1.2   r9.8   
+4.  R2+6   c8.9   5.  R2.3   h2+3   6.  P7+1   c9-1   
+7.  H8+7   c9.7   8.  R3.4   c7.3   9.  H7+8   r1+2   
+10. R9+1   r8+5   11. P3+1   r8.7   12. E3+5   r7.4   
+13. C8+5   r1.2   14. R4+1   h7+8   15. H8-7   r4-2   
+16. R9.2   a4+5   17. R4-3   h8-9   18. R2+6   e3+5   
+19. H3+2   p3+1   20. C1.3   k5.4   21. P7+1   c3+3   
+22. R4+4   r4+5   23. E7+9   k4+1   24. H2+4   h3-4   
+25. R4.2   c3-2   26. R--3   r2+2   27. R-.6   r2.4   
+28. R6-3   r4+4   29. R2-2   r4-4   30. H4-6   c3+4   
+31. R2-2   a5+4   32. C3-1   k4.5   33. C3.6   r4.3   
+34. H6+5   r3.5   35. R2.5   r5+1   36. P5+1   h4+2   
+37. H7+5   c3.9   38. H-+7   k5-1   39. H5+3   e5+3   
+40. H3-1   e7+5   41. P5+1   c9-2   42. P5+1   a6+5   
+43. C6+5   h2-4   44. A4+5   h9-7   45. C6.8   h4+3   
+46. C8.7   a5+6   47. H7-6   a4-5   48. P5.6   h3-2   
+49. H6+5   h2+1   50. C7.8   p1+1   51. C8.9   c9.8   
+52. H1+3   c8.9   53. E9-7   h1-2   54. C9.8   h2+1   
+55. P6.5   h1-3   }END
+
+
+FORMAT 	WXF
+GAME 	Che Xingguo(W)Hu Qingyang,71
+TIME       ;
+RESULT     1-0
+RED        Che Xingguo ; NT ; Chongqing ; ³µÐË¹ú , ¨®¿³°ê
+BLACK      Hu Qingyang ; CM ; China-Jilin ; ºúÇìÑô , ­J¼y¶§
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. H3+5   p7+1   11. H5+6   e3+5   12. H8+7   r1.4   
+13. H7+8   p7.6   14. C8+5   c7+8   15. A4+5   r8+9   
+16. R9+1   c7.4   17. A5-4   c4.6   18. R9.4   c6.3   
+19. K5+1   p5+1   20. P7+1   p3+1   21. C8.5   e7+5   
+22. C5+5   a5+6   23. C5.3   r4+1   24. C3.7   r4.2   
+25. R+.5   a6+5   26. R4.3   r8-9   27. C7.5   k5.6   
+28. R5.9   a5-4   29. R9.6   a4+5   30. R6.9   a5-4   
+31. R9.6   a4+5   32. R3+3   c3-4   33. R6.9   a5-4   
+34. C5-1   r2+1   35. R9+3   r2.4   36. R9.6   }END
+
+
+FORMAT 	WXF
+GAME 	Liu Zheng(D)Qian Hongfa,60
+TIME       ;
+RESULT     0.5-0.5
+RED        Liu Zheng ; NT ; NA ; ÁõÕ÷
+ , ¼B©º
+BLACK      Qian Hongfa ; CM ; China-Gansu ; Ç®ºé·¢ , ¿ú¬xµo
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  P7+1   r9.8   5.  H8+7   h2+1   6.  R9+1   e3+5   
+7.  R9.6   a4+5   8.  C2+4   p3+1   9.  C2.9   r1.3   
+10. R2+9   h7-8   11. R6+5   h8+7   12. H7+6   c4+3   
+13. R6-2   p3+1   14. R6.7   r3+5   15. E5+7   c2+4   
+16. E7+5   c2.7   17. P9+1   h1+3   18. C8+4   h3+4   
+19. P5+1   p5+1   20. P5+1   h4+6   21. P5.6   p7+1   
+22. A6+5   c7.8   23. K5.6   h7+6   24. C9+3   k5.4   
+25. C8+3   k4+1   26. C8-7   a5+4   27. C8+3   p7+1   
+28. C9-4   h+-4   29. C8.4   h4-6   30. H3-2   c8-1   }END
+
+
+FORMAT 	WXF
+GAME 	Li Jiahua(W)Yang Yongming,87
+TIME       ;
+RESULT     1-0
+RED        Li Jiahua ; ICM ; China-Yaudian ; Àî¼Ò»ª , §õ®aµØ
+BLACK      Yang Yongming ; NT ; China-Army ; ÑîÓÀÃ÷ , ·¨¥Ã©ú
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  H8+7   r9.4   5.  P3+1   h2+1   6.  A6+5   r4+4   
+7.  C5.4   r4.7   8.  H3+2   c2.3   9.  E7+5   r7-1   
+10. C8+2   r7.8   11. R9.6   r1.2   12. C8.3   p7+1   
+13. C3+3   c3.7   14. R6+4   r8-3   15. R2+3   c5.6   
+16. R2.4   c6+5   17. R4-1   r8+2   18. R4+5   c7.9   
+19. H2+4   a4+5   20. R4+1   r2+2   21. R6+2   r2.4   
+22. R6+1   a5+4   23. H4-6   a4-5   24. R4-3   r8.7   
+25. P7+1   e7+5   26. H7+8   p7+1   27. P9+1   c9+4   
+28. H8+9   c9-1   29. H6-7   p7+1   30. H7+6   p5+1   
+31. R4.5   p3+1   32. H6+5   p3+1   33. R5-1   c9+4   
+34. H9+7   p3+1   35. P9+1   a5+4   36. H7-6   p3+1   
+37. P9+1   h1-3   38. H5+7   r7.3   39. P9.8   r3+1   
+40. P8+1   p3+1   41. R5.6   r3.1   42. P8+1   r1+4   
+43. H6+8   p3.4   44. H8+6   }END
+
+
+FORMAT 	WXF
+GAME 	XUE GuangRu(D)HU YongLi,61
+TIME       ;
+RESULT     0.5-0.5
+RED        XUE GuangRu  ; NT  ; NA ; Ñ¦¹âÈç , Á§¥ú¦p
+BLACK      HU YongLi  ; NT  ; NA ; ºúÓÀÁ¢ , ­J¥Ã¥ß
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  R1+1   a4+5   6.  H7+6   c2+4   
+7.  C5.7   e3+5   8.  H6+7   r1.4   9.  R9+1   c2.3   
+10. E7+5   h7+6   11. R1.6   r4.2   12. R9.8   c8+6   
+13. H7+9   r2+2   14. R6+2   r2.1   15. R6.7   h3+4   
+16. R7.6   h4+6   17. P5+1   h++7   18. C7.3   r1.2   
+19. R8.4   r2+2   20. P7+1   r2.3   21. C8+7   c8-2   
+22. R6+5   c8.1   23. R4.8   c1+3   24. R8-1   r3.2   
+25. R8.9   r2-4   26. R9+6   h6+7   27. R9.5   r8+6   
+28. R5.1   h7-5   29. A4+5   p7+1   30. R6-4   p7.6   
+31. R1-2   }END
+
+
+FORMAT 	WXF
+GAME 	DING RuYi(D)Wang Daming,62
+TIME       ;
+RESULT     0.5-0.5
+RED        DING RuYi  ; NT  ; China-Anhui ; ¶¡ÈçÒâ , ¤B¦p·N
+BLACK      Wang Daming ; NT ; China-Meitan Tixie ; Íõ´óÃ÷ , ¤ý¤j©ú
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  H7+6   c9.7   9.  R3.4   r8+5   
+10. C8+2   e3+5   11. C5.6   p3+1   12. P3+1   r8-1   
+13. P7+1   e5+3   14. C8.7   h3+4   15. C6+3   p7+1   
+16. C6+3   c7.4   17. C7.3   r8.7   18. E7+5   c2+1   
+19. R4-2   c2+2   20. H6+5   h7+5   21. R4.8   e3-5   
+22. A6+5   h5+3   23. R9.7   c4.3   24. R7.6   r1.4   
+25. R6+9   a5-4   26. H3+4   c3.5   27. R8.7   c5+5   
+28. C3.2   r7.6   29. H4-6   c5-3   30. H6+7   r6.3   
+31. R7+1   e5+3   }END
+
+
+FORMAT 	WXF
+GAME 	ZANG RuYi(W)ZHONG YiSheng,67
+TIME       ;
+RESULT     1-0
+RED        ZANG RuYi  ; CM  ; China-Beijing ; ²ØÈçÒâ , »N¦p·N
+BLACK      ZHONG YiSheng  ; NT  ; China-Jiangxi ; ÖÓÒËÉú , ÄÁ©y¥Í
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  P7+1   r9.8   
+4.  R1.2   h2+3   5.  H8+7   a4+5   6.  C8+2   e3+5   
+7.  P3+1   c2+2   8.  R2+6   p7+1   9.  C8.3   h7+6   
+10. R2.4   p3+1   11. P7+1   e5+3   12. C3.7   c8.7   
+13. H3+4   e7+5   14. R9.8   h6-4   15. C7.6   r1.2   
+16. C5+4   e3-1   17. E7+5   r8+7   18. C5-1   h4+3   
+19. A6+5   c2+3   20. R4.7   h+-1   21. R7.3   c7.6   
+22. P9+1   h1+3   23. R3.7   h++1   24. R8.7   h1+3   
+25. R-+2   e1-3   26. H4+6   r8-3   27. P5+1   h3-1   
+28. R+.6   r8.5   29. P5+1   c2+2   30. P5.4   r2+6   
+31. C6.5   c2.1   32. K5.6   r2+3   33. K6+1   c6.7   
+34. H6+4   }END
+
+
+FORMAT 	WXF
+GAME 	Li Peng(W)Yuan Yiping,67
+TIME       ;
+RESULT     1-0
+RED        Li Peng ; NT ; China-Jidian ; ÀîÅô , §õÄP
+BLACK      Yuan Yiping ; NT ; NA ; Ô¬ÒæÆ½ , °K¯q¥­
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  P3+1   r9.4   5.  H8+7   h2+3   6.  P7+1   r1+1   
+7.  E7+9   r4+5   8.  H3+4   r4.3   9.  R9.7   r1.4   
+10. R2+5   p3+1   11. R2.7   c2+3   12. R++2   c2.6   
+13. C8+4   r3.2   14. C8.7   c6+2   15. A6+5   c6.3   
+16. R-+2   c5+4   17. R+.3   e7+5   18. C7.3   r2+3   
+19. R7-2   r2.3   20. E9-7   r4+6   21. P7+1   a4+5   
+22. P7+1   r4.3   23. K5.6   r3+2   24. K6+1   p5+1   
+25. C3.2   r3-1   26. K6-1   r3-5   27. C2+3   e5-7   
+28. R3+2   r3.4   29. C5.6   r4.8   30. C2.1   e3+5   
+31. R3-4   r8-3   32. R3.5   c5.4   33. C6.5   r8.9   
+34. R5.8   }END
+
+
+FORMAT 	WXF
+GAME 	LIU WuMing(L)CAO JingNan,46
+TIME       ;
+RESULT     0-1
+RED        LIU WuMing  ; NT  ; China-Xiamen ; ÁõÎäÃù , ¼BªZ»ï
+BLACK      CAO JingNan  ; NT  ; China-Daxuesheng ; ²Ü¾©ÄÏ , ±ä¨Ê«n
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  H8+7   r9+1   5.  P7+1   p3+1   6.  R2+4   r9.3   
+7.  P7+1   r3+3   8.  H7+6   h2+3   9.  E7+9   c2.1   
+10. R9.7   r3+5   11. E9-7   r1.2   12. C8.7   r2+5   
+13. E7+9   c1+4   14. C7+2   h3+4   15. P3+1   c1.2   
+16. P3+1   r2.3   17. A6+5   c5.1   18. A5+6   c1.4   
+19. P3+1   r3.4   20. R2.6   c4+3   21. P3+1   c4.7   
+22. H3+2   h4+3   23. C5+4   c2.5   }END
+
+
+FORMAT 	WXF
+GAME 	Shi Gang(D)Cai Zhongcheng,52
+TIME       ;
+RESULT     0.5-0.5
+RED        Shi Gang ; NT ; NA ; Ê¯¸Õ , ¥Û­è
+BLACK      Cai Zhongcheng ; CM ; China-Xiamen ; ²ÌÖÒ³Ï , ½²©¾¸Û
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  C8.6   r1.2   6.  H8+7   c2.1   
+7.  P5+1   c8-1   8.  C6-1   c8.5   9.  R2.3   r8+2   
+10. C6.5   p3+1   11. H3+5   p1+1   12. R3.4   h3+4   
+13. P5+1   h4+5   14. H7+5   c1.5   15. R4+1   c++2   
+16. H5+4   h7+6   17. R4.2   h6+7   18. R9+1   e3+5   
+19. R2-3   r2+6   20. R9.6   c-.1   21. C-+4   p5+1   
+22. C5-1   c1+5   23. E3+5   h7-5   24. C5+3   p5+1   
+25. R2.5   r2.3   26. R6+5   p9+1   }END
+
+
+FORMAT 	WXF
+GAME 	MA Jun(D)Zheng Yihong,84
+TIME       ;
+RESULT     0.5-0.5
+RED        MA Jun  ; NT  ; China-Daxuesheng ; Âí¾ü , °¨­x
+BLACK      Zheng Yihong ; GM ; China-Xiamen ; Ö£Ò»ãü , ¾G¤@ªl
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+9   r8+5   8.  P5+1   h3-5   9.  C8+4   c2.5   
+10. H9+7   c9.7   11. R3.4   h5+3   12. R9+1   p7+1   
+13. R9.4   p7.6   14. P3+1   r8.7   15. R-+3   r7.6   
+16. H3+4   r1.2   17. R4+1   r2+3   18. R4.3   r2+3   
+19. R3+1   r2.3   20. A4+5   c5+3   21. H4+5   h3+5   
+22. R3-4   r3.5   23. C5+2   e3+5   24. P1+1   a4+5   
+25. E7+5   p3+1   26. P7+1   h5+3   27. C5.7   r5.1   
+28. R3+2   p1+1   29. R3.1   p1+1   30. P1+1   r1.9   
+31. C7-2   p1+1   32. C7+2   p1.2   33. R1.8   p2.3   
+34. P1.2   p3+1   35. R8.6   p3+1   36. R6-1   r9.5   
+37. P2.3   h3+1   38. P3.4   h1+2   39. C7+2   r5.3   
+40. C7.6   h2-1   41. R6-1   h1-3   42. P4.5   r3.6   }END
+
+
+FORMAT 	WXF
+GAME 	Wang Xinhai(D)MA Jun,63
+TIME       ;
+RESULT     0.5-0.5
+RED        Wang Xinhai ; NT ; China-Fengzhi ; ÍõöÎº£ , ¤ýøÊ®ü
+BLACK      MA Jun  ; NT  ; China-Daxuesheng ; Âí¾ü , °¨­x
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  H8+9   c2.5   2.  H2+3   h2+3   3.  R9+1   h8+9   
+4.  R9.4   a4+5   5.  P1+1   c8.7   6.  R4+4   r9.8   
+7.  R1.2   r1.2   8.  C8.6   r2+5   9.  C2+4   r2.9   
+10. E3+5   r9-1   11. R4.1   p9+1   12. P7+1   r8+1   
+13. P9+1   r8.6   14. H9+8   r6+3   15. H8+7   p9+1   
+16. A4+5   c7+4   17. C2+1   a5+6   18. C6.7   c5.8   
+19. R2+7   a6+5   20. R2-4   c7-2   21. H7-6   r6.4   
+22. C7+5   r4+1   23. C7.1   e7+9   24. R2+3   p5+1   
+25. R2.1   e9-7   26. R1.3   e3+5   27. R3.9   p5+1   
+28. R9.1   p5+1   29. H3+5   c7.5   30. R1-1   r4.5   
+31. H5+3   r5.7   32. R1.5   }END
+
+
+FORMAT 	WXF
+GAME 	Sun Hengxin(W)Shi Gang,79
+TIME       ;
+RESULT     1-0
+RED        Sun Hengxin ; NT ; China-Fengzhi ; ËïºãÐÂ , ®]«í·s
+BLACK      Shi Gang ; NT ; NA ; Ê¯¸Õ , ¥Û­è
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   c2.3   2.  E3+5   h2+1   3.  H8+7   r1.2   
+4.  H7+6   c8.5   5.  R9+1   c5+4   6.  A4+5   p5+1   
+7.  H6+4   c5.4   8.  P9+1   r2+4   9.  R9+2   c4-2   
+10. H4-2   h8+9   11. H-+1   p5+1   12. P1+1   a6+5   
+13. R1.4   c4+1   14. R4+5   r2.6   15. H2+4   e7+5   
+16. C8+5   h9-7   17. P9+1   p1+1   18. R9+2   p7+1   
+19. C8+1   h1-3   20. R9+2   c3.4   21. R9.7   r9.8   
+22. C2.4   c++1   23. R7+1   r8+7   24. R7-2   h7+8   
+25. R7.3   h8+9   26. C8-4   p5.6   27. C8.4   h9+7   
+28. C+-1   r8.9   29. C+.5   h7-5   30. R3.2   r9+2   
+31. C4-2   r9-4   32. R2+3   a5-6   33. R2.4   k5+1   
+34. P7+1   k5.4   35. P7+1   a4+5   36. R4.7   r9.6   
+37. P7+1   c-+2   38. P7+1   k4+1   39. R7.8   h5-3   
+40. R8-3   }END
+
+
+FORMAT 	WXF
+GAME 	Wang Daming(W)Huang Yong,67
+TIME       ;
+RESULT     1-0
+RED        Wang Daming ; NT ; China-Meitan Tixie ; Íõ´óÃ÷ , ¤ý¤j©ú
+BLACK      Huang Yong ; CM ; China-Shenzhen ; »ÆÓÂ , ¶À«i
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   e7+5   6.  R9+1   c2.1   
+7.  C8.7   r1.2   8.  R2+6   r2+5   9.  P5+1   r2.5   
+10. P7+1   h3+2   11. P7+1   r5.3   12. R9.7   h2+1   
+13. H3+5   r3-1   14. C7+7   r3-4   15. R7+8   e5-3   
+16. H5+4   e3+5   17. H9+7   c8.9   18. R2.3   r8+6   
+19. H7+6   h1+2   20. A6+5   a4+5   21. H4+5   r8.4   
+22. H5+7   k5.4   23. H7-8   c9+4   24. R3+1   c1.4   
+25. H8+6   r4-2   26. H6+8   k4.5   27. R3.7   c9.5   
+28. R7-6   r4-3   29. R7.8   r4.3   30. R8-1   p1+1   
+31. E7+9   p1+1   32. R8+3   c5.3   33. H8-9   k5.4   
+34. C5.2   }END
+
+
+FORMAT 	WXF
+GAME 	Ó÷Ö®Çà(D)Wu Yinhui,93
+TIME       ;
+RESULT     0.5-0.5
+RED        Ó÷Ö®Çà ; NT ; China-Beijing ; Ó÷Ö®Çà , Ó÷Ö®Çà
+BLACK      Wu Yinhui ; NT ; NA ; ÎâÒ÷»Ô , §d§u½÷
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   h7+6   6.  H8+7   e3+5   
+7.  C8.9   r1.2   8.  R9.8   c2+1   9.  R2-5   a4+5   
+10. R8+4   c8+4   11. A6+5   r8+4   12. H3-1   c8+1   
+13. A5+4   c8-2   14. P7+1   p7+1   15. P3+1   h6+7   
+16. P3+1   h7+8   17. P3.2   h8-6   18. K5+1   p3+1   
+19. R8.2   c2+5   20. H1+3   r2+6   21. H7+6   r2+1   
+22. H6+4   r2.1   23. H4+2   r1.4   24. R2.8   c2.3   
+25. K5.4   r4+1   26. K4+1   c3-1   27. C5-2   r4-1   
+28. K4-1   r4.7   29. R8.6   r7+1   30. K4+1   r7-1   
+31. K4-1   r7-4   32. K4.5   c3.8   33. R6.2   c8.4   
+34. R2.6   c4.8   35. R6.2   c8.4   36. C5.6   c4-4   
+37. E7+5   r7+5   38. K5-1   c4.8   39. P2+1   r7-2   
+40. C6.7   h3+4   41. R2.6   h4-6   42. C7+1   p5+1   
+43. C7.5   r7.9   44. R6+2   h6+8   45. R6.9   h8+6   
+46. P2.1   h6+8   47. R9.6   }END
+
+
+FORMAT 	WXF
+GAME 	Liu Xing(W)Sun Shucheng,45
+TIME       ;
+RESULT     1-0
+RED        Liu Xing ; CM ; China-Shenzhen ; ÁõÐÇ , ¼B¬P
+BLACK      Sun Shucheng ; CM ; China-Meitan Tixie ; ËïÊ÷³É , ®]¾ð¦¨
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  H7+6   c9.7   9.  R3.4   h7+8   
+10. R4-3   e3+5   11. C8.9   c2+4   12. P5+1   c2.7   
+13. E3+1   r1.2   14. R9+1   p7+1   15. E1+3   r8+3   
+16. R9.2   r2+9   17. P5+1   r2.3   18. P5+1   r3-4   
+19. P5+1   e7+5   20. H6+4   r3+2   21. R4.5   r8.6   
+22. R2+4   r3.1   23. H4-3   }END
+
+
+FORMAT 	WXF
+GAME 	CAO JingNan(L)Zhuang Yongxi,84
+TIME       ;
+RESULT     0-1
+RED        CAO JingNan  ; NT  ; China-Daxuesheng ; ²Ü¾©ÄÏ , ±ä¨Ê«n
+BLACK      Zhuang Yongxi ; NT ; China-Qinggong ; ×¯ÓÀÎõ , ÉÜ¥Ãº³
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  H8+7   c2.5   5.  P3+1   h2+3   6.  R9.8   r1.2   
+7.  C8+4   a4+5   8.  P7+1   r8+4   9.  R2+2   p7+1   
+10. R8+5   c8.7   11. R2+3   h7+8   12. E3+1   p3+1   
+13. R8.7   r2+3   14. P3+1   c5.7   15. R7+2   e3+5   
+16. R7+1   c--1   17. R7-1   h8-7   18. H7+6   r2.4   
+19. P3+1   c-+2   20. H6+4   r4+1   21. H4-3   c7+4   
+22. R7-1   r4+2   23. H3+5   c7-4   24. H5+4   r4-2   
+25. C5.3   r4.6   26. C3+5   r6-1   27. R7.9   r6-1   
+28. R9+3   a5-4   29. C3+1   r6-1   30. C3-1   r6.7   
+31. C3.2   c7.8   32. E7+5   r7+6   33. E1-3   c8+6   
+34. K5+1   r7-1   35. P5+1   c8.6   36. R9-4   c6-3   
+37. R9.6   c6.9   38. K5.6   a4+5   39. P5+1   p5+1   
+40. R6.5   r7.4   41. K6.5   r4.8   42. E3+1   r8-4   }END
+
+
+FORMAT 	WXF
+GAME 	Li Qijie(L)Ding Chuanhua,76
+TIME       ;
+RESULT     0-1
+RED        Li Qijie ; NT ; NA ; ÀîÆô½Ü , §õ±ÒªN
+BLACK      Ding Chuanhua ; NT ; NA ; ¶¡´«»ª , ¤B¶ÇµØ
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c2.5   5.  P7+1   h2+3   6.  H8+9   r1.2   
+7.  R9.8   r2+4   8.  C8.7   r2.8   9.  R8+6   c8.7   
+10. R2.1   p7+1   11. R8.7   h3-5   12. R7+2   p7+1   
+13. R7.6   e3+1   14. A6+5   r+.2   15. K5.6   r2-4   
+16. P9+1   h7+8   17. C5+4   r8+3   18. C5-1   h8+6   
+19. R1.2   r8.5   20. C5+2   e7+5   21. C7.5   h6+5   
+22. E3+5   p7.6   23. R2+4   c7-5   24. H3+4   c7.4   
+25. H4+5   h5-7   26. R2+2   r2+6   27. R2.1   r2.5   
+28. H5+7   c4.8   29. R1.2   h7+6   30. R2+1   a4+5   
+31. P1+1   c8.7   32. H7-9   h6+7   33. R2+1   c7+2   
+34. A5+6   c7.4   35. K6.5   c4.5   36. A4+5   r5.9   
+37. R2-8   h7+6   38. H++7   c5+2   }END
+
+
+FORMAT 	WXF
+GAME 	He Liansheng(D)Deng Songhong,111
+TIME       ;
+RESULT     0.5-0.5
+RED        He Liansheng ; CM ; China-Yunnan ; ºÎÁ¬Éú , ¦ó³s¥Í
+BLACK      Deng Songhong ; CM ; China-Shenzhen ; µËËÌºê , ¾H¹|§»
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   e3+5   2.  C8.6   p7+1   3.  H8+7   h2+3   
+4.  R9.8   r1.2   5.  C2.5   h8+7   6.  H2+3   r9.8   
+7.  R8+6   a4+5   8.  R1+1   c8+6   9.  H7+6   c2.1   
+10. R8.7   c1+4   11. R7+1   c1+2   12. H3-5   r8+5   
+13. H6-7   c1.3   14. R1+1   c8-2   15. H5+3   h7+6   
+16. R7.9   c3-3   17. E7+9   c3+1   18. R1.2   r2+3   
+19. R9.7   c3.7   20. A4+5   r8-2   21. R7-3   c7+3   
+22. R7.2   r8+2   23. H3+2   h6+7   24. R2+1   h7+5   
+25. A5+4   p7+1   26. E9+7   r2.4   27. A6+5   r4+3   
+28. H2+1   p1+1   29. R2+3   p5+1   30. R2.5   p7.6   
+31. R5-1   p6+1   32. H1-2   p6+1   33. A5+4   r4+1   
+34. E7-5   r4.5   35. H7-5   p1+1   36. H2+4   c7-5   
+37. R5-1   p1+1   38. H4+6   c7-3   39. R5.3   c7.8   
+40. R3+2   c8+1   41. H6+7   k5.4   42. R3-2   p1+1   
+43. R3.6   a5+4   44. R6.9   k4+1   45. H7-6   c8-1   
+46. H6+4   c8.6   47. H4-5   r5-1   48. H++7   k4.5   
+49. R9-2   r5.9   50. H5+7   r9.3   51. H+-8   r3-1   
+52. R9.8   k5-1   53. A4-5   c6.3   54. H7+5   r3+4   
+55. A5-6   c3.5   56. H8+6   }END
+
+
+FORMAT 	WXF
+GAME 	HE AiWen(D)WANG LunYong,126
+TIME       ;
+RESULT     0.5-0.5
+RED        HE AiWen  ; NT  ; China-Wuhan ; ºÎ°®ÎÄ , ¦ó·R¤å
+BLACK      WANG LunYong  ; NT  ; China-Chengdu ; ÍõÂ×ÓÂ , ¤ý­Û«i
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.6   h8+7   2.  H2+3   r9.8   3.  P7+1   h2+1   
+4.  H8+7   p7+1   5.  P9+1   a6+5   6.  E3+5   e7+5   
+7.  A4+5   c2.4   8.  R9.8   r1.2   9.  C8+5   c8+2   
+10. P3+1   p7+1   11. E5+3   r8.6   12. E3-5   p5+1   
+13. R1.4   r6+9   14. A5-4   p1+1   15. P7+1   p1+1   
+16. P7+1   h1+2   17. C8-1   r2+1   18. C6+3   p5+1   
+19. C6-4   h2+4   20. H7+6   p5.4   21. C6+6   a5+4   
+22. P7+1   h7+5   23. H3+4   c8+5   24. A4+5   r2.7   
+25. H4+5   r7+8   26. A5-4   r7-6   27. A4+5   r7.5   
+28. P7.6   r5.4   29. P6.7   r4.7   30. A5+4   p4+1   
+31. R8+2   r7.3   32. P7.6   r3.4   33. P6.7   p4+1   
+34. A4-5   p4+1   35. E5+3   c8.9   36. P7+1   p1.2   
+37. C8+3   r4.8   38. K5.4   r8.6   39. R8.4   r6+4   
+40. A5+4   c9.8   41. P5+1   c8-8   42. P5+1   c8.9   
+43. P5+1   e5+3   44. P5.4   c9+5   45. P7.6   c9.8   
+46. C8-1   p2.3   47. A4-5   p3.4   48. C8+1   c8.4   
+49. P6.7   c4.3   50. P7.6   c3.4   51. P6.7   c4.3   
+52. P7.8   p-.5   53. P8.9   p5.6   54. E3-5   c3.6   
+55. P4.5   p9+1   56. C8-4   p9+1   57. C8-1   p9+1   
+58. E5+7   c6.7   59. C8.4   c7-5   60. C4.2   c7.8   
+61. C2-3   a4+5   62. P9+1   p4.5   63. A6+5   e3+5   }END
+
+
+FORMAT 	WXF
+GAME 	ZHOU Fei(L)Tong Benping,108
+TIME       ;
+RESULT     0-1
+RED        ZHOU Fei  ; NT  ; NA ; ÖÜ·É , ©P­¸
+BLACK      Tong Benping ; CM ; China-Jiangsu ; Í¯±¾Æ½ , µ£¥»¥­
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  H7+6   c9.7   9.  R3.4   h7+8   
+10. R4.3   h8-7   11. R3.4   h7+8   12. R4.3   h8-9   
+13. R3.4   e3+5   14. C8.7   r8+5   15. P3+1   r8.7   
+16. H3+4   c2+3   17. E3+1   r7.8   18. H6+5   h3+5   
+19. H4+5   r8.3   20. R9.8   c2-4   21. C7.6   r1.4   
+22. A6+5   r3+1   23. P5+1   p9+1   24. R4.2   r4+3   
+25. R2-2   r3.5   26. H5+3   r4.7   27. H3+1   p7+1   
+28. R2+3   p7.6   29. R8+7   r7.4   30. H1-3   p3+1   
+31. H3-4   r4.6   32. H4+2   r5-1   33. P1+1   p9+1   
+34. H2-1   r6.9   35. H1-3   p6+1   36. H3+4   r9.6   
+37. H4+2   p3+1   38. H2-3   r6.3   39. R2-1   h9+7   
+40. H3+1   p3.2   41. R2.3   r3+6   42. C6-2   r5+2   
+43. H1-3   c7+4   44. E1+3   c2.4   45. R8+2   c4-1   
+46. R3.9   e5-3   47. R8-3   c4+2   48. R8.7   c4.8   
+49. E3-1   a5-4   50. R7.5   r5-4   51. R9.5   c8.5   
+52. E1-3   p6+1   53. E3+5   p6.5   54. R5-4   k5+1   }END
+
+
+FORMAT 	WXF
+GAME 	Lu Zengrong(L)Ge Weipu,98
+TIME       ;
+RESULT     0-1
+RED        Lu Zengrong ; NT ; China-Jiangsu ; Â½á¿áÉ , ³°±WÀ¯
+BLACK      Ge Weipu ; CM ; China-Shanghai ; ¸ðÎ¬ÆÑ , ¸¯ºû»Z
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  E3+5   p3+1   2.  H8+9   c8.5   3.  H2+3   h8+7   
+4.  R9+1   h2+3   5.  R1.2   r9.8   6.  C2+4   p7+1   
+7.  R9.6   c2+4   8.  R6+6   r1+2   9.  P7+1   p3+1   
+10. C8.7   h7-5   11. R2+4   c2+1   12. R2.7   r8+3   
+13. R7.8   p5+1   14. R8-2   r8.3   15. C7+2   p1+1   
+16. R8.6   c5.9   17. R+.4   h5+4   18. R4-3   p5+1   
+19. P5+1   h4+3   20. E5+7   r3+2   21. E7+5   c9.5   
+22. A4+5   r3-1   23. R4-1   h3+2   24. R4.8   p1+1   
+25. P9+1   r1+3   26. H9+8   c5.2   27. R8.6   a6+5   
+28. H8+6   r1-2   29. R+.4   r1.5   30. R4+2   c2.1   
+31. P5+1   c1+7   32. E5-7   r3+5   33. R6.8   h2+4   
+34. R4.3   r5.6   35. P5.4   r6.4   36. K5.4   e3+5   
+37. H6+4   r4.6   38. P4+1   r3-5   39. R8-2   r3.7   
+40. R8.9   h4+5   41. K4+1   r7+2   42. H3-2   r7.8   
+43. R9+2   r8+2   44. K4+1   h5-6   45. R9+1   r8+1   
+46. R9.4   r8-2   47. K4-1   h6-8   48. K4-1   r8+2   
+49. K4+1   r8.9   }END
+
+
+FORMAT 	WXF
+GAME 	YUE ChuanBo(L)CHEN HanHua,58
+TIME       ;
+RESULT     0-1
+RED        YUE ChuanBo  ; NT  ; China-Chengdu ; ÔÀ´¨²¨ , ©¨¤tªi
+BLACK      CHEN HanHua  ; NT  ; NA ; ³Âºº»ª , ³¯º~µØ
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  H8+9   c8+4   5.  C8.7   h2+1   6.  R9.8   r1.2   
+7.  P3+1   p7+1   8.  R8+4   p7+1   9.  R8.3   h7+6   
+10. C5+4   c2.8   11. R2.1   p7+1   12. R3-2   h6+4   
+13. C7.5   r2+4   14. R3+5   c-+3   15. C+-2   r2.6   
+16. R3-4   c++1   17. H9-7   r8+3   18. A4+5   p1+1   
+19. C-.3   h1+2   20. P1+1   h2+3   21. H7+6   r6+4   
+22. R3.2   c--1   23. A5-4   h3+2   24. A6+5   h4+2   
+25. E7+5   h+-4   26. C3.6   c+.4   27. H6-8   c4-5   
+28. H8+6   r6-4   29. R1.2   r8.4   }END
+
+
+FORMAT 	WXF
+GAME 	SUN GuoPing(L)LIU Chun,100
+TIME       ;
+RESULT     0-1
+RED        SUN GuoPing  ; NT  ; NA ; Ëï¹úÆ½ , ®]°ê¥­
+BLACK      LIU Chun  ; NT  ; China-Chengdu ; Áõ´º , ¼B¬K
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  E3+5   p7+1   2.  P7+1   e7+5   3.  H8+7   h8+7   
+4.  R9+1   h2+1   5.  R9.3   c2.4   6.  P3+1   r1.2   
+7.  C8.9   p7+1   8.  R3+3   c8-1   9.  P9+1   a6+5   
+10. C2.3   c8.7   11. R3.2   c7+6   12. H2+3   r2+4   
+13. H7+6   p3+1   14. P7+1   r2.3   15. A4+5   r9.6   
+16. R1.4   r6+9   17. A5-4   h1-3   18. H3+4   h3+4   
+19. H4+5   h7+5   20. H6+5   r3.5   21. C9+4   p9+1   
+22. A4+5   r5+2   23. H5-4   r5.9   24. R2+2   h4+5   
+25. R2+3   a5-6   26. C9.1   r9.7   27. C1+3   c4-1   
+28. H4+5   c4.5   29. H5-4   c5.3   30. R2-3   k5+1   
+31. R2.5   h5-3   32. R5.7   c3.4   33. H4+6   r7-6   
+34. C1-3   r7+4   35. C1.5   k5.6   36. C5-3   r7.5   
+37. R7.4   k6.5   38. K5.4   h3-4   39. R4+3   c4+3   
+40. C5.6   h4+3   41. C6+6   c4-3   42. R4-5   r5.8   
+43. E5-3   r8-3   44. E7+5   r8.6   45. R4+4   c4.6   
+46. P9+1   c6+3   47. C6-4   h3+4   48. C6-1   e5+3   
+49. P9+1   h4+6   50. C6.4   h6+7   }END
+
+
+FORMAT 	WXF
+GAME 	Liao Erping(D)Han Songling,101
+TIME       ;
+RESULT     0.5-0.5
+RED        Liao Erping ; CM ; China-Jiangsu ; ÁÎ¶þÆ½ , ¹ù¤G¥­
+BLACK      Han Songling ; CM ; China-Guangzhou ; º«ËÉÁä , ÁúªQÄÖ
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  C8.9   r1.2   9.  R9.8   c9.7   
+10. R3.4   h7+8   11. R4+2   c2-1   12. R4-3   e3+5   
+13. R8+7   h8+7   14. R4-2   c7+1   15. C9+4   r8+8   
+16. C9+1   h3-4   17. R8-1   c7-1   18. C5+4   h7+9   
+19. C5.3   p7+1   20. H3-5   p7+1   21. R4-1   h9+7   
+22. C3-5   r8.7   23. E3+1   r2.1   24. C9-3   r1+4   
+25. H7+6   c7.8   26. H6+4   c2.1   27. P7+1   c1+4   
+28. P7.8   r1-3   29. P9+1   r1+4   30. R8.7   h4+2   
+31. R7.2   c8.9   32. R2.1   c9.8   33. R1.2   c8.9   
+34. R2.1   c9.8   35. H4+2   r1.4   36. H5+7   r4+1   
+37. A4+5   c8+1   38. H7+8   r4.5   39. H8+6   r5.4   
+40. H6+4   p7.6   41. R4.7   r7-5   42. H4-3   h2+4   
+43. H3+1   r7+1   44. R1+2   r7.8   45. H1+2   r8-1   
+46. H2+4   r4-2   47. R7.3   r4.6   48. H4-3   r6-1   
+49. R1.4   r6.7   50. R3+4   r8.7   51. R4-5   }END
+
+
+FORMAT 	WXF
+GAME 	Hu Qingyang(L)Ö£»ïÌí,54
+TIME       ;
+RESULT     0-1
+RED        Hu Qingyang ; CM ; China-Jilin ; ºúÇìÑô , ­J¼y¶§
+BLACK      Ö£»ïÌí ; NT ; NA ; Ö£»ïÌí , Ö£»ïÌí
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  E3+5   e3+5   2.  P3+1   h8+9   3.  H2+3   p3+1   
+4.  H8+9   h2+3   5.  P1+1   a4+5   6.  C8.6   r1.2   
+7.  R9.8   c2+5   8.  P9+1   c8+4   9.  R1+1   c8.3   
+10. C2+5   a5+6   11. H3+4   r9.8   12. R1.2   r8+1   
+13. C6+5   p3+1   14. C6.4   r8.6   15. C4.1   r6+4   
+16. C1+2   h3+4   17. C2+2   r2+1   18. C2.4   r6-4   
+19. R8+1   h4+5   20. R2.4   h5+7   21. R8+1   r6+7   
+22. A6+5   r6-7   23. R8+6   r6.2   24. H9+7   p3+1   
+25. C4-3   k5+1   26. C4.1   h7-6   27. C+.2   r2+5   }END
+
+
+FORMAT 	WXF
+GAME 	Yang Yongming(L)Öì¹óÉ­,106
+TIME       ;
+RESULT     0-1
+RED        Yang Yongming ; NT ; China-Army ; ÑîÓÀÃ÷ , ·¨¥Ã©ú
+BLACK      Öì¹óÉ­ ; NT ; NA ; Öì¹óÉ­ , Öì¹óÉ­
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.6   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c8.7   5.  E3+5   r8+9   6.  H3-2   c2.5   
+7.  H2+3   p5+1   8.  H8+7   r1+1   9.  R9.8   r1.4   
+10. C8.9   h2+1   11. A6+5   r4+5   12. C9+4   r4.3   
+13. C6+5   c5+1   14. C6.7   r3.4   15. C9-1   h7-5   
+16. C7.4   r4.3   17. C4-5   c5+3   18. P9+1   c5.6   
+19. C9+1   c6-3   20. P9+1   c6.1   21. R8+7   h5+4   
+22. P9+1   p3+1   23. R8.7   h1-3   24. H7-8   c7.5   
+25. K5.6   c5-1   26. H8+9   r3.4   27. K6.5   r4.7   
+28. R7-2   r7+1   29. R7.5   e7+5   30. C4+4   r7-2   
+31. C4.5   a4+5   32. C5.1   r7-1   33. R5+1   c5.8   
+34. R5-3   c8+4   35. E5-3   r7+5   36. R5.2   c8.9   
+37. C1-6   r7.9   38. H9+8   h4+5   39. H8+6   r9.7   
+40. R2.5   h5-3   41. H6+7   r7-5   42. P9.8   r7.4   
+43. R5.9   r4-2   44. P8.7   h-+1   45. H7-9   h1+3   
+46. H9-7   e5+3   47. R9.3   h3+5   48. R3.5   h5+4   
+49. A5+6   h4+2   50. A4+5   h2+3   51. R5.8   r4.8   
+52. K5.6   r8+7   53. K6+1   r8-4   }END
+
+
+FORMAT 	WXF
+GAME 	XU WenJiang(D)Liu Zheng,79
+TIME       ;
+RESULT     0.5-0.5
+RED        XU WenJiang  ; NT  ; NA ; ÐìÎÄ½­ , ®}¤å¦¿
+BLACK      Liu Zheng ; NT ; NA ; ÁõÕ÷
+ , ¼B©º
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  C2.4   c2.6   2.  P7+1   h2+3   3.  H8+7   r1.2   
+4.  R9.8   r2+4   5.  C8.9   r2.8   6.  H2+3   h8+7   
+7.  A4+5   r9.8   8.  E3+5   e7+5   9.  R1.3   p3+1   
+10. R8+4   c8-1   11. P3+1   p3+1   12. R8.7   c8.3   
+13. R7.6   a6+5   14. H7+8   h3+2   15. R6.7   e5+3   
+16. R7.4   c6.3   17. C9.7   c++5   18. C4.7   e3-5   
+19. C7.9   r-.6   20. R3.4   c3.2   21. C9+4   r6+5   
+22. R4+4   c2+4   23. R4.8   h2-3   24. C9.7   p5+1   
+25. H3+4   r8.6   26. H4+6   h3+5   27. H6+8   k5.6   
+28. H8+7   h5+3   29. H7-6   r6+2   30. R8.7   h3-5   
+31. H6+7   p7+1   32. P3+1   h5+7   33. R7.3   h-+5   
+34. C7-3   r6.5   35. R3.4   a5+6   36. C7+3   p5+1   
+37. R4+1   p9+1   38. H7-6   p5.4   39. E5+3   a4+5   
+40. P9+1   }END
+
+
+FORMAT 	WXF
+GAME 	Zong Yongsheng(W)CHEN JianChang,73
+TIME       ;
+RESULT     1-0
+RED        Zong Yongsheng ; CM ; China-Guangdong ; ×ÚÓÀÉú , ©v¥Ã¥Í
+BLACK      CHEN JianChang  ; NT  ; China-Nongxie ; ³Â½¨²ý , ³¯«Ø©÷
+DATE       20/04/1993
+PLACE      
+EVENT      China Team Championship ; 1993
+ROUND      ??
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H8+9   a4+5   
+4.  H2+3   h8+9   5.  R9.8   c3+3   6.  R1.2   r9.8   
+7.  R2+4   c3-1   8.  C5+4   h2+3   9.  C5.1   c8.7   
+10. R2+5   h9-8   11. E3+5   c7+4   12. C8+1   c7.2   
+13. R8+3   r1.2   14. R8+6   h3-2   15. H3+4   h8+9   
+16. P5+1   p1+1   17. H9+7   p7+1   18. P5+1   h2+1   
+19. P1+1   c3.2   20. P1+1   p7+1   21. H7+8   h1+2   
+22. E5+3   h2+1   23. E3-5   h1+3   24. P1.2   h9-7   
+25. C1-2   h3-5   26. A4+5   p3+1   27. P5+1   h5-6   
+28. C1.3   h6+8   29. H4+3   h7+9   30. H3-2   h9+8   
+31. C3.5   p1+1   32. H2+4   h8+6   33. P5.6   k5.4   
+34. C5.6   k4.5   35. H4+2   h6-7   36. H2+3   h7-6   
+37. P6.5   }END
+

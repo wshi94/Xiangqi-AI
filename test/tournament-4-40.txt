@@ -1,0 +1,2930 @@
+
+
+FORMAT 	WXF
+GAME 	JIN Bo(D)XU TianHong,47
+TIME       ;
+RESULT     0.5-0.5
+RED        JIN Bo ; CM ; China-HuoCheTou ; ½ð²¨ , ª÷ªi
+BLACK      XU TianHong ; IGM ; China-Jiangsu ; ÐìÌìºì , ®}¤Ñ¬õ
+DATE       11/3/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA2
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  C8+4   e7+5   6.  H8+7   h3+2   
+7.  C8.3   r1+1   8.  R2+5   h2+3   9.  R9.8   c2.3   
+10. C5.6   r1.4   11. A6+5   r4+4   12. E7+5   c8.9   
+13. R2.4   p3+1   14. R8+6   c3+2   15. R4-1   r4.6   
+16. H3+4   p3.4   17. H7-6   r8+3   18. P3+1   e5+7   
+19. H6+8   h3+2   20. R8-5   e7-5   21. C6.9   c3.1   
+22. C9.7   c1.6   23. C7+4   a6+5   24. R8+3   }END
+
+
+FORMAT 	WXF
+GAME 	LI ZhiPing(W)KE YongQing,77
+TIME       ;
+RESULT     1-0
+RED        LI ZhiPing ; CM ; China-Hubei ; ÀîÖÇÆÁ , §õ´¼«Ì
+BLACK      KE YongQing ; GM ; China-LiaoNing ; ÃçÓÀÅô , ¬_¥Ã«C
+DATE       11/4/2004
+PLACE      China XhongQing
+EVENT      Chinese National Champion ; 2004
+ROUND      MA3
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p3+1   5.  R2+4   e3+5   6.  C8.7   h3+2   
+7.  R9+1   p1+1   8.  R9.6   r1+3   9.  P3+1   c8.9   
+10. R2+5   h7-8   11. H3+4   a6+5   12. H4+3   c9.7   
+13. E3+1   h2+1   14. C7-1   p5+1   15. H3-5   r1.8   
+16. P3+1   r8+3   17. P3+1   c7-1   18. R6.4   p3+1   
+19. C7+3   h1-3   20. H5-7   e5+3   21. H7+9   c2+5   
+22. H++8   e7+5   23. H8-6   a5+4   24. P7+1   c2.9   
+25. P7+1   c7.3   26. P7.6   h8+6   27. P3.4   h6+8   
+28. P4+1   c3.5   29. H6-4   e5-3   30. H9+7   c5+6   
+31. E7+5   a4+5   32. P6+1   h8+7   33. P4+1   h7+6   
+34. R4.1   c9.6   35. R1.3   c6-3   36. R3+8   a5-6   
+37. P6+1   r8+2   38. P4+1   k5+1   39. R3-1   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DaHua(D)YU YouHua,85
+TIME       ;
+RESULT     0.5-0.5
+RED        LIU DaHua ; IGM ; China-Hubei ; Áø´ó»ª , ¬h¤jµØ
+BLACK      YU YouHua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+DATE       11/3/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA2
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+4   
+7.  R2+4   c8.9   8.  R2.4   r8+1   9.  P9+1   r8.2   
+10. R8+1   r++3   11. R8.4   r+.4   12. R++2   a4+5   
+13. R+.3   h7-9   14. A4+5   e3+5   15. R4+3   p3+1   
+16. P3+1   c2-3   17. R3+2   c2-2   18. R3-2   p7+1   
+19. R3-2   c2.4   20. H9+8   r4.8   21. C7.8   r2.4   
+22. C5.6   c4.3   23. E3+5   c9.6   24. C8.9   r4+3   
+25. R4+2   h9+8   26. R4.3   p9+1   27. C9-1   c6.9   
+28. R-.4   c9+1   29. R3+1   h8-6   30. R3-3   r8.7   
+31. C9.6   r4.2   32. C-.8   r2.4   33. C8.6   r4.2   
+34. C-.8   r2.4   35. C8.7   c9-2   36. P7+1   c9.6   
+37. R3+1   c6+4   38. R3-1   c6.2   39. P7+1   c2-5   
+40. C7+6   r4-1   41. R3.8   c2.4   42. C6+7   a5-4   
+43. C7.8   }END
+
+
+FORMAT 	WXF
+GAME 	³Ì½ø³¬(L)Lv Qin,114
+TIME       ;
+RESULT     0-1
+RED        ³Ì½ø³¬ ; NT ; NA ; ³Ì½ø³¬ , ³Ì½ø³¬
+BLACK      Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+DATE       11/4/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA3
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   p1+1   8.  P9+1   r1+5   9.  R2+4   e7+5   
+10. R9.4   r1.4   11. R4+3   r4+1   12. A4+5   h2+3   
+13. R4.8   h3+1   14. E7+9   c2.4   15. R2+2   a6+5   
+16. C7-2   r4.3   17. R8+2   p9+1   18. R8.7   r3+1   
+19. R7.9   c4.2   20. H3+4   c8.9   21. R2+3   h7-8   
+22. C5+4   h8+6   23. C5.6   c2+7   24. E3+5   r3.2   
+25. C6+2   c9+1   26. R9-2   h6+5   27. H4+3   e5-7   
+28. C6-6   c9+3   29. R9.5   r2-4   30. R5+1   h5-7   
+31. P3+1   e3+5   32. C6+3   c9+1   33. R5.4   c9.7   
+34. C6.5   c7-4   35. P3+1   r2.7   36. R4.1   r7+3   
+37. P5+1   k5.6   38. R1-5   r7.6   39. R1.4   r6+3   
+40. A5-4   h7+6   41. C5+1   h6+4   42. C5-1   h4+2   
+43. C5.6   h2+3   44. C6-4   h3-1   45. P5+1   h1-2   
+46. A4+5   h2+4   47. P5.6   p3+1   48. A5+6   h4+2   
+49. C6.4   p3+1   50. C4+1   h2-4   51. K5+1   h4+6   
+52. K5.4   c2-1   53. C7.9   p3.4   54. C9+2   p4+1   
+55. E5+7   p4+1   56. A6+5   p4.5   57. K4.5   h6-4   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO GuoRong(L)MIAO LiMing,90
+TIME       ;
+RESULT     0-1
+RED        ZHAO GuoRong ; IGM ; China-HeilongJiang ; ÕÔ¹úÈÙ , »¯°êºa
+BLACK      MIAO LiMing ; NT ; China-Anhui ; ÃçÀûÃ÷ , ­]§Q©ú
+DATE       11/4/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA3
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   e3+5   6.  R9+1   a4+5   
+7.  R9.7   h3+4   8.  C8+3   r1.4   9.  C8.6   r4+4   
+10. R7.8   c2.4   11. R8+3   c8+6   12. A6+5   p7+1   
+13. H3+4   r4.6   14. P3+1   r6.7   15. H4+5   h7+5   
+16. C5+4   r8+3   17. R8+2   p1+1   18. E7+5   r7.4   
+19. P5+1   c8-2   20. R2+2   k5.4   21. R8+3   k4+1   
+22. R8-1   k4-1   23. R8+1   k4+1   24. C5-1   e5+7   
+25. R8-1   k4-1   26. R8+1   k4+1   27. R8-1   k4-1   
+28. R2.4   c4.5   29. C5+3   a6+5   30. R8.5   c5+5   
+31. R4.5   r4+2   32. P5+1   c8.5   33. P5.6   c5-4   
+34. R-+3   r8+2   35. E3+5   r8.4   36. P6.7   r++2   
+37. R+.8   c5-2   38. H9-8   r+.3   39. P+.6   e7-5   
+40. R5.4   r3-2   41. A5+6   r4+2   42. A4+5   r4.5   
+43. H8+7   r3+1   44. R8-8   r5+1   45. K5.4   r3.8   }END
+
+
+FORMAT 	WXF
+GAME 	HU RongHua(D)SHEN Peng,165
+TIME       ;
+RESULT     0.5-0.5
+RED        HU RongHua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+BLACK      SHEN Peng ; NT ; China-Anhui ; ÉêÅô , ¥ÓÄP
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  E3+5   c8.5   2.  H2+3   h8+7   3.  H8+7   r9.8   
+4.  R1.2   h2+1   5.  P3+1   c2.4   6.  R9.8   r1.2   
+7.  A4+5   r2+4   8.  C8.9   r2.4   9.  R8+4   r8+6   
+10. P9+1   p1+1   11. P9+1   r4.1   12. C2.1   r8+3   
+13. H3-2   r1.8   14. H2+4   c4+6   15. R8.4   h1+2   
+16. P7+1   h2+3   17. C1.3   p5+1   18. A5-4   p5+1   
+19. P5+1   p3+1   20. A6+5   h3+1   21. E7+9   c4.6   
+22. R4-3   c5+5   23. A5-6   r8+3   24. C3.4   c5.1   
+25. C4.9   r8.3   26. R4+6   h7-9   27. C9-1   h9+8   
+28. R4-3   r3.7   29. P7+1   h8+7   30. P5+1   h7+6   
+31. C9.4   h6-4   32. R4.6   r7-1   33. A6+5   r7.9   
+34. C4+5   a6+5   35. P7.6   h4+3   36. R6-3   h3-2   
+37. R6.8   p7+1   38. R8+1   p7+1   39. R8.7   e7+5   
+40. C4.5   k5.6   41. R7+2   p9+1   42. C5.9   r9.6   
+43. C9-2   p7+1   44. K5.6   p7+1   45. C9-1   h2+1   
+46. C9-1   r6.1   47. C9.6   k6.5   48. K6.5   r1.5   
+49. C6.9   r5+1   50. C9.6   p7+1   51. R7-3   h1-2   
+52. R7+2   h2+1   53. R7.1   p7.6   54. R1.4   h1+3   
+55. C6-2   r5-2   56. R4-2   h3-4   57. C6+1   h4+6   
+58. C6.4   r5.6   59. C4+1   p9+1   60. C4.8   r6.2   
+61. C8.4   r2-2   62. C4.6   p9.8   63. C6.1   p8+1   
+64. C1+2   p8.7   65. C1.2   a5+6   66. C2.4   p7.6   
+67. C4.2   a4+5   68. C2.1   e5+7   69. C1.2   a5+4   
+70. C2.5   e3+5   71. C5.2   a4-5   72. C2.1   p6.5   
+73. C1.2   e5-7   74. C2.1   a5-6   75. C1.5   k5.4   
+76. C5.6   k4.5   77. C6.5   e7+5   78. C5.2   p5.6   
+79. C2.1   p6.5   80. C1.2   p5.4   81. C2.1   k5.4   
+82. C1.6   k4.5   83. C6.2   }END
+
+
+FORMAT 	WXF
+GAME 	ZHENG XinNian(L)JIANG Chuan,44
+TIME       ;
+RESULT     0-1
+RED        ZHENG XinNian ; CM ; China-Yunnan ; Ö£ÐÂÄê , ¾G·s¦~
+BLACK      JIANG Chuan ; NT ; China-Wenzhou ; ½¯´¨ , ½±¤t
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  P3+1   r9+1   
+4.  H8+7   r9.4   5.  P7+1   c2.3   6.  H7+8   r4+4   
+7.  R9.8   h2+1   8.  E7+9   r4+1   9.  C8.7   r1.2   
+10. P7+1   r4-1   11. P7+1   c3.4   12. P7.6   r4-2   
+13. R1+1   r4+2   14. R1.8   c4.2   15. C7.8   c2+5   
+16. R++1   c5.2   17. H8-7   c2+7   18. R8-2   r4.7   
+19. R8+9   h1-2   20. H3-5   h2+3   21. C5.6   h3+2   
+22. E3+5   r7-1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG ShenHong(W)LIU DaHua,69
+TIME       ;
+RESULT     1-0
+RED        ZHANG ShenHong ; NT ; China-Hunan ; ÕÅÉêºê , ±i¥Ó§»
+BLACK      LIU DaHua ; IGM ; China-Hubei ; Áø´ó»ª , ¬h¤jµØ
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  H7+6   c9.7   9.  R3.4   e3+5   
+10. C8.6   r8+5   11. R9.8   r8.4   12. R8+7   r1.3   
+13. A4+5   h7+8   14. R4.3   c7.9   15. C5.4   h8+9   
+16. R3.1   h9+8   17. C4-1   c9+1   18. C4.3   p3+1   
+19. P7+1   h3+4   20. R8-4   h4+6   21. R1.2   h8-7   
+22. C3+2   h6+7   23. E3+5   h7+9   24. R2-5   r4.9   
+25. P7.6   a5-4   26. P5+1   a6+5   27. C3-2   p7+1   
+28. C6-1   p7.8   29. C3.1   r3+8   30. C1+6   r3.4   
+31. C1.2   r9+4   32. A5-4   r4.8   33. C2-6   r9-1   
+34. C2+1   r9.4   35. P5+1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHENG YiHong(L)WANG Bin,58
+TIME       ;
+RESULT     0-1
+RED        ZHENG YiHong ; GM ; China-Xiamen ; Ö£Ò»ãü , ¾G¤@ªl
+BLACK      WANG Bin ; CM ; China-Jiangsu ; Íõ±ó , ¤ýÙy
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  C2.6   c8.5   2.  H2+3   h8+7   3.  R1.2   h2+3   
+4.  H8+7   p3+1   5.  R2+4   r9.8   6.  R2.6   c2+2   
+7.  P7+1   r8+4   8.  R9+1   a4+5   9.  R9.4   e3+1   
+10. A4+5   r1.3   11. R4+5   p3+1   12. R6.7   c2.3   
+13. R4.3   h3+4   14. E7+5   c5.3   15. R7.3   c-+5   
+16. R-.7   r8.7   17. R3.2   c-.2   18. R7.6   c3-4   
+19. R2+1   c3.2   20. R6-1   c-+4   21. R6.8   r7+2   
+22. R8+2   c2.1   23. R2-3   h7+6   24. R2.7   r3+5   
+25. E5+7   c1+2   26. R8-5   r7+1   27. E3+5   r7-1   
+28. R8.9   h4+6   29. R9.8   h++8   }END
+
+
+FORMAT 	WXF
+GAME 	HONG Zhi(D)XU YinChuan,142
+TIME       ;
+RESULT     0.5-0.5
+RED        HONG Zhi ; CM ; China-Jilin ; ºéÖÇ , ¬x´¼
+BLACK      XU YinChuan ; IGM ; China-Guangdong ; ÐíÒø´¨ , ³\»È¤t
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  C2.6   c8.5   2.  H2+3   h8+7   3.  A4+5   r9.8   
+4.  E3+5   h2+3   5.  R1.4   c2.1   6.  H8+9   r1.2   
+7.  R9.8   r8+4   8.  C8+4   c5.4   9.  R4+6   p3+1   
+10. R4.3   e3+5   11. P9+1   c1-1   12. C8+2   r8-3   
+13. C8-4   r2+3   14. C6.8   r2.4   15. C+.3   c1.7   
+16. R3.4   c7+4   17. P3+1   r4.2   18. R4-3   r8+3   
+19. C8.6   r2+6   20. H9-8   c4-1   21. H8+9   r8.6   
+22. R4+1   r6+1   23. H3+4   h7+6   24. H9+8   c4.1   
+25. C6.9   c1+4   26. H8+7   c1.4   27. H4+6   h3-2   
+28. P5+1   h2+4   29. H6+5   e7+5   30. H7+6   c4-3   
+31. P7+1   p3+1   32. E5+7   h6+7   33. C9.5   h7+5   
+34. E7-5   p1+1   35. H6+8   e5-7   36. P3+1   a4+5   
+37. H8-7   p1+1   38. P3.2   p1+1   39. P1+1   c4.5   
+40. H7-5   c5+3   41. P2+1   c5-1   42. P2.1   e7+5   
+43. P+.2   p1.2   44. H5+7   e5+7   45. H7-6   k5.4   
+46. P2.3   k4.5   47. P3.4   k5.4   48. H6-5   p2.3   
+49. H5+3   c5.4   50. H3-5   c4.5   51. H5+4   e7-9   
+52. H4+2   e9-7   53. P4.5   c5.1   54. P1+1   c1-1   
+55. H2-4   p3.4   56. P1.2   c1.2   57. P5.6   c2.1   
+58. P6.7   c1-1   59. H4-6   c1.6   60. P2.3   c6.9   
+61. P3+1   c9+1   62. P3+1   e7+5   63. P7+1   c9-1   
+64. H6+7   e5+3   65. P3+1   a5+6   66. P7+1   c9-1   
+67. P7.8   p4.5   68. P3.2   c9.2   69. H7+8   k4+1   
+70. H8-9   e3-1   71. H9-8   e1-3   }END
+
+
+FORMAT 	WXF
+GAME 	Lv Qin(W)MIAO LiMing,71
+TIME       ;
+RESULT     1-0
+RED        Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+BLACK      MIAO LiMing ; NT ; China-Anhui ; ÃçÀûÃ÷ , ­]§Q©ú
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  C8.9   r1.2   9.  R9.8   c9.7   
+10. R3.4   h7+8   11. C5+4   h3+5   12. R4.5   c7+5   
+13. H3-5   p7+1   14. R8+4   h8+6   15. R5-2   r8+8   
+16. C9-1   r8-1   17. E3+5   c7.8   18. H5-3   r8.7   
+19. C9.8   c8-1   20. C8+6   h6+5   21. E7+5   c8.5   
+22. P5+1   r7.5   23. A4+5   e3+5   24. H7+6   r5-2   
+25. H6+7   p7.6   26. H3+4   r5+2   27. H4+2   p6.7   
+28. H2+3   r2.1   29. H3+2   r5-4   30. P7+1   r5.8   
+31. H7-5   e5+3   32. H2+3   r8.5   33. C8.1   e3-5   
+34. H3-2   a5+6   35. C1+2   e5-7   36. H2+3   }END
+
+
+FORMAT 	WXF
+GAME 	Li Hong Jia(W)TAO HanMing,83
+TIME       ;
+RESULT     1-0
+RED        Li Hong Jia ; NT ; China-Shenzhen ; Àîºè¼Î , §õÂE¹Å
+BLACK      TAO HanMing ; GM ; China-Jilin ; ÌÕººÃ÷ , ³³º~©ú
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h2+3   2.  H2+3   r9+1   3.  R1.2   h8+9   
+4.  P7+1   r9.4   5.  H8+7   a4+5   6.  R2+4   r4+5   
+7.  C5.4   c8.6   8.  A6+5   e3+5   9.  E7+5   c2.1   
+10. C8.9   r1.2   11. R2.6   r4-1   12. H7+6   r2+4   
+13. P3+1   p9+1   14. H3+4   c1+4   15. C9.7   c6+5   
+16. C7.4   c1.9   17. P7+1   r2.3   18. R9.8   p5+1   
+19. R8+7   h3-4   20. C4.3   p5+1   21. P5+1   r3.6   
+22. R8-4   c9-1   23. H6+5   c9.6   24. C3.4   c6+4   
+25. K5.4   p9+1   26. K4.5   p9.8   27. R8.5   h4+2   
+28. P5+1   r6.9   29. E5-7   p8.7   30. H5+7   h2+4   
+31. C4.5   r9+5   32. R5.8   r9.7   33. A5-4   r7-3   
+34. R8+6   h4-3   35. P5.6   r7.5   36. H7+9   k5.4   
+37. A4+5   h9+8   38. P6+1   h8+6   39. C5.6   h6-4   
+40. P6.7   a5+4   41. P7+1   k4.5   42. P7.6   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN FuJie(D)LIN HongMin,80
+TIME       ;
+RESULT     0.5-0.5
+RED        CHEN FuJie ; CM ; China-Guangdong ; ³Â¸»½Ü , ³¯´IªN
+BLACK      LIN HongMin ; GM ; China-Shanghai ; ÁÖºêÃô , ªL§»±Ó
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  H8+9   p7+1   2.  E3+5   e7+5   3.  R9+1   p1+1   
+4.  P3+1   p7+1   5.  R9.3   h2+1   6.  R3+3   h1+2   
+7.  C8+5   c8.2   8.  H2+3   h8+7   9.  A4+5   r1+1   
+10. R1.4   r1.4   11. H3+2   r4+4   12. P5+1   r4+1   
+13. R3+2   r4.8   14. H2-4   a6+5   15. C2.3   r9.6   
+16. H4-6   r6+9   17. A5-4   r8-4   18. A6+5   p9+1   
+19. H6+7   p3+1   20. H7+9   c2+1   21. R3-3   h7+8   
+22. R3.6   h8+6   23. R6+3   c2-2   24. C3+2   h2-1   
+25. H++8   c2.1   26. R6-3   r8.7   27. H8-6   a5+4   
+28. P7+1   h1-3   29. H9+7   h3+4   30. R6+3   p3+1   
+31. H7+9   c1.8   32. C3.2   c8+2   33. R6-1   p3.2   
+34. R6.4   h6+8   35. C2.8   h8+7   36. K5.6   r7+4   
+37. C8-2   r7.4   38. C8.6   r4.1   39. R4.2   c8.7   
+40. H9+7   e5+3   }END
+
+
+FORMAT 	WXF
+GAME 	XU TianHong(D)JING XueYi,102
+TIME       ;
+RESULT     0.5-0.5
+RED        XU TianHong ; IGM ; China-Jiangsu ; ÐìÌìºì , ®}¤Ñ¬õ
+BLACK      JING XueYi ; CM ; China-Meitan Tixie ; ¾°Ñ§Òå , ´º¾Ç¸q
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  C8+2   h7+8   6.  H7+6   e3+5   
+7.  R9+1   r8+1   8.  R1+1   r1+1   9.  R1.4   r8.6   
+10. H6+5   h8+7   11. H5-3   c8.7   12. R4+7   r1.6   
+13. H+-5   h7-5   14. C5+2   a4+5   15. H3+2   c7+2   
+16. R9.6   r6+2   17. A6+5   c7-2   18. R6+1   c7.6   
+19. E7+5   c2+1   20. R6+6   c6-1   21. R6-1   c6+1   
+22. R6+1   c6-1   23. R6-1   c6+1   24. R6+1   c2+1   
+25. R6-3   c2-1   26. P9+1   r6.5   27. R6.4   c2-3   
+28. P9+1   p1+1   29. R4.9   c2.3   30. H2-4   c6.7   
+31. C8.9   p3+1   32. P7+1   c7+4   33. H4-3   c3+4   
+34. R9+4   a5-4   35. R9-2   c7-4   36. R9.8   c3.1   
+37. H3+2   a4+5   38. H2-4   r5.7   39. C5+1   r7.4   
+40. C9.3   c7.6   41. P5+1   c1+5   42. R8-5   k5.4   
+43. A5+6   c1.6   44. C3-3   c+-1   45. A6-5   r4+2   
+46. R8.6   r4+2   47. A5+6   h3+5   48. A6-5   c-+4   
+49. C5.6   h5+7   50. C6.4   p9+1   51. C3.1   c+.7   }END
+
+
+FORMAT 	WXF
+GAME 	KE YongQing(W)ZONG YongSheng,119
+TIME       ;
+RESULT     1-0
+RED        KE YongQing ; GM ; China-LiaoNing ; ÃçÓÀÅô , ¬_¥Ã«C
+BLACK      ZONG YongSheng ; CM ; China-Guangdong ; ×ÚÓÀÉú , ©v¥Ã¥Í
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  P7+1   e3+5   2.  H8+7   p7+1   3.  E7+5   h8+7   
+4.  H2+1   p9+1   5.  R1+1   c8.9   6.  C8.9   r9.8   
+7.  C2.3   h2+3   8.  P3+1   h7+8   9.  P3+1   h8+9   
+10. C3.4   e5+7   11. R9.8   r1.2   12. R8+6   e7-5   
+13. C4+5   c2.1   14. R1.8   r2+3   15. R8+5   e5-3   
+16. C4.9   e3+1   17. A6+5   r8+4   18. H1+3   r8.7   
+19. H3+5   r7.5   20. H7+8   h9-8   21. H8+7   r5.4   
+22. R8+2   h8+6   23. H5+4   c9.6   24. H4-3   r4.7   
+25. P5+1   a6+5   26. C9.7   p9+1   27. P9+1   p9.8   
+28. H3-4   r7+2   29. H7+9   r7.3   30. H9+7   k5.6   
+31. C7.6   c6.9   32. C6+2   h6+7   33. R8-2   r3.4   
+34. C6+2   h7-6   35. R8.7   c9-1   36. H7-9   c9+1   
+37. H9+7   c9-1   38. H7-9   h3-1   39. C6.9   r4-4   
+40. C9+2   c9.1   41. H9+7   r4.6   42. P9+1   c1.2   
+43. P9.8   c2+1   44. R7-1   c2.4   45. R7.3   e7+9   
+46. R3.6   e9-7   47. P7+1   r6+1   48. R6.3   e7+9   
+49. R3.1   e9-7   50. P7.6   c4.6   51. R1.3   r6.7   
+52. R3.4   h6+7   53. P6+1   e7+9   54. P8+1   r7+1   
+55. R4-2   p8.7   56. R4+3   p7.6   57. P6.5   r7.3   
+58. H7-6   r3+2   59. P++1   c6-1   60. R4.3   }END
+
+
+FORMAT 	WXF
+GAME 	BU FengBo(D)GE WeiPu,74
+TIME       ;
+RESULT     0.5-0.5
+RED        BU FengBo ; GM ; China-Dalian ; ²··ï²¨ , ¤R­·ªi
+BLACK      GE WeiPu ; CM ; China-Shanghai ; ¸ðÎ¬ÆÑ , ¸¯ºû»Z
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h2+3   2.  P7+1   c8.6   3.  P3+1   h8+7   
+4.  C8.7   e3+5   5.  H8+9   r9.8   6.  R9.8   c2.1   
+7.  H2+3   a4+5   8.  R1.2   r8+9   9.  H3-2   r1.4   
+10. R8+7   c1+4   11. P7+1   r4+6   12. P7+1   h3-4   
+13. R8-3   c1.5   14. A4+5   c5-2   15. H2+3   r4.7   
+16. R8.7   p7+1   17. P3+1   r7-2   18. H9+7   h7+8   
+19. E3+1   h8+7   20. E1+3   c5.3   21. H3+5   c6+1   
+22. P7.6   c6.4   23. R7+1   r7.3   24. C7+3   c4.3   
+25. C5+4   h7-5   26. E3-5   h5-3   27. H7+6   h4+2   
+28. P1+1   p1+1   29. H5+3   c3.4   30. C5-3   h3+4   
+31. C5.1   h2+3   32. C1+3   h3+4   33. P1+1   h-+6   
+34. C1.5   k5.4   35. P1.2   p1+1   36. K5.4   p1+1   
+37. C5.1   h4-5   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DianZhong(D)SUN YongZheng,47
+TIME       ;
+RESULT     0.5-0.5
+RED        LIU DianZhong ; GM ; China-Hebei ; ÁõµîÖÐ , ¼B·µ¤¤
+BLACK      SUN YongZheng ; CM ; China-Shanghai ; ËïÓÂÕ÷ , ®]«i©º
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+4   
+7.  R2+4   c8.9   8.  R2.4   r8+1   9.  P9+1   r8.2   
+10. R8+1   c2.5   11. R8.5   c5-2   12. H3+5   r++3   
+13. R5.2   e3+5   14. A4+5   c5+3   15. E3+5   p5+1   
+16. P1+1   a4+5   17. R2+3   p1+1   18. H9+8   p1+1   
+19. C7.8   p1.2   20. C8+3   r2+4   21. R4.8   r2+1   
+22. R2.8   p3+1   23. R8.2   h3+5   24. P7+1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG Jiang(D)JIN YuYan,71
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHANG Jiang ; CM ; China-Hebei ; ÕÅ½­ , ±i¦¿
+BLACK      JIN YuYan ; CM ; China-Jidian ; ½ùÓñÑâ , àÚ¥Éµx
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  P7+1   c2.3   2.  C2.5   e7+5   3.  H8+9   h2+1   
+4.  R9.8   r1+1   5.  P9+1   r1.4   6.  H2+3   a6+5   
+7.  H9+8   h8+6   8.  R1.2   r4+3   9.  H8+9   c3-1   
+10. C8.9   r9.8   11. C5.7   p7+1   12. E3+5   c8.6   
+13. R2+9   h6-8   14. R8+8   h8+7   15. H9+7   r4-2   
+16. C9+5   r4.3   17. C9-1   h7+6   18. C7+1   h6+4   
+19. P3+1   p7+1   20. E5+3   r3.4   21. E3-5   c6-1   
+22. C7.6   h4-6   23. R8-5   c3+4   24. A4+5   c3+2   
+25. H3-1   h6+8   26. H1+2   p3+1   27. R8+1   h8-6   
+28. C6-1   r4+4   29. C9.1   r4.5   30. H2+1   c3-1   
+31. R8.3   c3.9   32. H1+3   c6.7   33. H3+4   r5.7   
+34. R3-1   h6+7   35. H4-5   c9+3   36. C1.3   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Yang(D)WAN ChunLin,104
+TIME       ;
+RESULT     0.5-0.5
+RED        WANG Yang ; NT ; China-Hubei ; ÍôÑó , ¨L¬v
+BLACK      WAN ChunLin ; CM ; China-Shanghai ; Íò´ºÁÖ , ¸U¬KªL
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P7+1   c8+2   9.  R9.6   a4+5   
+10. R6+7   r1.3   11. P3+1   c2+1   12. C8-1   p7+1   
+13. R2.3   h7+6   14. P7+1   c8.3   15. H7+6   h6+4   
+16. R6-4   r8+6   17. C8+2   r8+2   18. C5-1   c3.7   
+19. H3+2   c2.5   20. E3+5   r3.2   21. R6.8   r2+5   
+22. R3.8   h3+4   23. R8.6   r8.6   24. H2-3   r6-1   
+25. C8-1   r6-1   26. P9+1   h4-3   27. C8.7   c7-2   
+28. C5.9   c5.7   29. C7+1   r6-2   30. H3+2   r6.4   
+31. R6.7   h3+2   32. C9+5   h2+3   33. R7-1   c+.8   
+34. R7.8   k5.4   35. R8+6   k4+1   36. C9.1   r4+5   
+37. K5+1   r4-1   38. K5-1   r4-3   39. C1.2   c7+7   
+40. E5-3   c8.5   41. E7+5   r4.8   42. C2.1   c5.7   
+43. P9+1   c7-2   44. P9+1   c7.9   45. C1.4   r8.6   
+46. C4.2   c9.8   47. R8-3   p5+1   48. R8.6   a5+4   
+49. P9.8   r6+1   50. P8+1   r6.5   51. R6.9   r5.3   
+52. C2.7   e5+7   }END
+
+
+FORMAT 	WXF
+GAME 	YU YouHua(W)YAN WenQing,73
+TIME       ;
+RESULT     1-0
+RED        YU YouHua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+BLACK      YAN WenQing ; IGM ; China-Hebei ; ÑÖÎÄÇå , ÀF¤å²M
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   e7+5   8.  H3+4   p1+1   9.  P9+1   r1+5   
+10. R9.4   h2-3   11. P7+1   r1.3   12. C5.3   c8+3   
+13. P3+1   h3+4   14. H4+6   r3+2   15. H6-4   r3+2   
+16. P3.2   c8.7   17. R4+1   c7-1   18. R4.8   c2.4   
+19. C3.2   c7.5   20. E3+5   r8.7   21. R8.6   a6+5   
+22. A4+5   r3.1   23. P2+1   r7.6   24. H4+3   r6+6   
+25. H3-5   p5+1   26. P2.3   h7+5   27. C2+7   h5+7   
+28. E5+7   p3+1   29. C2.1   h7+8   30. R6.2   r1-2   
+31. R++1   r6.8   32. R2+3   k5.6   33. R2.4   k6.5   
+34. K5.4   a5+6   35. P3+1   r1-6   36. P3.4   r1.9   
+37. P4+1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG XiaoPing(W)³Ì½ø³¬,107
+TIME       ;
+RESULT     1-0
+RED        ZHANG XiaoPing ; CM ; China-HeilongJiang ; ÕÅÏþÆ½ , ±i¾å¥­
+BLACK      ³Ì½ø³¬ ; NT ; NA ; ³Ì½ø³¬ , ³Ì½ø³¬
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  P3+1   r9.8   3.  H2+3   p3+1   
+4.  R1.2   h2+3   5.  C8.7   a4+5   6.  R9+1   h3+2   
+7.  R2+6   e3+5   8.  R9.6   p3+1   9.  C7+2   c2+1   
+10. H8+9   r1.3   11. C5.7   p7+1   12. R2-2   h2+1   
+13. R6.8   c2.4   14. P3+1   e5+7   15. R8+2   c4+3   
+16. C+.3   c4.2   17. C7+7   e7-5   18. C7.9   c8+2   
+19. C9-6   h7+6   20. R2-4   p1+1   21. H9-7   c2-1   
+22. E3+5   h6+8   23. R2.3   h8+7   24. R3+2   c8+5   
+25. E5-3   c2-1   26. P5+1   c2.3   27. H7+6   c3+5   
+28. A6+5   r8+4   29. R3.7   c3.1   30. R7.9   c1.3   
+31. R9.7   c3.1   32. R7.9   c1.3   33. R9.8   c3.1   
+34. H6-4   r8.6   35. R8.9   c1.3   36. R9.7   c3.1   
+37. R7.9   c1.3   38. C9.8   r6.2   39. C3-1   c8-4   
+40. C3.5   p1+1   41. R9-2   c3-2   42. R9+2   c3+2   
+43. H4+3   r2.7   44. R9+2   e5-3   45. C8+1   k5.4   
+46. R9-4   c3-2   47. R9.6   a5+4   48. R6+7   k4.5   
+49. K5.6   k5+1   50. R6+1   k5-1   51. C5.3   r7.6   
+52. C8+5   e3+1   53. C3+6   a6+5   54. R6+1   }END
+
+
+FORMAT 	WXF
+GAME 	NEI TieWen(D)PAN ZhenBo,83
+TIME       ;
+RESULT     0.5-0.5
+RED        NEI TieWen ; CM ; China-HeilongJiang ; ÄôÌúÎÄ , Â¿ÅK¤å
+BLACK      PAN ZhenBo ; CM ; China-Jilin ; ÅËÕñ²¨ , ¼ï®¶ªi
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P3+1   p7+1   9.  R2.3   h7+6   
+10. P7+1   p3+1   11. R3.7   c8.7   12. R9.4   r8+4   
+13. H3+4   r8.7   14. H4-2   r7.8   15. R4+2   c7.6   
+16. C5.2   c6+4   17. C2+3   h6+7   18. R7+3   h7-8   
+19. H7+6   c6.1   20. R7-4   c1-2   21. H6+4   r1.3   
+22. R7+6   c1.5   23. A4+5   e5-3   24. P5+1   c5.3   
+25. C8.5   e3+5   26. C5+4   a4+5   27. H2-4   h8+9   
+28. H-+6   c3-3   29. E3+5   p1+1   30. P5+1   h9-8   
+31. P5.6   c3.4   32. P6.7   p1+1   33. P7.8   c2.1   
+34. P8.9   c1.3   35. P9+1   c3+3   36. P9.8   h8+7   
+37. H4+2   h7+9   38. P8.7   k5.4   39. H6+5   h9+7   
+40. K5.4   c3.6   41. C5.6   a5+4   42. H5-4   }END
+
+
+FORMAT 	WXF
+GAME 	XIE Kui(D)JIN Bo,51
+TIME       ;
+RESULT     0.5-0.5
+RED        XIE Kui ; NT ; China-Shandong ; Ð»¿ù , ÁÂõÉ
+BLACK      JIN Bo ; CM ; China-HuoCheTou ; ½ð²¨ , ª÷ªi
+DATE       11/5/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA4
+AUTHOR     Peter Sung
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  H8+9   p3+1   5.  R1.2   r9+1   6.  R9.8   r9.4   
+7.  A6+5   r4+2   8.  P3+1   h2+4   9.  C8.6   r1.2   
+10. R8+9   h4-2   11. R2+5   a4+5   12. H3+4   h8+9   
+13. C5+4   c3.1   14. C6.3   c8.7   15. E7+5   h2+3   
+16. R2.5   c1+4   17. C5.1   p7+1   18. C1-2   r4.2   
+19. E5+7   c7+3   20. E7-5   c7+1   21. R5-1   h9-7   
+22. R5.7   h3+5   23. H4+5   r2.5   24. C1.5   h7+6   
+25. C3+3   h6+5   26. P5+1   }END
+
+
+FORMAT 	WXF
+GAME 	WAN ChunLin(D)WANG YueFei,236
+TIME       ;
+RESULT     0.5-0.5
+RED        WAN ChunLin ; CM ; China-Shanghai ; Íò´ºÁÖ , ¸U¬KªL
+BLACK      WANG YueFei ; CM ; China-Yunnan ; ÍõÔ¾·É , ¤ýÅD­¸
+DATE       11/6/2004
+PLACE      China XhongQing
+EVENT      Chinese National Champion ; 2004
+ROUND      MA5
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c2.5   
+4.  H8+7   h2+3   5.  R9.8   c8+4   6.  P3+1   p3+1   
+7.  C8+4   c8.7   8.  C8.7   e3+1   9.  R2+9   h7-8   
+10. R8+4   r1.2   11. R8+5   h3-2   12. C5+4   a4+5   
+13. C5-1   c7+3   14. A4+5   c7-4   15. H3+2   h8+7   
+16. E7+5   h2+4   17. C7.6   c7+3   18. H2+3   h4+2   
+19. C6+1   h7+5   20. H3+5   a5+4   21. H5+3   k5.4   
+22. H3-4   c7-1   23. E5+3   a4-5   24. P5+1   h5-3   
+25. C5.2   h2-3   26. C2+4   k4+1   27. P5+1   h-+4   
+28. H4+6   k4+1   29. C2-1   a5-4   30. K5.4   k4-1   
+31. H7+5   c7.2   32. E3-5   k4.5   33. C2-4   k5-1   
+34. C2.8   a4+5   35. H5+3   e1-3   36. P1+1   e3+5   
+37. H3+4   a5+6   38. H4-2   c2+1   39. H2+3   c2.4   
+40. A5+6   c4.9   41. H3-4   e5+7   42. P9+1   e7+5   
+43. H4+3   a6+5   44. A6+5   c9.8   45. C8.2   h3+2   
+46. P7+1   p3+1   47. E5+7   c8.9   48. C2.5   h2+3   
+49. C5.4   c9-2   50. C4.2   h3-5   51. H3-4   c9.2   
+52. C2-1   h5-3   53. P5.6   h3+1   54. H4+6   h1-2   
+55. P6.7   c2.3   56. E7-5   h2-3   57. H6-5   c3.4   
+58. P7+1   h3+1   59. P7.8   h1-3   60. P8.9   c4-2   
+61. C2.5   k5.6   62. H5+4   c4.6   63. C5+2   h3+4   
+64. C5.6   c6+2   65. H4-2   h4+6   66. P9.8   k6.5   
+67. C6.9   c6.8   68. C9+1   c8-1   69. C9.1   h6+7   
+70. P1+1   h7-8   71. P1.2   e7-9   72. C1.5   k5.4   
+73. P2+1   a5-6   74. P8.7   a6-5   75. E5+3   c8+1   
+76. A5+4   c8.1   77. P2.3   c1.7   78. P3.2   c7.1   
+79. A4-5   e9-7   80. E3-5   e5+3   81. P2.3   e7+5   
+82. C5-3   c1.3   83. E5+7   c3.4   84. C5.2   a5+6   
+85. P3.4   a6+5   86. A5+4   c4.1   87. C2-2   c1-3   
+88. C2.4   k4.5   89. K4.5   k5.4   90. P7.6   e3-1   
+91. P6.7   e1+3   92. P7.8   c1+3   93. P8.7   c1-3   
+94. P7.6   e3-1   95. K5+1   e1-3   96. C4-1   e5-7   
+97. P6.7   e3+5   98. P7.8   c1+3   99. P4.3   c1.4   
+100. P8+1   e5+3   101. K5+1   e7+5   102. P3+1   e5+7   
+103. P8.7   e3-5   104. K5-1   c4.7   105. C4.3   c7.4   
+106. P7+1   c4-3   107. P3+1   a5+4   108. C3.2   k4.5   
+109. K5.4   c4.6   110. A4-5   c6.9   111. P3.2   c9.1   
+112. P7.8   c1+5   113. A5-6   c1-5   114. C2.4   a4-5   
+115. P2.3   k5.4   116. P3.4   c1.4   117. P8.7   c4+3   
+118. K4+1   c4.3   }END
+
+
+FORMAT 	WXF
+GAME 	LIN HongMin(L)ZHANG ShenHong,104
+TIME       ;
+RESULT     0-1
+RED        LIN HongMin ; GM ; China-Shanghai ; ÁÖºêÃô , ªL§»±Ó
+BLACK      ZHANG ShenHong ; NT ; China-Hunan ; ÕÅÉêºê , ±i¥Ó§»
+DATE       11/6/2004
+PLACE      China XhongQing
+EVENT      Chinese National Champion ; 2004
+ROUND      MA5
+AUTHOR     Peter Sung
+START{
+1.  E3+5   p7+1   2.  P7+1   h8+7   3.  H8+7   e7+5   
+4.  R9+1   h2+1   5.  R9.3   c8-2   6.  R3.6   a6+5   
+7.  H2+3   r9+1   8.  P9+1   r1+1   9.  C2+4   p3+1   
+10. P7+1   c2.3   11. R6+1   r1.2   12. H7+6   e5+3   
+13. C2.3   r9.6   14. R1.2   c3.4   15. H6+7   h1+3   
+16. C3.7   c8.7   17. C8.7   e3-5   18. R6+2   r2+5   
+19. R6.7   r6+5   20. R2+8   r6.7   21. R2.3   c7.6   
+22. A6+5   p7+1   23. C++2   p7.6   24. R7+3   p6+1   
+25. C-+2   c6+4   26. C+.6   e3+1   27. R7.9   r2-6   
+28. H3-2   r2.3   29. P5+1   p6.5   30. H2+4   r7.9   
+31. R9.6   a5+4   32. R3-1   a4+5   33. P5+1   p-+1   
+34. H4+3   c6+1   35. H3+2   c6.8   36. R3-3   c8+4   
+37. E5-3   r9.6   38. C6.9   r6-4   39. C9-1   p+.4   
+40. E7+9   p4+1   41. H2-4   p4+1   42. R3.2   r3.2   
+43. R2-4   r2+9   44. C7-4   r6+3   45. C9.5   k5.6   
+46. R2+6   r6.1   47. A5-6   r1+2   48. R2+3   k6+1   
+49. C7+8   a5+6   50. R2-1   k6-1   51. A4+5   r1.7   
+52. R2-8   r7+1   }END
+
+
+FORMAT 	WXF
+GAME 	³Ì½ø³¬(L)ZHENG YiHong,33
+TIME       ;
+RESULT     0-1
+RED        ³Ì½ø³¬ ; NT ; NA ; ³Ì½ø³¬ , ³Ì½ø³¬
+BLACK      ZHENG YiHong ; GM ; China-Xiamen ; Ö£Ò»ãü , ¾G¤@ªl
+DATE       11/6/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA5
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p3+1   
+4.  H8+9   h2+3   5.  P3+1   p1+1   6.  C8.6   c8+2   
+7.  P5+1   e3+5   8.  R2+3   a4+5   9.  R2.6   r1+3   
+10. R9+1   c8.6   11. R9.4   r8+4   12. C6.7   h3+2   
+13. R6+5   c2.4   14. C7-1   r1.4   15. H3+5   c6-2   
+16. R4+5   r8.4   17. H5-7   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG Chuan(D)HU RongHua,54
+TIME       ;
+RESULT     0.5-0.5
+RED        JIANG Chuan ; NT ; China-Wenzhou ; ½¯´¨ , ½±¤t
+BLACK      HU RongHua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+DATE       11/6/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA5
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  C8.6   h3-5   8.  R3-1   e3+5   9.  R3.6   h5+3   
+10. H8+9   r8+5   11. R9.8   r1+2   12. P3+1   r8.7   
+13. R8+6   c9.6   14. R8.7   c2-2   15. C6.7   c6+1   
+16. R6+3   r1.2   17. E3+1   r7+1   18. H9+7   c2.3   
+19. R7.9   r2+4   20. H7+5   r7+1   21. R9+3   a6+5   
+22. R9.7   r7.5   23. E7+5   c6-1   24. C7+5   c6.4   
+25. R7-1   c4+1   26. H5+7   k5.6   27. H7+6   a5+4   }END
+
+
+FORMAT 	WXF
+GAME 	HONG Zhi(W)YU YouHua,123
+TIME       ;
+RESULT     1-0
+RED        HONG Zhi ; CM ; China-Jilin ; ºéÖÇ , ¬x´¼
+BLACK      YU YouHua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+DATE       11/6/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA5
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  P3+1   p3+1   3.  H2+3   h2+3   
+4.  R1.2   r9.8   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   p1+1   8.  P9+1   r1+5   9.  R2+4   e7+5   
+10. R9.4   r1.4   11. R4+3   r4+1   12. A4+5   h2+3   
+13. H9+8   r4-3   14. C7+3   h3+5   15. E3+5   r4.2   
+16. C7+2   c8.9   17. H8+6   r2.3   18. R4.8   c2.1   
+19. H6+4   r8.7   20. R8.7   r3+2   21. E5+7   c1+1   
+22. C7-1   h7-5   23. R2+1   c9.6   24. E7-5   r7+1   
+25. H3+4   h5-7   26. H+-5   r7.3   27. C7-2   p5+1   
+28. R2.5   r3+2   29. C7+5   r3-3   30. R5+2   a4+5   
+31. R5-1   c1+2   32. H4+3   r3+2   33. R5.9   c1.4   
+34. H5+6   h7+8   35. P5+1   c6+1   36. R9-2   c4+3   
+37. P5+1   r3.4   38. H6-4   h8+9   39. H3-1   p9+1   
+40. P5+1   c6-2   41. H4+5   r4+2   42. R9.4   c6+1   
+43. H5+7   r4-3   44. H7-8   r4.2   45. H8-6   r2.3   
+46. H6+5   r3+3   47. R4.6   c4.2   48. R6.8   c2.4   
+49. A5+6   c6-1   50. K5+1   k5.4   51. R8.4   c6+3   
+52. E5+7   r3.2   53. P3+1   r2-1   54. P5.6   c6.1   
+55. R4+5   k4+1   56. R4.9   r2.4   57. R9-4   r4.5   
+58. K5.6   r5-1   59. R9.6   a5+4   60. A6-5   k4.5   
+61. P3.2   r5+4   62. R6+2   }END
+
+
+FORMAT 	WXF
+GAME 	ZONG YongSheng(W)ZHENG XinNian,51
+TIME       ;
+RESULT     1-0
+RED        ZONG YongSheng ; CM ; China-Guangdong ; ×ÚÓÀÉú , ©v¥Ã¥Í
+BLACK      ZHENG XinNian ; CM ; China-Yunnan ; Ö£ÐÂÄê , ¾G·s¦~
+DATE       11/6/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA5
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P5+1   p3+1   6.  C8+4   a4+5   
+7.  H8+7   h3+4   8.  P5+1   p5+1   9.  C8-1   h4+3   
+10. C8.5   e3+5   11. R9.8   c2.3   12. H7+5   r1.4   
+13. A6+5   c8.9   14. R2.7   c3.1   15. R7.9   h3+5   
+16. E7+5   h7+8   17. H5+4   r4+4   18. R8+9   r4-4   
+19. R8.6   k5.4   20. H3+5   h8+9   21. C5.6   r8+5   
+22. H4+6   c1.4   23. R9+3   k4+1   24. H6-4   c4.2   
+25. C6-3   r8.2   26. H4-6   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(W)CHEN FuJie,107
+TIME       ;
+RESULT     1-0
+RED        XU YinChuan ; IGM ; China-Guangdong ; ÐíÒø´¨ , ³\»È¤t
+BLACK      CHEN FuJie ; CM ; China-Guangdong ; ³Â¸»½Ü , ³¯´IªN
+DATE       11/6/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA5
+AUTHOR     Peter Sung
+START{
+1.  P7+1   c8.3   2.  E7+5   h8+7   3.  H2+1   r9.8   
+4.  R1.2   r8+4   5.  C2.3   r8.4   6.  H8+7   e3+5   
+7.  R2+4   p3+1   8.  A6+5   p3+1   9.  R2.7   c3+5   
+10. R7-2   c2.4   11. C3+4   h2+4   12. R7+1   r1.2   
+13. C8-2   p5+1   14. C8.6   r2+3   15. C6+7   r4-2   
+16. C3-2   p9+1   17. R9.6   r4+7   18. A5-6   h4+5   
+19. H1-3   h7+8   20. C3.2   h5-7   21. P3+1   h7+6   
+22. C2-2   r2.5   23. C2.4   a6+5   24. A6+5   h6-7   
+25. H3+4   h8+9   26. P3+1   e7+9   27. P3+1   r5.7   
+28. H4+5   r7.5   29. H5+7   e5-3   30. P5+1   h9-8   
+31. P5+1   r5.4   32. H7-8   e3+5   33. E5-7   h8+6   
+34. C4.8   e9-7   35. E7+5   p9+1   36. R7.4   h7+8   
+37. P5.4   r4+2   38. H8+9   r4+1   39. R4.6   h6+4   
+40. C8+7   e5-3   41. H9+7   h8+7   42. P4+1   h7-5   
+43. H7+9   e7+5   44. P4.5   k5.6   45. P5+1   k6+1   
+46. H9+7   h5-4   47. C8-1   k6-1   48. C8-8   h-+2   
+49. P9+1   h2+3   50. C8+9   k6+1   51. C8-1   k6-1   
+52. P9+1   p9.8   53. H7-8   h4-5   54. H8+6   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Bin(D)Lv Qin,271
+TIME       ;
+RESULT     0.5-0.5
+RED        WANG Bin ; CM ; China-Jiangsu ; Íõ±ó , ¤ýÙy
+BLACK      Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+DATE       11/6/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA5
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p3+1   5.  R2+4   e3+5   6.  P7+1   a4+5   
+7.  P7+1   e5+3   8.  C8+4   p7+1   9.  C8.1   c2+5   
+10. H3-5   r1.2   11. R9.8   c8.9   12. C1.3   e7+5   
+13. R2+5   h7-8   14. H5+7   c2.5   15. R8+9   h3-2   
+16. E7+5   h2+3   17. P1+1   c9-1   18. P1+1   h8+9   
+19. C3.1   c9+2   20. P1+1   h9-7   21. H7+6   h7+6   
+22. H9+7   h6+8   23. H6+4   p5+1   24. P1.2   e5-3   
+25. P5+1   p5+1   26. H7+5   h3+5   27. A6+5   k5.4   
+28. H5+4   h8+9   29. E3+1   e3-1   30. E5-3   a5+6   
+31. A5+4   a6+5   32. H--5   h5-3   33. A4+5   e1+3   
+34. H5-4   h3+2   35. H-+2   h2+1   36. H2+1   e3-5   
+37. H4-2   h9+7   38. P2.3   h1-3   39. P+.4   p1+1   
+40. H1+3   h3-5   41. H3+5   p1+1   42. H5+7   k4.5   
+43. H7-6   p1+1   44. H6-5   h5+6   45. H5-4   h6-5   
+46. H4+2   h5+4   47. H-+3   h7+9   48. H3-5   h4-5   
+49. H2-4   h5+6   50. H5+7   p1.2   51. H7+5   h6-4   
+52. H5+3   p2.3   53. H3-1   h4+6   54. H1+3   h6-4   
+55. H3-1   h4+6   56. H1+3   h6-4   57. H3-2   e5-7   
+58. H2+1   e7+9   59. H1+3   e3+5   60. H3-2   e9-7   
+61. H2-1   h4-6   62. P3+1   e7+9   63. H4+6   e5-7   
+64. H6-7   h6+5   65. H7+5   h9-7   66. H1+2   h5-3   
+67. H2-3   h3-5   68. H3+1   k5.4   69. H1+2   h7-6   
+70. P3+1   e7+5   71. P3.4   h5-3   72. E1+3   e9-7   
+73. P++1   a5+6   74. H2+4   h3+1   75. P4.5   h1-2   
+76. P5.6   h6-5   77. H5+4   h5-3   78. P6+1   h3+4   
+79. H--6   h2+4   80. H4+2   k4.5   81. H6+4   h4+2   
+82. K5.6   h2-4   83. H4+3   k5+1   84. H3-4   k5-1   
+85. H4+3   k5+1   86. H2-1   h4-6   87. H1+3   e5+7   
+88. A5-4   e7-5   89. K6+1   e5+7   90. A4-5   e7-5   
+91. A5-6   e5+7   92. E3-1   e7-5   93. H++1   k5-1   
+94. H1-2   h6+7   95. H2-1   h7-6   96. H1-3   e5+7   
+97. H--2   e7-5   98. H2+1   k5+1   99. H1+2   k5.6   
+100. K6.5   h6+5   101. H2-4   h5-3   102. H3+1   e7+9   
+103. H1-3   e9+7   104. H3-5   h3-4   105. H5+3   h4+3   
+106. H4+6   h3+4   107. H6-5   h4-3   108. H5+4   h3+5   
+109. H4-6   e5-3   110. H6+7   h5-4   111. H7+6   h4-5   
+112. H6-7   h5+4   113. H7-6   h4+5   114. H6+8   h5+4   
+115. K5+1   h4+3   116. K5.6   h3-2   117. K6.5   h2-4   
+118. K5-1   h4-3   119. H8-7   e7-5   120. H7+6   h3+4   
+121. H6-5   h4-3   122. H5+4   h3+5   123. H4-2   e5+7   
+124. H3-5   e3+5   125. H2+3   h5+4   126. K5+1   h4-5   
+127. E1+3   k6+1   128. H3-1   e7-9   129. H5+7   h5-7   
+130. H7+6   e5-7   131. H1+3   h7+5   132. H3-4   e9+7   
+133. H4-3   e7+5   134. H3+1   h5-7   135. H1+2   e5-3   
+136. H2+3   }END
+
+
+FORMAT 	WXF
+GAME 	JIN Bo(D)LIU DaHua,107
+TIME       ;
+RESULT     0.5-0.5
+RED        JIN Bo ; CM ; China-HuoCheTou ; ½ð²¨ , ª÷ªi
+BLACK      LIU DaHua ; IGM ; China-Hubei ; Áø´ó»ª , ¬h¤jµØ
+DATE       11/6/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA5
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+4   
+7.  R2+4   c8.9   8.  R2.4   r8+1   9.  P9+1   r8.2   
+10. P3+1   p7+1   11. R4.3   h7+8   12. R3+5   c9.7   
+13. E3+1   r++3   14. P7+1   e3+5   15. R3.2   h8+7   
+16. R2-2   r+.7   17. C5.6   a4+5   18. A4+5   p5+1   
+19. E7+5   p5+1   20. P5+1   h3+5   21. E1+3   h7-5   
+22. C6+1   r7.4   23. C6.5   h+-7   24. R2-1   h5+4   
+25. C7+1   c2+1   26. C7.6   r4.5   27. R2.3   c7.8   
+28. R3.4   r2+2   29. A5+6   p1+1   30. P7+1   p3+1   
+31. P9+1   c2-1   32. C5.8   h4+2   33. R8+2   r5.4   
+34. R4-3   p3+1   35. A6-5   h2-1   36. R8+5   c8.2   
+37. C6-1   r4.5   38. E5+7   h1+3   39. R4.7   h7+5   
+40. C6+2   h5+4   41. K5.4   c2.3   42. R7.6   h4+3   
+43. R6.5   r5.6   44. K4.5   r6.4   45. R5+4   r4+1   
+46. R5.7   r4.7   47. H9-7   h+-1   48. H7+6   h1-2   
+49. H6+4   a5-4   50. R7.5   a4+5   51. R5.2   h3+5   
+52. H3+5   r7.6   53. R2.7   r6+1   54. R7-4   }END
+
+
+FORMAT 	WXF
+GAME 	SHEN Peng(D)XU TianHong,54
+TIME       ;
+RESULT     0.5-0.5
+RED        SHEN Peng ; NT ; China-Anhui ; ÉêÅô , ¥ÓÄP
+BLACK      XU TianHong ; IGM ; China-Jiangsu ; ÐìÌìºì , ®}¤Ñ¬õ
+DATE       11/6/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA5
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  C8.6   h3-5   8.  R3-1   e3+5   9.  R3.6   h5+3   
+10. H8+9   r8+5   11. R9.8   r1+2   12. P3+1   r8.7   
+13. R8+6   c9.6   14. R8.7   c2-2   15. C6.7   c6+1   
+16. R6+3   r1.2   17. E3+1   r7+1   18. H9+7   c2.3   
+19. R7.9   r2+4   20. H7+5   r7+1   21. R9+3   a6+5   
+22. R9.7   r7.5   23. E7+5   c6-1   24. C7+5   c6.4   
+25. R7-1   c4+1   26. H5+7   k5.6   27. H7+6   a5+4   }END
+
+
+FORMAT 	WXF
+GAME 	MIAO LiMing(W)ZHANG XiaoPing,77
+TIME       ;
+RESULT     1-0
+RED        MIAO LiMing ; NT ; China-Anhui ; ÃçÀûÃ÷ , ­]§Q©ú
+BLACK      ZHANG XiaoPing ; CM ; China-HeilongJiang ; ÕÅÏþÆ½ , ±i¾å¥­
+DATE       11/6/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA5
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  H8+9   c8+4   5.  P3+1   e3+5   6.  C8.6   r1.2   
+7.  R9.8   c2+4   8.  C6+5   e5-3   9.  P7+1   a4+5   
+10. C6-1   e7+5   11. C5.7   c8.7   12. R2+9   c7+3   
+13. A4+5   h7-8   14. P7+1   c2+1   15. H3+4   p3+1   
+16. C7+5   c2.8   17. A5+4   r2+9   18. H9-8   h8+6   
+19. H8+9   c8-2   20. H4-3   c8-1   21. E7+5   c8.5   
+22. H3+4   c7-3   23. P9+1   c7.6   24. H9+8   c5+3   
+25. H8+9   e3+1   26. C6-4   p5+1   27. H4+6   h6+5   
+28. H6+5   a5+4   29. K5+1   p5+1   30. P5+1   h5-3   
+31. H5+3   c6-5   32. H9+7   c5-1   33. P5+1   a6+5   
+34. C6+4   k5.6   35. C6.4   a5+6   36. C4+2   k6+1   
+37. H3-1   c5.7   38. P5.4   a6-5   39. P4+1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO GuoRong(D)LI XueSong,62
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHAO GuoRong ; IGM ; China-HeilongJiang ; ÕÔ¹úÈÙ , »¯°êºa
+BLACK      LI XueSong ; CM ; China-Hubei ; ÀîÑ©ËÉ , §õ³·ªQ
+DATE       11/6/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA5
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  P7+1   r9.8   
+4.  H8+7   h2+3   5.  R1+1   e3+5   6.  R1.4   c8+2   
+7.  C8.9   p3+1   8.  R9.8   r1.2   9.  R8+4   p3+1   
+10. R8.7   h3+4   11. R4.8   r8+1   12. P3+1   p7+1   
+13. R7.3   r8.3   14. H3-5   h4+3   15. R8+5   r2+1   
+16. C9+4   h3+5   17. E3+5   c2.1   18. C9.5   h7+5   
+19. R8.5   r3+5   20. R5-2   c1.3   21. R5.7   r2+5   
+22. H5+3   c8.3   23. R7-1   r2.3   24. H7-5   r3.1   
+25. R3+2   p9+1   26. R3.7   c-.2   27. R7.8   c2.3   
+28. R8.6   c-.2   29. R6.8   c2.3   30. H5-3   c--1   
+31. A4+5   r1.3   }END
+
+
+FORMAT 	WXF
+GAME 	HU RongHua(W)JING XueYi,121
+TIME       ;
+RESULT     1-0
+RED        HU RongHua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+BLACK      JING XueYi ; CM ; China-Meitan Tixie ; ¾°Ñ§Òå , ´º¾Ç¸q
+DATE       11/7/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA6
+AUTHOR     Peter Sung
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   r9+1   
+4.  C5+4   a4+5   5.  E7+5   h2+4   6.  C5-1   r1.2   
+7.  H8+6   r9.6   8.  P3+1   r2+4   9.  P5+1   r6+5   
+10. R1+1   h8+7   11. R1.2   h7+5   12. R2+4   r2+2   
+13. A6+5   c8.9   14. C8-2   p3+1   15. C8.6   h4+2   
+16. H6+5   p3+1   17. H5+7   h2+3   18. H3+5   c9+4   
+19. H7-6   r2-1   20. H5+7   c9.1   21. C5.6   c1.4   
+22. P5+1   h5-7   23. R2.4   r6.8   24. R9+3   r2.3   
+25. R9.6   r8.4   26. C-+3   r3.2   27. C-.5   h3+4   
+28. C6+1   p7+1   29. R4+3   r2.5   30. C6.3   e7+9   
+31. C5.1   r5.6   32. C1+4   k5.4   33. C1+2   k4+1   
+34. P5.4   c3.4   35. R4-2   c4+5   36. A5+6   h4+6   
+37. K5+1   r6.2   38. R4.6   a5+4   39. K5.6   h6-5   
+40. R6.7   a4-5   41. P3+1   r2+2   42. C3.4   r2.4   
+43. K6.5   r4+1   44. K5-1   r4+1   45. K5+1   h5-3   
+46. C4+2   a5+6   47. K5.4   h3+5   48. R7+2   k4+1   
+49. R7-4   h5+7   50. K4.5   r4-1   51. K5-1   h++8   
+52. P4.5   e5+7   53. C1.3   e7-5   54. R7+3   k4-1   
+55. R7+1   k4+1   56. C3-1   h8-6   57. C4-6   r4+1   
+58. K5+1   h7+8   59. C3.6   r4.6   60. P5+1   e5-7   
+61. E5-7   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG ShenHong(W)WANG Bin,71
+TIME       ;
+RESULT     1-0
+RED        ZHANG ShenHong ; NT ; China-Hunan ; ÕÅÉêºê , ±i¥Ó§»
+BLACK      WANG Bin ; CM ; China-Jiangsu ; Íõ±ó , ¤ýÙy
+DATE       11/7/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA6
+AUTHOR     Peter Sung
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  H8+7   r9.4   5.  P3+1   h2+1   6.  A6+5   r4+4   
+7.  H3+2   c2.3   8.  C8+4   a4+5   9.  R9.8   r1.2   
+10. C5.3   r4.7   11. E3+5   r7-1   12. R2.3   e7+9   
+13. P9+1   r2+2   14. C3+4   r7.8   15. R3+4   p1+1   
+16. P9+1   r8.1   17. R3.8   c3+4   18. P1+1   r1.8   
+19. C3-6   c3-2   20. R+.3   h7+6   21. H2-3   c5.7   
+22. R3+2   e3+5   23. R3+1   h6-7   24. C3+7   e5-3   
+25. C8.5   r2.5   26. C3.9   e3+1   27. C5-2   e1-3   
+28. R8+6   r8-1   29. H7+8   k5.4   30. H8+9   e3+1   
+31. R8+3   k4+1   32. C5.6   a5+6   33. H3+4   k4.5   
+34. H4+6   r5+2   35. R8-1   k5-1   36. H6+7   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG Chuan(W)JIN YuYan,71
+TIME       ;
+RESULT     1-0
+RED        JIANG Chuan ; NT ; China-Wenzhou ; ½¯´¨ , ½±¤t
+BLACK      JIN YuYan ; CM ; China-Jidian ; ½ùÓñÑâ , àÚ¥Éµx
+DATE       11/7/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA6
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  C8.7   a4+5   6.  H8+9   h3+2   
+7.  R9+1   e3+5   8.  R9.6   c8+4   9.  R6+5   p3+1   
+10. R6.8   h2+4   11. R8+1   h4+3   12. P7+1   r1.4   
+13. A4+5   h3-4   14. R8-2   c8.1   15. R2+9   h7-8   
+16. C5.4   h4+6   17. R8-2   c1-1   18. P5+1   h6-4   
+19. E3+5   r4+4   20. R8.6   r4-2   21. C4+4   p1+1   
+22. H9-8   r4.3   23. H8+7   h4-3   24. P7+1   e5+3   
+25. H7+6   h3-1   26. H6+5   r3.6   27. C4-4   r6+2   
+28. P3+1   p7+1   29. H3+4   r6+1   30. H5-4   c1.6   
+31. P5+1   e3-5   32. P5+1   h8+7   33. R6.5   h1+3   
+34. P5.4   p9+1   35. P4.3   h7-8   36. P3.2   }END
+
+
+FORMAT 	WXF
+GAME 	Lv Qin(W)HONG Zhi,125
+TIME       ;
+RESULT     1-0
+RED        Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+BLACK      HONG Zhi ; CM ; China-Jilin ; ºéÖÇ , ¬x´¼
+DATE       11/7/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA6
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c2.5   
+4.  P3+1   h2+3   5.  H8+7   r1.2   6.  R9.8   r2+5   
+7.  C5-1   c8+4   8.  E7+5   c8.7   9.  P7+1   r8+9   
+10. H7+8   r8-2   11. C5.7   c7+3   12. K5+1   c7.9   
+13. C8.7   c9-2   14. H3+4   c5+4   15. K5.6   r8-6   
+16. P7+1   c9.3   17. H8-7   r8.4   18. P7.6   c5-1   
+19. H7+8   p3+1   20. C7+6   p3+1   21. E5+7   r4+3   
+22. K6.5   r4.6   23. H4-3   p7+1   24. H8+9   p7+1   
+25. R8+3   a6+5   26. C7.8   r6+3   27. H9-7   c5-1   
+28. H7+6   a5+4   29. C8.3   a4-5   30. R8+3   p7.6   
+31. H3+2   p6.5   32. K5.6   r6+2   33. R8.5   r6-1   
+34. K6+1   c5.2   35. R5-2   c2+1   36. E7-9   c2.8   
+37. R5.2   r6-2   38. P9+1   r6.9   39. R2.6   r9+1   
+40. K6-1   r9.1   41. C3-6   e7+5   42. C3.5   k5.6   
+43. R6.4   k6.5   44. R4.1   k5.6   45. C5.1   r1-1   
+46. C1+5   r1.4   47. K6.5   r4.5   48. K5.6   r5-3   
+49. A6+5   k6.5   50. C1+3   r5+1   51. R1.2   k5.6   
+52. C1-9   k6.5   53. R2+5   a5-6   54. C1+9   r5.7   
+55. C1.4   e5-7   56. C4-9   r7+1   57. C4.5   a4+5   
+58. P9+1   r7-1   59. P9.8   e3+5   60. P8+1   r7.4   
+61. A5+6   k5.4   62. C5.6   k4.5   63. R2-3   }END
+
+
+FORMAT 	WXF
+GAME 	Li Hong Jia(D)PAN ZhenBo,86
+TIME       ;
+RESULT     0.5-0.5
+RED        Li Hong Jia ; NT ; China-Shenzhen ; Àîºè¼Î , §õÂE¹Å
+BLACK      PAN ZhenBo ; CM ; China-Jilin ; ÅËÕñ²¨ , ¼ï®¶ªi
+DATE       11/7/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA6
+AUTHOR     Peter Sung
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  R9+1   e7+5   
+4.  E3+5   h2+1   5.  R9.3   c8-2   6.  P3+1   p7+1   
+7.  R3+3   c8.7   8.  R3.2   r1+1   9.  R1+1   r1.4   
+10. R1.4   r4+3   11. R4+5   a6+5   12. H2+4   p1+1   
+13. P5+1   c2.4   14. H4+5   h1+2   15. H7+8   r4+2   
+16. C8+3   r4.5   17. C8+4   c4+1   18. R4-5   c7.8   
+19. C2+7   r9.8   20. R2+5   h7-8   21. H8+7   r5.2   
+22. C8.9   r2-6   23. C9-1   r2+3   24. H7-6   c4-1   
+25. R4+5   h8+7   26. P7+1   e5+3   27. R4.3   e3-5   
+28. P5+1   r2-2   29. C9+1   r2-1   30. C9-1   p5+1   
+31. H6+4   r2+1   32. C9+1   r2-1   33. C9-1   r2+1   
+34. C9+1   h7-6   35. H4+2   c4-1   36. R3.9   h6+8   
+37. C9-4   r2+3   38. P9+1   h8+6   39. H2+4   a5+6   
+40. R9.1   c4.1   41. R1+3   k5+1   42. R1-4   c1+4   
+43. C9.5   e5-7   }END
+
+
+FORMAT 	WXF
+GAME 	XU TianHong(W)TAO HanMing,149
+TIME       ;
+RESULT     1-0
+RED        XU TianHong ; IGM ; China-Jiangsu ; ÐìÌìºì , ®}¤Ñ¬õ
+BLACK      TAO HanMing ; GM ; China-Jilin ; ÌÕººÃ÷ , ³³º~©ú
+DATE       11/7/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA6
+AUTHOR     Peter Sung
+START{
+1.  E3+5   c2.4   2.  P7+1   h2+1   3.  H8+7   r1.2   
+4.  R9.8   r2+4   5.  C8.9   r2.6   6.  H2+3   h8+7   
+7.  P3+1   p7+1   8.  P3+1   r6.7   9.  H3+4   r7.6   
+10. H4-3   r6.7   11. H3+4   a6+5   12. R1.3   r7+5   
+13. E5-3   e7+5   14. C2.4   r9.8   15. E7+5   c8.9   
+16. C9+4   c9+4   17. A6+5   r8+5   18. H4+5   h7+8   
+19. R8.6   p9+1   20. R6+5   p9+1   21. C9-2   r8+4   
+22. C9.1   h8+7   23. C1+5   r8-6   24. H5-4   r8+2   
+25. H4+3   r8-1   26. R6.2   h7-8   27. H3+4   h8-6   
+28. H4+2   a5-6   29. H2-4   a6+5   30. C4.2   h6-7   
+31. C1-4   p3+1   32. P7+1   e5+3   33. H4-3   c4.3   
+34. H7+6   c9.1   35. H6+5   c3.2   36. H5-7   c2+7   
+37. A5+6   h1+3   38. C2+7   c1+3   39. K5+1   c1-7   
+40. C1+3   c1.8   41. C2-1   c2-8   42. P5+1   k5.6   
+43. H3-1   c8.6   44. H7+5   h3-5   45. C2+1   c6-1   
+46. C1.4   c2.6   47. H5+3   k6.5   48. H1-3   h7+9   
+49. C2-2   h5+7   50. P5+1   h9+8   51. C2-1   h8+6   
+52. P5.4   h6+4   53. K5.6   e3+5   54. C2-3   h4+6   
+55. C2.5   h6-7   56. E5+3   c6+8   57. C5-3   c6-3   
+58. K6.5   e5-3   59. K5.4   e3+5   60. P4.3   h7+9   
+61. H3-4   h9+7   62. H4+5   h7+8   63. K4.5   h8+7   
+64. K5+1   a5+4   65. A6-5   c6-5   66. A5-4   h7-8   
+67. K5.4   c6.5   68. H5-3   c5.6   69. A4+5   c6.5   
+70. A5-6   c5.9   71. H3-5   a4+5   72. H5-3   a5+6   
+73. H3-2   c9.6   74. P3.4   c6+3   75. H2+1   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DianZhong(W)KE YongQing,85
+TIME       ;
+RESULT     1-0
+RED        LIU DianZhong ; GM ; China-Hebei ; ÁõµîÖÐ , ¼B·µ¤¤
+BLACK      KE YongQing ; GM ; China-LiaoNing ; ÃçÓÀÅô , ¬_¥Ã«C
+DATE       11/7/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA6
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+4   
+7.  R2+4   c8.9   8.  R2.4   r8+1   9.  P9+1   r8.2   
+10. R8+1   c2.5   11. R8.5   c5-2   12. H3+5   r++3   
+13. R5.2   c5+3   14. E3+5   p5+1   15. R2+6   h7+5   
+16. C7+4   p9+1   17. C7.6   e3+5   18. C6-5   a4+5   
+19. H5+7   r-.4   20. C6.1   r2.4   21. A4+5   r++1   
+22. R2-3   r+.6   23. R2.4   h5+3   24. H7+5   h++4   
+25. H5-6   r4+6   26. C1+4   r4.7   27. P1+1   r7.8   
+28. P9+1   r8+3   29. A5-4   r8-6   30. P9.8   r8.9   
+31. R4.7   h3-1   32. C1+2   e7+9   33. H9+8   e9-7   
+34. R7+4   r9+2   35. P7+1   h1-3   36. P8+1   p1+1   
+37. H8+7   p1+1   38. P8+1   p1.2   39. H7+6   k5.4   
+40. P8.7   p2.3   41. R7+1   k4+1   42. P7+1   k4+1   
+43. R7.8   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG Jiang(D)GE WeiPu,65
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHANG Jiang ; CM ; China-Hebei ; ÕÅ½­ , ±i¦¿
+BLACK      GE WeiPu ; CM ; China-Shanghai ; ¸ðÎ¬ÆÑ , ¸¯ºû»Z
+DATE       11/7/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA6
+AUTHOR     Peter Sung
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  H8+9   p3+1   5.  R1.2   r9+1   6.  R9.8   r9.4   
+7.  A6+5   a4+5   8.  R2+4   r4+2   9.  R2.7   h2+4   
+10. C8.6   r1.2   11. R8+9   h4-2   12. P9+1   h8+9   
+13. H9+8   c3-2   14. C5.4   h2+3   15. R7.2   c8.7   
+16. E3+5   p7+1   17. C4+6   h3+2   18. P3+1   c3.4   
+19. C6+7   k5.4   20. R2+3   c7.6   21. P3+1   h2+4   
+22. H3+4   e5+7   23. R2.3   h4+2   24. H4-6   p5+1   
+25. R3-2   h9+7   26. C4.3   c6.1   27. H6-8   c1+3   
+28. H+-6   c1+1   29. R3-1   r4.2   30. R3.9   c1.4   
+31. H8+6   e7+5   32. R9.7   p1+1   33. P1+1   }END
+
+
+FORMAT 	WXF
+GAME 	MIAO LiMing(D)XU YinChuan,91
+TIME       ;
+RESULT     0.5-0.5
+RED        MIAO LiMing ; NT ; China-Anhui ; ÃçÀûÃ÷ , ­]§Q©ú
+BLACK      XU YinChuan ; IGM ; China-Guangdong ; ÐíÒø´¨ , ³\»È¤t
+DATE       11/7/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA6
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h2+3   2.  H2+3   r9+1   3.  R1.2   h8+9   
+4.  P7+1   c8.7   5.  H8+7   r9.4   6.  R2+4   r4+7   
+7.  R2.6   r4.3   8.  H3-5   r3.2   9.  C5.4   r1+1   
+10. H5+6   r2.7   11. E7+5   r7-2   12. H7+8   c2-1   
+13. A6+5   c2.7   14. C4.3   p9+1   15. R6.2   r7-2   
+16. R2+3   h9+8   17. R9.7   e7+5   18. P5+1   r1.6   
+19. H8+7   c-.9   20. C3.1   r6+1   21. C1+3   r7+2   
+22. H6-4   h8+6   23. C1+2   r7.2   24. C1.3   r2+1   
+25. C3+2   a6+5   26. R2.4   a5+6   27. C3.1   r2-3   
+28. R7+3   c9.3   29. R7.4   h6-8   30. H7-6   r2.4   
+31. H6-7   h3+2   32. H7-9   h2+3   33. P7+1   e5+3   
+34. H9+8   h3-5   35. R4.5   h5-6   36. R5+3   e3-5   
+37. C1-3   c3.6   38. C1.4   h8-6   39. H8-6   r4+2   
+40. R5.9   p7+1   41. P1+1   r4.6   42. E5-7   r6.3   
+43. E7+5   h6+4   44. P1+1   h4+2   45. R9.8   h2+4   
+46. R8-3   }END
+
+
+FORMAT 	WXF
+GAME 	NEI TieWen(W)SUN YongZheng,85
+TIME       ;
+RESULT     1-0
+RED        NEI TieWen ; CM ; China-HeilongJiang ; ÄôÌúÎÄ , Â¿ÅK¤å
+BLACK      SUN YongZheng ; CM ; China-Shanghai ; ËïÓÂÕ÷ , ®]«i©º
+DATE       11/7/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA6
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+4   
+7.  R2+4   c8.9   8.  R2.4   r8+1   9.  P9+1   r8.2   
+10. R8+1   c2.5   11. R8.5   c5-2   12. H3+5   r++3   
+13. R5.2   c5+3   14. E3+5   p5+1   15. R2+6   h7+5   
+16. C7+4   p9+1   17. C7.6   e3+5   18. C6-5   a4+5   
+19. H5+7   r-.4   20. C6.1   r2.4   21. A4+5   r++1   
+22. R2-3   r+.6   23. R2.4   h5+3   24. H7+5   h++4   
+25. H5-6   r4+6   26. C1+4   r4.7   27. P1+1   r7.8   
+28. P9+1   r8+3   29. A5-4   r8-6   30. P9.8   r8.9   
+31. R4.7   h3-1   32. C1+2   e7+9   33. H9+8   e9-7   
+34. R7+4   r9+2   35. P7+1   h1-3   36. P8+1   p1+1   
+37. H8+7   p1+1   38. P8+1   p1.2   39. H7+6   k5.4   
+40. P8.7   p2.3   41. R7+1   k4+1   42. P7+1   k4+1   
+43. R7.8   }END
+
+
+FORMAT 	WXF
+GAME 	XIE Kui(W)Cheng Junchao,61
+TIME       ;
+RESULT     1-0
+RED        XIE Kui ; NT ; China-Shandong ; Ð»¿ù , ÁÂõÉ
+BLACK      Cheng Junchao ; NT ; China-Nongxie ; ³Ì¿¡³¬ , µ{«T¶W
+DATE       11/7/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA6
+AUTHOR     Peter Sung
+START{
+1.  P7+1   h8+7   2.  P3+1   c2.3   3.  H8+9   h2+1   
+4.  R9.8   c8.9   5.  H2+3   r1.2   6.  C8+5   e3+5   
+7.  H3+2   h7-5   8.  E7+5   p7+1   9.  P3+1   e5+7   
+10. C8-1   h5+7   11. R1+1   c3.4   12. C2.3   h1-3   
+13. C8.5   h7+5   14. R8+9   r9.8   15. H2+4   h5+6   
+16. C3+2   h3+5   17. H4+5   e7-5   18. R1.4   h6-5   
+19. R4+5   h5-3   20. C3.5   a6+5   21. R8-4   r8+6   
+22. R8.5   c9.6   23. R4.7   h3-1   24. R7.4   h1-3   
+25. P7+1   r8.9   26. P7+1   c4.1   27. H9+7   h3+2   
+28. H7+8   h2-4   29. H8+9   c6.1   30. R5.4   h4+3   
+31. R++3   }END
+
+
+FORMAT 	WXF
+GAME 	WAN ChunLin(W)XU TianHong,71
+TIME       ;
+RESULT     1-0
+RED        WAN ChunLin ; CM ; China-Shanghai ; Íò´ºÁÖ , ¸U¬KªL
+BLACK      XU TianHong ; IGM ; China-Jiangsu ; ÐìÌìºì , ®}¤Ñ¬õ
+DATE       11/8/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA7
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. H3+5   r8+8   11. H8+7   p7+1   12. H5+6   e3+5   
+13. H6+7   r1.3   14. H+-5   h7+8   15. R4.3   h8+6   
+16. R3+2   h6+4   17. A4+5   h4+3   18. K5.4   h3+1   
+19. R3-5   h1-2   20. C5.8   r8-4   21. C8+3   r8+1   
+22. H7+5   p3+1   23. P7+1   r8.2   24. H-+6   e5+3   
+25. H5+7   c2+1   26. R3+3   c2.3   27. R3.7   r2-1   
+28. R7.1   r2+2   29. P9+1   r3.1   30. H7-9   e7+5   
+31. H6+7   r2.1   32. R1-2   r+.2   33. P9+1   r2.1   
+34. P9.8   r+-3   35. H7-9   r1+3   36. E7+5   }END
+
+
+FORMAT 	WXF
+GAME 	GE WeiPu(D)KE YongQing,64
+TIME       ;
+RESULT     0.5-0.5
+RED        GE WeiPu ; CM ; China-Shanghai ; ¸ðÎ¬ÆÑ , ¸¯ºû»Z
+BLACK      KE YongQing ; GM ; China-LiaoNing ; ÃçÓÀÅô , ¬_¥Ã«C
+DATE       11/8/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA7
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   e3+5   6.  R9+1   a4+5   
+7.  R9.6   c8+4   8.  H3+4   c2+4   9.  P3+1   c2.5   
+10. A4+5   c8.6   11. R2+9   h7-8   12. R6+5   r1.2   
+13. C8+4   p7+1   14. R6.7   h8+7   15. H4+6   r2+3   
+16. R7.8   h3+4   17. R8+3   a5-4   18. R8-5   c6-5   
+19. R8.6   h4-6   20. H9-8   p5+1   21. H8+7   c5-1   
+22. C5+1   h6+7   23. E3+5   h++5   24. H7+5   h7+6   
+25. H5-3   p7+1   26. R6+2   h6+7   27. R6.4   c6.3   
+28. K5.4   c5.6   29. H3+5   h7+8   30. K4.5   h8-9   
+31. R4.1   p5+1   32. R1-3   p5+1   }END
+
+
+FORMAT 	WXF
+GAME 	HONG Zhi(D)PAN ZhenBo,139
+TIME       ;
+RESULT     0.5-0.5
+RED        HONG Zhi ; CM ; China-Jilin ; ºéÖÇ , ¬x´¼
+BLACK      PAN ZhenBo ; CM ; China-Jilin ; ÅËÕñ²¨ , ¼ï®¶ªi
+DATE       11/8/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA7
+AUTHOR     Peter Sung
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  E7+5   e3+5   
+4.  H2+1   r9+1   5.  R1+1   r9.4   6.  A6+5   h2+3   
+7.  R1.4   r4+3   8.  R4+5   p3+1   9.  R4.3   h7-5   
+10. P7+1   r4.3   11. R9.6   p9+1   12. C8-2   h5-3   
+13. R6+6   a4+5   14. C8.7   r3.5   15. C2.3   r5.4   
+16. R6.8   r4+2   17. C3.4   h++4   18. R8.5   r1.2   
+19. R3.2   c8.9   20. P5+1   c2+5   21. P5+1   h4+2   
+22. C7+9   e5-3   23. H7+8   r2+5   24. R5.7   c2+2   
+25. R2.6   r4-3   26. R7.6   c2.1   27. K5.6   r2+4   
+28. K6+1   r2-1   29. K6-1   r2+1   30. K6+1   r2-5   
+31. R6.7   c9.4   32. R7+3   c4-2   33. K6-1   r2+5   
+34. K6+1   r2-1   35. K6-1   r2+1   36. K6+1   r2-5   
+37. K6-1   r2+5   38. K6+1   a5+4   39. A5+6   r2.6   
+40. C4+3   r6-1   41. K6-1   c1.7   42. K6.5   c7.9   
+43. C4.1   r6.9   44. H1-3   r9.7   45. C1-5   r7-2   
+46. C1.3   e7+9   47. R7-3   r7.5   48. R7.5   a6+5   
+49. K5+1   p7+1   50. C3.9   p7+1   51. C9+6   r5.1   
+52. C9.6   c4.3   53. R5.3   p7.6   54. R3.4   e9-7   
+55. R4-2   e7+5   56. P5+1   r1+2   57. K5-1   p6.5   
+58. R4.5   r1+1   59. K5+1   p5.4   60. R5.6   p4.5   
+61. R6.5   p5.4   62. R5.6   p4.5   63. E5+3   r1-1   
+64. K5-1   r1+1   65. K5+1   r1-5   66. P5+1   r1.5   
+67. R6.7   p5.4   68. K5.6   c3.4   69. C6+3   a5-4   
+70. R7.6   }END
+
+
+FORMAT 	WXF
+GAME 	Lv Qin(W)ZHANG ShenHong,99
+TIME       ;
+RESULT     1-0
+RED        Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+BLACK      ZHANG ShenHong ; NT ; China-Hunan ; ÕÅÉêºê , ±i¥Ó§»
+DATE       11/8/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA7
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  P3+1   p3+1   3.  H2+3   h2+3   
+4.  R1.2   r9.8   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   p1+1   8.  P9+1   r1+5   9.  R2+4   e7+5   
+10. R9.4   r1.4   11. R4+3   r4+1   12. A4+5   h2+3   
+13. R4.8   h3+1   14. E7+9   c2.4   15. R2+2   a4+5   
+16. C7.8   c4+1   17. R2-3   c8+2   18. H3+4   r4.1   
+19. R8.6   c4.2   20. R6+2   c2-1   21. H4+3   c8.5   
+22. R2+6   c5+3   23. E3+5   h7-8   24. R6+2   h8+9   
+25. H3+5   a5+4   26. H5+4   r1+1   27. C8+2   r1-2   
+28. C8-2   r1+2   29. C8+2   r1.2   30. C8.5   k5.6   
+31. R6-1   k6+1   32. R6.1   p5+1   33. C5.9   c2.5   
+34. R1+1   k6-1   35. R1+1   k6+1   36. R1.7   r2-2   
+37. R7-1   k6-1   38. R7-3   c5+4   39. R7.5   r2.7   
+40. R5.4   k6.5   41. R4.5   k5.6   42. R5.4   k6.5   
+43. C9.4   r7+1   44. C4-1   c5-5   45. P1+1   r7.9   
+46. R4-1   c5.9   47. R4.5   k5.4   48. C4-1   c9-1   
+49. E5+3   c9.5   50. C4+7   }END
+
+
+FORMAT 	WXF
+GAME 	ZONG YongSheng(D)TAO HanMing,86
+TIME       ;
+RESULT     0.5-0.5
+RED        ZONG YongSheng ; CM ; China-Guangdong ; ×ÚÓÀÉú , ©v¥Ã¥Í
+BLACK      TAO HanMing ; GM ; China-Jilin ; ÌÕººÃ÷ , ³³º~©ú
+DATE       11/8/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA7
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h2+3   2.  H2+3   r9+1   3.  R1.2   h8+9   
+4.  P7+1   r9.4   5.  H8+7   a4+5   6.  P3+1   r4+7   
+7.  C5.4   c8.6   8.  A6+5   p9+1   9.  H3+4   r4.3   
+10. C4+5   c2.6   11. R2+2   e3+5   12. R9.8   r1.4   
+13. C8+5   p3+1   14. P7+1   e5+3   15. C8.4   a5+6   
+16. E7+9   e3-5   17. R8+6   h3+4   18. H4+6   r4+4   
+19. R8.5   a6-5   20. R5.9   r4+2   21. R9+3   a5-4   
+22. R9-5   r4.3   23. R9.7   r--1   24. E9+7   r3.4   
+25. P9+1   r4-2   26. E7-9   r4.3   27. P9+1   r3-2   
+28. P9+1   h9+8   29. H7+9   h8-6   30. E3+1   r3.1   
+31. H9+7   r1-1   32. E9-7   r1.3   33. E7+9   r3+1   
+34. R2+4   h6-4   35. R2.3   h4+5   36. R3.5   h5+3   
+37. E9+7   a6+5   38. P5+1   r3.6   39. R5.1   a5-6   
+40. A5+4   a6+5   41. K5.6   k5.6   42. R1.2   r6+2   
+43. P5+1   k6.5   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Bin(D)ZHANG XiaoPing,150
+TIME       ;
+RESULT     0.5-0.5
+RED        WANG Bin ; CM ; China-Jiangsu ; Íõ±ó , ¤ýÙy
+BLACK      ZHANG XiaoPing ; CM ; China-HeilongJiang ; ÕÅÏþÆ½ , ±i¾å¥­
+DATE       11/8/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA7
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c2.5   
+4.  R2+6   c8.9   5.  R2+3   h7-8   6.  H8+7   h2+3   
+7.  R9.8   r1.2   8.  C8+4   p3+1   9.  P3+1   c9.7   
+10. E3+1   p7+1   11. H3+4   p7+1   12. E1+3   c7+2   
+13. H4+5   h3+5   14. C5+4   a6+5   15. A4+5   h8+7   
+16. C5-1   r2+2   17. E7+5   c7.8   18. C8.3   r2+7   
+19. H7-8   h7+5   20. C5+2   e7+5   21. C3.9   h5+4   
+22. P5+1   c8-3   23. P7+1   p3+1   24. E5+7   c8.9   
+25. P9+1   c9+5   26. P9+1   h4-5   27. P9.8   h5+7   
+28. C9-2   c9-1   29. E3-5   h7+6   30. A5+4   c9.6   
+31. H8+6   p9+1   32. A6+5   c6-4   33. C9+1   p9+1   
+34. P5+1   c6.8   35. P5+1   h6-7   36. P5.4   h7+5   
+37. P4.5   h5-7   38. P5.4   h7+6   39. H6+7   p9.8   
+40. H7+5   p8.7   41. H5+6   p7+1   42. P8.7   c8+2   
+43. H6+7   k5.6   44. P7.6   c8-2   45. H7-8   c8+2   
+46. H8+7   c8-2   47. H7-8   c8.9   48. P6+1   h6-5   
+49. P6.5   p7.6   50. C9+4   e5+3   51. C9-6   c9.7   
+52. E7-9   c7+4   53. H8-6   c7.4   54. E9-7   k6.5   
+55. H6+7   c4.5   56. K5.4   c5.6   57. K4.5   c6.5   
+58. K5.4   c5+1   59. C9+6   c5.3   60. H7-6   c3.4   
+61. C9-6   c4-1   62. H6+7   c4.6   63. K4.5   c6.5   
+64. H7-9   e3-5   65. C9.7   k5.6   66. H9-8   p6.5   
+67. H8+6   p5.4   68. C7+1   k6+1   69. C7+4   k6-1   
+70. C7.6   e5-7   71. K5.6   c5.9   72. H6+7   c9.4   
+73. K6.5   c4.2   74. C6-4   c2+4   75. E7+9   c2-7   }END
+
+
+FORMAT 	WXF
+GAME 	BU FengBo(W)YAN WenQing,149
+TIME       ;
+RESULT     1-0
+RED        BU FengBo ; GM ; China-Dalian ; ²··ï²¨ , ¤R­·ªi
+BLACK      YAN WenQing ; IGM ; China-Hebei ; ÑÖÎÄÇå , ÀF¤å²M
+DATE       11/8/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA7
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   c8.9   5.  H7+6   c2.5   6.  R1+1   h2+3   
+7.  R9+1   r1.2   8.  C8.7   r8+5   9.  R9.6   r2+4   
+10. R1.2   p7+1   11. R2+3   p7.8   12. R6.2   h7+6   
+13. H6+4   r2.6   14. R2+3   c9.7   15. A4+5   a4+5   
+16. P1+1   c5.6   17. E3+1   c7+5   18. C7.3   e7+5   
+19. R2+2   p3+1   20. P7+1   r6.3   21. C5+4   h3+5   
+22. R2.5   p9+1   23. P1+1   r3.9   24. C3.8   r9.2   
+25. C8.2   c6.8   26. C2+4   r2.1   27. P3+1   r1+2   
+28. P5+1   p1+1   29. R5.7   r1.4   30. P5+1   e3+1   
+31. R7.9   e1-3   32. R9-1   r4-3   33. C2.5   k5.4   
+34. R9-2   c8.6   35. E1-3   e3+1   36. E3+5   e1-3   
+37. R9.7   e3+1   38. R7.4   c6.8   39. C5.4   e1-3   
+40. P3+1   k4.5   41. P3+1   c8+3   42. R4.5   e5-7   
+43. R5.7   e7+5   44. R7.5   e5-7   45. P5+1   r4+1   
+46. C4-2   r4.7   47. P3.4   c8+4   48. C4.3   c8-7   
+49. R5.8   e7+5   50. C3.9   r7.1   51. C9.1   r1.9   
+52. C1.9   r9.1   53. C9.1   c8.9   54. R8.5   e5-7   
+55. R5.3   e3+5   56. R3+4   c9+2   57. C1.3   k5.4   
+58. P5+1   e7+5   59. R3.5   c9.7   60. C3.6   k4.5   
+61. R5.7   r1.4   62. R7+2   a5-4   63. C6.9   a6+5   
+64. R7-5   r4.1   65. R7.4   c7-2   66. K5.4   c7.5   
+67. C9.7   r1.3   68. E7+9   c5.3   69. C7.5   r3.5   
+70. P4+1   c3+1   71. P4+1   c3.5   72. C5.9   c5.1   
+73. E5-7   c1-2   74. C9.7   a5+4   75. C7.5   }END
+
+
+FORMAT 	WXF
+GAME 	SHEN Peng(W)XIE Kui,61
+TIME       ;
+RESULT     1-0
+RED        SHEN Peng ; NT ; China-Anhui ; ÉêÅô , ¥ÓÄP
+BLACK      XIE Kui ; NT ; China-Shandong ; Ð»¿ù , ÁÂõÉ
+DATE       11/8/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA7
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  C8.6   h3-5   8.  R3-1   e3+5   9.  R3.6   h5+3   
+10. H8+9   r8+5   11. R9.8   r1.2   12. R8+6   r8.3   
+13. P5+1   c2.1   14. R8+3   h3-2   15. H3+5   r3-1   
+16. P5+1   c9.5   17. R6+2   p5+1   18. H5+3   r3.2   
+19. H9+7   r2+2   20. H7+6   c5.4   21. H6-5   a6+5   
+22. C5+3   c1+4   23. C6+6   h2+4   24. H5+6   r2.7   
+25. E3+1   h4-2   26. R6-1   h7+8   27. R6.2   h8+6   
+28. H6+5   h2+4   29. H5+3   k5.6   30. R2.4   a5+6   
+31. C5.4   }END
+
+
+FORMAT 	WXF
+GAME 	NEI TieWen(D)MIAO LiMing,48
+TIME       ;
+RESULT     0.5-0.5
+RED        NEI TieWen ; CM ; China-HeilongJiang ; ÄôÌúÎÄ , Â¿ÅK¤å
+BLACK      MIAO LiMing ; NT ; China-Anhui ; ÃçÀûÃ÷ , ­]§Q©ú
+DATE       11/8/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA7
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P3+1   p7+1   9.  R2.3   h7+6   
+10. P7+1   p3+1   11. R3.7   c8.7   12. R9.4   r8+4   
+13. H3+4   r8.7   14. H4-2   r7.8   15. R4+2   r8+1   
+16. R7.2   h6+8   17. R4+4   c7.9   18. H7+6   a4+5   
+19. R4.3   r1.4   20. R3-3   h8-7   21. H6+5   h3+5   
+22. C5+4   r4+6   23. R3.5   c9+4   24. H2-4   r4-3   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO GuoRong(D)HU RongHua,40
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHAO GuoRong ; IGM ; China-HeilongJiang ; ÕÔ¹úÈÙ , »¯°êºa
+BLACK      HU RongHua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+DATE       11/8/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA7
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+2   
+7.  R2+6   h7+6   8.  R8+4   e3+5   9.  P9+1   p3+1   
+10. R2-3   a4+5   11. C7-1   c8+2   12. P3+1   p7+1   
+13. R8.3   r8+3   14. C7.3   r2.4   15. A4+5   r4+5   
+16. R3.6   h6+4   17. H3+4   c8+1   18. C5.4   c2-1   
+19. C3+6   a5+6   20. E3+5   a6+5   }END
+
+
+FORMAT 	WXF
+GAME 	WAN ChunLin(D)WANG Bin,134
+TIME       ;
+RESULT     0.5-0.5
+RED        WAN ChunLin ; CM ; China-Shanghai ; Íò´ºÁÖ , ¸U¬KªL
+BLACK      WANG Bin ; CM ; China-Jiangsu ; Íõ±ó , ¤ýÙy
+DATE       11/9/2004
+PLACE      China XhongQing
+EVENT      Chinese National Champion ; 2004
+ROUND      MA8
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  P7+1   p7+1   5.  R2+6   c2+4   6.  P5+1   e3+5   
+7.  H8+7   a4+5   8.  P9+1   c2.3   9.  P3+1   c8.9   
+10. R2+3   h7-8   11. P3+1   e5+7   12. H7+5   r1.2   
+13. R9+3   c3.9   14. H3+1   c9+4   15. H5-3   r2+7   
+16. R9.1   h8+7   17. R1.6   e7-5   18. H3+5   r2-3   
+19. H5+3   h7+6   20. R6.4   h6-4   21. H3+4   r2.7   
+22. E7+9   a5+6   23. R4.6   h4-5   24. R6+4   r7-1   
+25. C5+4   r7.6   26. P5+1   h3-4   27. A6+5   r6+3   
+28. K5.6   h4+2   29. R6+1   r6.2   30. R6.7   r2.4   
+31. K6.5   r4.2   32. P5.6   k5.4   33. P6+1   r2.4   
+34. P6.7   h2+3   35. R7-2   h5+7   36. R7.9   a6-5   
+37. C5-4   h7+6   38. R9+3   k4+1   39. C5.6   r4.1   
+40. E9-7   h6+7   41. C6-2   h7+6   42. E7+5   p9+1   
+43. P9+1   p9+1   44. R9-3   k4-1   45. R9.6   k4.5   
+46. P9.8   h6-5   47. C6.7   h5+3   48. R6-4   h3+1   
+49. C7.6   h1-2   50. R6.8   h2-4   51. A5+4   p9.8   
+52. A4+5   h4+6   53. P7+1   p8+1   54. P7+1   p8.7   
+55. P8+1   h6-7   56. P7.6   p7.6   57. P8.7   e5-3   
+58. R8+2   h7+8   59. K5.4   e7+5   60. R8.2   p6+1   
+61. A5+4   r1.4   62. C6.7   h8+6   63. K4+1   h6-8   
+64. C7+4   r4+2   65. K4-1   r4+1   66. K4+1   r4-1   
+67. K4-1   r4-2   }END
+
+
+FORMAT 	WXF
+GAME 	HU RongHua(D)LI XueSong,58
+TIME       ;
+RESULT     0.5-0.5
+RED        HU RongHua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+BLACK      LI XueSong ; CM ; China-Hubei ; ÀîÑ©ËÉ , §õ³·ªQ
+DATE       11/9/2004
+PLACE      China XhongQing
+EVENT      Chinese National Champion ; 2004
+ROUND      MA8
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  C8.6   h2+3   
+4.  R1.2   r9.8   5.  H8+7   r1.2   6.  R9.8   c8+4   
+7.  R8+6   e3+5   8.  P7+1   a4+5   9.  P5+1   h7+6   
+10. C6+1   c8+2   11. A4+5   r8+2   12. P3+1   p7+1   
+13. H7+5   c2.1   14. R8+3   h3-2   15. H5+3   r8.7   
+16. H+-4   c8-6   17. H3+4   h2+4   18. R2+5   r7+2   
+19. R2.3   e5+7   20. C6.5   e7-5   21. C++3   c8.6   
+22. H++2   h6-4   23. P5+1   h++3   24. C+.9   h3-5   
+25. H4+5   h5+3   26. C9.1   h3+1   27. C1+3   h4+2   
+28. H2-3   k5.4   29. H3+4   h1-3   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG Chuan(W)LIN HongMin,131
+TIME       ;
+RESULT     1-0
+RED        JIANG Chuan ; NT ; China-Wenzhou ; ½¯´¨ , ½±¤t
+BLACK      LIN HongMin ; GM ; China-Shanghai ; ÁÖºêÃô , ªL§»±Ó
+DATE       11/9/2004
+PLACE      China XhongQing
+EVENT      Chinese National Champion ; 2004
+ROUND      MA8
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  H8+7   p7+1   6.  R9.8   r9+1   
+7.  R8+4   r9.4   8.  A4+5   a4+5   9.  R2+6   h7+6   
+10. R2.3   e7+5   11. P3+1   r4+4   12. R8.6   h6+4   
+13. P7+1   h4+3   14. C5.7   c2+5   15. P3+1   c2.4   
+16. A5+6   r2+7   17. C7-1   r2.4   18. E3+5   k5.4   
+19. A6+5   r4.3   20. C7.9   p3+1   21. P3.4   p3+1   
+22. P4+1   c6.8   23. P4.5   p3.2   24. P++1   e3+5   
+25. R3.8   r3-1   26. R8-2   r3.1   27. C9.6   k4.5   
+28. R8.5   a5+6   29. H3+4   r1.3   30. C6+3   r3-3   
+31. R5+1   r3+1   32. P5+1   r3.5   33. P5+1   h3+2   
+34. C6.5   a6+5   35. H4+2   k5.4   36. P5.4   h2+3   
+37. C5.3   h3-5   38. C3-3   c8-2   39. C3.1   c8.6   
+40. P4.5   h5-7   41. E5+3   h7+5   42. C1+5   e5+7   
+43. E7+5   c6.5   44. P5.4   p1+1   45. H2+3   p1+1   
+46. P1+1   p1+1   47. P1+1   p1.2   48. P1.2   e7-9   
+49. P2+1   p2.3   50. P2+1   e9-7   51. H3-2   p3.4   
+52. P2.3   p4.5   53. C1.3   e7+5   54. P4+1   p5.6   
+55. E3-1   h5-7   56. E1-3   e5+3   57. C3.1   e3-5   
+58. C1-1   h7+8   59. C1-1   h8-7   60. C1.6   c5.6   
+61. P4.3   c6.8   62. C6-3   k4.5   63. H2+1   c8+9   
+64. E3+1   k5.6   65. H1+3   c8-4   66. C6+4   }END
+
+
+FORMAT 	WXF
+GAME 	JIN YuYan(L)YAN WenQing,125
+TIME       ;
+RESULT     0-1
+RED        JIN YuYan ; CM ; China-Jidian ; ½ùÓñÑâ , àÚ¥Éµx
+BLACK      YAN WenQing ; IGM ; China-Hebei ; ÑÖÎÄÇå , ÀF¤å²M
+DATE       11/9/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA8
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  C8.9   r1.2   9.  R9.8   c9.7   
+10. R3.4   h7+8   11. C5+4   h3+5   12. R4.5   c7+5   
+13. H3-5   p7+1   14. R8+4   h8+6   15. R5-2   r8+8   
+16. C9-1   r8-1   17. E3+5   c7.8   18. H5-3   r8.7   
+19. C9.8   c8-1   20. C8+6   e3+5   21. A6+5   h6+5   
+22. E7+5   c8.5   23. P5+1   r7.5   24. H7+6   r5-2   
+25. H6+7   p7.6   26. H3+4   r5+1   27. P7+1   r5.3   
+28. H7+6   r2+1   29. H6-5   p6+1   30. H4+2   r3+3   
+31. A5-6   r2.4   32. A4+5   r4+2   33. H2+4   r3-5   
+34. C8+2   r3.5   35. R8.7   k5.4   36. K5.4   p6.5   
+37. R7+5   k4+1   38. R7-5   k4-1   39. R7+5   k4+1   
+40. R7-5   k4-1   41. C8-6   p9+1   42. P9+1   p5+1   
+43. C8.6   k4.5   44. K4.5   p5.4   45. R7.8   p4+1   
+46. K5.4   a5-4   47. K4+1   r5+2   48. R8-2   r5.9   
+49. R8.4   a4+5   50. R4.5   p9+1   51. C6+1   r9.6   
+52. R5.4   r6.9   53. R4.5   r9.6   54. R5.4   r6.9   
+55. R4.5   r9.6   56. R5.4   r6.7   57. R4.5   p9+1   
+58. C6.5   r7+2   59. K4-1   r7+1   60. K4+1   r7-1   
+61. K4-1   p4+1   62. R5.6   r4+4   63. A5+6   }END
+
+
+FORMAT 	WXF
+GAME 	HONG Zhi(W)ZHENG YiHong,59
+TIME       ;
+RESULT     1-0
+RED        HONG Zhi ; CM ; China-Jilin ; ºéÖÇ , ¬x´¼
+BLACK      ZHENG YiHong ; GM ; China-Xiamen ; Ö£Ò»ãü , ¾G¤@ªl
+DATE       11/9/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA8
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  P3+1   p3+1   3.  H2+3   h2+3   
+4.  R1.2   r9.8   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   e7+5   8.  H3+4   p1+1   9.  P9+1   r1+5   
+10. H4+5   h7+5   11. C5+4   a6+5   12. E3+5   r8.6   
+13. P7+1   h2+1   14. C7+1   r1-2   15. C5-2   r1.5   
+16. P7+1   e3+1   17. C7.8   r6+4   18. H9-7   h1+2   
+19. C5.8   h2-3   20. R9+6   c2+4   21. R9.5   c2.5   
+22. A4+5   r5.2   23. R5-4   r2+2   24. R2+7   h3-5   
+25. H7+9   r2.1   26. P7.6   r6-4   27. R2-1   h5-6   
+28. H9+7   r1.4   29. R5+3   r4+1   30. H7+9   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DianZhong(D)Lv Qin,42
+TIME       ;
+RESULT     0.5-0.5
+RED        LIU DianZhong ; GM ; China-Hebei ; ÁõµîÖÐ , ¼B·µ¤¤
+BLACK      Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+DATE       11/9/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA8
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p3+1   5.  R2+4   e3+5   6.  C8.7   h3+2   
+7.  R9+1   a4+5   8.  R9.6   p7+1   9.  P3+1   p7+1   
+10. R2.3   c8-1   11. R3.2   r1.4   12. R6+8   a5-4   
+13. P9+1   c8.5   14. R2+5   h7-8   15. H3+4   h8+7   
+16. C7-1   c2.1   17. H9+8   c1+3   18. H4+6   c5.2   
+19. C7.8   c2+4   20. C8+4   a4+5   21. C5.9   p5+1   }END
+
+
+FORMAT 	WXF
+GAME 	YU YouHua(D)ZONG YongSheng,62
+TIME       ;
+RESULT     0.5-0.5
+RED        YU YouHua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+BLACK      ZONG YongSheng ; CM ; China-Guangdong ; ×ÚÓÀÉú , ©v¥Ã¥Í
+DATE       11/9/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA8
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  H8+7   r9+1   6.  R9.8   r9.4   
+7.  A4+5   p7+1   8.  R2+6   a4+5   9.  R8+4   h7+6   
+10. R2.3   e7+5   11. P3+1   p7+1   12. R3-2   p3+1   
+13. H3+4   r4+4   14. R8.6   h6+4   15. C5.2   c6.8   
+16. H4+6   h3+4   17. R3.6   h4-3   18. C6.3   c2.1   
+19. C3+6   c1-1   20. R6+4   r2+3   21. C3.1   c8-1   
+22. R6-4   e5-7   23. P7+1   r2+1   24. E3+5   c1.3   
+25. R6.3   e3+5   26. C2+5   p3+1   27. C2.7   p3+1   
+28. H7-9   r2+4   29. C7.9   c3.1   30. R3.7   r2.1   
+31. R7-1   r1.2   }END
+
+
+FORMAT 	WXF
+GAME 	Lv Qin(D)NEI TieWen,138
+TIME       ;
+RESULT     0.5-0.5
+RED        Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+BLACK      NEI TieWen ; CM ; China-HeilongJiang ; ÄôÌúÎÄ , Â¿ÅK¤å
+DATE       11/10/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA9
+AUTHOR     Peter Sung
+START{
+1.  H8+7   p3+1   2.  P3+1   h2+3   3.  H2+3   r1+1   
+4.  C2.1   h8+7   5.  R1.2   r9.8   6.  E7+5   e7+5   
+7.  R2+6   c8.9   8.  R2+3   h7-8   9.  R9+1   r1.8   
+10. R9.6   r8+3   11. R6+3   h8+6   12. C1+4   a6+5   
+13. P7+1   h6+8   14. C1-2   c2-1   15. P7+1   r8.3   
+16. R6.7   r3+1   17. C1.7   p7+1   18. C7+2   p7+1   
+19. E5+3   h8+7   20. H7+6   c9+1   21. C7.1   h7-9   
+22. C8+4   h9+7   23. C8.7   c2.1   24. A6+5   h3-2   
+25. H6+8   h2+1   26. C7.6   p1+1   27. H8+7   c1-1   
+28. H3+4   p5+1   29. C6.2   p5+1   30. P5+1   h7+5   
+31. H4+3   h5+3   32. H3+2   h3-5   33. E3+5   p1+1   
+34. P9+1   c1+5   35. H7-6   c1-2   36. C2-2   h5-4   
+37. C2-3   c1.3   38. P1+1   c3-2   39. H2-3   h1+2   
+40. H6+8   c3.2   41. A5+4   h2+3   42. A4+5   h4-2   
+43. H8-7   h2+3   44. P1+1   h+-5   45. P1.2   c2.3   
+46. H7+5   h3+4   47. H5+7   a5+4   48. C2.1   a4+5   
+49. P2+1   e5+3   50. P2+1   e3+5   51. C1+2   h4+3   
+52. K5.6   c3-1   53. C1-2   h3-4   54. H7-9   h5+7   
+55. C1.3   h7-5   56. H9+8   c3+1   57. K6.5   h4+3   
+58. K5.6   h3-4   59. H8+9   c3.4   60. K6.5   h5-7   
+61. P2.3   h7-5   62. H3+1   e5+7   63. H1+2   e3-5   
+64. H9-7   k5.4   65. C3.1   e7-9   66. P3.2   e5-7   
+67. P2.1   h5-6   68. H2-3   e7+9   69. C1.3   e9-7   }END
+
+
+FORMAT 	WXF
+GAME 	ZONG YongSheng(L)JIN YuYan,128
+TIME       ;
+RESULT     0-1
+RED        ZONG YongSheng ; CM ; China-Guangdong ; ×ÚÓÀÉú , ©v¥Ã¥Í
+BLACK      JIN YuYan ; CM ; China-Jidian ; ½ùÓñÑâ , àÚ¥Éµx
+DATE       11/10/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA9
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. H3+5   r8+8   11. H8+7   p7+1   12. H5+6   e3+5   
+13. H6+7   r1.3   14. H+-5   p3+1   15. H7-5   p3+1   
+16. C8.6   c2+4   17. C5+1   p7.6   18. R4+2   p6.5   
+19. R9.8   c2.9   20. R4.3   h7+8   21. C6-1   r8-2   
+22. P5.4   p5+1   23. H-+3   c9+3   24. C6+4   p5.6   
+25. A6+5   p6.7   26. R3-6   p3.2   27. E7+5   r3+3   
+28. R3.1   r3.5   29. R1-2   h8+6   30. C6-3   p2+1   
+31. R1+4   r8.6   32. R1.3   r5.3   33. P9+1   h6+4   
+34. R3.6   p2+1   35. P4.5   p2.3   36. C6-2   p3+1   
+37. P5+1   h4-6   38. R8+9   e5-3   39. P5.6   r3+3   
+40. E5+7   e7+5   41. R8-7   h6+8   42. R8.2   r3.4   
+43. R6-1   r6.4   44. P6.7   p9+1   45. P7.8   r4.3   
+46. C6+6   h8-7   47. E7-9   r3.1   48. R2.7   p3.4   
+49. R7.6   p4.3   50. C6.2   h7+8   51. R6.2   p9+1   
+52. C2.4   r1.6   53. C4.3   r6.7   54. C3.4   p3.4   
+55. C4-5   p4.5   56. K5+1   h8-7   57. E3+1   r7.1   
+58. P8.9   r1-1   59. P9.8   r1.2   60. P8.7   r2+4   
+61. R2.3   r2.6   62. P7+1   r6.4   63. C4.1   p9.8   
+64. E1-3   r4-5   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(W)WAN ChunLin,75
+TIME       ;
+RESULT     1-0
+RED        XU YinChuan ; IGM ; China-Guangdong ; ÐíÒø´¨ , ³\»È¤t
+BLACK      WAN ChunLin ; CM ; China-Shanghai ; Íò´ºÁÖ , ¸U¬KªL
+DATE       11/10/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA9
+AUTHOR     Peter Sung
+START{
+1.  H8+7   p3+1   2.  P3+1   h2+3   3.  H2+3   h8+9   
+4.  R1+1   r9+1   5.  R1.4   e3+5   6.  H3+2   c8+5   
+7.  C8.2   r1.2   8.  R9.8   c2+4   9.  R4+3   r9.4   
+10. P7+1   r4+5   11. P7+1   r4.3   12. R8+2   r3-2   
+13. H7+6   r3+2   14. H2-3   c2-2   15. E3+5   p9+1   
+16. R4+1   c2+2   17. A4+5   r3.4   18. C2+2   p7+1   
+19. R8+1   r4.2   20. H6-8   r2+6   21. P3+1   r2.1   
+22. C2+3   e5+7   23. R4.3   r1-2   24. R3+4   r1.8   
+25. C2.6   h3+4   26. C6.8   r8-1   27. R3-4   r8.7   
+28. R3.6   r7+4   29. R6.1   h9+7   30. R1.4   p5+1   
+31. R4+1   p1+1   32. C8-5   r7+1   33. P1+1   a4+5   
+34. R4.9   r7-2   35. R9+3   a5-4   36. C8+7   k5+1   
+37. R9-1   k5+1   38. R9.3   }END
+
+
+FORMAT 	WXF
+GAME 	JING XueYi(W)Cheng Junchao,175
+TIME       ;
+RESULT     1-0
+RED        JING XueYi ; CM ; China-Meitan Tixie ; ¾°Ñ§Òå , ´º¾Ç¸q
+BLACK      Cheng Junchao ; NT ; China-Nongxie ; ³Ì¿¡³¬ , µ{«T¶W
+DATE       11/10/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA9
+AUTHOR     Peter Sung
+START{
+1.  C2.6   h2+3   2.  H2+3   c2.1   3.  H8+9   r1.2   
+4.  R9.8   h8+9   5.  A4+5   r9.8   6.  P7+1   c8.7   
+7.  E3+5   e3+5   8.  C8.7   c1+4   9.  R8+9   h3-2   
+10. P3+1   h2+4   11. P1+1   p1+1   12. R1.4   r8+4   
+13. C6+7   k5.4   14. R4+8   p7+1   15. P3+1   r8.7   
+16. H3+4   c1-1   17. H9+8   r7.2   18. H4-6   r2.8   
+19. C7.6   k4.5   20. R4.6   a6+5   21. R6.8   e5-3   
+22. R8+1   e7+5   23. H6-8   h9+7   24. H-+9   p1+1   
+25. H8+7   r8.4   26. C6.8   c7-2   27. P5+1   r4-1   
+28. H7+9   p5+1   29. P7+1   p5+1   30. P7+1   r4+1   
+31. H9+7   k5.6   32. R8-3   r4.3   33. P7+1   r3-2   
+34. R8.4   h7-6   35. K5.4   r3-1   36. R4+2   k6.5   
+37. C8+7   e3+1   38. C8.3   k5.4   39. C3.1   r3+2   
+40. R4.5   e1+3   41. R5.1   r3.8   42. K4.5   p1.2   
+43. C1-3   p2+1   44. P1+1   p2.3   45. R1.4   r8.4   
+46. C1.4   p5.6   47. P1+1   p3+1   48. C4.2   p6.5   
+49. R4-5   p3+1   50. R4.1   p3.4   51. C2-6   e5+7   
+52. E5+3   p5.6   53. E3-1   r4.5   54. R1.6   k4.5   
+55. R6-2   r5.9   56. R6+4   e3-5   57. R6.4   p6.5   
+58. R4.5   p5.4   59. C2+2   r9+2   60. C2.5   r9.5   
+61. R5.6   k5.6   62. R6.4   k6.5   63. K5.4   r5+1   
+64. R4-1   p4+1   65. E1-3   e7-9   66. R4.6   p4.3   
+67. A5+6   e9+7   68. C5-2   e7-9   69. R6.4   e9+7   
+70. R4+2   e7-9   71. A6-5   r5.7   72. C5+7   r7+3   
+73. K4+1   r7-3   74. C5-5   p3.4   75. A5+6   e9-7   
+76. C5-1   k5+1   77. E7+5   e7+5   78. R4+2   k5-1   
+79. R4-1   k5.4   80. C5.6   r7.5   81. A6+5   k4.5   
+82. C6-1   k5+1   83. E5-7   r5.8   84. C6.5   k5.4   
+85. R4.5   r8.6   86. A5+4   p4+1   87. C5.6   p4.3   
+88. R5-5   }END
+
+
+FORMAT 	WXF
+GAME 	JIN Bo(W)ZHENG XinNian,73
+TIME       ;
+RESULT     1-0
+RED        JIN Bo ; CM ; China-HuoCheTou ; ½ð²¨ , ª÷ªi
+BLACK      ZHENG XinNian ; CM ; China-Yunnan ; Ö£ÐÂÄê , ¾G·s¦~
+DATE       11/10/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA9
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P7+1   c8+2   9.  R9.6   a4+5   
+10. R6+7   r1.3   11. H3-5   c8-3   12. R6-5   p3+1   
+13. R2.7   c8.6   14. C8.9   h7+6   15. H7+8   r8+8   
+16. C9-1   r8-1   17. C9+1   r8+1   18. H5+7   c2+1   
+19. C5.4   h6+7   20. A6+5   c6+1   21. C4+4   c2.3   
+22. E7+5   r8-5   23. C4.9   h3+1   24. C9+4   p5+1   
+25. R7.6   r8.6   26. R++2   r6+5   27. R+.7   r3+3   
+28. H8+7   h7+5   29. K5.6   r6+1   30. K6+1   r6.3   
+31. E3+5   r3-2   32. C9+3   a5+4   33. H7-5   a6+5   
+34. R6.8   c6+6   35. K6-1   c3.4   36. R8+6   a5-4   
+37. H5+6   }END
+
+
+FORMAT 	WXF
+GAME 	YAN WenQing(D)TAO HanMing,69
+TIME       ;
+RESULT     0.5-0.5
+RED        YAN WenQing ; IGM ; China-Hebei ; ÑÖÎÄÇå , ÀF¤å²M
+BLACK      TAO HanMing ; GM ; China-Jilin ; ÌÕººÃ÷ , ³³º~©ú
+DATE       11/10/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA9
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h2+3   2.  H2+3   r9+1   3.  R1.2   h8+9   
+4.  H8+7   c8.6   5.  C8.9   r1.2   6.  R9.8   r9.4   
+7.  P7+1   a4+5   8.  P3+1   r4+7   9.  C5.4   c2+4   
+10. A6+5   p9+1   11. C4-1   r4-4   12. H3+4   r4.5   
+13. C4+6   a5+6   14. E7+5   r5.6   15. H4-3   e3+5   
+16. R8+2   a6-5   17. C9-2   p3+1   18. P7+1   r6.3   
+19. H7+6   r3+2   20. R8+1   r2+6   21. H6-8   r3.2   
+22. C9.7   r2.1   23. R2+3   p5+1   24. R2+4   r1.4   
+25. H3+4   r4-3   26. A5+6   p1+1   27. A4+5   p1+1   
+28. C7.6   r4.2   29. R2-1   r2.6   30. H4-6   r6+1   
+31. R2.1   h3+5   32. P1+1   p9+1   33. R1-2   h5+3   
+34. H6+7   e5+3   35. P3+1   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Yang(D)JIANG Chuan,80
+TIME       ;
+RESULT     0.5-0.5
+RED        WANG Yang ; NT ; China-Hubei ; ÍôÑó , ¨L¬v
+BLACK      JIANG Chuan ; NT ; China-Wenzhou ; ½¯´¨ , ½±¤t
+DATE       11/10/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA9
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. H3+5   r8+8   11. H8+7   p7+1   12. H5+6   e3+5   
+13. H6+7   r1.3   14. H+-5   h7+8   15. R4.3   h8+6   
+16. R3+2   h6+4   17. A4+5   h4+3   18. K5.4   h3+1   
+19. R3-5   r8-3   20. P5.6   h1-2   21. C5.8   r8.5   
+22. R3.5   r5+1   23. H7+5   c2.1   24. C8.7   r3.2   
+25. C7+4   r2+6   26. H-+3   r2.4   27. P7+1   e5+3   
+28. H5+7   e3-5   29. C7.5   r4.3   30. H7-8   r3.6   
+31. K4.5   c1+4   32. P6+1   r6.7   33. E3+1   c1.6   
+34. C5-2   c6-5   35. P6+1   r7.2   36. H8+7   r2.3   
+37. H3+5   r3+3   38. P6.5   r3-7   39. H5+6   r3.4   
+40. P5.6   a5+4   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG ShenHong(W)ZHANG XiaoPing,141
+TIME       ;
+RESULT     1-0
+RED        ZHANG ShenHong ; NT ; China-Hunan ; ÕÅÉêºê , ±i¥Ó§»
+BLACK      ZHANG XiaoPing ; CM ; China-HeilongJiang ; ÕÅÏþÆ½ , ±i¾å¥­
+DATE       11/11/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA10
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c2.5   
+4.  P7+1   h2+3   5.  H8+7   r1.2   6.  R9.8   r2+4   
+7.  C8.9   r2+5   8.  H7-8   p7+1   9.  R2+6   c8.9   
+10. R2.3   r8+2   11. H8+7   c9-1   12. H7+8   p7+1   
+13. P3+1   c9.7   14. R3.4   c7+4   15. H8+7   c7+4   
+16. A4+5   c7.9   17. A5+6   r8+7   18. K5+1   r8-1   
+19. K5-1   h7+8   20. R4.2   r8+1   21. K5+1   r8-3   
+22. K5-1   h8+6   23. R2-3   h6+8   24. H7-6   c9.7   
+25. C5-1   e3+1   26. H6+5   h3+2   27. H5-4   h8-6   
+28. H3+4   c5+6   29. A6-5   h2+1   30. E7+5   c7-8   
+31. C9+4   c7.9   32. C9.5   c9+5   33. H4+6   p9+1   
+34. H6+5   a4+5   35. H5+7   k5.4   36. H7-9   p9+1   
+37. H9-7   a5+6   38. H7+8   k4+1   39. C5.9   k4.5   
+40. C9+2   k5-1   41. H8-6   k5.4   42. C9-2   k4+1   
+43. H6-5   h1+3   44. A5+6   h3-4   45. A6+5   a6-5   
+46. C9-5   h4-5   47. C9.6   a5+4   48. H5+7   k4.5   
+49. H7+8   h5+7   50. H8-6   e7+5   51. H6-8   p9.8   
+52. H8+7   h7+6   53. P5+1   c9-5   54. H7-6   k5-1   
+55. P7+1   a6+5   56. P7.6   p8.7   57. P5+1   p7.6   
+58. H6-4   e5+7   59. H4+3   c9+8   60. C6.8   p6.5   
+61. C8+5   h6+7   62. K5.6   c9-3   63. C8.5   e7-5   
+64. A5+4   h7-5   65. A6-5   h5-3   66. H3+5   c9.5   
+67. A5+6   h3+2   68. K6.5   h2-4   69. K5.4   k5.6   
+70. H5-3   k6+1   71. H3-4   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG Chuan(D)WANG Bin,61
+TIME       ;
+RESULT     0.5-0.5
+RED        JIANG Chuan ; NT ; China-Wenzhou ; ½¯´¨ , ½±¤t
+BLACK      WANG Bin ; CM ; China-Jiangsu ; Íõ±ó , ¤ýÙy
+DATE       11/11/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA10
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c2+4   6.  P5+1   e3+5   
+7.  H8+7   a4+5   8.  P9+1   c2.3   9.  R2.3   r1.4   
+10. R3+1   c8+3   11. R9+3   r4+6   12. H7-5   c8.3   
+13. C5.6   r4.7   14. R3-1   r8+6   15. P9+1   c+.2   
+16. R9+1   r7.3   17. P9+1   c3+4   18. H5-7   r3+3   
+19. H3-5   r3-1   20. R3.4   r3.4   21. C6.7   r8.3   
+22. R4-4   p3+1   23. P5+1   p5+1   24. H5+3   p7+1   
+25. R9.3   p3+1   26. A4+5   c2.1   27. C8.9   c1.2   
+28. C9.8   c2.1   29. C8.9   c1.2   30. C9.8   c2.1   
+31. C8.9   }END
+
+
+FORMAT 	WXF
+GAME 	JIN YuYan(W)JIN Bo,51
+TIME       ;
+RESULT     1-0
+RED        JIN YuYan ; CM ; China-Jidian ; ½ùÓñÑâ , àÚ¥Éµx
+BLACK      JIN Bo ; CM ; China-HuoCheTou ; ½ð²¨ , ª÷ªi
+DATE       11/11/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA10
+AUTHOR     Peter Sung
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   r9+1   
+4.  R1.2   r9.2   5.  H8+7   h2+4   6.  C8.9   h8+9   
+7.  H7+6   p9+1   8.  C9.6   a4+5   9.  A6+5   r1.2   
+10. C6-2   c8+2   11. P9+1   c8.7   12. H3-1   c3+3   
+13. C5.6   c3+3   14. H1+2   r++4   15. E7+5   c7.3   
+16. H2+1   c+.4   17. C+.7   c3.4   18. H1+2   p5+1   
+19. H6-4   c-+5   20. R9.6   c4.1   21. H4+5   h4+5   
+22. H2+1   a5+4   23. R2+7   r+-4   24. C7+2   r+.9   
+25. C7.1   h9+8   26. R2-2   }END
+
+
+FORMAT 	WXF
+GAME 	TAO HanMing(W)JING XueYi,57
+TIME       ;
+RESULT     1-0
+RED        TAO HanMing ; GM ; China-Jilin ; ÌÕººÃ÷ , ³³º~©ú
+BLACK      JING XueYi ; CM ; China-Meitan Tixie ; ¾°Ñ§Òå , ´º¾Ç¸q
+DATE       11/11/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA10
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  P3+1   r9.8   3.  H2+3   c8.9   
+4.  H8+7   c2.5   5.  R9.8   h2+3   6.  P7+1   r1+1   
+7.  R1+1   r8+4   8.  R1.4   p7+1   9.  R4+3   r1.4   
+10. C8+3   r8+2   11. P7+1   p3+1   12. C8.3   r4+6   
+13. H7+8   a6+5   14. A6+5   r4+1   15. C5.7   h7+8   
+16. H8+9   c5+4   17. H3+5   r8.5   18. H9+7   e7+5   
+19. R4-2   c9.3   20. C7+5   e5+7   21. P3+1   h8+7   
+22. R8+9   e3+5   23. C7.9   r5.3   24. E7+9   r3.1   
+25. C9+2   h7-5   26. R4.2   e5-7   27. R2+7   r1+1   
+28. R8-8   r1-7   29. R8.6   }END
+
+
+FORMAT 	WXF
+GAME 	Li Hong Jia(D)WANG Yang,42
+TIME       ;
+RESULT     0.5-0.5
+RED        Li Hong Jia ; NT ; China-Shenzhen ; Àîºè¼Î , §õÂE¹Å
+BLACK      WANG Yang ; NT ; China-Hubei ; ÍôÑó , ¨L¬v
+DATE       11/11/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA10
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   e7+5   8.  R2+4   r1+1   9.  R9.6   h2+1   
+10. R6+6   c2.1   11. C7-1   r1.6   12. C5.6   c8.9   
+13. R2+5   h7-8   14. R6-1   h1-2   15. R6.9   r6+3   
+16. E3+5   p7+1   17. P3+1   r6.7   18. R9-1   c1+5   
+19. R9.8   c1-5   20. P7+1   c1+4   21. R8-2   c1-4   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(D)Lv Qin,72
+TIME       ;
+RESULT     0.5-0.5
+RED        XU YinChuan ; IGM ; China-Guangdong ; ÐíÒø´¨ , ³\»È¤t
+BLACK      Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+DATE       11/11/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA10
+AUTHOR     Peter Sung
+START{
+1.  E3+5   p7+1   2.  P7+1   h2+1   3.  H8+7   e7+5   
+4.  R9+1   r1+1   5.  R9.4   h8+7   6.  R4+5   r1.4   
+7.  H7+8   c2+5   8.  C2.8   r4+5   9.  C8.7   c8+4   
+10. H2+4   c8.5   11. H4+5   r4.5   12. R4.3   r9.7   
+13. R1.2   r5.2   14. H8+7   h1+3   15. C7+4   r2-3   
+16. C7+2   h7-5   17. R3.1   h5+3   18. C7.4   a4+5   
+19. C4.2   r7.8   20. C2-1   h3+4   21. R1-2   r2+3   
+22. R1.6   h4-6   23. C2+1   p5+1   24. R6+2   r2.6   
+25. A6+5   p5+1   26. C2.4   r6.4   27. R6-3   r8+9   
+28. R6+3   r8-6   29. P7+1   h6-7   30. R6.2   h7+8   
+31. P7.8   p5.6   32. C4-2   p6+1   33. C4.3   p6.7   
+34. C3-3   p7+1   35. E5+3   h8+6   36. C3.2   h6+4   }END
+
+
+FORMAT 	WXF
+GAME 	SHEN Peng(D)LI XueSong,77
+TIME       ;
+RESULT     0.5-0.5
+RED        SHEN Peng ; NT ; China-Anhui ; ÉêÅô , ¥ÓÄP
+BLACK      LI XueSong ; CM ; China-Hubei ; ÀîÑ©ËÉ , §õ³·ªQ
+DATE       11/11/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA10
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   c8.9   6.  R2.3   c9-1   
+7.  C8.6   h3-5   8.  R3-1   e3+5   9.  R3.6   h5+3   
+10. H8+9   r8+5   11. R9.8   r1+2   12. R8+6   c9.6   
+13. R8.7   c2-2   14. C6.7   c6+1   15. R6+3   r1.2   
+16. C5.4   c2.3   17. R7.9   r8.3   18. E3+5   r3-1   
+19. R9-2   a6+5   20. P3+1   r2+4   21. C7+1   c3.2   
+22. C4+1   r2+1   23. H3+4   c6+4   24. C7.4   r3.8   
+25. R9+3   r2.3   26. R9.8   r3-3   27. R6.7   r8+2   
+28. C4-2   r8.6   29. H4-6   r3.4   30. C4.3   h7+8   
+31. H9-7   c2.3   32. R7-1   c3+8   33. H6-7   r6+2   
+34. C3+8   e5-7   35. A6+5   h8+9   36. R7.3   r4+4   
+37. R3+2   a5-6   38. R3.2   r4.3   39. R2-3   }END
+
+
+FORMAT 	WXF
+GAME 	PAN ZhenBo(W)XU TianHong,91
+TIME       ;
+RESULT     1-0
+RED        PAN ZhenBo ; CM ; China-Jilin ; ÅËÕñ²¨ , ¼ï®¶ªi
+BLACK      XU TianHong ; IGM ; China-Jiangsu ; ÐìÌìºì , ®}¤Ñ¬õ
+DATE       11/11/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA10
+AUTHOR     Peter Sung
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  H8+9   p3+1   5.  R1.2   r9+1   6.  R9.8   r9.4   
+7.  A6+5   r4+4   8.  C8.6   a4+5   9.  C5+4   h8+9   
+10. C5.1   p1+1   11. E3+5   p3.2   12. H9+7   c3.2   
+13. R8.9   r4+1   14. H7+8   h2+1   15. H8+6   c2.4   
+16. P3+1   r1.2   17. H6+4   c4.6   18. R2+7   r2+4   
+19. P1+1   r4-1   20. R9+2   p7+1   21. H3+1   c6+4   
+22. P1+1   p2+1   23. H1+2   p2+1   24. R9-2   p2.3   
+25. C6-2   c6-4   26. P3+1   r4-2   27. P9+1   r2.7   
+28. P9+1   p3+1   29. C6+2   p3.4   30. P9+1   e5-3   
+31. R9+1   c6+6   32. R9+3   p4.5   33. A4+5   r7+5   
+34. A5-4   r4+4   35. R2.7   e3+5   36. R7.9   r7-6   
+37. R-.3   r7.8   38. A4+5   r4-3   39. R3.4   c6.7   
+40. R9+2   a5-4   41. K5.4   a6+5   42. H2+4   r4+4   
+43. H4+5   r8+6   44. K4+1   h9+7   45. R4+5   k5+1   
+46. C1+2   }END
+
+
+FORMAT 	WXF
+GAME 	YU YouHua(W)GE WeiPu,93
+TIME       ;
+RESULT     1-0
+RED        YU YouHua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+BLACK      GE WeiPu ; CM ; China-Shanghai ; ¸ðÎ¬ÆÑ , ¸¯ºû»Z
+DATE       11/11/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA10
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  H8+7   c2.1   6.  P7+1   p7+1   
+7.  H7+6   a6+5   8.  R9+2   e7+5   9.  R2+6   r2+6   
+10. R2.3   r2.4   11. H6+4   h7-8   12. C5-1   h8+9   
+13. R3.1   h9-7   14. R1.3   h7+9   15. R3.1   h9-7   
+16. R1.3   h7+9   17. R3.2   r9.8   18. R2.1   h9-7   
+19. C5.6   r4.2   20. H4+6   c6-1   21. R1.3   h7+9   
+22. R3.4   c1-1   23. R9.7   h9+8   24. R4.3   r2+2   
+25. C-.7   p1+1   26. P7+1   c1.3   27. C6-1   r2-2   
+28. R7.6   h3+1   29. R3.5   r2.3   30. C7+1   r3-2   
+31. C7+2   h8+7   32. H6+7   c6.3   33. E7+9   r8+5   
+34. C6.7   r3+1   35. E9+7   r8.3   36. C7.3   h7-6   
+37. R5-2   r3-1   38. R5.8   p1+1   39. R8.9   h1-3   
+40. R6+6   c3.1   41. H3+4   c1+3   42. C3.9   c1.2   
+43. R9.8   h3+5   44. H4-6   h5+4   45. C9.6   r3.5   
+46. C6+3   r5+2   47. A6+5   }END
+
+
+FORMAT 	WXF
+GAME 	XIE Kui(W)ZHENG XinNian,95
+TIME       ;
+RESULT     1-0
+RED        XIE Kui ; NT ; China-Shandong ; Ð»¿ù , ÁÂõÉ
+BLACK      ZHENG XinNian ; CM ; China-Yunnan ; Ö£ÐÂÄê , ¾G·s¦~
+DATE       11/11/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA10
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  P3+1   r9.8   3.  H2+3   c8.9   
+4.  H8+7   p3+1   5.  C8+4   h2+3   6.  C8.7   r1.2   
+7.  R9.8   e3+5   8.  R8+6   r8+4   9.  C7.3   c2.1   
+10. R8.7   r2+2   11. R1+2   c1-1   12. R1.2   r8+3   
+13. C5.2   c1.3   14. R7.6   a6+5   15. E7+5   h3+2   
+16. P3+1   p3+1   17. R6+2   c9-1   18. C2+6   a5-6   
+19. C2.7   a4+5   20. R6-6   c9.3   21. P7+1   r2.4   
+22. R6+5   a5+4   23. H7+8   c3.2   24. H8-7   c2.3   
+25. H7+8   p1+1   26. H3+4   e7+9   27. P3.4   h2+4   
+28. P5+1   e9+7   29. P4+1   c3.5   30. A6+5   c5.1   
+31. H8+9   a6+5   32. H9+7   c1+5   33. H7-8   c1-1   
+34. H4+2   h7-8   35. H8-6   c1.4   36. C3.5   p9+1   
+37. P5+1   h8+6   38. C5.6   p1+1   39. P7+1   c4+1   
+40. P5.4   h6+8   41. C6.5   k5.4   42. P7.6   p1.2   
+43. C5-3   e7-9   44. C5.2   h8-6   45. H2+1   c4.9   
+46. H1+3   k4.5   47. P6+1   p9+1   48. P6+1   }END
+
+
+FORMAT 	WXF
+GAME 	WAN ChunLin(D)ZHAO GuoRong,98
+TIME       ;
+RESULT     0.5-0.5
+RED        WAN ChunLin ; CM ; China-Shanghai ; Íò´ºÁÖ , ¸U¬KªL
+BLACK      ZHAO GuoRong ; IGM ; China-HeilongJiang ; ÕÔ¹úÈÙ , »¯°êºa
+DATE       11/12/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA11
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  R1.2   r9.8   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P3+1   p7+1   9.  R2.3   h7+6   
+10. P7+1   p3+1   11. R3.7   c8.7   12. R9.4   r8+4   
+13. H3+4   r8.7   14. H4-2   r7.8   15. R4+2   c7.6   
+16. C5.2   c6+4   17. C2+3   h6+7   18. C2+4   c6.8   
+19. R7+3   h7-6   20. H7+6   c8-4   21. R7-3   h6-7   
+22. C2.1   r1.3   23. R7+5   e5-3   24. C8.5   c2-2   
+25. H6+5   h7+5   26. C5+4   c2.1   27. P5+1   c1+5   
+28. P5+1   p1+1   29. A4+5   p1+1   30. E3+5   p1.2   
+31. P5.4   c1.5   32. K5.4   c5.1   33. P4.3   c1-2   
+34. C1.4   c8.9   35. C4-6   k5+1   36. C5-3   k5.4   
+37. P3.4   a4+5   38. P4.5   k4-1   39. C5+5   c9+4   
+40. C5.2   e7+5   41. C2+1   c9.7   42. C4+6   c7-6   
+43. P5+1   p9+1   44. E5+3   c1.6   45. E3-5   k4.5   
+46. C4-2   c7+6   47. P5.4   c6.1   48. C2-5   c7-5   
+49. C2.5   c7.5   }END
+
+
+FORMAT 	WXF
+GAME 	ZHENG XinNian(L)GE WeiPu,42
+TIME       ;
+RESULT     0-1
+RED        ZHENG XinNian ; CM ; China-Yunnan ; Ö£ÐÂÄê , ¾G·s¦~
+BLACK      GE WeiPu ; CM ; China-Shanghai ; ¸ðÎ¬ÆÑ , ¸¯ºû»Z
+DATE       11/12/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA11
+AUTHOR     Peter Sung
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  H8+7   r9.4   5.  P3+1   h2+3   6.  P7+1   r1+1   
+7.  H3+4   r4+7   8.  C8+2   p3+1   9.  P7+1   r1.6   
+10. H4+3   r6+3   11. P7+1   h3-5   12. C8.5   c5+3   
+13. P5+1   r6-1   14. H3-2   h7+6   15. P7+1   h5+3   
+16. R9.8   h6-4   17. R8+6   h3+2   18. P5+1   c2.5   
+19. H7+5   p5+1   20. H5+7   r4.6   21. A6+5   h4+3   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG ShenHong(L)XU YinChuan,104
+TIME       ;
+RESULT     0-1
+RED        ZHANG ShenHong ; NT ; China-Hunan ; ÕÅÉêºê , ±i¥Ó§»
+BLACK      XU YinChuan ; IGM ; China-Guangdong ; ÐíÒø´¨ , ³\»È¤t
+DATE       11/12/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA11
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   r1+1   8.  C8.9   r1.6   9.  R3-1   c2.1   
+10. R3.8   r8+6   11. R8+2   c9+1   12. C5.6   r8.7   
+13. E7+5   p5+1   14. A6+5   p5+1   15. P5+1   h3+5   
+16. R8+2   h5+7   17. R8.7   h++6   18. P5+1   h6+7   
+19. K5.6   c1.4   20. P5.6   r7.4   21. P7+1   p3+1   
+22. R7-4   h-+5   23. R7+1   r4-2   24. R7.5   a4+5   
+25. C6-1   c4+6   26. H7+8   r4-4   27. C9.6   c9.4   
+28. H3+5   r6+4   29. E5+7   c-+4   30. R9.7   r4.3   
+31. H5+6   c+.3   32. C6.3   r6.4   33. H6+4   c4.7   
+34. C3.6   c7+3   35. K6+1   r3+5   36. H8-9   c3-1   
+37. R7+1   r3-3   38. R5-3   r3+1   39. R5.8   e7+5   
+40. R8+6   e5-3   41. P9+1   r3.6   42. R7+1   h7-5   
+43. R8-5   r4-5   44. R8.3   c7-1   45. A5+4   h5+6   
+46. K6.5   c7.9   47. R3-4   r6+4   48. H9+7   r4+6   
+49. R3.4   r6+2   50. H7+8   e3+5   51. H8+9   r6-6   
+52. C6.5   r6.5   }END
+
+
+FORMAT 	WXF
+GAME 	XU TianHong(L)JIN YuYan,64
+TIME       ;
+RESULT     0-1
+RED        XU TianHong ; IGM ; China-Jiangsu ; ÐìÌìºì , ®}¤Ñ¬õ
+BLACK      JIN YuYan ; CM ; China-Jidian ; ½ùÓñÑâ , àÚ¥Éµx
+DATE       11/12/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA11
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c8+4   
+7.  R8+6   c2.1   8.  R8.7   r2+2   9.  R7-2   e3+5   
+10. P3+1   h3+2   11. R7.8   p7+1   12. R8.3   h2+1   
+13. C7-1   r2+5   14. C7.3   c1.3   15. H3-5   h7-9   
+16. R2+2   a6+5   17. C5.4   r8+3   18. E7+5   r2-3   
+19. H5+3   c8-2   20. R3.6   h1+3   21. R2+1   c8.7   
+22. H3+2   r2+3   23. H9+8   c7.1   24. C3.9   p5+1   
+25. R2.3   r8.2   26. H8+6   c3+2   27. R3+3   c1.4   
+28. R6+1   r++1   29. C9+1   h3-5   30. R6.5   h5+3   
+31. A4+5   r+.5   32. K5.4   r2+6   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Bin(D)NEI TieWen,46
+TIME       ;
+RESULT     0.5-0.5
+RED        WANG Bin ; CM ; China-Jiangsu ; Íõ±ó , ¤ýÙy
+BLACK      NEI TieWen ; CM ; China-HeilongJiang ; ÄôÌúÎÄ , Â¿ÅK¤å
+DATE       11/12/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA11
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c2.5   
+4.  H8+7   h2+3   5.  R2+6   c8.9   6.  R2.3   r8+2   
+7.  C8+2   p3+1   8.  C8.3   r1.2   9.  R9.8   r2+9   
+10. H7-8   h3+4   11. C3+3   h4+6   12. R3-2   h6+5   
+13. E7+5   c9.7   14. H8+7   c5-1   15. H3-5   c7.5   
+16. H5-7   c++4   17. H++5   c5+5   18. A6+5   r8.4   
+19. R3.5   r4+4   20. R5+2   e7+5   21. H7+8   r4.3   
+22. R5.9   r3.2   23. H8-6   c5.1   }END
+
+
+FORMAT 	WXF
+GAME 	JIN Bo(L)Cheng Junchao,42
+TIME       ;
+RESULT     0-1
+RED        JIN Bo ; CM ; China-HuoCheTou ; ½ð²¨ , ª÷ªi
+BLACK      Cheng Junchao ; NT ; China-Nongxie ; ³Ì¿¡³¬ , µ{«T¶W
+DATE       11/12/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA11
+AUTHOR     Peter Sung
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  H8+7   r9.4   5.  P3+1   h2+3   6.  P7+1   r1+1   
+7.  H3+4   r4+7   8.  C8+2   p3+1   9.  P7+1   r1.6   
+10. H4+3   r6+3   11. P7+1   h3-5   12. C8.5   c5+3   
+13. P5+1   r6-1   14. H3-2   h7+6   15. P7+1   h5+3   
+16. R9.8   h6-4   17. R8+6   h3+2   18. P5+1   c2.5   
+19. H7+5   p5+1   20. H5+7   r4.6   21. A6+5   h4+3   }END
+
+
+FORMAT 	WXF
+GAME 	YAN WenQing(W)XIE Kui,97
+TIME       ;
+RESULT     1-0
+RED        YAN WenQing ; IGM ; China-Hebei ; ÑÖÎÄÇå , ÀF¤å²M
+BLACK      XIE Kui ; NT ; China-Shandong ; Ð»¿ù , ÁÂõÉ
+DATE       11/12/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA11
+AUTHOR     Peter Sung
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  H8+7   r9.4   5.  A6+5   h2+1   6.  P3+1   c2.3   
+7.  R9.8   r1.2   8.  C8+4   a4+5   9.  R2+5   r4+4   
+10. C8.5   r2+9   11. H7-8   k5.4   12. C+-2   c5.4   
+13. H8+9   e7+5   14. R2.8   h7+5   15. P9+1   p7+1   
+16. E3+1   p7+1   17. E1+3   p3+1   18. R8+1   h5+7   
+19. R8-2   r4+1   20. C+.6   k4.5   21. H3+4   r4.5   
+22. H4+6   c4+3   23. R8.6   c3-1   24. H6+7   a5+6   
+25. R6+4   a6+5   26. C5.8   h7-5   27. R6-2   a5+4   
+28. R6+1   h5-3   29. R6.7   c3.8   30. C8.2   c8.9   
+31. E3-5   r5.4   32. H9+8   r4-1   33. H8+7   c9+5   
+34. H7+5   e3+5   35. R7.9   k5+1   36. R9+1   k5-1   
+37. R9+1   k5+1   38. R9-1   k5-1   39. R9-2   p9+1   
+40. R9.5   r4+1   41. R5+1   k5.4   42. E5-3   c9.5   
+43. A5+6   c5.3   44. A6-5   p3+1   45. C2.6   p3.4   
+46. R5.4   p9+1   47. R4.6   k4.5   48. R6.5   k5.4   
+49. C6-2   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Yang(D)MIAO LiMing,63
+TIME       ;
+RESULT     0.5-0.5
+RED        WANG Yang ; NT ; China-Hubei ; ÍôÑó , ¨L¬v
+BLACK      MIAO LiMing ; NT ; China-Anhui ; ÃçÀûÃ÷ , ­]§Q©ú
+DATE       11/12/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA11
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. H3+5   p7.6   11. R4-2   e3+5   12. H5+6   r1.3   
+13. P5+1   h7+5   14. R4.3   c7+1   15. H8+7   p3+1   
+16. H6+4   c7.6   17. R3.5   c2+1   18. C5+4   c2.6   
+19. P7+1   r8+4   20. H7+5   r8.3   21. C8.7   r-.2   
+22. C7+5   c-.3   23. E7+5   c6+3   24. P3+1   r2+3   
+25. A6+5   p1+1   26. P9+1   c3.1   27. H5+7   c6.4   
+28. R9.6   c1+3   29. R5+1   r3+1   30. R6+3   c1+4   
+31. R5.9   r3+4   32. R6-3   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG XiaoPing(L)WANG YueFei,64
+TIME       ;
+RESULT     0-1
+RED        ZHANG XiaoPing ; CM ; China-HeilongJiang ; ÕÅÏþÆ½ , ±i¾å¥­
+BLACK      WANG YueFei ; CM ; China-Yunnan ; ÍõÔ¾·É , ¤ýÅD­¸
+DATE       11/12/2004
+PLACE      ÖØÇìèµÉ½
+EVENT      Chinese National Champion ; 2004
+ROUND      MA11
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c8+4   
+7.  R8+6   c2.1   8.  R8.7   r2+2   9.  R7-2   e3+5   
+10. P3+1   h3+2   11. R7.8   p7+1   12. R8.3   h2+1   
+13. C7-1   r2+5   14. C7.3   c1.3   15. H3-5   h7-9   
+16. R2+2   a6+5   17. C5.4   r8+3   18. E7+5   r2-3   
+19. H5+3   c8-2   20. R3.6   h1+3   21. R2+1   c8.7   
+22. H3+2   r2+3   23. H9+8   c7.1   24. C3.9   p5+1   
+25. R2.3   r8.2   26. H8+6   c3+2   27. R3+3   c1.4   
+28. R6+1   r++1   29. C9+1   h3-5   30. R6.5   h5+3   
+31. A4+5   r+.5   32. K5.4   r2+6   }END
+
+
+FORMAT 	WXF
+GAME 	ZONG YongSheng(D)Li Hong Jia,69
+TIME       ;
+RESULT     0.5-0.5
+RED        ZONG YongSheng ; CM  ; China-Guangdong
+BLACK      Li Hong Jia ; CM  ; China-Guangdong
+DATE       10/28/2005
+PLACE      Shanxi TaiYuan
+EVENT      Chinese National Champion ; 2005
+ROUND      MA1
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  H7+6   c9.7   9.  R3.4   r8+5   
+10. C8+2   e3+5   11. R9+1   r1.3   12. C5.7   p3+1   
+13. E3+5   p3+1   14. E5+7   h3+4   15. C7+7   e5-3   
+16. R4-4   h4+2   17. P3+1   r8.7   18. H3+4   c7.6   
+19. E7+5   c6+6   20. E5+3   p7+1   21. R9.3   p7.6   
+22. R3+6   c2.5   23. R3-5   c6-1   24. R3.8   p6.5   
+25. P5+1   c5+3   26. K5+1   c6-1   27. R8+2   c6.4   
+28. R8+2   c4-3   29. R8.7   e7+5   30. R7.9   p9+1   
+31. R9.5   c5.7   32. R5.1   c4+4   33. R1-1   c7+1   
+34. P9+1   c4.9   35. R1-2   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DianZhong(D)ZHANG ShenHong,86
+TIME       ;
+RESULT     0.5-0.5
+RED        LIU DianZhong ; GM  ; China-Hebei
+BLACK      ZHANG ShenHong ; NT  ; China-Hunan
+DATE       10/28/2005
+PLACE      Shanxi TaiYuan
+EVENT      Chinese National Champion ; 2005
+ROUND      MA1
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P7+1   c8+2   9.  P3+1   p3+1   
+10. P3+1   p3+1   11. H7-5   e5+7   12. R9.6   h3+4   
+13. H3+4   h4+6   14. R2.4   a4+5   15. R4.7   e7-5   
+16. R7-1   c8.7   17. R6+5   c7-1   18. R6-1   r8+6   
+19. C8.9   r8.7   20. C9+4   c2-1   21. C9-2   c7.8   
+22. C5.9   c8+3   23. C++3   r1.3   24. R7+6   e5-3   
+25. C++2   e3+5   26. H5+7   c8.5   27. R6-2   h7+6   
+28. H7+5   r7.5   29. R6.5   h6+5   30. C-.1   h5-7   
+31. A6+5   k5.4   32. E7+5   h7-5   33. C9-3   h5+6   
+34. C9.6   c2+4   35. P1+1   h6-7   36. C1+4   h7+9   
+37. P9+1   c2.8   38. C6-5   k4.5   39. A5+6   h9-7   
+40. C1-4   p5+1   41. P9+1   p5+1   42. A6-5   h7+6   
+43. P9.8   c8+3   }END
+
+
+FORMAT 	WXF
+GAME 	BU FengBo(W)MIAO LiMing,85
+TIME       ;
+RESULT     1-0
+RED        BU FengBo ; GM  ; China-Dalian
+BLACK      MIAO LiMing ; NT  ; China-Anhui
+DATE       10/28/2005
+PLACE      Shanxi TaiYuan
+EVENT      Chinese National Champion ; 2005
+ROUND      MA1
+AUTHOR     Peter Sung
+START{
+1.  H2+3   p7+1   2.  P7+1   h2+1   3.  H8+7   r1+1   
+4.  C2.1   h8+7   5.  R1.2   r9.8   6.  R2+6   r1.4   
+7.  E7+5   c8.9   8.  R2+3   h7-8   9.  P3+1   p7+1   
+10. E5+3   r4.7   11. E3+5   r7+3   12. C1+4   h8+7   
+13. C1.7   c2+4   14. C7-1   r7.4   15. C8.9   e7+5   
+16. R9.8   c2-6   17. H3+4   r4.6   18. C7+2   p1+1   
+19. R8+8   r6+1   20. C7.3   r6-3   21. C3-1   r6+2   
+22. P9+1   c2.1   23. R8.9   c1.2   24. C9+3   a6+5   
+25. R9.8   r6.7   26. C3.2   r7.8   27. C9+1   c9+1   
+28. P1+1   p5+1   29. C9.1   r8-1   30. C1+1   r8-1   
+31. C1-1   c2.1   32. R8.9   c1.2   33. P9+1   h1+3   
+34. R9-2   h3-4   35. R9.8   c2+2   36. R8.6   c2.3   
+37. H7+6   c3.4   38. H6+4   e5+7   39. P7+1   h4+2   
+40. R6.8   c4+3   41. E3-1   p5+1   42. P5+1   c4.9   
+43. P9.8   }END
+
+
+FORMAT 	WXF
+GAME 	TAO HanMing(W)CAI Yi,49
+TIME       ;
+RESULT     1-0
+RED        TAO HanMing ; IGM  ; China-Jilin
+BLACK      CAI Yi ; NT  ; China-HuoCheTou
+DATE       10/28/2005
+PLACE      Shanxi TaiYuan
+EVENT      Chinese National Champion ; 2005
+ROUND      MA1
+START{
+1.  P3+1   c8.7   2.  C8.5   e7+5   3.  A4+5   a6+5   
+4.  H8+7   h2+1   5.  R9.8   r1.2   6.  R8+4   c2.3   
+7.  R8.4   r2+4   8.  C5+4   c7-1   9.  P5+1   p7+1   
+10. H7+5   h8+7   11. C5-1   r2+2   12. E3+5   r2.3   
+13. P3+1   c7+3   14. H2+4   r3.4   15. R1.3   r9.6   
+16. R4+5   k5.6   17. C2.4   r4-3   18. H4+2   r4.5   
+19. H5-7   c7.8   20. H7+8   p3+1   21. C5+2   e3+5   
+22. H8+6   c3.4   23. H6+4   h7+6   24. R3+5   c8-2   
+25. H4+3   }END
+
+
+FORMAT 	WXF
+GAME 	JIN YuYan(L)TAO HanMing,90
+TIME       ;
+RESULT     0-1
+RED        JIN YuYan ; CM  ; China-Jidian
+BLACK      TAO HanMing ; IGM  ; China-Jilin
+DATE       10/29/2005
+PLACE      É½Î÷ Ì«Ô­
+EVENT      Chinese National Champion ; 2005
+ROUND      MA2
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   h2+3   
+4.  H8+7   p7+1   5.  P7+1   c2+4   6.  H7+6   c2.7   
+7.  R9.8   r1.2   8.  C8+4   r9+1   9.  A4+5   r9.2   
+10. C8.5   h3+5   11. R8+8   r2+1   12. H6+5   p7+1   
+13. H5+3   c7-4   14. H3-4   r2+5   15. C5+5   e3+5   
+16. E3+5   p7+1   17. R2+6   r2.5   18. R2.7   r5.1   
+19. R7.1   c7+2   20. R1.6   p1+1   21. P1+1   p1+1   
+22. P1+1   r1.6   23. P7+1   p1+1   24. P7.6   c7+1   
+25. P6.5   p1.2   26. R6-2   c7-4   27. P1.2   p2.3   
+28. R6.3   c7.2   29. P2+1   c2+5   30. R3.7   c2+2   
+31. P2.3   c2.3   32. R7.5   p3.4   33. P5+1   r6+2   
+34. R5.3   c3-2   35. P5.4   a6+5   36. P4.5   p4.5   
+37. P3.4   p5.6   38. A5+6   r6.9   39. A6+5   r9-4   
+40. R3.4   c3.5   41. K5.6   r9.3   42. E5+7   c5.2   
+43. K6.5   r3.4   44. E7+9   c2+3   45. H4+5   c2-4   }END
+
+
+FORMAT 	WXF
+GAME 	SHEN Peng(W)YU YouHua,89
+TIME       ;
+RESULT     1-0
+RED        SHEN Peng ; NT  ; China-Anhui
+BLACK      YU YouHua ; GM   ; China-HuoCheTou
+DATE       10/29/2005
+PLACE      É½Î÷ Ì«Ô­
+EVENT      Chinese National Champion ; 2005
+ROUND      MA2
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  C8.6   h3-5   8.  R9+1   c9.7   9.  C5+4   h7+5   
+10. R3.5   p7+1   11. R9.4   p7.6   12. H3-1   r8+5   
+13. P3+1   r1+2   14. R4+3   r8+3   15. A4+5   r8.9   
+16. C6+5   c2+3   17. C6-3   c7.8   18. C6.8   c8+8   
+19. E3+5   r9+1   20. H8+7   c8-2   21. A5-4   c8.3   
+22. P7+1   r1.5   23. R5.4   h5+7   24. C8.5   a4+5   
+25. P7.6   p3+1   26. P3+1   r9-3   27. P3+1   r9.5   
+28. C5+1   k5.4   29. R+.6   r-.4   30. R6+1   a5+4   
+31. P3+1   a6+5   32. P3+1   e3+5   33. C5.2   r5.8   
+34. C2+3   r8-3   35. R4.6   k4.5   36. P6+1   p3+1   
+37. R6-2   c3-1   38. P6+1   a5+4   39. R6+5   c3.9   
+40. R6+1   p3+1   41. A6+5   r8+3   42. E5-3   p1+1   
+43. R6.5   k5.4   44. R5.4   k4.5   45. P3+1   }END
+
+
+FORMAT 	WXF
+GAME 	WAN ChunLin(W)ZHAO GuoRong,119
+TIME       ;
+RESULT     1-0
+RED        WAN ChunLin ; GM ; China-Shanghai
+BLACK      ZHAO GuoRong ; IGM  ; China-HeilongJiang
+DATE       10/29/2005
+PLACE      É½Î÷ ´óÍ¬
+EVENT      Chinese National Champion ; 2005
+ROUND      MA2
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   p7+1   
+4.  P7+1   h8+7   5.  C8+4   a4+5   6.  H8+7   e3+5   
+7.  C8.5   c6+5   8.  H7+6   r1.4   9.  C+.9   r4+5   
+10. R9.8   c2-2   11. R2+7   r9+2   12. R2.1   e7+9   
+13. A4+5   c6-2   14. R8+7   c6.3   15. C5+5   a5-4   
+16. E3+5   c3-1   17. C5-2   c2.3   18. C9+1   r4-3   
+19. R8-1   r4+2   20. C5.7   r4.3   21. C9.3   h3+5   
+22. C3.9   h5+6   23. H3-1   r3+5   24. R8+3   h6+5   
+25. R8.7   h5+7   26. K5.4   r3-4   27. K4+1   r3.6   
+28. A5+4   r6.8   29. C9+2   h7-9   30. R7-1   a4+5   
+31. R7+1   a5-4   32. H1+3   k5+1   33. R7-1   k5+1   
+34. C9.8   r8+3   35. K4-1   h9-7   36. R7-1   k5-1   
+37. R7+1   k5+1   38. A6+5   r8.7   39. C8-7   r7+1   
+40. K4+1   r7-1   41. K4-1   r7+1   42. K4+1   r7.3   
+43. R7.4   p7+1   44. R4.3   r3-4   45. C8.6   p3+1   
+46. K4-1   r3.4   47. C6-2   h7+5   48. K4+1   h5-3   
+49. R3-2   k5-1   50. C6.3   h3+4   51. C3.5   k5-1   
+52. P5+1   r4.2   53. R3-2   r2+4   54. K4-1   r2-3   
+55. P5+1   r2.6   56. K4+1   r6.1   57. P5.6   a6+5   
+58. A5+6   a5+4   59. A4-5   a4+5   60. H3+5   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(D)BU FengBo,217
+TIME       ;
+RESULT     0.5-0.5
+RED        XU YinChuan ; IGM  ; China-Guangdong
+BLACK      BU FengBo ; GM ; China-Dalian
+DATE       10/29/2005
+PLACE      É½Î÷ ´óÍ¬
+EVENT      Chinese National Champion ; 2005
+ROUND      MA2
+AUTHOR     Peter Sung
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  R1.2   p3+1   5.  H8+9   r9+1   6.  A6+5   r9.4   
+7.  C5+4   a4+5   8.  C5.1   h8+9   9.  R2+4   p3+1   
+10. C8+2   c8.7   11. H9+7   c7+4   12. E7+5   c7.3   
+13. R2.7   c+.4   14. R9.6   r1+2   15. C8-1   c4.1   
+16. R6.9   r1.2   17. C8+6   r2-2   18. R9+3   r2+9   
+19. R7-4   r2.3   20. E5-7   r4+4   21. E7+5   p1+1   
+22. R9+2   c3+5   23. A5+6   c3-1   24. C1-2   r4+1   
+25. R9.5   p7+1   26. C1.4   r4+1   27. A4+5   r4-2   
+28. R5-1   r4.5   29. P5+1   c3-5   30. P5+1   a5+6   
+31. C4.1   h9+8   32. C1+5   c3.5   33. P5.4   c5.6   
+34. P4.5   c6.5   35. P5.4   c5.7   36. H3+2   c7.8   
+37. H2-3   c8.7   38. H3+2   c7.6   39. P4.5   c6.5   
+40. P5.6   c5.8   41. H2-3   h8+7   42. P6+1   a6-5   
+43. P6.5   e5-3   44. K5.6   c8.6   45. C1-3   c6+7   
+46. K6.5   c6-2   47. E3+1   c6-5   48. E5-3   c6.9   
+49. C1.2   k5.4   50. H3+5   c9+3   51. C2-4   c9-3   
+52. E1+3   h7-5   53. E3+5   h5-3   54. H5+6   h3+4   
+55. H6+4   h4-6   56. P5.6   h6-7   57. C2+7   a5+6   
+58. C2.1   e3+5   59. P1+1   c9.6   60. H4-5   a6-5   
+61. H5+4   a5+6   62. H4-6   h7+5   63. E3-1   a6-5   
+64. P6.5   e5-3   65. P1+1   c6+3   66. H6+7   k4.5   
+67. P1+1   h5+6   68. P1.2   h6+7   69. K5.6   h7-5   
+70. P2.3   c6.5   71. E1-3   h5-4   72. P3+1   h4+3   
+73. K6+1   h3-5   74. K6-1   c5+4   75. E3+5   c5.7   
+76. P3.2   h5+3   77. K6+1   h3-4   78. E5+7   p7+1   
+79. H7-6   p7+1   80. C1-5   p7.6   81. C1.5   c7-4   
+82. H6+8   p6.5   83. C5+1   e3+5   84. P2.3   p5.4   
+85. P5.4   h4-3   86. H8+7   k5.4   87. H7-6   a5+4   
+88. P3+1   a6+5   89. P3.4   c7+1   90. K6.5   h3+4   
+91. C5-1   h4-3   92. E7-9   e7+9   93. E9-7   e9+7   
+94. C5.4   c7+2   95. C4-2   c7-2   96. H6-5   c7.6   
+97. P-.5   c6-1   98. P5.6   h3+4   99. C4+2   c6.5   
+100. K5.4   h4+2   101. C4-1   h2-4   102. C4+3   p4.5   
+103. C4-2   h4+2   104. H5-7   h2-3   105. H7+6   p5.6   
+106. C4.7   c5.6   107. K4.5   p6.5   108. E7+5   p5.6   
+109. K5.6   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DaHua(D)ZHANG Jiang,120
+TIME       ;
+RESULT     0.5-0.5
+RED        LIU DaHua ; IGM  ; China-Hubei
+BLACK      ZHANG Jiang ; CM ; China-Hebei
+DATE       10/29/2005
+PLACE      É½Î÷ ´óÍ¬
+EVENT      Chinese National Champion ; 2005
+ROUND      MA3
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c8+4   
+7.  R8+6   c2.1   8.  R8.7   r2+2   9.  R7-2   h3+2   
+10. R7.8   h2-4   11. P9+1   e7+5   12. R2+1   r2+3   
+13. H9+8   h4+2   14. C7-1   r8+5   15. H8+6   r8.4   
+16. H6+4   r4.6   17. H4-5   r6+2   18. R2+2   r6.7   
+19. A6+5   h2+4   20. H5+4   c1-1   21. C5.6   h7+6   
+22. C7.6   h4-2   23. C++6   h2+3   24. C+.1   h3+4   
+25. H4+3   c1.6   26. C1.4   r7.3   27. K5.6   h4-5   
+28. E3+5   r3-3   29. C4.6   k5+1   30. C6-6   h6-7   
+31. K6.5   h5-6   32. R2+6   p1+1   33. P9+1   r3.1   
+34. R2.4   r1.4   35. R4-2   r4+2   36. R4+2   h6+7   
+37. R4.2   h+-6   38. P1+1   r4-1   39. R2.5   k5.6   
+40. R5.2   r4.9   41. R2.6   r9.4   42. R6.2   p7+1   
+43. E5+3   r4.7   44. C6.4   h6+4   45. R2.6   k6.5   
+46. C4-1   r7+3   47. R6-5   r7.6   48. K5.6   k5.6   
+49. R6+4   h7-5   50. H3-1   r6.7   51. H1+2   r7-8   
+52. R6+1   k6+1   53. R6-6   e5+7   54. R6.4   k6.5   
+55. R4.2   h5+3   56. R2+4   k5-1   57. R2.7   r7.8   
+58. R7+1   k5+1   59. R7-2   r8+3   60. R7+3   k5-1   }END
+
+
+FORMAT 	WXF
+GAME 	HONG Zhi(D)XU YinChuan,52
+TIME       ;
+RESULT     0.5-0.5
+RED        HONG Zhi ; CM  ; China-Jilin
+BLACK      XU YinChuan ; IGM  ; China-Guangdong
+DATE       10/29/2005
+PLACE      É½Î÷ ´óÍ¬
+EVENT      Chinese National Champion ; 2005
+ROUND      MA3
+AUTHOR     Peter Sung
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. H3+5   r8+8   11. H8+7   p7+1   12. H5+6   e3+5   
+13. H6+7   r1.3   14. H+-5   p7.8   15. A4+5   c7+8   
+16. C8-1   r8+1   17. R9+2   h7+8   18. R4-5   c2+4   
+19. R4.2   r8.9   20. R2.1   r9.8   21. R1.2   r8.9   
+22. R2.1   r9.8   23. R1.2   r8.9   24. R2.1   r9.8   
+25. R1.2   r8.9   26. R2.1   r9.8   }END
+
+
+FORMAT 	WXF
+GAME 	TAO HanMing(W)SHEN Peng,73
+TIME       ;
+RESULT     1-0
+RED        TAO HanMing ; IGM  ; China-Jilin
+BLACK      SHEN Peng ; NT  ; China-Anhui
+DATE       10/30/2005
+PLACE      É½Î÷ Ì«Ô­
+EVENT      Chinese National Champion ; 2005
+ROUND      MA3
+START{
+1.  P3+1   c8.7   2.  C8.5   c2.5   3.  H8+7   h8+9   
+4.  H2+1   h2+3   5.  R9.8   r9.8   6.  R1.2   r8+4   
+7.  C5+4   h3+5   8.  C2.5   r8.4   9.  C5+4   a4+5   
+10. E7+5   p9+1   11. C5-2   r4.5   12. R8+4   c5+3   
+13. P5+1   r5.4   14. R2+3   e3+5   15. A6+5   r1.4   
+16. P7+1   p7+1   17. P3+1   r+.7   18. R8-1   p3+1   
+19. R8.7   p3+1   20. R7+1   r4+3   21. R7-1   h9+8   
+22. R7.5   r7.3   23. P5+1   r3+3   24. R2+2   e5+7   
+25. R2.3   r4+5   26. A5-6   r3+2   27. A4+5   c7.3   
+28. R3+4   r3.2   29. R5.7   c3.4   30. R7+6   a5-4   
+31. K5.4   c4.6   32. P5+1   r4.5   33. R3.4   k5.6   
+34. R7.6   k6+1   35. P5+1   r5.3   36. R6-1   k6-1   
+37. P5.4   }END
+

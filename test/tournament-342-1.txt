@@ -1,0 +1,96 @@
+
+
+FORMAT 	WXF
+GAME 	°Í´óÓÂ(L)XU TianHong,66
+TIME       ;
+RESULT     0-1
+RED        °Í´óÓÂ ; NT  ; China-Nanjing
+BLACK      XU TianHong ; GM ; China-Jiangsu
+DATE       4-3-1990
+PLACE      
+EVENT      ½ð²­±­½­ËÕÊ¡ÏóÆåÃûÊÖÈü ; 1990
+ROUND      
+START{
+1.  H2+3   p7+1   2.  P7+1   h8+7   3.  H8+7   r9+1   
+4.  C8.9   r9.3   5.  R9.8   p3+1   6.  P7+1   r3+3   
+7.  C9-1   h2+1   8.  C9.7   r3.4   9.  A4+5   r1.2   
+10. E3+5   c2.3   11. R8+9   h1-2   12. C7+6   c8.3   
+13. R1.4   h2+1   14. R4+4   h1+3   15. H7+8   r4.2   
+16. C2+2   e3+5   17. P3+1   p7+1   18. R4.3   h7+6   
+19. H8-6   h6+8   20. R3.2   r2+2   21. H3+4   c3.1   
+22. R2+2   h3+4   23. H4+5   r2-3   24. R2-2   h4-5   
+25. R2+2   c1+4   26. P5+1   a6+5   27. H6+4   r2+3   
+28. H4+5   r2.9   29. H5+3   c1.5   30. R2.1   r9.7   
+31. K5.4   r7-4   32. R1-3   r7.6   33. K4.5   c5.6   }END
+
+
+FORMAT 	WXF
+GAME 	ÎâÎÄ»¢(W)LI Qun,45
+TIME       ;
+RESULT     1-0
+RED        ÎâÎÄ»¢ ; NT ; China-Jiangsu
+BLACK      LI Qun ; FM ; China-Nanjing
+DATE       22-1-2006
+PLACE      
+EVENT      ½ð²­±­½­ËÕÊ¡ÏóÆåÃûÊÖÈü ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. H3+5   r8+8   11. H8+7   p7+1   12. H5+6   e3+5   
+13. A4+5   p7.8   14. C8.9   h3-4   15. R9.8   c2-1   
+16. P5+1   c7+8   17. P5+1   e7+5   18. H6+5   h4+5   
+19. R8+8   r8+1   20. H7+5   h7+5   21. R4.5   c7-8   
+22. A5-4   c7.2   23. R5+1   }END
+
+
+FORMAT 	WXF
+GAME 	TONG BenPing(D)ÎâÎÄ»¢,66
+TIME       ;
+RESULT     0.5-0.5
+RED        TONG BenPing ; CM ; China-Jiangsu
+BLACK      ÎâÎÄ»¢ ; NT ; China-Jiangsu
+DATE       23-1-2006
+PLACE      
+EVENT      ½ð²­±­½­ËÕÊ¡ÏóÆåÃûÊÖÈü ; 2006
+ROUND      
+START{
+1.  E3+5   h8+7   2.  P3+1   p3+1   3.  H2+3   h2+3   
+4.  H8+9   r9+1   5.  C2.1   c8-1   6.  R9+1   e3+5   
+7.  R9.6   c8.2   8.  C8+6   r9.2   9.  R1.2   h3+2   
+10. R2+6   r1+1   11. R2.3   r2.4   12. R6+7   r1.4   
+13. H3+4   h2-3   14. R3+1   h3+4   15. R3-1   h4+6   
+16. R3.4   r4+4   17. C1.2   c2+1   18. R4+2   h6+7   
+19. R4-6   h7-8   20. R4+1   p1+1   21. A4+5   c2.1   
+22. H9-7   c1.3   23. R4.2   h8-7   24. H7-9   a4+5   
+25. H9+8   r4.2   26. C2.3   h7+6   27. R2.4   h6-4   
+28. P5+1   r2.5   29. R4.6   h4+3   30. R6+3   c3-3   
+31. H8+6   p3+1   32. H6-4   r5.4   33. R6.5   e7+9   }END
+
+
+FORMAT 	WXF
+GAME 	TONG BenPing(W)LIU ZongZe,75
+TIME       ;
+RESULT     1-0
+RED        TONG BenPing ; CM ; China-Jiangsu
+BLACK      LIU ZongZe ; NT ; China-Jilin
+DATE       21-1-2006
+PLACE      
+EVENT      ½ð²­±­½­ËÕÊ¡ÏóÆåÃûÊÖÈü ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  C8.9   r1.2   9.  R9.8   c9.7   
+10. R3.4   h7+8   11. H3-5   p7+1   12. R4-1   p7+1   
+13. R8+6   e7+5   14. E3+1   h8-7   15. R4-1   r8+4   
+16. R8.7   c2+4   17. P7+1   r8.3   18. R7-1   e5+3   
+19. C9.8   c2.3   20. R4+4   c7.9   21. R4.3   h7+6   
+22. R3.1   h6+4   23. E7+9   h4+6   24. R1.4   e3+5   
+25. C5.4   h6-7   26. E1+3   r2.4   27. C8-2   r4+8   
+28. C4.2   a5+6   29. R4.8   p7.8   30. C2.3   p8.7   
+31. C3-1   r4-5   32. R8-5   h3+4   33. R8+1   r4.3   
+34. R8.6   h4-6   35. C8.7   c3+3   36. H5-7   e3-1   
+37. H-+9   r3+3   38. E9+7   }END
+

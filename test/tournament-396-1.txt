@@ -1,0 +1,79 @@
+
+
+FORMAT 	WXF
+GAME 	MOU HaiQin(L)ZHAO GuoRong,88
+TIME       ;
+RESULT     0-1
+RED        MOU HaiQin ; FM ; USA-New York
+BLACK      ZHAO GuoRong ; GM   ; China-HeilongJiang
+DATE       19-12-2006
+PLACE      
+EVENT      ÖÐ¹úÏóÆå¶Ó·ÃÎÊÃÀ¹ú ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+4   
+7.  R2+4   c8.9   8.  R2.4   r8+1   9.  P9+1   r8.2   
+10. P3+1   p7+1   11. R4.3   h7+8   12. P5+1   e3+5   
+13. R3.2   h8-7   14. R8+1   r++3   15. R8.4   r+.7   
+16. P7+1   a4+5   17. R4+2   h7+6   18. R2+3   h6-4   
+19. C7.8   c2.1   20. C8.7   h4+3   21. R4.7   p3+1   
+22. C7+2   p3+1   23. R7+1   r7+3   24. R7+3   c1.5   
+25. A6+5   c5.7   26. A5+4   c7+3   27. A4+5   r7-4   
+28. R7-1   c9+4   29. R2-7   c9.5   30. R7-3   c7.3   
+31. R7-3   r2+7   32. R7+3   r7+3   33. K5.4   r2.5   
+34. H9+8   c5.6   35. K4.5   r5-2   36. H8+6   r5.4   
+37. H6+8   c6.5   38. K5.4   c5.6   39. K4.5   p5+1   
+40. A5-4   k5.4   41. R7-3   r7-3   42. H8+7   p5+1   
+43. R2+5   c6+3   44. R7+4   r4+4   }END
+
+
+FORMAT 	WXF
+GAME 	ZHENG Qin Lin(D)LIU DianZhong,59
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHENG Qin Lin ; NT ; USA-New York
+BLACK      LIU DianZhong ; GM  ; China-Hebei
+DATE       19-12-2006
+PLACE      
+EVENT      ÖÐ¹úÏóÆå¶Ó·ÃÎÊÃÀ¹ú ; 2006
+ROUND      
+START{
+1.  C2.6   h8+7   2.  H2+3   r9.8   3.  P3+1   c8.9   
+4.  E3+5   h2+1   5.  H8+7   r1+1   6.  A4+5   r1.4   
+7.  P7+1   p3+1   8.  P7+1   r8+4   9.  P7.6   r4+3   
+10. H7+8   r4-2   11. C8+5   r4.2   12. H8-7   r2+4   
+13. R1.4   r2.3   14. R9+2   p7+1   15. R4+4   p7+1   
+16. R4.3   h7+6   17. C6-1   e7+5   18. C6.7   r3.4   
+19. H7+8   r4+2   20. C7+2   c9.7   21. R9.6   r4-1   
+22. A5+6   c7+5   23. R3-2   h6+5   24. R3+4   r8+5   
+25. E5-3   r8-4   26. H8-9   r8.7   27. R3-2   h5-7   
+28. C7-2   h7+9   29. H9+7   h9-7   30. E7+5   }END
+
+
+FORMAT 	WXF
+GAME 	GAO WeiXuan(L)XU YinChuan,79
+TIME       ;
+RESULT     0-1
+RED        GAO WeiXuan ; NT ; USA-New York
+BLACK      XU YinChuan ; GM   ; China-Guangdong
+DATE       19-12-2006
+PLACE      
+EVENT      ÖÐ¹úÏóÆå¶Ó·ÃÎÊÃÀ¹ú ; 2006
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P7+1   p7+1   5.  C8.6   r1+1   6.  H8+7   r1.4   
+7.  A4+5   c2+4   8.  R2+4   h7+6   9.  P5+1   h6+7   
+10. R2.4   h7+5   11. E7+5   r9+2   12. R9.8   c2.8   
+13. R8+6   c8-5   14. R4.2   r9.7   15. P5+1   c8.5   
+16. H3+5   c5+3   17. H7+6   p7+1   18. C6+6   p7.8   
+19. R8.7   c6+6   20. A5-4   a6+5   21. P7+1   c5+1   
+22. C6.8   r7.4   23. H6-7   c6-5   24. R7.5   r4+7   
+25. K5.6   h3+5   26. P7.6   c6+3   27. C8-4   p8+1   
+28. P6.5   h5-6   29. H5+7   c5.2   30. H-+8   c6.9   
+31. H8+9   c9+3   32. H9+7   h6+7   33. H+-5   h7+6   
+34. K6.5   e7+5   35. H5+3   p9+1   36. H7+8   a5+6   
+37. H8+7   k5+1   38. H7-6   k5.6   39. H3+2   k6-1   
+40. P5.4   }END
+

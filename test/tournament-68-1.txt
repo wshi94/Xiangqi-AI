@@ -1,0 +1,27 @@
+
+
+FORMAT 	WXF
+GAME 	Hu Ronghua(W)Lv Qin,77
+TIME       ;
+RESULT     1-0
+RED        Hu Ronghua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+BLACK      Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+DATE       1996-2-1
+PLACE      Guangzhou
+EVENT      Telephone Cup ; 1996
+ROUND      
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  R1.2   p3+1   5.  H8+9   r9+1   6.  A6+5   r9.4   
+7.  C5+4   a4+5   8.  C5.1   h8+9   9.  R2+4   r4+4   
+10. C8+2   r4-1   11. C8.9   h2+1   12. C1.9   r1.2   
+13. C-+3   r4-1   14. C+.5   e7+5   15. C9+1   r2+2   
+16. C9.7   c8.3   17. R2.7   p7+1   18. R9.8   r2+7   
+19. H9-8   c3-2   20. H8+7   c3+7   21. R7-2   h9+8   
+22. R7+2   h8+7   23. R7.2   h7-6   24. R2.5   r4.8   
+25. E7+5   r8+3   26. R5+1   r8.6   27. H3+2   p7+1   
+28. H2+3   e5-7   29. R5.9   h6-4   30. H3-5   r6.5   
+31. R9+4   a5-4   32. H5+6   k5+1   33. H6-4   h4-6   
+34. R9.6   r5.9   35. R6.4   r9.1   36. R4-2   r1.6   
+37. K5.6   r6.4   38. A5+6   r4.6   39. A6-5   }END
+

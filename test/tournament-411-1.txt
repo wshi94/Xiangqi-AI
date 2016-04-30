@@ -1,0 +1,207 @@
+
+
+FORMAT 	WXF
+GAME 	ZHENG YiHong(D)MAI Thanh Minh,76
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHENG YiHong ; GM ; China-Xiamen
+BLACK      MAI Thanh Minh ; CM ; Vietnam
+DATE       27-12-2007
+PLACE      
+EVENT      2007ÄêÖÐ¹úÏóÆå¶Ó·ÃÎÊÔ½ÄÏ ; 2007
+ROUND      
+START{
+1.  P7+1   p7+1   2.  C2.3   c8.5   3.  H8+7   h8+7   
+4.  E7+5   h2+1   5.  A6+5   c2.3   6.  H7+8   h7+6   
+7.  R9.6   r9.8   8.  C3+3   c5+4   9.  H2+3   c5-1   
+10. C3-1   c3.7   11. R1.2   r8+9   12. H3-2   e3+5   
+13. H2+1   a4+5   14. P1+1   r1.4   15. R6+9   k5.4   
+16. H8+9   p5+1   17. C3+2   h6+7   18. H1+3   c7+4   
+19. C3.6   k4.5   20. C8+5   c7.6   21. K5.6   c5.4   
+22. C6.5   c4.5   23. C5-2   p5+1   24. P9+1   c6-3   
+25. H9-8   h1+2   26. P9+1   h2+4   27. P9.8   p5+1   
+28. C8.9   c6-2   29. P8+1   p3+1   30. P7+1   e5+3   
+31. H8+6   c6.9   32. C9-1   c9+4   33. C9.1   c9-1   
+34. H6+4   c9.5   35. H4+3   k5.4   36. C1.6   c5.4   
+37. K6.5   h4-6   38. C6.3   h6-7   }END
+
+
+FORMAT 	WXF
+GAME 	BU FengBo(W)ÑîÒµÁ¼,47
+TIME       ;
+RESULT     1-0
+RED        BU FengBo ; GM  ; China-Dalian
+BLACK      ÑîÒµÁ¼ ; NT ; Vietnam
+DATE       25-12-2007
+PLACE      
+EVENT      2007ÄêÖÐ¹úÏóÆå¶Ó·ÃÎÊÔ½ÄÏ ; 2007
+ROUND      
+START{
+1.  P7+1   p7+1   2.  C2.3   c2.5   3.  H8+7   h2+3   
+4.  R9.8   r1.2   5.  P3+1   h8+9   6.  C3+3   r2+6   
+7.  H2+3   c8+5   8.  C8.9   r2.3   9.  H7-5   c8.1   
+10. E7+9   r9.8   11. R8+6   h9+7   12. R8.7   h7+5   
+13. R7+1   h5+7   14. R1+1   h7+6   15. R1.4   c5+4   
+16. H5-7   c5-2   17. R4+1   r8+8   18. R7-1   e7+5   
+19. C3+4   a6+5   20. R7.5   r3.5   21. A4+5   e5-7   
+22. R4+7   k5.6   23. H3+5   r8-4   24. H7+6   }END
+
+
+FORMAT 	WXF
+GAME 	BU FengBo(W)Èî³Â¶ÅÄþ,87
+TIME       ;
+RESULT     1-0
+RED        BU FengBo ; GM  ; China-Dalian
+BLACK      Èî³Â¶ÅÄþ ; NT ; Vietnam
+DATE       27-12-2007
+PLACE      
+EVENT      2007ÄêÖÐ¹úÏóÆå¶Ó·ÃÎÊÔ½ÄÏ ; 2007
+ROUND      
+START{
+1.  P7+1   p7+1   2.  C2.3   c2.5   3.  H8+7   h2+3   
+4.  R9.8   r1.2   5.  P3+1   h8+9   6.  C3+3   r9.8   
+7.  C8+4   p5+1   8.  E3+5   c8+1   9.  C8-2   a6+5   
+10. H2+3   c5.7   11. R1.2   e7+5   12. C8+3   c8.4   
+13. R2+9   h9-8   14. C3+1   h8+6   15. H3+4   h6+7   
+16. H4+3   h3+5   17. C8.3   r2+9   18. H7-8   c4.7   
+19. C3.2   c7.8   20. H8+7   c8+2   21. C2-1   p3+1   
+22. C2.9   p3+1   23. E5+7   h5+3   24. C9.7   c8-4   
+25. C7.8   c8.9   26. C8-3   p5+1   27. P5+1   h3+5   
+28. H7+5   h5+3   29. H5-7   h3-5   30. H7+5   h5+3   
+31. A4+5   c9+5   32. C8+1   c9-1   33. K5.4   a5+6   
+34. H5+6   h3-5   35. E7+5   h5+7   36. C8+5   c9+1   
+37. P9+1   p9+1   38. H6+5   h7+8   39. K4.5   c9.5   
+40. H5+7   k5.6   41. C8-7   p9+1   42. H7-6   p9.8   
+43. P3+1   a4+5   44. H6-4   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN XiaoKun(D)ÀµÀîÐÖ,60
+TIME       ;
+RESULT     0.5-0.5
+RED        CHEN XiaoKun ; CM ; China-Hangzhou
+BLACK      ÀµÀîÐÖ ; NT ; Vietnam
+DATE       25-12-2007
+PLACE      
+EVENT      2007ÄêÖÐ¹úÏóÆå¶Ó·ÃÎÊÔ½ÄÏ ; 2007
+ROUND      
+START{
+1.  H8+7   p3+1   2.  C2.5   h2+3   3.  H2+3   h8+7   
+4.  R1.2   r9.8   5.  R2+4   c8.9   6.  R2+5   h7-8   
+7.  P3+1   e3+5   8.  R9+1   a4+5   9.  R9.2   h8+7   
+10. C8+4   p7+1   11. P3+1   e5+7   12. R2+6   r1.3   
+13. H3+2   p3+1   14. C8.1   h7+6   15. C5.3   h6+7   
+16. R2+2   e7+5   17. P7+1   h3+4   18. C1.3   c9.7   
+19. C+-3   c7+4   20. E3+5   h4+6   21. H2+4   r3.4   
+22. R2-5   h6+7   23. H4-3   r4+6   24. R2-2   h7-5   
+25. H7+5   r4.5   26. H3+4   r5.1   27. R2+4   p5+1   
+28. R2.5   c2+2   29. R5-1   c2.6   30. R5.4   r1.9   }END
+
+
+FORMAT 	WXF
+GAME 	ÔøÔ´¼Ñ(D)LI Peng,35
+TIME       ;
+RESULT     0.5-0.5
+RED        ÔøÔ´¼Ñ ; NT ; Vietnam
+BLACK      LI Peng ; NT ; China-Jidian
+DATE       27-12-2007
+PLACE      
+EVENT      2007ÄêÖÐ¹úÏóÆå¶Ó·ÃÎÊÔ½ÄÏ ; 2007
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P7+1   p7+1   5.  C8+4   e3+5   6.  H8+7   a4+5   
+7.  C8.5   p3+1   8.  P7+1   h3+5   9.  C5+4   r1.3   
+10. R9.8   r3+4   11. H3-5   r9+2   12. H7+6   r3.4   
+13. H5+7   r9.8   14. R2+7   c6.8   15. R8+6   h7+5   
+16. R8.5   c2.4   17. R5-2   c4+3   18. H7+6   }END
+
+
+FORMAT 	WXF
+GAME 	TRENH A Sang(D)WANG Bin,79
+TIME       ;
+RESULT     0.5-0.5
+RED        TRENH A Sang ; ICM ; Vietnam
+BLACK      WANG Bin ; GM ; China-Jiangsu
+DATE       27-12-2007
+PLACE      
+EVENT      2007ÄêÖÐ¹úÏóÆå¶Ó·ÃÎÊÔ½ÄÏ ; 2007
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  R1+1   e3+5   6.  R1.4   c2+4   
+7.  P5+1   a4+5   8.  R4+2   c2-2   9.  C8.9   r1.2   
+10. R9.8   c8.9   11. C9-1   r8+6   12. R8+3   c2.1   
+13. R8+6   h3-2   14. C9.5   p7+1   15. R4.8   h2+3   
+16. P5+1   p5+1   17. P9+1   r8.7   18. R8+4   h7+6   
+19. P9+1   r7+1   20. C-+4   r7-1   21. H7+6   h6+5   
+22. E7+9   h5-4   23. H6+4   p7.6   24. P7+1   p3+1   
+25. C+.7   r7-3   26. R8.9   p6.5   27. C7-4   r7.6   
+28. H4-3   p5+1   29. H3+5   r6.7   30. C5.6   h4+6   
+31. C7.6   r7.5   32. H5+6   a5+4   33. A6+5   p5.4   
+34. C+.8   p4.3   35. R9.7   r5.4   36. C8.6   r4.5   
+37. R7-4   p1+1   38. C-.9   r5+1   39. R7.4   h6-5   
+40. C6.5   }END
+
+
+FORMAT 	WXF
+GAME 	Nguyen Thanh Bao(L)WANG Bin,118
+TIME       ;
+RESULT     0-1
+RED        Nguyen Thanh Bao ; NT ; Vietnam
+BLACK      WANG Bin ; GM ; China-Jiangsu
+DATE       25-12-2007
+PLACE      
+EVENT      2007ÄêÖÐ¹úÏóÆå¶Ó·ÃÎÊÔ½ÄÏ ; 2007
+ROUND      
+START{
+1.  E3+5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  H8+7   h2+3   5.  P7+1   r8+4   6.  C2.1   r8+5   
+7.  H3-2   r1+1   8.  H2+3   p5+1   9.  R9+1   r1.4   
+10. R9.4   r4+5   11. P3+1   p5+1   12. P5+1   h3+5   
+13. H3+4   c5+3   14. A6+5   r4.9   15. C1.3   r9.7   
+16. H4+5   h7+5   17. R4+4   r7+1   18. R4.5   c2.8   
+19. R5-1   c8+7   20. E5-3   r7.3   21. R5+2   a6+5   
+22. C8+7   c8-7   23. A5+4   c8.5   24. R5.7   r3+2   
+25. K5+1   r3.2   26. C8.9   r2-7   27. P7+1   p9+1   
+28. R7.3   c5.7   29. P3+1   p9+1   30. P3.4   p9.8   
+31. R3-3   r2.5   32. E3+5   a5-6   33. P4.5   p8+1   
+34. R3+3   p8+1   35. P5+1   r5.2   36. K5.6   r2.4   
+37. P5.6   r4.1   38. C9.8   r1.2   39. C8.9   c7.5   
+40. R3+3   r2+6   41. K6-1   r2-2   42. P6.5   c5+5   
+43. R3-4   r2.4   44. K6.5   r4.5   45. P5.4   p8.7   
+46. R3.4   a6+5   47. P7.8   r5-4   48. R4.7   r5.2   
+49. R7+4   r2+2   50. R7-7   r2-4   51. R7.5   r2.1   
+52. R5+5   p7.6   53. R5.1   p6.5   54. R1+2   a5-6   
+55. R1-7   r1+2   56. R1.5   a4+5   57. R5.8   r1.5   
+58. K5.6   a5-4   59. R8+4   r5.4   }END
+
+
+FORMAT 	WXF
+GAME 	»ÆÖÙÊ¤(L)ZHENG YiHong,96
+TIME       ;
+RESULT     0-1
+RED        »ÆÖÙÊ¤ ; NT ; Vietnam
+BLACK      ZHENG YiHong ; GM ; China-Xiamen
+DATE       25-12-2007
+PLACE      
+EVENT      2007ÄêÖÐ¹úÏóÆå¶Ó·ÃÎÊÔ½ÄÏ ; 2007
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   h7+6   6.  H8+7   r1+1   
+7.  P5+1   p7+1   8.  R2.4   h6+7   9.  P5+1   c8.5   
+10. P5+1   c5-1   11. H3+5   h7-5   12. C5+2   c5+4   
+13. A6+5   r1.4   14. P5.6   h3-5   15. R4.5   p7.6   
+16. E7+5   r4+2   17. R5.6   h5+4   18. R9.6   h4+6   
+19. C8+2   r8+6   20. R6+5   h6-5   21. R6+2   c2-1   
+22. R6+1   c2.3   23. C8-1   r8-2   24. H5-3   r8.4   
+25. R6.4   r4+2   26. R4-4   r4.2   27. R4.5   r2.3   
+28. H7-6   c3.2   29. R5-1   c2+8   30. E5-7   r3+3   
+31. R5.8   c2.1   32. E3+5   r3-3   33. R8-3   r3.1   
+34. E5-7   h5+6   35. H6+7   r1-2   36. H3+5   h6+7   
+37. A5-6   h7+9   38. R8+1   r1.7   39. H7+6   r7.4   
+40. R8.5   h9+7   41. H5-4   e3+5   42. H6-7   r4+3   
+43. R5.9   r4.3   44. R9-1   r3.6   45. R9+1   a6+5   
+46. P1+1   k5.6   47. E7+5   p1+1   48. R9.6   p1+1   }END
+

@@ -1,0 +1,23 @@
+
+
+FORMAT 	WXF
+GAME 	WANG LinNa(L)TANG Dan,54
+TIME       ;
+RESULT     0-1
+RED        WANG LinNa ; IGM ; China-HeilongJiang
+BLACK      TANG Dan ; GM  ; China
+DATE       2014-10-25
+PLACE      
+EVENT      2014Äê¡°Î÷ºþ±­¡±ÏóÆåÕù°ÔÈüÅ®×Ó×é ; 2014
+ROUND      µÚ 5 ÂÖ
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  H8+7   c2+4   6.  P5+1   c8+4   
+7.  P5+1   e3+5   8.  P5.6   h7+6   9.  A4+5   c2.3   
+10. H7+5   h6+4   11. R9.8   r1+1   12. P6+1   r1.2   
+13. P6+1   h3-1   14. P6.5   r2+5   15. P5.6   a6+5   
+16. P6+1   c3.4   17. P6.5   a4+5   18. P3+1   h1+2   
+19. H3+4   h2+3   20. H4-6   h4+6   21. C5+4   e7+5   
+22. H5-4   r8+5   23. H6-4   r8-2   24. C5-2   c8-2   
+25. H+-6   p7+1   26. C8.5   r2+3   27. H6-8   c8.3   }END
+

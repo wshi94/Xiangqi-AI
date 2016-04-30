@@ -1,0 +1,235 @@
+
+
+FORMAT 	WXF
+GAME 	Hu Ronghua(L)Wang Jialiang,128
+TIME       ;
+RESULT     0-1
+RED        Hu Ronghua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+BLACK      Wang Jialiang ; GM ; China-HeilongJiang ; Íõ¼ÎÁ¼ , ¤ý¹Å¨}
+DATE       8/12/1964
+PLACE      
+EVENT      ÎåÊ¡ÊÐÏóÆåÑûÇëÈü ; 1964
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  P7+1   r9.8   
+4.  H8+7   h2+3   5.  C8+2   r1+1   6.  R1.2   e7+5   
+7.  P3+1   c2+2   8.  P3+1   h7+8   9.  H3+2   e5+7   
+10. R9+1   r1.6   11. C5.2   h8-7   12. R9.3   r6+6   
+13. C2+5   r8+2   14. E7+5   e3+5   15. R3.6   c2.6   
+16. A6+5   r6+1   17. R6+7   c6-3   18. C8-3   a6+5   
+19. R6-2   r6-5   20. R6.7   h3-2   21. H2-3   r8+7   
+22. H3-2   r6+1   23. R7.9   r6.2   24. C8+3   c6+2   
+25. R9+2   h2+3   26. R9.6   h7+6   27. H2+3   c6-2   
+28. R6-5   h3+4   29. C8.9   a5+6   30. C9+5   e5-3   
+31. P5+1   e7-5   32. P9+1   c6.4   33. R6.4   h6-4   
+34. H3+2   h--2   35. C9.8   h2+4   36. C8.6   c4.3   
+37. C6-4   r2.4   38. H7-9   r4.2   39. R4.8   r2.8   
+40. H2-1   c3.1   41. H1+3   r8.7   42. H9-7   c1.7   
+43. H3+1   r7-1   44. H7+6   p9+1   45. P7+1   p9+1   
+46. P1+1   h4-5   47. P7.8   h5+7   48. A5+4   r7.6   
+49. A4+5   r6+1   50. P9+1   c7.8   51. R8.2   h7+8   
+52. R2.7   r6.7   53. E3+1   r7+3   54. H6+7   h8+7   
+55. H7+8   h7+5   56. R7.4   h5+3   57. K5.4   a6-5   
+58. R4+3   r7.9   59. R4.5   c8.6   60. R5.4   k5.6   
+61. H8-6   h3-5   62. K4.5   r9+2   63. A5-4   h5+3   
+64. K5.6   r9-3   }END
+
+
+FORMAT 	WXF
+GAME 	Hu Ronghua(W)Ji Benhan,75
+TIME       ;
+RESULT     1-0
+RED        Hu Ronghua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+BLACK      Ji Benhan ; CM ; China-Jiangsu ; ¼¾±¾º­ , ©u¥»¨ç
+DATE       11/5/1961
+PLACE      
+EVENT      ÎåÊ¡ÊÐÏóÆåÑûÇëÈü ; 1961
+ROUND      
+START{
+1.  C2.6   p7+1   2.  H2+3   c8.4   3.  R1.2   h8+7   
+4.  P9+1   e7+5   5.  H8+7   h2+1   6.  C8.9   r1.2   
+7.  R9.8   c2+2   8.  P7+1   c2.5   9.  C6.5   r2+9   
+10. H7-8   c5+3   11. E3+5   r9+1   12. R2+6   r9.2   
+13. H8+7   r2+6   14. H7+6   r2.4   15. H6-4   c4+1   
+16. R2-2   r4-3   17. P3+1   r4.6   18. H4-2   h1-3   
+19. R2+3   h7-5   20. P5+1   h5-7   21. R2+1   a4+5   
+22. R2.3   h3+2   23. P3+1   r6.7   24. R3-3   e5+7   
+25. H3+4   h2+1   26. H4+5   h7+6   27. H2+4   e7-5   
+28. P5+1   c4+3   29. C9+4   p3+1   30. C9+3   c4-6   
+31. C9-3   c4+6   32. C9.1   h6+5   33. H4+5   c4.5   
+34. A4+5   c5-3   35. C1+3   e5-7   36. C1-5   h1-2   
+37. P7+1   h2-4   38. H5-6   }END
+
+
+FORMAT 	WXF
+GAME 	Ji Benhan(W)Hu Ronghua,85
+TIME       ;
+RESULT     1-0
+RED        Ji Benhan ; CM ; China-Jiangsu ; ¼¾±¾º­ , ©u¥»¨ç
+BLACK      Hu Ronghua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+DATE       27/4/1960
+PLACE      
+EVENT      ÎåÊ¡ÊÐÏóÆåÑûÇëÈü ; 1960
+ROUND      
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1+1   r9.8   
+4.  R1.6   a6+5   5.  R6+7   h2+1   6.  P9+1   c2.4   
+7.  R6.8   p3+1   8.  P9+1   p1+1   9.  R9+5   c5.6   
+10. C5+4   e7+5   11. C5-2   r8+4   12. R9+1   r8.7   
+13. E3+5   r7+2   14. A6+5   h7-8   15. H8+9   c6.8   
+16. R8.6   c8+1   17. R9-2   c8-1   18. C8.6   k5.6   
+19. C5+2   r1.2   20. R9.4   h8+6   21. C5+2   a4+5   
+22. R6.5   c8.6   23. R4.6   c6.8   24. R6.4   c8.6   
+25. C6+3   h1+3   26. R4.2   r2+1   27. C6.4   c4-2   
+28. R5.8   h3-2   29. R2+4   r7+1   30. R2.4   k6.5   
+31. C4.5   e5+7   32. R4.8   r7-1   33. R8-1   c6.9   
+34. R8.5   k5.6   35. R5.6   k6.5   36. H9+8   r7.5   
+37. H8+7   c9+4   38. R6.5   k5.6   39. H7+6   k6+1   
+40. R5.2   k6.5   41. R2+1   k5+1   42. H6+4   k5.6   
+43. R2.5   }END
+
+
+FORMAT 	WXF
+GAME 	Hu Ronghua(W)Hui Songxiang,61
+TIME       ;
+RESULT     1-0
+RED        Hu Ronghua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+BLACK      Hui Songxiang ; NT ; NA ; »ÝËÌÏé , ´f¹|²»
+DATE       7/9/1963
+PLACE      
+EVENT      ÎåÊ¡ÊÐÏóÆåÑûÇëÈü ; 1963
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+2   
+7.  R2+6   h7+6   8.  R8+4   e3+5   9.  P9+1   a4+5   
+10. R2-2   p3+1   11. P7+1   p3+1   12. R2.7   h3+4   
+13. R8-1   c8.7   14. C5+4   h4-3   15. C7+5   c2.5   
+16. E7+5   r2+6   17. C7.3   c5.4   18. C3-1   h6+5   
+19. H3+5   r2.5   20. R7+2   r8+8   21. A6+5   r8.6   
+22. C5.9   c4.5   23. H9-7   r5.6   24. C3.4   r-.7   
+25. C9+3   a5+4   26. R7+3   k5+1   27. R7-1   k5-1   
+28. C4.5   e5+3   29. H7+6   c5+4   30. C5-5   e3-5   
+31. H6+5   }END
+
+
+FORMAT 	WXF
+GAME 	Wang Jialiang(L)Hu Ronghua,66
+TIME       ;
+RESULT     0-1
+RED        Wang Jialiang ; GM ; China-HeilongJiang ; Íõ¼ÎÁ¼ , ¤ý¹Å¨}
+BLACK      Hu Ronghua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+DATE       19 / 6 / 1960
+PLACE      
+EVENT      ÎåÊ¡ÊÐÏóÆåÑûÇëÈü ; 1960
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  R1.2   r9.8   
+4.  R2+6   h2+3   5.  P7+1   h7+6   6.  H8+7   e7+5   
+7.  R2-2   r1+1   8.  R2.4   h6-7   9.  C8.9   c2+4   
+10. P5+1   c8+4   11. R9.8   r1.4   12. P3+1   c2.7   
+13. E3+1   r4+7   14. A4+5   r8+5   15. R8+7   p7+1   
+16. R4+4   c7.3   17. H7+5   p7+1   18. C5.6   c8.5   
+19. H3+5   r4.3   20. E7+5   p7.6   21. R8.7   p6.5   
+22. E5-3   r3.2   23. C9.7   a6+5   24. C6+6   r2.4   
+25. C6.9   r8.5   26. C9+1   p++1   27. E3+5   r5+2   
+28. K5.4   r4-4   29. R7.5   r4.6   30. R4-3   h7+6   
+31. R5.7   r5.3   32. R7+2   r3.2   33. R7-2   r2-7   }END
+
+
+FORMAT 	WXF
+GAME 	Ji Benhan(L)Hu Ronghua,50
+TIME       ;
+RESULT     0-1
+RED        Ji Benhan ; CM ; China-Jiangsu ; ¼¾±¾º­ , ©u¥»¨ç
+BLACK      Hu Ronghua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+DATE       11/12/1964
+PLACE      
+EVENT      ÎåÊ¡ÊÐÏóÆåÑûÇëÈü ; 1964
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   p7+1   3.  R1.2   c8.6   
+4.  P5+1   r1+1   5.  R2+6   h8+7   6.  H8+7   c6.5   
+7.  R2.3   r9+2   8.  C8.9   c2-1   9.  R9.8   c2.7   
+10. R3.4   p3+1   11. H3+5   c7.5   12. R8+6   h3+4   
+13. P5+1   c++2   14. R4-3   r1.4   15. C9-1   p3+1   
+16. R8+1   p3+1   17. C9.7   e3+1   18. C7.5   p3+1   
+19. H5-7   h7+8   20. R8.1   e7+9   21. R4.6   c++4   
+22. A4+5   r4.3   23. R6+2   r3+6   24. R6+1   h8-7   
+25. R6.9   e1-3   }END
+
+
+FORMAT 	WXF
+GAME 	HU RongHua(W)JI BenHan,83
+TIME       ;
+RESULT     1-0
+RED        HU RongHua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+BLACK      JI BenHan ; CM ; China-Jiangsu ; ¼¾±¾º­ , ©u¥»¨ç
+DATE       12/4/1960
+PLACE      
+EVENT      5 Sheng Shi Xiangqi Championship ; 1960
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  H8+9   p7+1   
+4.  R1.2   r9.8   5.  C8.7   c2+2   6.  R2+6   h7+6   
+7.  R9.8   r1.2   8.  R8+4   e3+5   9.  P9+1   a4+5   
+10. C7+4   p7+1   11. R2.4   h6+7   12. C5.7   p7.6   
+13. E7+5   c2.7   14. R4.2   p6+1   15. R8.4   p6+1   
+16. R4-2   r2+7   17. R4+1   r2.1   18. R4.3   c8.7   
+19. R2+3   c-+4   20. P7+1   c-.2   21. R2-6   c2+5   
+22. C--2   c7+3   23. A4+5   r1.5   24. H3+4   r5.9   
+25. H4+6   r9+2   26. C+.1   c2-3   27. P5+1   c7-3   
+28. C1-6   c2.8   29. C7+7   c8+3   30. K5.4   c7+3   
+31. K4+1   c7.9   32. C7-1   c9-2   33. H6+8   c9.1   
+34. C7.6   c1+1   35. A5+6   c8-8   36. P7+1   a5+6   
+37. P7+1   c8.6   38. K4.5   e7+9   39. C6-3   c6.9   
+40. H8+7   k5+1   41. H7-6   k5.6   42. P5+1   }END
+
+
+FORMAT 	WXF
+GAME 	Wang Jialiang(L)Ji Benhan,54
+TIME       ;
+RESULT     0-1
+RED        Wang Jialiang ; GM ; China-HeilongJiang ; Íõ¼ÎÁ¼ , ¤ý¹Å¨}
+BLACK      Ji Benhan ; CM ; China-Jiangsu ; ¼¾±¾º­ , ©u¥»¨ç
+DATE       12/12/1964
+PLACE      
+EVENT      5 Sheng Shi Xiangqi Championship ; 1964
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  R1.2   r9.8   
+4.  R2+6   h2+3   5.  P7+1   a4+5   6.  C8.7   e3+5   
+7.  R2.3   c8+6   8.  R9+1   r1.4   9.  R3+1   p3+1   
+10. R3-1   c2+1   11. R3+2   h3+2   12. H8+9   p3+1   
+13. R3.4   p3+1   14. H9+7   h2+3   15. R9.8   c2.3   
+16. R8+1   c3+4   17. R8.7   h3+5   18. E7+5   c8.1   
+19. R7.9   r8+8   20. P3+1   r4+8   21. P3+1   r8.7   
+22. R4-2   r7-1   23. R4.5   r7-3   24. P1+1   r7.2   
+25. R9-1   r4.1   26. R5.9   r1.6   27. R9.1   r2+3   }END
+
+
+FORMAT 	WXF
+GAME 	Wang Jialiang(W)Li Yiting,73
+TIME       ;
+RESULT     1-0
+RED        Wang Jialiang ; GM ; China-HeilongJiang ; Íõ¼ÎÁ¼ , ¤ý¹Å¨}
+BLACK      Li Yiting ; GM ; China-Hubei ; ÀîÒåÍ¥ , §õ¸q®x
+DATE       12/26/1964
+PLACE      
+EVENT      5 Sheng Shi Xiangqi Championship ; 1964
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. P3+1   r8+6   11. H8+7   h7+8   12. P3+1   c7+6   
+13. C5+4   h3+5   14. C8.3   r8.7   15. P3.2   r7+1   
+16. H7+5   r7+2   17. R4.5   p9+1   18. E7+5   r7-3   
+19. H5+4   r7.9   20. R9.8   c2+4   21. H4+2   r1+2   
+22. R5.7   r1.7   23. P2.3   c2.3   24. R7.3   r7.8   
+25. A6+5   c3.8   26. E5-3   c8+3   27. P3.2   r9.8   
+28. R8+9   a5-4   29. R3+3   r+.5   30. R8-4   r5.1   
+31. R3-3   r1.8   32. P5+1   r+-1   33. R8.7   e3+1   
+34. R7.5   r+.3   35. P5+1   r3-1   36. R5-1   r3.8   
+37. A5-6   }END
+

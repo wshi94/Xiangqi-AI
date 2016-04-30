@@ -1,0 +1,2817 @@
+
+
+FORMAT 	WXF
+GAME 	Yu Youhua(W)Yan Mujiang,93
+TIME       ;
+RESULT     1-0
+RED        Yu Youhua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+BLACK      Yan Mujiang ; CM ; China-Jiangsu ; ÑÔÄÂ½­ , ¨¥¿p¦¿
+DATE       15/09/1978
+PLACE      
+EVENT      Chinese National Champion ; 1978
+ROUND      
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  C2.5   h2+3   
+4.  H2+3   r9.8   5.  R1.2   c2+4   6.  P5+1   c8+3   
+7.  H7+5   e3+5   8.  P5+1   c2.7   9.  C8.7   p5+1   
+10. C5+3   a4+5   11. E3+5   c8.5   12. R2+9   h7-8   
+13. R9.8   r1.2   14. R8+9   h3-2   15. A4+5   h2+4   
+16. C7.6   h8+7   17. H5-7   c7.3   18. H7-8   h4+2   
+19. H8+9   c3.4   20. H9-7   c4-4   21. K5.4   c4+1   
+22. H7+8   c4.6   23. C6.8   h2+4   24. H8-6   h4+6   
+25. K4.5   h6+7   26. H6+5   h+-5   27. C8+2   h5+7   
+28. H3+5   c6.4   29. C8-3   h-+6   30. H5+6   h7-5   
+31. C8+5   c4-2   32. C8.1   p3+1   33. C1.5   h6+7   
+34. C+.3   h7-6   35. C3.5   h6+7   36. P7+1   p7+1   
+37. E5+3   c4.3   38. E7+5   h5+3   39. C+.3   h7-5   
+40. H6+5   c3.1   41. H5-6   a5+4   42. C3.5   k5.4   
+43. H6+7   k4+1   44. C+-2   c1+5   45. C-.6   k4.5   
+46. P1+1   h3+4   47. K5.4   }END
+
+
+FORMAT 	WXF
+GAME 	Zhao Qingge(L)Li Guangliu,132
+TIME       ;
+RESULT     0-1
+RED        Zhao Qingge ; CM ; China-LiaoNing ; ÕÔÇì¸ó , »¯¼y»Õ
+BLACK      Li Guangliu ; NT ; China-Hong Kong ; Àî¹ãÁ÷ , §õ¼s¬y
+DATE       15/09/1978
+PLACE      
+EVENT      Chinese National Champion ; 1978
+ROUND      
+START{
+1.  H2+3   c8.7   2.  C8.5   e3+5   3.  H8+7   p7+1   
+4.  R9.8   h8+9   5.  R1.2   r9+1   6.  C2+7   h2+4   
+7.  P5+1   r9.6   8.  C2.1   r6.9   9.  C1-2   r9+1   
+10. P5+1   p5+1   11. H3+5   r1.2   12. R8+5   c7+1   
+13. H5+6   r9.8   14. R2+7   c2.8   15. H6+5   e7+5   
+16. R8.5   a6+5   17. C5+5   a5-6   18. C5-1   r2+2   
+19. H7+5   c7-2   20. E7+5   h4+5   21. R5+1   a6+5   
+22. R5.3   r2.5   23. H5+6   r5+2   24. H6-8   r5.2   
+25. H8-6   c7.6   26. R3.7   r2.4   27. H6+4   r4.6   
+28. H4-6   r6.4   29. H6+7   c8.5   30. A6+5   c5+4   
+31. P7+1   c6+3   32. R7.5   c6.5   33. H7+6   r4-2   
+34. R5-1   r4+4   35. P9+1   r4.1   36. K5.6   r1.4   
+37. K6.5   r4.2   38. K5.6   r2.4   39. K6.5   r4.1   
+40. K5.6   c5.9   41. R5.3   r1+3   42. K6+1   c9+2   
+43. A5+6   r1-4   44. R3.4   r1+3   45. K6-1   r1-1   
+46. P3+1   r1.4   47. K6.5   r4-4   48. P7+1   r4.5   
+49. P7.6   p1+1   50. R4.2   c9+1   51. K5+1   c9.6   
+52. P3+1   c6-7   53. P3.4   p1+1   54. R2+4   a5-6   
+55. R2-5   p1+1   56. R2.6   p1.2   57. P6+1   r5-1   
+58. P4+1   c6.8   59. R6.1   p2.3   60. R1+2   r5.2   
+61. R1-2   p3+1   62. R1.5   a6+5   63. E5-7   p3.4   
+64. P4.5   r2.7   65. E3+1   r7+6   66. K5-1   p4+1   }END
+
+
+FORMAT 	WXF
+GAME 	Zhao Qingge(L)Chen Xiaokun,78
+TIME       ;
+RESULT     0-1
+RED        Zhao Qingge ; CM ; China-LiaoNing ; ÕÔÇì¸ó , »¯¼y»Õ
+BLACK      Chen Xiaokun ; CM ; China-Hangzhou ; ³ÂÐ¢À¤ , ³¯§µ©[
+DATE       15/09/1978
+PLACE      
+EVENT      Chinese National Champion ; 1978
+ROUND      
+START{
+1.  H2+3   p7+1   2.  P7+1   c2+4   3.  H8+7   c2.3   
+4.  R9.8   h2+3   5.  E3+5   r1.2   6.  C8+4   h8+7   
+7.  A4+5   c8.9   8.  R1.2   r9.8   9.  C2+5   h7+6   
+10. R8+3   h6+7   11. C2-1   h7+9   12. R2+2   c9+4   
+13. R8-3   c9-2   14. A5-4   r2+1   15. R8+3   p7+1   
+16. R2.1   r8+3   17. R8.7   r2+2   18. E5+3   r2+1   
+19. R7.6   h3-5   20. E7+5   h5+7   21. A6+5   r8+3   
+22. R1+1   r2.8   23. R1.2   r8+2   24. K5.6   a6+5   
+25. H3+4   r8.6   26. H4+6   h7+8   27. H6+8   h8+6   
+28. R6+3   r6+2   29. H7+6   c9+5   30. K6+1   c9-1   
+31. H6+4   h6+7   32. H8+7   k5.6   33. H4+3   k6+1   
+34. H3-5   e3+5   35. K6+1   r6-4   36. P7+1   r6.3   
+37. E5+7   r3.2   38. K6.5   c9.8   39. H5+3   r2+3   }END
+
+
+FORMAT 	WXF
+GAME 	Yu Youhua(W)Yan Mujiang,71
+TIME       ;
+RESULT     1-0
+RED        Yu Youhua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+BLACK      Yan Mujiang ; CM ; China-Jiangsu ; ÑÔÄÂ½­ , ¨¥¿p¦¿
+DATE       15/09/1978
+PLACE      
+EVENT      Chinese National Champion ; 1978
+ROUND      
+START{
+1.  H2+3   p7+1   2.  P7+1   h8+7   3.  H8+7   c2.6   
+4.  H7+6   h2+3   5.  C8.5   a4+5   6.  R9.8   e3+5   
+7.  H3-5   p9+1   8.  H5+7   r9+3   9.  A6+5   r9.6   
+10. P1+1   c8.9   11. R1.2   p9+1   12. C2+6   p7+1   
+13. P3+1   r6+2   14. P3+1   h7+9   15. R2+7   h9+7   
+16. R2.1   r6.8   17. R1+1   c6.7   18. C2.3   h7+8   
+19. C5.2   h8-6   20. C2.6   r1.2   21. R8+9   h3-2   
+22. H6+4   c7+2   23. E7+5   h2+1   24. C3-1   h1-3   
+25. R1-2   h6+4   26. R1.3   r8.6   27. H4+5   h3+5   
+28. R3-1   p5+1   29. C3.2   r6.8   30. C2-2   e7+9   
+31. R3+2   e9+7   32. R3-2   p9+1   33. C2.5   r8.3   
+34. C5+1   r3+2   35. R3.6   h4-3   36. C6+2   }END
+
+
+FORMAT 	WXF
+GAME 	Li Laiqun(D)Qian Hongfa,38
+TIME       ;
+RESULT     0.5-0.5
+RED        Li Laiqun ; IGM ; China-Hebei ; ÀîÀ´Èº , §õ¨Ó¸s
+BLACK      Qian Hongfa ; CM ; China-Gansu ; Ç®ºé·¢ , ¿ú¬xµo
+DATE       13/09/1978
+PLACE      
+EVENT      Chinese National Champion ; 1978
+ROUND      
+START{
+1.  E3+5   c8.5   2.  H2+3   h8+7   3.  P3+1   r9.8   
+4.  R1.2   h2+1   5.  C2+4   c2.4   6.  C8.6   r1.2   
+7.  H8+7   r2+6   8.  P7+1   c5+4   9.  H3+5   r2.5   
+10. R9.8   r5.3   11. R8+7   a6+5   12. H7-8   p1+1   
+13. P3+1   r3.7   14. P3.4   r7.6   15. P4+1   h7-9   
+16. C2+1   h9+7   17. C2-1   h7-9   18. C2+1   h9+7   
+19. C2-1   h7-9   }END
+
+
+FORMAT 	WXF
+GAME 	Chen Xinquan(D)Jiang Zhiliang,72
+TIME       ;
+RESULT     0.5-0.5
+RED        Chen Xinquan ; NT ; China-Sichuan ; ³ÂÐÂÈ« , ³¯·s¥þ
+BLACK      Jiang Zhiliang ; CM ; China-Anhui ; ½¯Ö¾Áº , ½±§Ó¼Ù
+DATE       13/09/1978
+PLACE      
+EVENT      Chinese National Champion ; 1978
+ROUND      
+START{
+1.  E3+5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  H8+7   h2+1   5.  C2+4   p7+1   6.  P7+1   c2.4   
+7.  R9.8   r1.2   8.  C8+4   c4+5   9.  E5-3   p1+1   
+10. H7+6   a6+5   11. R8+3   c4-1   12. C2.3   r8+9   
+13. H3-2   c4.1   14. H2+3   c1-1   15. H6+4   h7-9   
+16. E3+5   h1-3   17. C8+2   p5+1   18. C3.5   k5.6   
+19. R8-2   c5.6   20. R8.2   r2+1   21. R2+7   c6+1   
+22. R2.1   r2+1   23. R1.3   e7+9   24. R3-2   r2.6   
+25. P3+1   p7+1   26. E5+3   c1.2   27. R3.2   c6.7   
+28. H3+2   c7-3   29. E3-5   c2.8   30. C5.4   r6.5   
+31. H4-2   r5+1   32. H2-4   h3+5   33. H4+3   h5-7   
+34. H3+5   h7+8   35. C4.7   h8+6   36. C7.1   h6+5   }END
+
+
+FORMAT 	WXF
+GAME 	Lin Hongmin(L)Tao Hanming,90
+TIME       ;
+RESULT     0-1
+RED        Lin Hongmin ; GM ; China-Shanghai ; ÁÖºêÃô , ªL§»±Ó
+BLACK      Tao Hanming ; GM ; China-Jilin ; ÌÕººÃ÷ , ³³º~©ú
+DATE       20/10/1996
+PLACE      
+EVENT      Chinese National Champion ; 1996
+ROUND      
+START{
+1.  E3+5   h2+3   2.  H2+3   p3+1   3.  P3+1   h3+4   
+4.  R1+1   c8.4   5.  H8+7   h8+7   6.  H3+2   c2.3   
+7.  R9.8   r1.2   8.  R1.8   e7+5   9.  C8+6   r9+1   
+10. R++5   c3+4   11. C8-1   c3.4   12. R+.7   r2+1   
+13. P1+1   r9.3   14. R7.9   p3+1   15. R9-1   h4+2   
+16. R9.8   r3+1   17. H7+8   r3.2   18. R++2   r2+1   
+19. H8-9   r2+7   20. H9-8   c-.2   21. E7+9   p3+1   
+22. H8+6   c4-1   23. H2+3   p3.4   24. H6-8   c4.9   
+25. H8+7   c2+5   26. C2+1   p4+1   27. H7-8   c2.5   
+28. C2.1   c5.7   29. H3-2   c7+2   30. A4+5   p4.5   
+31. P3+1   p++1   32. K5.4   p+.6   33. K4.5   e5+7   
+34. H8+7   e7-5   35. A6+5   c9-1   36. P5+1   c9+1   
+37. H2-3   h7+8   38. H7+5   p6.7   39. K5.6   c7.9   
+40. C1.2   h8+7   41. H5+3   c-.5   42. E9+7   a6+5   
+43. H-+1   c5.4   44. H1+2   h7-5   45. H3-4   h5+4   }END
+
+
+FORMAT 	WXF
+GAME 	Jiang Quansheng(W)Leung Tatman,36
+TIME       ;
+RESULT     1-0
+RED        Jiang Quansheng ; CM ; China-Sichuan ; ½¯È«Ê¤ , ½±¥þ³Ó
+BLACK      Leung Tatman ; NT ; China-Hong Kong ; Áº´ïÃñ , ±ç¹F¥Á
+DATE       09/12/1998
+PLACE      
+EVENT      Chinese National Champion ; 1998
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  C8+2   e7+5   6.  R1.2   r1+1   
+7.  R9+1   r1.4   8.  H7+6   c8+4   9.  C5.6   r4.8   
+10. R2+1   c8-1   11. C8-3   r+.6   12. H6+7   c2+5   
+13. E7+5   r6.4   14. A6+5   c8+2   15. C8.6   r4.2   
+16. H7-6   h3+2   17. H6-7   c2.4   18. A5+6   h2+3   }END
+
+
+FORMAT 	WXF
+GAME 	NA(L)NA,54
+TIME       ;
+RESULT     0-1
+RED        NA  ; NT  ; NA ; ²»Ïê , ¤£¸Ô
+BLACK      NA  ; NT  ; NA ; ²»Ïê , ¤£¸Ô
+DATE       09/12/1998
+PLACE      
+EVENT      Chinese National Champion ; 1998
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   h7+6   6.  H8+7   e3+5   
+7.  P5+1   p7+1   8.  R2.4   h6+7   9.  P5+1   a4+5   
+10. P5+1   c2+1   11. H3+5   c8+5   12. P7+1   c8.3   
+13. P7+1   h7-5   14. C5+2   c2.5   15. P7+1   c5+3   
+16. R4-3   c3-3   17. C5+1   c5-1   18. R9+1   r8+4   
+19. C8+3   c3+2   20. R4.7   r8.5   21. C8-1   r1.4   
+22. R9.8   r4+7   23. C8+5   r4.5   24. R8.5   r+.2   
+25. R7.5   p7.6   26. C8.9   r5.4   27. E7+5   r2+2   }END
+
+
+FORMAT 	WXF
+GAME 	Zhu Weipin(W)Guo Liping,75
+TIME       ;
+RESULT     1-0
+RED        Zhu Weipin ; CM ; China-Qinggong ; ÖìÎ°Æµ , ¦¶°¶ÀW
+BLACK      Guo Liping ; GM ; China-HeilongJiang ; ¹ùÀòÆ¼ , ³¢²úµÓ
+DATE       22/10/1996
+PLACE      
+EVENT      Chinese National Champion ; 1996
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   a4+5   6.  H8+7   e3+5   
+7.  R2.3   c2+4   8.  P3+1   p7+1   9.  R3+1   p7+1   
+10. H3-5   c8+7   11. P5+1   r8+6   12. P9+1   r1.4   
+13. C5.1   r4+4   14. R9+3   r4.6   15. C1.4   r8+2   
+16. H5+6   r8.7   17. E7+5   c2-2   18. A6+5   r6+2   
+19. C8-1   r7-1   20. R3-3   c8-3   21. H6+4   c2+2   
+22. C8.7   r7.8   23. R3.2   r8+2   24. H4-2   p7+1   
+25. R2.3   r8-3   26. R3-2   r6.4   27. C4-1   p3+1   
+28. P7+1   e5+3   29. H7-9   c2.3   30. H9+7   c3.2   
+31. R3+7   h3+2   32. R9-3   c2+1   33. C4.1   h2+1   
+34. C1+1   e3-5   35. R3-3   r4+2   36. R9.8   r8.2   
+37. H7+6   r2.3   38. C1-1   }END
+
+
+FORMAT 	WXF
+GAME 	Song Guoqiang(W)YANG KeXiong,59
+TIME       ;
+RESULT     1-0
+RED        Song Guoqiang ; CM ; China-HuoCheTou ; ËÎ¹úÇ¿ , §º°ê±j
+BLACK      YANG KeXiong  ; NT  ; NA ; Ñî¿ËÐÛ , ·¨§J¶¯
+DATE       22/10/1996
+PLACE      
+EVENT      Chinese National Champion ; 1996
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c2-1   3.  H8+7   p7+1   
+4.  P7+1   h8+7   5.  H7+6   e3+5   6.  C8.7   h7+8   
+7.  R9.8   c2.7   8.  H6+5   a4+5   9.  H5-4   h8+7   
+10. R1.2   p7+1   11. H4+6   h7+5   12. E7+5   c8.6   
+13. R2+8   c7+6   14. C7.3   p7+1   15. H6+8   r1.3   
+16. C3.4   h3+5   17. C4+7   k5.6   18. R2.5   r3.2   
+19. R8+1   h5-7   20. R5.3   c6+1   21. R8.4   h7+8   
+22. H8+7   r2.3   23. R4+4   r9.8   24. R4.6   h8-9   
+25. R3.1   r8+3   26. H7-5   e7+5   27. R1-1   e5-7   
+28. R1.3   r8-3   29. R3.4   k6.5   30. R6.5   }END
+
+
+FORMAT 	WXF
+GAME 	You Yingqin(L)Huang Wei,74
+TIME       ;
+RESULT     0-1
+RED        You Yingqin ; CM ; China-Hubei ; ÓÈÓ±ÇÕ , ¤×¿o´Ü
+BLACK      Huang Wei ; IGM ; China-Jiangsu ; »ÆÞ± , ¶ÀÁ¨
+DATE       22/10/1996
+PLACE      
+EVENT      Chinese National Champion ; 1996
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   c8.9   
+4.  H8+7   r8+5   5.  P5+1   c2.5   6.  H7+5   h2+3   
+7.  C8.7   e3+1   8.  R9.8   p7+1   9.  P3+1   r8-1   
+10. R1.2   r8+5   11. H3-2   h7+6   12. H2+3   h6+5   
+13. H3+5   r1+1   14. C5-1   r1.6   15. P3+1   a6+5   
+16. H5-3   c9.7   17. C5+1   r6+5   18. P3+1   c7+5   
+19. C7.3   c5+3   20. A6+5   p5+1   21. C3+7   p3+1   
+22. R8+7   h3+4   23. C3.1   h4+3   24. K5.6   r6.4   
+25. C5.6   p3+1   26. R8.2   h3+2   27. K6+1   a5+6   
+28. R2+2   k5+1   29. R2-1   k5-1   30. R2+1   k5+1   
+31. R2-1   k5-1   32. R2.8   c5.8   33. R8-6   p3+1   
+34. P3+1   p3.2   35. R8.7   c8.4   36. R7-1   p2+1   
+37. P3.4   p2.3   }END
+
+
+FORMAT 	WXF
+GAME 	Huang Wei(W)Li Deling,71
+TIME       ;
+RESULT     1-0
+RED        Huang Wei ; IGM ; China-Jiangsu ; »ÆÞ± , ¶ÀÁ¨
+BLACK      Li Deling ; CM ; China-Sichuan ; ÀèµÂÁá , ¾¤¼w¬Â
+DATE       22/10/1996
+PLACE      
+EVENT      Chinese National Champion ; 1996
+ROUND      
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   r9+1   
+4.  H8+7   r9.2   5.  R1.2   h2+4   6.  C8.9   h8+9   
+7.  H7+6   a4+5   8.  C9.6   r1+1   9.  A6+5   r2+4   
+10. R2+4   p9+1   11. C6-2   c8.6   12. C5.6   h4+2   
+13. H6+7   r2.3   14. R2.7   c3+3   15. R9.8   c3-1   
+16. P3+1   r1.3   17. R8+6   r3+1   18. E7+5   c6+1   
+19. C-.7   r3.4   20. H3+4   h2-3   21. R8-2   c6.3   
+22. C7+6   r4+1   23. C7.5   h9+8   24. P3+1   h8-7   
+25. C5-1   p7+1   26. R8+5   h7+5   27. H4+3   r4-1   
+28. H3+2   r4.2   29. H2-4   k5.4   30. C5.6   h5+4   
+31. R8.7   e5-3   32. H4-6   r2.4   33. C++2   a5+4   
+34. H6-4   c3.5   35. P5+1   k4.5   36. P5+1   }END
+
+
+FORMAT 	WXF
+GAME 	Zhang Xiaoping(L)Hu Ronghua,62
+TIME       ;
+RESULT     0-1
+RED        Zhang Xiaoping ; CM ; China-HeilongJiang ; ÕÅÏþÆ½ , ±i¾å¥­
+BLACK      Hu Ronghua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+DATE       26/10/1989
+PLACE      
+EVENT      Chinese National Champion ; 1989
+ROUND      
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  P7+1   c2+4   5.  H8+7   h2+3   6.  H7+6   c2.7   
+7.  C8.7   r1.2   8.  H6+7   c5.4   9.  P7+1   r2+6   
+10. E7+9   r9.8   11. P7.6   r8+9   12. H3-2   h3-1   
+13. R9.7   a6+5   14. A6+5   r2.5   15. P6+1   c4.6   
+16. H7-6   p5+1   17. P6.7   p5+1   18. H6+8   h7+6   
+19. C7+3   p5.4   20. C7.3   e7+5   21. C3-1   c6.7   
+22. C5.6   r5-1   23. C3+2   c+-2   24. H8+6   h6-4   
+25. C6+4   r5-2   26. C6.9   c+.3   27. E3+5   r5.3   
+28. C3-2   r3.1   29. R7+3   r1.8   30. H2+4   h1+2   
+31. R7.4   p4.5   }END
+
+
+FORMAT 	WXF
+GAME 	Hu Ronghua(L)Xu Yinchuan,80
+TIME       ;
+RESULT     0-1
+RED        Hu Ronghua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+BLACK      Xu Yinchuan ; IGM ; China-Guangdong ; ÐíÒø´¨ , ³\»È¤t
+DATE       5/8/1993
+PLACE      
+EVENT      Chinese National Champion ; 1993
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  P7+1   c2+4   
+7.  P5+1   a4+5   8.  R9.8   c8+2   9.  P3+1   p7+1   
+10. R2+3   c2.7   11. H3+5   r2+9   12. H9-8   c8.5   
+13. R2.3   p7+1   14. P5+1   p5+1   15. C5+3   h3+5   
+16. H5+3   e3+5   17. C7+4   h7+8   18. C7.6   h8+6   
+19. H3+4   a5+6   20. C5-1   a6+5   21. H8+7   h6-8   
+22. H4-3   h5+7   23. C5+1   h8+9   24. H7+5   p7.6   
+25. H3-1   r8+3   26. C6-5   p6.5   27. H1+3   r8.4   
+28. C6.3   r4+2   29. E3+1   k5.4   30. A4+5   r4.3   
+31. C3+4   e5+7   32. H3-5   r3+4   33. H5+6   e7+5   
+34. C5.4   k4.5   35. H6-8   p1+1   36. H8+6   r3-2   
+37. E1+3   r3-4   38. E3-5   r3.4   39. H6-8   r4+2   
+40. H8+7   r4+1   }END
+
+
+FORMAT 	WXF
+GAME 	Hu Ronghua(W)DING RuYi,67
+TIME       ;
+RESULT     1-0
+RED        Hu Ronghua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+BLACK      DING RuYi  ; NT  ; China-Anhui ; ¶¡ÈçÒâ , ¤B¦p·N
+DATE       1/8/1993
+PLACE      
+EVENT      Chinese National Champion ; 1993
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   c8.9   
+4.  H8+7   e3+5   5.  P3+1   h2+3   6.  C8.9   r1.2   
+7.  R9.8   r8+4   8.  R1.2   r8+5   9.  H3-2   c2+4   
+10. H7+6   c2-1   11. H6+7   c2.7   12. R8+9   h3-2   
+13. C9+4   h2+3   14. C9+3   k5+1   15. E3+1   c7+1   
+16. H2+3   p7+1   17. P5+1   c9.8   18. P5+1   c8+1   
+19. P7+1   e5+3   20. P5+1   k5.6   21. P5.4   h7+6   
+22. C5.4   c7.5   23. P4.3   h6+4   24. P3.2   k6.5   
+25. H7-5   c5-1   26. K5+1   h3+4   27. K5.4   h++3   
+28. C4.5   h3+4   29. C5-2   h+-3   30. H5+6   e3-5   
+31. H6+8   h4-2   32. H3+4   h2+4   33. H4+5   h4+5   
+34. E7+5   }END
+
+
+FORMAT 	WXF
+GAME 	Chen Xinquan(L)Li Yiting,142
+TIME       ;
+RESULT     0-1
+RED        Chen Xinquan ; NT ; China-Sichuan ; ³ÂÐÂÈ« , ³¯·s¥þ
+BLACK      Li Yiting ; GM ; China-Hubei ; ÀîÒåÍ¥ , §õ¸q®x
+DATE       4/12/1958
+PLACE      
+EVENT      Chinese National Champion ; 1958
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  P7+1   p7+1   5.  H8+9   c2+4   6.  C8.7   c2.7   
+7.  E3+1   c8+4   8.  R9+1   e3+5   9.  R9.4   p7+1   
+10. P7+1   e5+3   11. P5+1   a4+5   12. C7+1   c7.1   
+13. C5+1   r1.4   14. C5.9   c8.1   15. R2+9   h7-8   
+16. E1+3   r4+6   17. R4.2   h8+9   18. R2+6   h3-4   
+19. H3+4   c1-1   20. H4+3   c1.7   21. H3+2   c7+4   
+22. A4+5   h4+5   23. C7+3   c7.9   24. H9+8   r4.2   
+25. C7.1   c9-6   26. R2.1   c9.8   27. H8+6   r2.7   
+28. R1.2   h5-7   29. E7+5   p1+1   30. P1+1   r7-2   
+31. H6+7   p5+1   32. H7-5   c8.6   33. R2-3   e3-1   
+34. R2.4   r7.8   35. H2-3   r8+5   36. A5-4   r8-2   
+37. E5-7   r8-4   38. H5+4   r8+3   39. P5+1   r8.5   
+40. A4+5   r5-2   41. P1+1   r5-2   42. R4.2   r5.6   
+43. R2+4   c6.5   44. A5+6   h7+6   45. R2-1   h6+5   
+46. A6+5   h5+3   47. E7+5   r6.8   48. H4-2   h3+5   
+49. K5.4   h5-7   50. H2+3   h7+8   51. K4+1   c5+3   
+52. H--4   p1+1   53. H3-2   p1.2   54. H2-3   p2.3   
+55. H4+2   c5-2   56. H3-2   c5.6   57. P1+1   c6-3   
+58. H--3   a5+6   59. A5+4   p3.4   60. H3+2   p4+1   
+61. A6-5   p4.5   62. H-+4   a6-5   63. P1.2   p5.6   
+64. P2.3   e1-3   65. P3.4   c6.9   66. H4-2   c9+8   
+67. A5+6   a5+4   68. P4.5   p6.7   69. H--1   c9.5   
+70. H2+4   c5.7   71. P5.6   a4-5   }END
+
+
+FORMAT 	WXF
+GAME 	LI YiTing(D)YANG GuanLin,113
+TIME       ;
+RESULT     0.5-0.5
+RED        LI YiTing ; GM ; China-Hubei
+BLACK      YANG GuanLin ; GM  ; China-Guangdong
+DATE       
+PLACE      
+EVENT      Chinese National Champion ; 1958
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  H7+6   e3+5   6.  C8.7   r1.2   
+7.  R9.8   c2+6   8.  R1.2   c8+4   9.  A4+5   a4+5   
+10. H6+7   h3-1   11. H7+6   r2+3   12. P7+1   e5+3   
+13. H6-5   h7+5   14. C5+4   e3-5   15. C7.5   c2-1   
+16. H3-1   c8+2   17. C+.6   r8+3   18. C6.9   r8+2   
+19. C9-2   c2+1   20. C5.6   r8-2   21. C9.4   h1+3   
+22. C4-3   c2-3   23. P5+1   c2+1   24. E7+5   h3+5   
+25. P5+1   h5+3   26. P5.6   h3+4   27. C4+2   c2+1   
+28. R8.7   c2+2   29. C4.5   r2+5   30. P6+1   r8+2   
+31. P6+1   r8.5   32. R2+1   r5+1   33. P6+1   h4-3   
+34. R2+3   r5.4   35. R2.7   r4-5   36. P3+1   p7+1   
+37. E5+3   r4+5   38. H1+3   r4.7   39. E3-5   h3-5   
+40. R+.3   r7.1   41. R3.5   h5+7   42. R5.3   r2-4   
+43. E3+1   r1.3   44. E1-3   h7-5   45. R3.7   r3.7   
+46. R+.3   r7-1   47. E5+3   r2+2   48. H3+5   h5+4   
+49. C6.4   c2-1   50. H5+6   r2.9   51. C4.5   r9.5   
+52. H6+8   k5.4   53. C5.6   h4+2   54. H8-7   r5.7   
+55. E3-5   e5+3   56. C6-1   k4.5   57. H7-6   }END
+
+
+FORMAT 	WXF
+GAME 	Li Yiting(L)Cai Furu,70
+TIME       ;
+RESULT     0-1
+RED        Li Yiting ; GM ; China-Hubei ; ÀîÒåÍ¥ , §õ¸q®x
+BLACK      Cai Furu ; GM ; China-Guangdong ; ²Ì¸£Èç , ½²ºÖ¦p
+DATE       30/4/1964
+PLACE      
+EVENT      Chinese National Champion ; 1964
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  C8.7   c9.7   9.  R3.4   h7+8   
+10. R4-3   r8+2   11. H8+9   h8+7   12. R9.8   r8.6   
+13. R8+3   p7+1   14. P7+1   p3+1   15. C7+5   r6.3   
+16. C5+4   e3+5   17. A4+5   c2-1   18. P5+1   r3+1   
+19. H3+5   r1.4   20. H5+4   r4+5   21. H4+2   c7.9   
+22. E3+5   p3+1   23. R8+4   k5.4   24. P9+1   r3.4   
+25. H2+1   c2.9   26. R8+2   k4+1   27. R4+5   c9-1   
+28. C5+2   a6+5   29. R8-1   k4-1   30. R4.5   e5-3   
+31. R5.2   h7+9   32. R2-6   r-.8   33. R2.3   r8+6   
+34. E5-3   p7+1   35. R3.4   r8.7   }END
+
+
+FORMAT 	WXF
+GAME 	Tang Zhuoguang(D)Zhao Guorong,66
+TIME       ;
+RESULT     0.5-0.5
+RED        Tang Zhuoguang ; CM ; China-Guangzhou ; ÌÀ×¿¹â , ´ö¨ô¥ú
+BLACK      Zhao Guorong ; IGM ; China-HeilongJiang ; ÕÔ¹úÈÙ , »¯°êºa
+DATE       04/08/1993
+PLACE      
+EVENT      Chinese National Champion ; 1993
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+2   
+7.  R2+6   h7+6   8.  R8+4   e3+5   9.  P9+1   a4+5   
+10. C7+4   p7+1   11. R2.4   c8+3   12. R8.3   r8+4   
+13. R3.8   c8.4   14. C5+4   c2.5   15. E7+5   r2+5   
+16. H9+8   c4.6   17. R4.3   h6+8   18. H8+6   c5+3   
+19. H6+7   c5-4   20. R3.5   h8+7   21. C7-2   r8.3   
+22. H7-9   r3.2   23. H9+7   r2.3   24. H7+9   c6.1   
+25. H9-8   c1-2   26. H8-9   r3.1   27. H9-8   r1.6   
+28. A6+5   c1+3   29. C7.3   c1.5   30. A5+4   r6+3   
+31. C3-2   r6.5   32. K5.6   r5.7   33. R5-3   r7.2   }END
+
+
+FORMAT 	WXF
+GAME 	Lv Qin(W)ZHAO GuoRong,119
+TIME       ;
+RESULT     1-0
+RED        Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+BLACK      ZHAO GuoRong ; IGM ; China-HeilongJiang ; ÕÔ¹úÈÙ , »¯°êºa
+DATE       9/23/1981
+PLACE      .ÎÂÖÝ
+EVENT      Chinese National Champion ; 1981
+ROUND      MA R1
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  H8+7   c2+4   6.  P5+1   c8+4   
+7.  R9+1   c2.3   8.  E7+9   r1.2   9.  R9.6   r2+6   
+10. R6+6   e7+5   11. R6.7   a6+5   12. A4+5   c8-1   
+13. P3+1   c8.5   14. R2+9   h7-8   15. H3+5   p5+1   
+16. P3+1   h8+7   17. R7+1   c3.1   18. P3+1   c1.5   
+19. H7+5   c5+2   20. E3+5   h7-8   21. H5+6   r2+1   
+22. R7-2   r2-5   23. P1+1   p1+1   24. P3.2   p1+1   
+25. P2+1   h8+6   26. P2.3   h6-8   27. P3+1   h8+9   
+28. P3.2   p1.2   29. R7.1   e5+7   30. P7+1   r2.4   
+31. H6-5   p5+1   32. H5-7   p2+1   33. R1.2   r4.7   
+34. H7+8   e7-5   35. P7+1   r7+2   36. R2.1   h9+7   
+37. P2.3   p5+1   38. E9-7   a5-6   39. P7.6   a4+5   
+40. H8+9   r7+2   41. R1.2   p5+1   42. E7+5   h7+6   
+43. P3.4   h6+5   44. A5+4   r7.6   45. P4+1   r6-6   
+46. A6+5   r6+5   47. H9+8   r6.7   48. A5+6   p2.3   
+49. R2+3   e5-7   50. P6+1   p3+1   51. P6+1   r7-4   
+52. R2-4   e7+5   53. R2+4   a5-6   54. P6+1   k5+1   
+55. R2-3   p3.4   56. H8-9   r7+8   57. K5+1   r7-1   
+58. K5-1   r7+1   59. K5+1   r7-1   60. K5-1   }END
+
+
+FORMAT 	WXF
+GAME 	Lv Qin(L)Zhao Guorong,90
+TIME       ;
+RESULT     0-1
+RED        Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+BLACK      Zhao Guorong ; IGM ; China-HeilongJiang ; ÕÔ¹úÈÙ , »¯°êºa
+DATE       3/12/1984
+PLACE      
+EVENT      Chinese National Champion ; 1984
+ROUND      
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  C2.5   r9.8   
+4.  H2+3   h2+3   5.  R1+1   e3+5   6.  R1.4   c8.9   
+7.  P5+1   a4+5   8.  C8.9   r8+6   9.  R9.8   r1.2   
+10. R8+3   p7+1   11. P9+1   r8.7   12. H7+5   h7+8   
+13. C9+1   p7.6   14. C5.8   p6+1   15. H5-7   c2+2   
+16. R8.4   r7.6   17. R4+2   c2.7   18. C9.8   c7+5   
+19. A4+5   r2.4   20. H7+8   r4+4   21. H8+7   c7.9   
+22. E7+5   c-.8   23. K5.4   c8.6   24. K4.5   c6.8   
+25. K5.4   c9-2   26. R4.5   r4.6   27. A5+4   c9.6   
+28. C--2   r6.4   29. K4.5   c6-4   30. H7+9   c8-1   
+31. A6+5   r4+4   32. C-.6   r4.2   33. C6.7   r2+1   
+34. R5.6   h3+2   35. H9+8   c6-1   36. C7.6   r2-2   
+37. H3-1   h8-6   38. R6.5   h6+5   39. R5+1   r2-1   
+40. R5+2   h2+4   41. R5-2   h4+3   42. R5.2   c8.7   
+43. R2.3   r2+2   44. C6+2   r2+1   45. C6-2   e5+7   }END
+
+
+FORMAT 	WXF
+GAME 	Yu Youhua(W)Wang Bin,41
+TIME       ;
+RESULT     1-0
+RED        Yu Youhua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+BLACK      Wang Bin ; CM ; China-Jiangsu ; Íõ±ó , ¤ýÙy
+DATE       22/10/1992
+PLACE      
+EVENT      Chinese National Champion ; 1992
+ROUND      
+START{
+1.  E3+5   c2.4   2.  H8+7   p3+1   3.  R9.8   h2+3   
+4.  P3+1   e7+5   5.  H2+3   h8+7   6.  H3+4   r1+1   
+7.  C2.4   r9.8   8.  C8+5   c4-1   9.  C8+1   c8+3   
+10. H4+3   c8+4   11. A4+5   h3+4   12. C4+6   c8-2   
+13. R8+7   c4.3   14. H7-9   r8+4   15. R1.2   r8-1   
+16. P3+1   h7-8   17. C4.1   e5+7   18. C1+1   h4+5   
+19. R2.4   a4+5   20. C8+1   e3+1   21. C8.4   }END
+
+
+FORMAT 	WXF
+GAME 	Yu Youhua(D)Xu Yinchuan,81
+TIME       ;
+RESULT     0.5-0.5
+RED        Yu Youhua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+BLACK      Xu Yinchuan ; IGM ; China-Guangdong ; ÐíÒø´¨ , ³\»È¤t
+DATE       10/13/1994
+PLACE      
+EVENT      Chinese National Champion ; 1994
+ROUND      
+START{
+1.  E3+5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  H8+7   h2+1   5.  P3+1   c2.4   6.  R9.8   r1.2   
+7.  A4+5   r2+4   8.  C8.9   r2.4   9.  C2+1   p7+1   
+10. R8+4   c5-1   11. R8.4   e7+5   12. P3+1   r4.7   
+13. H3+2   c5.8   14. C2+5   r8+1   15. R2.4   r7.8   
+16. H2+4   r+.6   17. R++1   h7+6   18. R4+5   p3+1   
+19. C9+4   r8.2   20. P5+1   r2+2   21. C9-2   r2+3   
+22. H7+5   r2.1   23. C9.8   r1.2   24. C8.9   r2.3   
+25. H5+3   r3.1   26. C9.8   r1.2   27. C8.9   p3+1   
+28. R4.6   c4.3   29. R6+1   r2.1   30. C9+2   c3+1   
+31. C9.8   r1.2   32. C8.9   a6+5   33. H3+2   r2.7   
+34. R6.5   c3.8   35. R5.2   r7.9   36. C9.5   r9.6   
+37. C5.1   p3.4   38. P5+1   r6.9   39. R2+3   a5-6   
+40. C1.5   a4+5   41. R2-5   }END
+
+
+FORMAT 	WXF
+GAME 	Yu Youhua(D)Xu Tianli,108
+TIME       ;
+RESULT     0.5-0.5
+RED        Yu Youhua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+BLACK      Xu Tianli ; GM ; China-Shanghai ; ÐìÌìÀû , ®}¤Ñ§Q
+DATE       12/13/1982
+PLACE      
+EVENT      Chinese National Champion ; 1982
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   p7+1   3.  R1.2   c8.6   
+4.  R2+8   a4+5   5.  H8+7   c2-1   6.  R2-4   e7+5   
+7.  C8.9   r1.2   8.  R9.8   h8+7   9.  P3+1   p7+1   
+10. R2.3   h7+6   11. P7+1   c2+5   12. H3+4   r9.7   
+13. R3+5   e5-7   14. H4+6   e3+5   15. C5.4   c6.7   
+16. E7+5   c2.9   17. R8+9   h3-2   18. C9+4   h2+4   
+19. P9+1   c7.6   20. C4+5   a5+6   21. H6+8   c9.8   
+22. A6+5   c8+1   23. H7+8   h6+4   24. P5+1   p9+1   
+25. P9+1   c8+2   26. E5-7   p3+1   27. P7+1   e5+3   
+28. H++6   a6+5   29. H6-7   c8-5   30. H7-6   p5+1   
+31. P5+1   c8.1   32. P5.6   p9+1   33. E7+5   p9.8   
+34. H6+4   h++6   35. C9.1   c1-4   36. A5+4   e7+9   
+37. A4+5   p8.7   38. H4+3   h6-8   39. H3-2   p7.8   
+40. C1.9   h4+5   41. C9-2   p8+1   42. H8+7   h5+6   
+43. P6+1   k5.6   44. H7-8   h6-7   45. H8+6   h7+5   
+46. C9.4   k6.5   47. C4.5   k5.6   48. P6.5   c1.4   
+49. H6+7   c4+1   50. P5.4   a5+4   51. H7+8   c4.3   
+52. C5.9   c3.2   53. H8-6   a6-5   54. H6-8   h5+4   }END
+
+
+FORMAT 	WXF
+GAME 	Xu Yinchuan(D)Yu Youhua,103
+TIME       ;
+RESULT     0.5-0.5
+RED        Xu Yinchuan ; IGM ; China-Guangdong ; ÐíÒø´¨ , ³\»È¤t
+BLACK      Yu Youhua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+DATE       10/28/1991
+PLACE      
+EVENT      Chinese National Champion ; 1991
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   p7+1   3.  C8.6   h8+7   
+4.  R1.2   r9.8   5.  H8+9   r1.2   6.  R9.8   c2+4   
+7.  R2+4   c8.9   8.  R2.7   e3+5   9.  P9+1   h7+6   
+10. H9+8   h6+5   11. R7.4   h5+7   12. R8+3   p7+1   
+13. R4.3   h7-9   14. R3.4   a4+5   15. R8-2   r2.4   
+16. C6.9   r8+4   17. H8+7   c9.7   18. E3+1   r4+3   
+19. R4.7   c7+2   20. H7-6   c7.5   21. A6+5   c5+1   
+22. H6-7   p5+1   23. H7+5   h3+4   24. R7.6   c5+2   
+25. E7+5   p5+1   26. H5+7   r4.3   27. R6.5   h4+3   
+28. C9.7   h3-5   29. C7+4   h5-3   30. P3+1   a5-4   
+31. C7.8   h9+7   32. C8+3   e5-3   33. R8+2   h7-6   
+34. C8-5   h6-5   35. C8+2   e7+5   36. E1-3   p9+1   
+37. R8.5   a6+5   38. H7+5   p9+1   39. C8-1   p9.8   
+40. H5-7   r8-1   41. P9+1   p1+1   42. H7+9   h5+4   
+43. C8-3   r8.1   44. H9-7   r1+2   45. C8-2   p8.7   
+46. C8.7   h3-5   47. R5.1   k5.6   48. A5+6   p7.6   
+49. R1+3   r1.2   50. C7.6   r2+4   51. A4+5   e5+3   
+52. R1-3   }END
+
+
+FORMAT 	WXF
+GAME 	Guo Changshun(L)Yu Youhua,44
+TIME       ;
+RESULT     0-1
+RED        Guo Changshun ; CM ; China-Shenyang ; ¹ù³¤Ë³ , ³¢ªø¶¶
+BLACK      Yu Youhua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+DATE       12/8/1982
+PLACE      
+EVENT      Chinese National Champion ; 1982
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P7+1   p7+1   5.  R2+6   a4+5   6.  R2.3   r9+2   
+7.  C8.7   e3+5   8.  H8+9   c2+4   9.  P5+1   r1.4   
+10. R9.8   r4+6   11. P7+1   c2-6   12. P5+1   c2.4   
+13. P5.4   c4+9   14. R8+2   r9.8   15. P7+1   e5+3   
+16. P4+1   c6.5   17. C7+2   c4.6   18. C5+5   e7+5   
+19. P4+1   r8+6   20. H3-5   r4+2   21. H5+4   c6-7   
+22. R3+1   r4.6   }END
+
+
+FORMAT 	WXF
+GAME 	YAN MuJiang(W)YU YouHua,107
+TIME       ;
+RESULT     1-0
+RED        YAN MuJiang ; CM ; China-Jiangsu ; ÑÔÄÂ½­ , ¨¥¿p¦¿
+BLACK      YU YouHua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+DATE       9/14/1981
+PLACE      .ÎÂÖÝ
+EVENT      Chinese National Champion ; 1981
+ROUND      MA R4
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  P7+1   r9.8   
+4.  H8+7   h2+3   5.  R1+1   e3+5   6.  R1.4   c8.9   
+7.  C8+2   a4+5   8.  C5.6   h7+8   9.  E7+5   h8+9   
+10. H3+1   c9+4   11. A6+5   c9.5   12. R4+2   c5-2   
+13. H7+6   c5+1   14. R9.7   r8+5   15. C8-1   c2-1   
+16. C6.7   c5.3   17. R7.6   c3-1   18. C8+1   r8-2   
+19. H6+7   c2.3   20. H7+5   e7+5   21. C7+5   p5+1   
+22. C8+3   r8.5   23. R6+8   r1.2   24. R4.8   e5-7   
+25. C8+1   r2.4   26. R6+1   a5-4   27. C8+1   c--1   
+28. R8+2   e7+5   29. C7.9   r5.3   30. P9+1   a6+5   
+31. R8+2   c++2   32. C9.5   a5+6   33. R8-2   p5+1   
+34. R8.5   p5.4   35. C5.9   a6-5   36. C9+2   p4.3   
+37. E5+7   r3.2   38. C8.6   r2.4   39. E7-9   c+-4   
+40. R5+2   r4-1   41. R5-1   r4-1   42. R5+1   r4+1   
+43. R5-2   r4-1   44. A5+6   k5.6   45. R5.7   r4+1   
+46. R7.4   k6.5   47. R4.5   r4-1   48. R5.3   k5.6   
+49. R3.7   r4+1   50. R7.4   a5+6   51. R4.5   k6+1   
+52. C6.2   c-.7   53. R5.3   r4.5   54. A4+5   }END
+
+
+FORMAT 	WXF
+GAME 	Xu Tianli(W)Meng Liguo,89
+TIME       ;
+RESULT     1-0
+RED        Xu Tianli ; GM ; China-Shanghai ; ÐìÌìÀû , ®}¤Ñ§Q
+BLACK      Meng Liguo ; GM ; China-LiaoNing ; ÃÏÁ¢¹ú , ©s¥ß°ê
+DATE       12/6/1982
+PLACE      
+EVENT      Chinese National Champion ; 1982
+ROUND      
+START{
+1.  E3+5   p3+1   2.  C8.7   h2+1   3.  H8+9   r1.2   
+4.  P9+1   c2+4   5.  H2+3   c8.5   6.  R9+1   c2.5   
+7.  H3+5   c5+4   8.  A4+5   p5+1   9.  R9.6   r2+3   
+10. R6+4   r2.5   11. R6.7   e7+5   12. R7.6   h8+7   
+13. H9+8   r9+1   14. R6+2   a4+5   15. R6+1   r9.8   
+16. R1.4   p5+1   17. R4+3   r8+3   18. C2.4   e5+3   
+19. H8+6   h1+3   20. H6+7   r5-1   21. R6.7   r5.4   
+22. R7+1   a5-4   23. H7+6   r4-2   24. R7-3   e3-5   
+25. R7.3   h7+5   26. R4.5   h5+6   27. R3.4   r8+5   
+28. C4-2   h6-8   29. R5.4   h8-6   30. R4+3   r4+6   
+31. R4.5   r4.3   32. R5+1   a6+5   33. C7.9   p5+1   
+34. C9+4   p5+1   35. E7+5   r3.7   36. C9.5   k5.4   
+37. C5-3   r7.9   38. R5+1   r8-5   39. R5-4   r8.4   
+40. E5+7   p9+1   41. C5-1   r4+2   42. P9+1   r9-1   
+43. C5.6   r4.3   44. R5+1   r9+1   45. C4+4   }END
+
+
+FORMAT 	WXF
+GAME 	Xu Tianli(D)Cai Furu,87
+TIME       ;
+RESULT     0.5-0.5
+RED        Xu Tianli ; GM ; China-Shanghai ; ÐìÌìÀû , ®}¤Ñ§Q
+BLACK      Cai Furu ; GM ; China-Guangdong ; ²Ì¸£Èç , ½²ºÖ¦p
+DATE       9/13/1979
+PLACE      
+EVENT      Chinese National Champion ; 1979
+ROUND      
+START{
+1.  E3+5   c8.5   2.  H8+7   h8+7   3.  H2+3   r9.8   
+4.  R1.2   r8+6   5.  P3+1   r8.7   6.  R2.3   h2+3   
+7.  P7+1   r7.8   8.  R3.2   p5+1   9.  C8+1   r8-2   
+10. C2.1   r8+5   11. H3-2   r1+1   12. R9+1   r1.4   
+13. H2+3   p5+1   14. C8+1   p5+1   15. H3+5   h7+5   
+16. C1-1   r4+5   17. C1.5   c2-1   18. H5+4   c2.8   
+19. C5+5   h3+5   20. R9.4   r4.3   21. H7-9   r3.1   
+22. H4+5   e7+5   23. R4+5   c8.5   24. A4+5   r1+2   
+25. K5.4   c5.1   26. R4.5   r1.2   27. R5.7   r2-3   
+28. R7.9   r2-4   29. R9.3   r2.6   30. K4.5   r6.9   
+31. R3.4   c1+5   32. P3+1   c1.8   33. R4.2   c8.7   
+34. R2-3   c7+2   35. R2-2   c7-1   36. P3.2   r9.8   
+37. R2.3   c7.9   38. R3+1   c9+2   39. R3.1   c9.8   
+40. R1.2   c8.9   41. P1+1   r8.7   42. R2.1   c9.8   
+43. R1-2   c8-3   44. R1+3   }END
+
+
+FORMAT 	WXF
+GAME 	Yan Mujiang(W)Xu Tianli,71
+TIME       ;
+RESULT     1-0
+RED        Yan Mujiang ; CM ; China-Jiangsu ; ÑÔÄÂ½­ , ¨¥¿p¦¿
+BLACK      Xu Tianli ; GM ; China-Shanghai ; ÐìÌìÀû , ®}¤Ñ§Q
+DATE       9/4/1980
+PLACE      
+EVENT      Chinese National Champion ; 1980
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  H8+7   c2.1   6.  P7+1   p7+1   
+7.  H7+6   a6+5   8.  R2+6   r9.8   9.  R2.3   c6-1   
+10. H6+7   r2+3   11. P7+1   c6.7   12. R3.4   c1-1   
+13. H7-5   r2+3   14. P7+1   p5+1   15. P7+1   e7+5   
+16. R9+2   p5+1   17. C5+2   h7+8   18. R9.7   p7+1   
+19. R4.6   c1-1   20. E7+5   p7.6   21. C5+2   r8+3   
+22. P7+1   k5.6   23. P7.6   r2-6   24. R7+4   c1+6   
+25. C5-1   r8.4   26. R7.6   r2+7   27. A4+5   c7+6   
+28. E5-7   p6+1   29. R6.2   c1-2   30. C5+3   r2-3   
+31. C6+7   c7.8   32. R2.1   c8+2   33. E3+1   r2.6   
+34. C5+1   k6+1   35. R1+2   k6+1   36. P6.5   }END
+
+
+FORMAT 	WXF
+GAME 	Ó÷Ö®Çà(L)Liu Dianzhong,86
+TIME       ;
+RESULT     0-1
+RED        Ó÷Ö®Çà ; NT ; China-Beijing ; Ó÷Ö®Çà , Ó÷Ö®Çà
+BLACK      Liu Dianzhong ; GM ; China-Hebei ; ÁõµîÖÐ , ¼B·µ¤¤
+DATE       11/8/1992
+PLACE      
+EVENT      Chinese National Champion ; 1992
+ROUND      
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   r9+1   
+4.  R1.2   r9.2   5.  H8+7   h2+4   6.  C8.9   h8+9   
+7.  H7+6   p9+1   8.  C5+4   h4+5   9.  H6+5   a4+5   
+10. R2+4   c3.1   11. C9.6   p1+1   12. H5-6   r1.3   
+13. E7+5   p1+1   14. A6+5   c8+2   15. C6.7   r2+6   
+16. P7+1   e5+3   17. P5+1   c1+4   18. P5+1   r3.2   
+19. C7+4   r++2   20. R9.8   r2+9   21. A5-6   c1+3   
+22. H3-5   p7+1   23. P5+1   r2-3   24. H5-7   r2.7   
+25. P5.4   p7+1   26. R2.3   r7-1   27. E5+3   c8.4   
+28. K5+1   c1-3   29. H6-7   c1.2   30. H-+6   e7+5   
+31. P4.5   h9+8   32. H6+5   c2-3   33. C7+2   h8+9   
+34. E3+5   c4.5   35. K5.6   c2+3   36. H7+6   c2.4   
+37. C7-2   h9+7   38. A6+5   c5.4   39. P5.6   c+.8   
+40. H6-7   c8.4   41. H7+6   c-.5   42. P6.5   c5.4   
+43. H5+6   c+.3   }END
+
+
+FORMAT 	WXF
+GAME 	Cai Furu(W)Liu Dianzhong,51
+TIME       ;
+RESULT     1-0
+RED        Cai Furu ; GM ; China-Guangdong ; ²Ì¸£Èç , ½²ºÖ¦p
+BLACK      Liu Dianzhong ; GM ; China-Hebei ; ÁõµîÖÐ , ¼B·µ¤¤
+DATE       1/1/1980
+PLACE      
+EVENT      Chinese National Champion ; 1980
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  R1.2   r9.8   
+4.  R2+6   h2+3   5.  C8.6   c8.9   6.  R2.3   r8+2   
+7.  H8+7   r1.2   8.  R9.8   e3+5   9.  R8+6   p3+1   
+10. P5+1   c2-1   11. R8.7   r2.3   12. P5+1   p5+1   
+13. H3+5   p5+1   14. C5+2   a4+5   15. C5+1   h3+5   
+16. R7.8   c2.3   17. H5+4   c3+2   18. H4+5   e7+5   
+19. C5+2   a5+4   20. R8.7   r3+3   21. C5.2   a6+5   
+22. C2-1   c9+4   23. C6.5   k5.4   24. P3+1   c9.4   
+25. H7+5   c4-3   26. C5.6   }END
+
+
+FORMAT 	WXF
+GAME 	Liu Dianzhong(L)Shang Wei,74
+TIME       ;
+RESULT     0-1
+RED        Liu Dianzhong ; GM ; China-Hebei ; ÁõµîÖÐ , ¼B·µ¤¤
+BLACK      Shang Wei ; CM ; China-Yejin ; ÉÐÍþ , ©|«Â
+DATE       10/15/1990
+PLACE      
+EVENT      Chinese National Champion ; 1990
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  R1.2   r9.8   
+4.  R2+6   h2+3   5.  P7+1   h7+6   6.  H8+7   e3+5   
+7.  C8+1   c2+1   8.  R2-5   c2-2   9.  C8.7   c2.7   
+10. P7+1   e5+3   11. R9.8   a4+5   12. R8+4   r1.4   
+13. A4+5   e7+5   14. R8.4   c8.6   15. R2+8   c6+3   
+16. R2-5   c6+3   17. R2.4   h6+4   18. R4-3   h4+3   
+19. C7+3   h+-2   20. C7.1   r4+5   21. R4+7   c7-1   
+22. C1+1   h3+4   23. P3+1   p7+1   24. C5+4   p7+1   
+25. C5-2   p7+1   26. C1+2   k5.4   27. R4.5   e5+7   
+28. R5-2   h2+3   29. C1-5   h4+6   30. R5.4   a6+5   
+31. R4-2   h3-5   32. E3+5   p7+1   33. P9+1   k4+1   
+34. C1+4   k4+1   35. R4.2   p7.6   36. R2-3   p6.5   
+37. A6+5   r4.5   }END
+
+
+FORMAT 	WXF
+GAME 	Wan Chunlin(W)Xu Bo,145
+TIME       ;
+RESULT     1-0
+RED        Wan Chunlin ; CM ; China-Shanghai ; Íò´ºÁÖ , ¸U¬KªL
+BLACK      Xu Bo ; CM ; China-Yaudian ; Ðí²¨ , ³\ªi
+DATE       10/12/1990
+PLACE      
+EVENT      Chinese National Champion ; 1990
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   c8.9   
+4.  H8+7   e3+5   5.  P3+1   p3+1   6.  P7+1   h2+4   
+7.  H7+6   r1.3   8.  C8.6   r3+4   9.  R9.8   r3+1   
+10. C6+6   r3.4   11. C6.9   r8+1   12. C9+1   e5-3   
+13. C5.9   r8.2   14. R1.2   r2-1   15. R2+7   r4-3   
+16. C+-1   r2+1   17. C++1   c9-1   18. C-.5   r2-1   
+19. R8+6   r2.1   20. C5+4   r1+2   21. C5-2   r4+7   
+22. K5.6   c2.8   23. R8.5   c9.5   24. R5.3   h7+5   
+25. C5+4   h5-6   26. R3.4   k5+1   27. E3+5   c8.2   
+28. P3+1   c2+7   29. E7+9   h6+8   30. R4.2   r1.6   
+31. P3.4   k5-1   32. P5+1   h8-6   33. P5+1   r6.7   
+34. H3+2   p9+1   35. R2.9   c2.6   36. K6.5   c6-2   
+37. E9+7   r7+4   38. P4.3   h6+4   39. R9.6   a4+5   
+40. P3+1   r7.9   41. H2+4   r9.1   42. H4+2   c6.7   
+43. P5+1   r1.8   44. R6-1   h4-6   45. P5.4   h6+8   
+46. R6.4   e7+5   47. K5.4   r8+3   48. K4+1   r8-1   
+49. K4-1   r8+1   50. K4+1   r8-4   51. P4+1   p9+1   
+52. P4+1   p9+1   53. P4+1   a5-6   54. R4+4   k5+1   
+55. R4-2   c7.8   56. H2-3   h8+7   57. R4-2   r8-3   
+58. P3.4   r8.7   59. H3-2   p9.8   60. H2+4   h7+6   
+61. R4-2   r7+4   62. R4+2   r7.4   63. P4+1   e3+1   
+64. P4+1   k5.4   65. R4.8   e5+3   66. K4.5   r4.5   
+67. R8+1   k4+1   68. R8.6   k4.5   69. R6+3   k5.6   
+70. P4.3   r5.7   71. R6.4   k6.5   72. R4.5   k5.6   
+73. E5+3   }END
+
+
+FORMAT 	WXF
+GAME 	Liu Dianzhong(L)Yu Hongmu,78
+TIME       ;
+RESULT     0-1
+RED        Liu Dianzhong ; GM ; China-Hebei ; ÁõµîÖÐ , ¼B·µ¤¤
+BLACK      Yu Hongmu ; CM ; China-Qinggong ; ÓÚºìÄ¾ , ¤_¬õ¤ì
+DATE       9/4/1980
+PLACE      
+EVENT      Chinese National Champion ; 1980
+ROUND      
+START{
+1.  P7+1   h8+7   2.  P3+1   c8.9   3.  H2+3   r9.8   
+4.  R1.2   r8+4   5.  C2.1   r8.2   6.  C8+5   c9.2   
+7.  H8+7   e3+5   8.  E7+5   h2+4   9.  A6+5   p7+1   
+10. P3+1   r2.7   11. H3+4   a4+5   12. R9.6   c2.4   
+13. R2+6   r7.6   14. R6+4   r1.3   15. C1.4   r6.5   
+16. P5+1   r5.9   17. P1+1   r9+1   18. H4+3   p3+1   
+19. H7+5   p3+1   20. H5+7   r3+4   21. R6+2   r9.5   
+22. R6.8   c4.3   23. C4+6   r5.4   24. H3+5   r3.6   
+25. R2+2   a5-4   26. H5+6   k5.4   27. R8+2   c3+2   
+28. R8.7   h4+3   29. R7-2   c3.5   30. H7+6   h7-5   
+31. R7.9   h5+4   32. R9+3   k4+1   33. C4.3   h4-3   
+34. C3-3   a6+5   35. C3.5   h3-1   36. R2.5   k4+1   
+37. R5-2   h1+2   38. R5+3   k4-1   39. C5-2   r4+1   }END
+
+
+FORMAT 	WXF
+GAME 	Zhang Qiang(W)Chen Qiming,91
+TIME       ;
+RESULT     1-0
+RED        Zhang Qiang ; CM ; China-Beijing ; ÕÅÇ¿ , ±i±j
+BLACK      Chen Qiming ; CM ; China-HuoCheTou ; ³ÂÆôÃ÷ , ³¯±Ò©ú
+DATE       10/23/1992
+PLACE      
+EVENT      Chinese National Champion ; 1992
+ROUND      
+START{
+1.  P7+1   e3+5   2.  H8+7   h8+7   3.  C8.9   h2+4   
+4.  H2+3   p7+1   5.  R1+1   c8.9   6.  R1.6   r9+1   
+7.  R9.8   r9.8   8.  C2.1   h7+6   9.  R6+4   h6+7   
+10. C1-1   c2.3   11. C1.3   p7+1   12. R6-1   r8+7   
+13. C9-1   r8-1   14. H7-5   h4+6   15. R6.3   h6+5   
+16. R3-1   h5+3   17. E7+5   h3+4   18. C9.6   r1+1   
+19. R3+5   r1.7   20. C3+7   c9+4   21. C3.4   c9.6   
+22. R8+2   c6.1   23. C4-6   c1.3   24. R8.7   c+.1   
+25. R7.9   c1.2   26. R9.8   c2.3   27. R8.7   c+.1   
+28. R7.9   c1.2   29. R9.8   c2.3   30. R8.7   c+.1   
+31. R7.9   c1.2   32. R9.8   c3.2   33. R8.7   r8-3   
+34. C4.6   c++3   35. R7-2   r8.2   36. C-.7   r2+4   
+37. C6-1   r2-1   38. H3+4   p1+1   39. H5+3   p1+1   
+40. C6.4   p3+1   41. A4+5   r2+1   42. H4+5   p1.2   
+43. C7+3   r2-1   44. C7.5   c-.1   45. C4+1   r2+1   
+46. H5-6   }END
+
+
+FORMAT 	WXF
+GAME 	Zhang Qiang(W)Xiao Gelian,103
+TIME       ;
+RESULT     1-0
+RED        Zhang Qiang ; CM ; China-Beijing ; ÕÅÇ¿ , ±i±j
+BLACK      Xiao Gelian ; CM ; China-Yejin ; Ð¤¸ïÁª , ¨v­²Áp
+DATE       10/30/1992
+PLACE      
+EVENT      Chinese National Champion ; 1992
+ROUND      
+START{
+1.  P7+1   h8+7   2.  C2.3   r9.8   3.  C8.5   c2.5   
+4.  H8+7   h2+3   5.  R9.8   r1+1   6.  H2+1   r1.6   
+7.  R1.2   r6+6   8.  C3+4   r6-2   9.  R2+6   r6.3   
+10. R8+2   c8.9   11. R2+3   h7-8   12. C5-1   p3+1   
+13. C5.7   r3.6   14. R8+6   a6+5   15. E7+5   k5.6   
+16. A6+5   h3+4   17. C3.9   c9.7   18. R8-5   e3+1   
+19. R8.6   h4-3   20. C9-2   r6-1   21. R6+1   h8+9   
+22. R6.3   c7+1   23. H7+6   r6-1   24. A5+4   c5.7   
+25. C7.4   c-+3   26. C9.3   r6-1   27. C4+6   a5+6   
+28. P1+1   c7-2   29. C3+3   h3+4   30. C3.9   c7.1   
+31. H1+2   c1+5   32. P3+1   e7+5   33. C9-2   h4+6   
+34. H6+4   h9-7   35. P5+1   c1.6   36. H2+3   p3+1   
+37. H3+5   a4+5   38. H4+3   p3.4   39. C9.3   h6-7   
+40. H5+7   c6-2   41. H3-1   h-+8   42. H1-2   h7-8   
+43. C3.2   h-+9   44. C2.1   h9-8   45. P3+1   c6.9   
+46. P1+1   p4.5   47. P3+1   h-+7   48. H2+3   h8+9   
+49. H3+2   k6+1   50. H7-6   h9+7   51. H6+8   h7-6   
+52. H8-7   }END
+
+
+FORMAT 	WXF
+GAME 	Zhuang Yuting(W)Zhang Qiang,45
+TIME       ;
+RESULT     1-0
+RED        Zhuang Yuting ; GM ; China-Guangdong ; ×¯ÓñÍ¥ , ÉÜ¥É®x
+BLACK      Zhang Qiang ; CM ; China-Beijing ; ÕÅÇ¿ , ±i±j
+DATE       10/30/1992
+PLACE      
+EVENT      Chinese National Champion ; 1992
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  P7+1   h8+7   
+4.  R1.2   p7+1   5.  C8+2   e7+5   6.  H8+7   h7+6   
+7.  R9+1   c2.1   8.  R2+6   a6+5   9.  R2.4   h6+7   
+10. C5.6   r9.8   11. R9.8   c1.2   12. R8.7   p1+1   
+13. H7+6   r1+3   14. R4.1   c2.1   15. C8-1   r1.2   
+16. C8.3   p7+1   17. R1.3   p7+1   18. R3-3   c1+4   
+19. R3+3   r8+4   20. H3+4   r8+1   21. H4+6   p3+1   
+22. H++4   r8-1   23. H6+5   }END
+
+
+FORMAT 	WXF
+GAME 	Zhang Qiang(W)Liao Erping,149
+TIME       ;
+RESULT     1-0
+RED        Zhang Qiang ; CM ; China-Beijing ; ÕÅÇ¿ , ±i±j
+BLACK      Liao Erping ; CM ; China-Jiangsu ; ÁÎ¶þÆ½ , ¹ù¤G¥­
+DATE       11/4/1992
+PLACE      
+EVENT      Chinese National Champion ; 1992
+ROUND      
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  C2.5   r9.8   
+4.  H2+3   h2+3   5.  C8+2   e7+5   6.  R1.2   c8+2   
+7.  H7+6   c2-1   8.  R2+1   c2.3   9.  R9.8   r1.2   
+10. C8+4   p3+1   11. C5.7   p7+1   12. H3-5   h3+4   
+13. P7+1   c3+6   14. P7.6   c3+1   15. R2+2   r8+1   
+16. C8-2   r8.2   17. R8+1   c3-7   18. R8.7   r+.1   
+19. R7+5   c3.8   20. C8.5   h7+5   21. R2+2   h5+4   
+22. R7-2   c8.4   23. P6.5   h4+6   24. H5+4   r2+6   
+25. P3+1   r2.5   26. H4-5   c4.5   27. P5.6   c5.9   
+28. E7+5   r1.6   29. H5+7   r5.6   30. A6+5   c9+5   
+31. P6+1   r-.2   32. P9+1   r2+5   33. P6+1   r6.3   
+34. R2.5   r3-1   35. E5+7   r2-4   36. P6+1   r2.4   
+37. P6.7   a4+5   38. H7+5   r4+1   39. E7-5   r4.3   
+40. P7.6   r3.4   41. R5+2   r4-2   42. R5.7   r4+2   
+43. R7+2   a5-4   44. R7-2   r4.5   45. H5+4   r5.6   
+46. P3+1   p1+1   47. P9+1   c9-2   48. H4-5   c9.1   
+49. R7.5   a4+5   50. H5+7   c1.4   51. R5-2   c4-2   
+52. P3.4   r6.3   53. R5-1   r3+1   54. P4+1   c4.3   
+55. H7+5   r3.4   56. P4.5   r4-2   57. H5+3   r4.7   
+58. H3-2   p9+1   59. P5+1   r7+2   60. H2-4   r7-1   
+61. A5-6   c3+1   62. R5+1   p9+1   63. H4+6   r7.4   
+64. H6+8   r4-2   65. R5-1   p9+1   66. E5-7   c3.2   
+67. R5+2   c2-2   68. R5.7   a5-4   69. H8+6   r4.6   
+70. R7-3   c2.4   71. H6+7   r6+4   72. R7.5   r6.4   
+73. P5.6   a4+5   74. P6+1   r4-4   75. R5.9   }END
+
+
+FORMAT 	WXF
+GAME 	Cai Furu(L)Dai Rongguang,42
+TIME       ;
+RESULT     0-1
+RED        Cai Furu ; GM ; China-Guangdong ; ²Ì¸£Èç , ½²ºÖ¦p
+BLACK      Dai Rongguang ; NT ; NA ; ´÷ÈÙ¹â , À¹ºa¥ú
+DATE       12/16/1982
+PLACE      
+EVENT      Chinese National Champion ; 1982
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P7+1   p7+1   5.  R2+6   a4+5   6.  C8.7   e3+5   
+7.  R2.3   r9+2   8.  H8+9   c2+4   9.  P5+1   r1.4   
+10. R9.8   r4+6   11. C7+1   c2-6   12. P5+1   c2.4   
+13. P5+1   c6+3   14. P5+1   c6.5   15. A6+5   e7+5   
+16. P7+1   h3+5   17. P7+1   h5+6   18. R3.6   h6+8   
+19. C7-2   r4+2   20. R6.4   h7+6   21. R4-1   r9.6   }END
+
+
+FORMAT 	WXF
+GAME 	He Shunan(D)Wang Jialiang,48
+TIME       ;
+RESULT     0.5-0.5
+RED        He Shunan ; CM ; China-Shanghai ; ºÎË³°² , ¦ó¶¶¦w
+BLACK      Wang Jialiang ; GM ; China-HeilongJiang ; Íõ¼ÎÁ¼ , ¤ý¹Å¨}
+DATE       1956-12-27
+PLACE      ±±¾©
+EVENT      Chinese National Champion ; 1956
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   p3+1   3.  R1.2   r9.8   
+4.  H8+9   h2+3   5.  P3+1   p1+1   6.  C8+4   h3+2   
+7.  H3+4   e7+5   8.  R9+1   p1+1   9.  P9+1   r1+5   
+10. H4+6   r1-2   11. C5.8   c8+2   12. E3+5   p5+1   
+13. R9.6   a6+5   14. C-+2   p9+1   15. H6+7   p3+1   
+16. P7+1   h2+4   17. H7-6   c8.4   18. R2+9   h7-8   
+19. R6+3   c2+3   20. H9+8   r1.2   21. R6+1   r2+2   
+22. R6.5   r2+1   23. R5.1   r2.5   24. R1+4   r5.8   }END
+
+
+FORMAT 	WXF
+GAME 	Wang Bin(D)Huang Hailin,55
+TIME       ;
+RESULT     0.5-0.5
+RED        Wang Bin ; CM ; China-Jiangsu ; Íõ±ó , ¤ýÙy
+BLACK      Huang Hailin ; CM ; China-Nanfang ; »Æº£ÁÖ , ¶À®üªL
+DATE       00-11-11
+PLACE      °ö²º
+EVENT      Chinese National Champion ; 2000
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P3+1   p3+1   5.  H3+4   e7+5   6.  C5.3   c2.1   
+7.  E7+5   r1.2   8.  H8+6   r9.8   9.  R2+9   h7-8   
+10. R9+1   r2+5   11. H4+3   c6+4   12. P7+1   p3+1   
+13. R9.7   h3+4   14. R7+3   r2.3   15. E5+7   c1.4   
+16. H6-8   h4+5   17. E7-5   c6.1   18. H3-4   p5+1   
+19. H8+6   h5+7   20. C8.3   a6+5   21. P1+1   h8+6   
+22. H4+3   h6+7   23. C3+4   c4+3   24. H6+5   c4.9   
+25. H5+4   c9+1   26. C3.5   c1-1   27. A6+5   c1.5   
+28. C5.4   }END
+
+
+FORMAT 	WXF
+GAME 	Zou Limu(L)Wang Jialiang,72
+TIME       ;
+RESULT     0-1
+RED        Zou Limu ; NT ; China-Anhui ; ×ÞÁ¢Îä , ¹Q¥ßªZ
+BLACK      Wang Jialiang ; GM ; China-HeilongJiang ; Íõ¼ÎÁ¼ , ¤ý¹Å¨}
+DATE       11/28/1983
+PLACE      
+EVENT      Chinese National Champion ; 1983
+ROUND      
+START{
+1.  A4+5   c8.5   2.  H2+3   p7+1   3.  E3+5   h8+7   
+4.  R1.4   r9.8   5.  C2-2   h2+3   6.  H8+9   c2.1   
+7.  R9.8   r1.2   8.  R4+6   p3+1   9.  R4-2   p5+1   
+10. C2.3   h7+5   11. R4+2   p1+1   12. P3+1   r2+4   
+13. P3+1   c1+1   14. R4-4   h3+4   15. P3.4   h4+5   
+16. C8.6   r2+5   17. H9-8   p5+1   18. P4+1   h-+4   
+19. P4+1   c5.2   20. R4+3   a6+5   21. H3-4   h4+2   
+22. H8+9   r8+3   23. P4+1   p5.4   24. R4.5   r8.6   
+25. C6+7   c2.5   26. C6-1   c1.5   27. R5.3   e7+9   
+28. R3+2   a5+6   29. R3+1   r6+5   30. C3.2   c++4   
+31. E7+5   c5+5   32. A5+6   c5.1   33. A6+5   h2+3   
+34. K5.6   h5+3   35. C6.5   c1+2   36. C2+1   h--1   }END
+
+
+FORMAT 	WXF
+GAME 	Wang Jialiang(W)Zang Ruyi,79
+TIME       ;
+RESULT     1-0
+RED        Wang Jialiang ; GM ; China-HeilongJiang ; Íõ¼ÎÁ¼ , ¤ý¹Å¨}
+BLACK      Zang Ruyi ; CM ; China-Beijing ; ê°ÈçÒâ , »N¦p·N
+DATE       9/3/1980
+PLACE      
+EVENT      Chinese National Champion ; 1980
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  P7+1   p7+1   6.  H8+7   c2.1   
+7.  H7+6   a6+5   8.  R2+6   r9.8   9.  R2.3   c6-1   
+10. H6+7   r2+3   11. P7+1   c6.7   12. R3.4   c1-1   
+13. H7-5   h3-2   14. P7+1   r2+2   15. H5-6   r2.3   
+16. R9.8   r3+1   17. R8+9   r3.4   18. A4+5   e7+5   
+19. R8-3   c1+5   20. P7.6   r8.6   21. R4+3   a5-6   
+22. P6.5   h7+6   23. P++1   e3+5   24. R8.4   h6+4   
+25. C6+2   r4-1   26. R4.3   c7.3   27. C5+5   c1.7   
+28. R3-1   c7+3   29. H3-2   k5+1   30. C5-3   k5.4   
+31. R3-5   r4.3   32. E7+5   c3.2   33. R3+6   c2+8   
+34. E5-7   r3+4   35. R3.6   k4.5   36. R6.8   p1+1   
+37. H2+3   c2.1   38. H3+4   r3-3   39. R8-6   r3.5   
+40. H4+2   }END
+
+
+FORMAT 	WXF
+GAME 	Meng Liguo(L)Wang Jialiang,120
+TIME       ;
+RESULT     0-1
+RED        Meng Liguo ; GM ; China-LiaoNing ; ÃÏÁ¢¹ú , ©s¥ß°ê
+BLACK      Wang Jialiang ; GM ; China-HeilongJiang ; Íõ¼ÎÁ¼ , ¤ý¹Å¨}
+DATE       12/10/1982
+PLACE      
+EVENT      Chinese National Champion ; 1982
+ROUND      
+START{
+1.  C2.5   h8+7   2.  P3+1   p3+1   3.  H2+3   h2+3   
+4.  R1.2   r9.8   5.  H8+9   e7+5   6.  R9+1   c8+4   
+7.  H3+4   c2+4   8.  R9.4   r1+1   9.  P3+1   r1.6   
+10. P3.2   p7+1   11. R2+3   p7+1   12. R4.6   p7.6   
+13. R6+6   p6+1   14. P7+1   r6.3   15. P7+1   a6+5   
+16. R6-3   h3-1   17. R6.3   h7+6   18. C5+4   r3+3   
+19. P2.1   r8.6   20. R3.8   p6.7   21. R2+5   h1+3   
+22. C5+2   a4+5   23. R8-1   r3+5   24. P5+1   h6-4   
+25. C8.5   p7.6   26. A4+5   h4+5   27. R8+1   r6+5   
+28. R2+1   a5-6   29. R2-7   h3-5   30. R8.6   h++6   
+31. R2.4   r6.4   32. R4+1   r3-4   33. P-+1   r4.7   
+34. E3+1   r7.6   35. R4.5   r3-1   36. H9+7   r3.6   
+37. R5+3   r--1   38. R5-1   r++1   39. H7-6   r+.9   
+40. E1-3   r9.7   41. A5-4   r7.1   42. H6+5   r1-2   
+43. R5-1   r6+3   44. A6+5   r1+5   45. A5-6   r1-3   
+46. H5+7   r1-1   47. C5.6   h5+7   48. P+.2   h7+6   
+49. C6.5   a6+5   50. P2+1   h6+7   51. R5.3   k5.6   
+52. A4+5   r6.3   53. R3.4   k6.5   54. R4.3   k5.6   
+55. R3.4   k6.5   56. R4.3   k5.6   57. R3+3   r1.3   
+58. C5+6   h7-8   59. R3.4   k6.5   60. C5.2   r-.6   }END
+
+
+FORMAT 	WXF
+GAME 	Lv Qin(D)YANG GuanLin,92
+TIME       ;
+RESULT     0.5-0.5
+RED        Lv Qin ; GM;IGM ; China-Guangdong
+BLACK      YANG GuanLin ; GM  ; China-Guangdong
+DATE       
+PLACE      
+EVENT      Chinese National Champion ; 1981
+ROUND      
+START{
+1.  E3+5   c8.5   2.  H2+3   h8+7   3.  P3+1   r9.8   
+4.  R1.2   r8+6   5.  H8+7   r8.7   6.  H7-5   h2+1   
+7.  P7+1   c5+4   8.  H3+5   r7.5   9.  P9+1   c2+2   
+10. H5+3   r5.7   11. C2-1   c2.5   12. A4+5   r1.2   
+13. C2.3   r7.6   14. C8-1   r2+6   15. R9+2   r2.4   
+16. R2.4   r6+3   17. K5.4   h1-3   18. R9.6   r4.6   
+19. K4.5   h3+2   20. R6+2   h2+1   21. H3+4   r6.9   
+22. C3.4   h1+2   23. H4+3   c5.1   24. R6+3   e3+5   
+25. C4+7   h2-4   26. C8.6   a4+5   27. R6.8   c1.5   
+28. R8+2   a5-4   29. R8.6   k5+1   30. R6-1   k5-1   
+31. C6+1   h4-6   32. H3-5   p5+1   33. R6-4   h6+4   
+34. C4-2   a6+5   35. C4.9   h7+8   36. C9+3   h4+2   
+37. R6+1   h2+1   38. R6.5   h1-3   39. C6-1   h8+6   
+40. C9-7   h6+4   41. R5.8   h3-1   42. R8+4   a5-4   
+43. R8.6   k5+1   44. E7+9   h4+3   45. E9-7   r9.4   
+46. R6-6   h3-4   }END
+
+
+FORMAT 	WXF
+GAME 	Lv Qin(D)YAN MuJiang,68
+TIME       ;
+RESULT     0.5-0.5
+RED        Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+BLACK      YAN MuJiang ; CM ; China-Jiangsu ; ÑÔÄÂ½­ , ¨¥¿p¦¿
+DATE       9/20/1981
+PLACE      .ÎÂÖÝ
+EVENT      Chinese National Champion ; 1981
+ROUND      MA R9
+START{
+1.  C2.5   h8+7   2.  P3+1   r9.8   3.  H2+3   p3+1   
+4.  C8+4   h2+3   5.  C8.7   e7+5   6.  H8+7   c2+2   
+7.  R9.8   r1.2   8.  H3+4   r2+3   9.  C7.3   r2-2   
+10. H7-5   r2.4   11. H5+3   r4+4   12. C3.2   r8.7   
+13. C2-2   r4+3   14. P7+1   h7+6   15. P7+1   r7+5   
+16. P7.8   h6+8   17. H3+2   r7.6   18. H2+3   r6-2   
+19. H3-2   h3+4   20. A4+5   c8+2   21. R8+3   a4+5   
+22. P5+1   r6+2   23. H2-4   r6.5   24. R1.2   c8.5   
+25. H4+5   r5-1   26. C5.9   k5.4   27. C9-2   r4.1   
+28. C9.8   r1.3   29. E7+5   r3-2   30. R2+3   r5+2   
+31. R2.5   r3.5   32. R8-1   k4.5   33. P9+1   r5.9   
+34. R8.6   r9.2   }END
+
+
+FORMAT 	WXF
+GAME 	LI LaiQun(D)Lv Qin,65
+TIME       ;
+RESULT     0.5-0.5
+RED        LI LaiQun ; IGM ; China-Hebei ; ÀîÀ´Èº , §õ¨Ó¸s
+BLACK      Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+DATE       9/12/1981
+PLACE      .ÎÂÖÝ
+EVENT      Chinese National Champion ; 1981
+ROUND      MA R3
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H8+9   h8+7   
+4.  H2+3   p7+1   5.  R1.2   r9.8   6.  R2+4   c8.9   
+7.  R2.6   r8+1   8.  C5.6   r8.2   9.  R9.8   r2+3   
+10. A4+5   h7+6   11. R6.4   h2+4   12. C8.7   r1.2   
+13. R8+5   r2+4   14. E3+5   c9.6   15. R4.2   h6+7   
+16. P9+1   h4+2   17. C7+1   h7-6   18. C7+3   p1+1   
+19. H9+7   p1+1   20. H7+5   a4+5   21. P7+1   r2+1   
+22. P7.6   r2.4   23. C7.1   r4-1   24. C1-1   c3+1   
+25. R2.1   p5+1   26. H5-7   r4+2   27. H7+9   h6+5   
+28. C1.5   p7+1   29. H9-8   r4.2   30. R1+2   h2+1   
+31. H3+5   r2.5   32. R1.5   r5.2   33. C6+3   }END
+
+
+FORMAT 	WXF
+GAME 	LI LaiQun(W)YU YouHua,75
+TIME       ;
+RESULT     1-0
+RED        LI LaiQun ; IGM ; China-Hebei ; ÀîÀ´Èº , §õ¨Ó¸s
+BLACK      YU YouHua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+DATE       9/19/1981
+PLACE      .ÎÂÖÝ
+EVENT      Chinese National Champion ; 1981
+ROUND      MA R8
+START{
+1.  C2.4   e3+5   2.  H2+3   r9+1   3.  H8+7   h8+9   
+4.  R1.2   r9.6   5.  C8.9   c2.4   6.  R9.8   h2+3   
+7.  P7+1   r6+4   8.  A4+5   p9+1   9.  E3+5   a4+5   
+10. P3+1   r6-1   11. P3+1   p7+1   12. R2+4   r6.5   
+13. R8+6   c8.7   14. H3+4   r1.2   15. R8.7   c4-2   
+16. R2+3   c4.3   17. R7.6   p7+1   18. H4+3   r5.4   
+19. R6-1   h3+4   20. P7+1   h4-6   21. P7+1   c7-1   
+22. H7+6   r2+5   23. H6+4   r2-1   24. C4+4   r2.6   
+25. H3+1   e7+9   26. C4.1   r6-1   27. R2.1   p5+1   
+28. P7+1   c7+3   29. C1.9   c3.1   30. R1.5   r6.3   
+31. R5-2   c7-2   32. P7.6   c1+6   33. C+-1   c1.9   
+34. C+.1   r3.9   35. E5+3   c7-1   36. C9.5   k5.4   
+37. R5.7   a5+4   38. C1.6   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG Yong(D)CHEN XiaoKun,54
+TIME       ;
+RESULT     0.5-0.5
+RED        HUANG Yong ; CM ; China-Shenzhen ; »ÆÓÂ , ¶À«i
+BLACK      CHEN XiaoKun ; CM ; China-Hangzhou ; ³ÂÐ¢À¤ , ³¯§µ©[
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p3+1   
+4.  H8+9   h2+3   5.  R2+6   c8.9   6.  R2+3   h7-8   
+7.  C8.7   h8+7   8.  R9.8   h3+4   9.  R8+4   p7+1   
+10. P9+1   a4+5   11. P3+1   p7+1   12. R8.3   e3+5   
+13. C7-1   c2.4   14. C7.6   c4+6   15. R3+3   p1+1   
+16. C5+4   r1+3   17. H9+8   r1.5   18. H8+6   p1+1   
+19. H6-4   r5.2   20. E3+5   r2+6   21. K5+1   r2-1   
+22. R3-1   c4-1   23. K5-1   c4.7   24. H4-3   r2.7   
+25. H3+4   r7-5   26. H4+3   c9+4   27. P7+1   p3+1   }END
+
+
+FORMAT 	WXF
+GAME 	LI WangXiang(D)YU HongMu,88
+TIME       ;
+RESULT     0.5-0.5
+RED        LI WangXiang ; CM ; China-Hubei ; ÀîÍûÏé , §õ±æ²»
+BLACK      YU HongMu ; CM ; China-Qinggong ; ÓÚºìÄ¾ , ¤_¬õ¤ì
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  H8+9   r9+1   5.  C8.7   c2+4   6.  R9.8   r9.2   
+7.  R2+6   r1+2   8.  A4+5   r2+3   9.  R8+2   r1.2   
+10. C7-1   h2+1   11. R8.6   c2.5   12. R2.3   c+.1   
+13. P7+1   c5+5   14. E3+5   r++2   15. R3-1   r-.6   
+16. R6+2   e7+5   17. R3+1   a6+5   18. R6.3   h7-6   
+19. R+.5   p1+1   20. R5-1   r6+4   21. P1+1   p1+1   
+22. P7+1   p3+1   23. R5.7   r6.7   24. R3-1   r2.7   
+25. H3-4   r7.2   26. H4+2   h6+7   27. H2+4   h7+5   
+28. R7-1   p1.2   29. R7.2   h5+7   30. H4+3   h1+3   
+31. A5+4   r2.4   32. C7.4   e5-7   33. R2+2   h3+4   
+34. R2.6   p2.3   35. A6+5   r4.7   36. H3+5   h7+5   
+37. R6.3   r7-3   38. H5+3   c1.5   39. H3-4   h4-3   
+40. C4.1   p3+1   41. C1+5   p3+1   42. C1.2   p3.2   
+43. C2-2   h5-6   44. H9+8   h3+2   }END
+
+
+FORMAT 	WXF
+GAME 	LI LaiQun(D)ZHAO QingGe,170
+TIME       ;
+RESULT     0.5-0.5
+RED        LI LaiQun ; IGM ; China-Hebei ; ÀîÀ´Èº , §õ¨Ó¸s
+BLACK      ZHAO QingGe ; CM ; China-LiaoNing ; ÕÔÇì¸ó , »¯¼y»Õ
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  P3+1   c2.5   2.  H8+7   h2+3   3.  R9.8   r1.2   
+4.  H2+3   p3+1   5.  R1+1   c8+4   6.  H3+2   c8.3   
+7.  E7+5   h8+9   8.  C8+4   r9+1   9.  R1.6   r9.6   
+10. R6+5   r6+5   11. C2.3   c5+4   12. H7+5   r6.5   
+13. P3+1   r5.7   14. P3.4   c3.5   15. A6+5   c5.9   
+16. P4+1   p9+1   17. R6.7   r2+2   18. H2+4   r7-2   
+19. R8+3   r7.6   20. C3+7   a6+5   21. R8.1   h9-7   
+22. R1.2   e3+5   23. R2+6   h7+9   24. R2-2   e5-7   
+25. R2.7   r2-2   26. R-.5   h9+8   27. R7.2   h8+6   
+28. R2+2   k5.6   29. R2.3   k6+1   30. R3-3   h6+4   
+31. A5+6   r2+2   32. R5+1   h4+6   33. K5.6   r2+1   
+34. R3+2   k6-1   35. R3+1   k6+1   36. R5.2   r2+6   
+37. K6+1   r2-1   38. K6-1   r2.8   39. R2.1   r8-7   
+40. P4.5   h6-5   41. A4+5   r6.7   42. R3.5   r8.7   
+43. P5+1   r+-2   44. P5+1   a4+5   45. R1-2   h5-7   
+46. R5.7   r+.6   47. R7-4   h7+6   48. R7.6   r6+1   
+49. R6-2   h6+8   50. R1.5   k6-1   51. R6.2   h8-6   
+52. R5-2   h6-7   53. E5+3   h7-5   54. R5.7   h5+6   
+55. R7+1   k6+1   56. K6.5   h6-4   57. E3+5   r7.9   
+58. E5-3   r6-1   59. R7+2   h4-3   60. P9+1   k6-1   
+61. R2+6   k6+1   62. R7.2   r9.7   63. E3-5   r6+6   
+64. E3+1   r6-6   65. R+.9   r7.9   66. E5-3   r9.7   
+67. E3+5   r7.9   68. E1-3   r9.7   69. R9-2   r6+6   
+70. E3+1   r6-6   71. E5+3   r7.9   72. A5+4   r6.5   
+73. A6-5   r5.6   74. A5-6   r6.5   75. A6+5   r5.6   
+76. R9.8   h3+4   77. R8-2   h4-3   78. R8+2   h3+4   
+79. R8.4   a5+6   80. R2.9   h4+3   81. R9+2   a6-5   
+82. A5-6   h3-5   83. R9-3   r9+1   84. A4-5   h5+3   
+85. R9.4   r9.6   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO GuoRong(D)DENG SongHong,72
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHAO GuoRong ; IGM ; China-HeilongJiang ; ÕÔ¹úÈÙ , »¯°êºa
+BLACK      DENG SongHong ; CM ; China-Shenzhen ; µËËÌºê , ¾H¹|§»
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  P3+1   e7+5   2.  H2+3   h2+3   3.  H8+9   p3+1   
+4.  R9+1   r1+1   5.  R9.4   r1.7   6.  C2.1   p7+1   
+7.  R1.2   h3+2   8.  H3+4   p7+1   9.  H4+5   r7.6   
+10. R4.8   h2-3   11. C8.5   h3+5   12. C5+4   a6+5   
+13. E7+5   r6+2   14. C5.1   p7+1   15. R8+3   p7.6   
+16. A6+5   p6.5   17. R8.5   p5+1   18. E3+5   h8+6   
+19. P1+1   r6.5   20. R5+2   h6+5   21. H9-7   r9.7   
+22. R2.3   h5+6   23. R3+9   e5-7   24. C-.2   c8+4   
+25. C1+3   a5-6   26. C1-4   c2.7   27. C1.3   e7+5   
+28. C3-1   c7-1   29. P7+1   c7.3   30. C3-3   p3+1   
+31. E5+7   c3+7   32. C3.7   h6+4   33. C7.9   c8.1   
+34. C9+5   a6+5   35. P1+1   h4+3   36. K5.6   h3-4   }END
+
+
+FORMAT 	WXF
+GAME 	LI LaiQun(W)WANG BingGuo,75
+TIME       ;
+RESULT     1-0
+RED        LI LaiQun ; IGM ; China-Hebei ; ÀîÀ´Èº , §õ¨Ó¸s
+BLACK      WANG BingGuo ; CM ; China-Shandong ; Íõ±ü¹ú , ¤ýªÃ°ê
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  P3+1   p3+1   
+4.  H8+9   e7+5   5.  C8.6   r1.2   6.  R9.8   h8+7   
+7.  R8+6   a6+5   8.  R1.2   c2.1   9.  R8+3   h3-2   
+10. C5+4   h2+3   11. C5.7   p1+1   12. P5+1   r9.8   
+13. R2+9   h7-8   14. C6+6   h3+5   15. P5+1   h5-7   
+16. C6.9   c6-1   17. C9+1   p7+1   18. P3+1   e5+7   
+19. H9-7   c6+5   20. H7+6   e7-5   21. H3+4   h8+6   
+22. H4+6   a5+4   23. C7.6   c6.8   24. P1+1   c1-1   
+25. A6+5   a4-5   26. E7+5   c1+2   27. C6.8   h6+7   
+28. H++7   c8-3   29. P5+1   c8.5   30. C8.3   c1.7   
+31. H6+4   c7.8   32. H7-5   h7+5   33. H4+5   c8-3   
+34. H5-6   c8.9   35. H6+7   e5-7   36. H7-9   c9+5   
+37. H9+8   e7+5   38. H8-6   }END
+
+
+FORMAT 	WXF
+GAME 	LI Aidong(L)LIU DaHua,46
+TIME       ;
+RESULT     0-1
+RED        LI Aidong ; CM ; China-Sichuan ; Àî°¬¶« , §õ¦ãªF
+BLACK      LIU DaHua ; IGM ; China-Hubei ; Áø´ó»ª , ¬h¤jµØ
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  P3+1   e3+5   3.  H2+3   r9+1   
+4.  H8+7   p3+1   5.  R1.2   c8-1   6.  P5+1   h2+3   
+7.  R2+3   c8.3   8.  R2.6   r9.6   9.  C8+4   a6+5   
+10. R6+3   h3+2   11. R6.7   r1.3   12. C5+4   r6+3   
+13. H7+5   h2+3   14. A6+5   c2.3   15. R7.6   p3+1   
+16. R9.8   p3.4   17. P5+1   r6.5   18. C5+2   r5.2   
+19. R8+5   h3-2   20. R6+1   c-+8   21. C5.8   a4+5   
+22. R6-2   c-.2   23. C-.1   h2+3   }END
+
+
+FORMAT 	WXF
+GAME 	FU GuangMing(L)ZHAO GuoRong,75
+TIME       ;
+RESULT     0-1
+RED        FU GuangMing ; CM ; China-Beijing ; ¸µ¹âÃ÷ , ³Å¥ú©ú
+BLACK      ZHAO GuoRong ; IGM ; China-HeilongJiang ; ÕÔ¹úÈÙ , »¯°êºa
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  C2.1   e3+5   5.  H8+7   p3+1   6.  C8.9   h2+3   
+7.  R9.8   r1.2   8.  P7+1   p3+1   9.  R2+4   c2+5   
+10. R2.7   h3+4   11. P3+1   p7+1   12. R7.3   r9+1   
+13. R3.7   h7+8   14. R7.2   h8-7   15. R2.7   r9.6   
+16. C9+4   r6+5   17. H3+2   r6.9   18. C1.3   a6+5   
+19. C9-1   r9.8   20. R7.3   h7-9   21. C9+1   p9+1   
+22. H7+6   c2+1   23. H6-7   h4+5   24. H7+5   r8.5   
+25. P9+1   p9+1   26. H2+3   h9+8   27. R3.6   r5.7   
+28. C3.4   r7-2   29. A6+5   e5-3   30. R6.5   h8-7   
+31. R5.1   p5+1   32. R1.3   r7+1   33. E5+3   h7+6   
+34. E7+5   e7+5   35. C9.6   p5+1   36. C4-1   c2-2   
+37. C4.3   h6+7   38. C3+2   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN XiaoKun(D)DENG SongHong,104
+TIME       ;
+RESULT     0.5-0.5
+RED        CHEN XiaoKun ; CM ; China-Hangzhou ; ³ÂÐ¢À¤ , ³¯§µ©[
+BLACK      DENG SongHong ; CM ; China-Shenzhen ; µËËÌºê , ¾H¹|§»
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  P7+1   e3+5   2.  H8+7   h8+7   3.  C2.6   p7+1   
+4.  H2+3   r9+1   5.  H7+6   h7+8   6.  C8+3   h8+7   
+7.  R1.2   r9.6   8.  H6+5   r6+2   9.  H5-6   c8.7   
+10. E3+5   a4+5   11. R9+1   h2+3   12. R9.2   c2+1   
+13. A4+5   p3+1   14. P7+1   e5+3   15. C8.3   e3-5   
+16. C3-1   h3+5   17. H6+5   r6.5   18. R-.4   h7+5   
+19. H3+4   r5.3   20. H4-5   c2+6   21. R4+8   c7.6   
+22. C3.5   r3+6   23. A5-4   r3-1   24. A6+5   r1.4   
+25. R4-1   r3+1   26. A5-6   r3-1   27. A6+5   r3+1   
+28. A5-6   r4+7   29. R2.8   r4.5   30. C5-2   a5+6   
+31. K5+1   a6-5   32. P5+1   c2.1   33. P5+1   r3.4   
+34. R8+8   a5-4   35. R8-3   r4-3   36. R8.1   p1+1   
+37. P5.6   a4+5   38. R1-1   k5.4   39. P1+1   r4.1   
+40. P6+1   p1+1   41. R1.6   r1.5   42. R6-5   c1-1   
+43. R6+4   c1+1   44. R6-4   c1-1   45. R6+4   c1+1   
+46. R6.9   c1.5   47. R9+5   k4+1   48. K5-1   r5+1   
+49. A4+5   r5.9   50. R9-5   k4-1   51. R9+5   k4+1   
+52. R9-5   k4-1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO QingGe(D)YU HongMu,120
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHAO QingGe ; CM ; China-LiaoNing ; ÕÔÇì¸ó , »¯¼y»Õ
+BLACK      YU HongMu ; CM ; China-Qinggong ; ÓÚºìÄ¾ , ¤_¬õ¤ì
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  C8+4   e7+5   6.  H8+9   p1+1   
+7.  C8.7   r1+3   8.  R9.8   r1.3   9.  R8+7   c8.9   
+10. R2+9   h7-8   11. R8-6   p3+1   12. R8.2   h8+6   
+13. R2+7   h6+4   14. C5.7   r3.4   15. A4+5   h3+2   
+16. P7+1   h2+1   17. C7.4   h1-3   18. R2-1   h3+5   
+19. C4+1   p5+1   20. H3+5   r4.6   21. C4+6   c9+4   
+22. C4.2   p1+1   23. H5-3   c9.2   24. R2-4   h4+3   
+25. E3+5   p9+1   26. E5+7   c2-5   27. C2.1   p9+1   
+28. H9-7   p5+1   29. C1-1   r6-3   30. C1.6   p1.2   
+31. H7+6   h3-2   32. C6.1   p2.3   33. H6+5   h2+3   
+34. H5+3   r6.7   35. H+-5   p3.4   36. H5+4   c2.6   
+37. R2+5   a4+5   38. R2.4   a5+6   39. E7+5   r7.9   
+40. E5-3   h3-5   41. R4.3   h5+6   42. H3-4   p9.8   
+43. E3+1   h6-5   44. H4+3   p8.9   45. A5-4   r9.8   
+46. C1.2   h5+6   47. H3+4   p5.6   48. P3+1   a6-5   
+49. C2.5   r8.7   50. R3.1   r7+4   51. C5.9   r7.5   
+52. A4+5   p9.8   53. R1.2   r5.1   54. R2-4   r1-3   
+55. R2+5   k5+1   56. R2-1   k5-1   57. R2.9   p4.5   
+58. A5+6   p5.4   59. R9.6   p4.5   60. K5+1   p5+1   }END
+
+
+FORMAT 	WXF
+GAME 	HU RongHua(D)CHEN XiaoKun,161
+TIME       ;
+RESULT     0.5-0.5
+RED        HU RongHua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+BLACK      CHEN XiaoKun ; CM ; China-Hangzhou ; ³ÂÐ¢À¤ , ³¯§µ©[
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   c8.9   
+4.  H8+7   r8+4   5.  R1.2   r8+5   6.  H3-2   p7+1   
+7.  H7+6   h2+3   8.  C8.7   r1.2   9.  R9.8   c2+6   
+10. C5.3   e3+5   11. P3+1   c2-3   12. P7+1   h7+6   
+13. H6+4   c2.5   14. P5+1   r2+9   15. P7+1   h3-2   
+16. E3+5   h2+4   17. P7.6   r2-5   18. P3+1   h4+6   
+19. P6.5   h6+7   20. H4+6   r2-3   21. P-+1   c9+4   
+22. P-.4   h7+6   23. H2+1   h6-4   24. P4+1   c9.4   
+25. A4+5   c4-3   26. P5.6   r2.8   27. C7.6   r8+5   
+28. C3-2   r8.1   29. C3.1   r1.8   30. P6.5   r8-3   
+31. E5-3   p1+1   32. E7+5   a4+5   33. A5+4   p1+1   
+34. A6+5   h4-6   35. H1-3   r8+6   36. C6-1   p1.2   
+37. C1+3   p2+1   38. C1.6   p2.3   39. C++5   r8-4   
+40. C--1   r8.4   41. C+.9   p3+1   42. H3+4   r4.6   
+43. H4-2   p3+1   44. C6+2   r6.1   45. C9.6   h6+5   
+46. H2+4   r1.4   47. C+-2   r4.6   48. C+-3   p9+1   
+49. C-.8   r6.4   50. C6.7   p3.4   51. C8.6   r4-1   
+52. H4+2   h5+3   53. H2+3   r4.2   54. A5-6   p4+1   
+55. K5.4   r2.3   56. C7.6   r3+2   57. H3-4   p9+1   
+58. C--1   r3.2   59. C-+1   p9+1   60. A4-5   h3-2   
+61. A5-6   h2+4   62. H4-6   r2.4   63. A6+5   p9.8   
+64. K4.5   p8.7   65. E3+1   p7.6   66. E1-3   p6.5   
+67. C6.7   r4-1   68. C7.6   r4.2   69. C6-2   r2+4   
+70. P5.6   a5-4   71. P6.5   k5+1   72. P5.6   p5.6   
+73. P6.5   p6.7   74. P5.6   e5-3   75. P6.5   p7+1   
+76. E3+1   p7+1   77. E1+3   p7.6   78. E3-1   r2-1   
+79. A5-4   r2-3   80. E1+3   r2.4   81. P4.3   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DianZhong(D)DENG SongHong,136
+TIME       ;
+RESULT     0.5-0.5
+RED        LIU DianZhong ; GM ; China-Hebei ; ÁõµîÖÐ , ¼B·µ¤¤
+BLACK      DENG SongHong ; CM ; China-Shenzhen ; µËËÌºê , ¾H¹|§»
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  E3+5   h8+7   2.  P3+1   p3+1   3.  H2+3   h2+3   
+4.  H8+9   e3+5   5.  R9+1   a4+5   6.  R9.7   p7+1   
+7.  P3+1   e5+7   8.  R1.3   e7+5   9.  P7+1   p3+1   
+10. R7+3   h3+4   11. C8.6   c8+2   12. R3+1   r1.3   
+13. R7+5   e5-3   14. R3.8   c2.4   15. C6+5   a5+4   
+16. R8+4   a6+5   17. A6+5   r9.6   18. C2-2   r6+8   
+19. H9+7   r6.7   20. H7+6   r7-1   21. H6-4   c8.2   
+22. H4-3   c2-3   23. C2.3   e3+5   24. H3+4   h7+6   
+25. C3.1   c2.1   26. C1+6   c1+5   27. P1+1   p1+1   
+28. P1+1   h6+4   29. E5+7   p1+1   30. H4+6   p5+1   
+31. P1.2   h4+6   32. C1.4   e5+3   33. C4-2   p1.2   
+34. C4.8   c1-2   35. H6+7   e7-5   36. P2+1   h6-7   
+37. C8.9   h7-5   38. H7-9   e3-1   39. C9-2   h5+3   
+40. H9+7   e1-3   41. C9.5   p5+1   42. C5+2   h3+5   
+43. P5+1   c1.9   44. E7-5   e5+7   45. P2.3   e3+5   
+46. H7+9   a5-4   47. H9-8   a4+5   48. H8-7   k5.6   
+49. P5+1   e7-9   50. K5.6   e9-7   51. H7-5   c9+5   
+52. E5-3   c9-3   53. P5+1   c9.6   54. P5.6   e5-3   
+55. H5+4   e7+5   56. H4-2   c6.1   57. P6.7   c1-3   
+58. A5+4   k6.5   59. K6.5   k5.6   60. K5+1   c1+1   
+61. H2+1   c1-1   62. H1+2   k6.5   63. P3+1   c1-1   
+64. P7+1   e5+7   65. P3+1   e3+5   66. P7+1   c1-1   
+67. P7.8   c1+5   68. P3.4   c1.6   }END
+
+
+FORMAT 	WXF
+GAME 	WU ZhengWei(L)ZHANG ZhiZhong,96
+TIME       ;
+RESULT     0-1
+RED        WU ZhengWei ; CM ; China-Pudong ; ÚùÕýÎ° , à©¥¿°¶
+BLACK      ZHANG ZhiZhong ; CM ; China-Shanyi ; ÕÅÖÂÖÒ , ±i­P©¾
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  H8+7   r9+1   5.  R2+4   r9.4   6.  P7+1   r4+5   
+7.  C5.4   p5+1   8.  A6+5   h2+3   9.  E7+5   h3+5   
+10. C8+4   p3+1   11. C4+1   r4-5   12. R2.6   r4+4   
+13. H7+6   p3+1   14. H6+5   h7+5   15. R9.6   c5.7   
+16. C4+3   h5-3   17. R6.7   e3+5   18. R7+4   a4+5   
+19. C4.3   c7.6   20. C8.1   c2.1   21. C1-1   r1.2   
+22. C1.5   r2+3   23. C3+2   c1+4   24. R7-4   r2.7   
+25. C3.1   c1.7   26. P5+1   p7+1   27. H3+5   p7.6   
+28. H5+7   p6.5   29. R7.6   r7.5   30. H7+6   c7-5   
+31. C5.2   c6+1   32. H6-7   p5+1   33. C2.5   p5+1   
+34. R6+3   r5.3   35. H7+6   c6.5   36. E3+5   r3+6   
+37. A5-6   r3-2   38. A4+5   r3.5   39. C5-1   r5.7   
+40. K5.4   r7+2   41. K4+1   r7-4   42. C1+1   c5.6   
+43. A5+6   h3+4   44. R6+1   h4+6   45. K4.5   r7+3   
+46. K5-1   h6+7   47. C5.3   r7.8   48. H6+4   c7.6   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO QingGe(L)LIU DianZhong,134
+TIME       ;
+RESULT     0-1
+RED        ZHAO QingGe ; CM ; China-LiaoNing ; ÕÔÇì¸ó , »¯¼y»Õ
+BLACK      LIU DianZhong ; GM ; China-Hebei ; ÁõµîÖÐ , ¼B·µ¤¤
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  P3+1   p3+1   5.  C8+4   e7+5   6.  H8+9   p1+1   
+7.  C8.7   r1+3   8.  R9.8   r1.3   9.  R8+7   c8.9   
+10. R2+9   h7-8   11. R8-6   p3+1   12. R8.2   h8+6   
+13. R2+7   h6+4   14. C5.7   r3.4   15. A4+5   h3+2   
+16. P7+1   h2+1   17. C7.4   h1-3   18. R2-1   e5-7   
+19. R2.3   a4+5   20. R3+2   c9.5   21. E3+5   c5+4   
+22. R3-3   c5-1   23. P3+1   r4+3   24. P3.4   h4+3   
+25. K5.4   h++1   26. R3-2   e3+5   27. H9-7   r4.3   
+28. C4-1   h1+3   29. E5+7   r3.8   30. A5+6   r8.6   
+31. H3-5   r6.9   32. C4+2   h+-4   33. R3.4   r9+3   
+34. K4+1   r9-1   35. K4+1   r9-1   36. K4-1   r9+1   
+37. K4+1   h4+3   38. C4.7   h-+1   39. C7.6   c5+1   
+40. R4-1   c5-1   41. R4+1   c5+1   42. R4-1   c5-1   
+43. R4+1   c5+1   44. R4.5   c5.7   45. R5.3   c7.5   
+46. R3.5   c5.7   47. C6.5   r9-4   48. R5.4   c7-5   
+49. C5+4   k5.4   50. P4.3   h3-1   51. R4+1   a5+6   
+52. R4+2   r9.7   53. R4+2   k4+1   54. H7+6   h+-3   
+55. H6+8   h3+4   56. R4-1   k4-1   57. R4+1   k4+1   
+58. R4-1   k4-1   59. H8+9   c7+1   60. E7+5   h1-3   
+61. H9-7   r7.3   62. H5+3   r3-2   63. C5+1   r3+6   
+64. H3+4   h4+5   65. A6+5   r3.5   66. R4+1   k4+1   
+67. H4+5   c7.5   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DaHua(W)WANG CongXiang,75
+TIME       ;
+RESULT     1-0
+RED        LIU DaHua ; IGM ; China-Hubei ; Áø´ó»ª , ¬h¤jµØ
+BLACK      WANG CongXiang  ; NT  ; NA ; Íõ´ÓÏé , ¤ý±q²»
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  E7+5   c2.6   2.  H2+3   h2+3   3.  R1+1   h8+9   
+4.  P3+1   r1.2   5.  H8+6   r2+4   6.  R9.8   r9+1   
+7.  R1.4   c6.4   8.  P7+1   e3+5   9.  C8.7   r2+5   
+10. H6-8   r9.2   11. H8+6   a4+5   12. P7+1   e5+3   
+13. H6+7   r2+5   14. H7+6   r2.4   15. H6-4   r4+1   
+16. R4.7   c4.6   17. A6+5   r4-7   18. C2+4   c6+2   
+19. C7+4   p5+1   20. P5+1   p5+1   21. R7+4   p5.6   
+22. R7.4   p6.7   23. H3+5   p+.8   24. C7.5   c8.5   
+25. R4.7   h3+5   26. C2.5   r4+3   27. R7+4   r4-3   
+28. R7-3   r4+6   29. H5+4   k5.4   30. H4+6   a5+4   
+31. H6-7   r4.2   32. C5.6   k4.5   33. H7+5   r2+3   
+34. C6-6   a6+5   35. R7+3   a5-4   36. H5+6   k5.6   
+37. R7.6   k6+1   38. R6.5   }END
+
+
+FORMAT 	WXF
+GAME 	HU RongHua(L)BU FengBo,137
+TIME       ;
+RESULT     0-1
+RED        HU RongHua ; IGM ; China-Shanghai ; ºúÈÙ»ª , ­JºaµØ
+BLACK      BU FengBo ; GM ; China-Dalian ; ²··ï²¨ , ¤R­·ªi
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c2.5   5.  H8+7   h2+3   6.  R9.8   p3+1   
+7.  C8+4   c8.7   8.  C8.7   e3+1   9.  R2+9   h7-8   
+10. R8+4   r1.2   11. R8+5   h3-2   12. C5+4   a4+5   
+13. C5-1   c7+3   14. A4+5   c7-4   15. H3+2   h2+4   
+16. C7.1   h8+7   17. C1.9   p7+1   18. C9.3   h7+5   
+19. P5+1   c5.3   20. E7+5   c7-2   21. H2+3   c3+4   
+22. P1+1   p7+1   23. H7+5   p7+1   24. H5+3   h4+3   
+25. H-+4   h3+5   26. P5+1   h5-3   27. P9+1   h3+2   
+28. P9+1   h2+1   29. H3-4   c3.2   30. A5+6   p3+1   
+31. H-+6   p3.4   32. P9+1   e1+3   33. P9.8   k5.4   
+34. H6+7   k4+1   35. A6+5   c2+1   36. P8+1   p7+1   
+37. P5.6   e3-5   38. P8+1   p7+1   39. K5.4   p4+1   
+40. P8.7   k4-1   41. P7.8   k4+1   42. H7-9   h1+3   
+43. P8.7   k4-1   44. H9+8   a5+6   45. H4-3   c2+2   
+46. H8-7   a6+5   47. K4.5   h3+1   48. K5.6   p4.3   
+49. P7.6   k4.5   50. H3-5   p3+1   51. H5-7   h1-3   
+52. K6.5   p7.6   53. P1+1   h3+1   54. K5.6   h1+3   
+55. K6+1   c2-3   56. A5+4   h3-1   57. P1.2   h1-3   
+58. A6-5   h3-1   59. P2+1   h1+2   60. H7-8   c2.1   
+61. H8-9   c1.7   62. E5+3   c7+1   63. H9+8   c7+2   
+64. P-.5   h2-3   65. H8-7   c7-2   66. A5+6   h3-5   
+67. H7+6   h5+6   68. E3-5   h6-5   69. P2.3   }END
+
+
+FORMAT 	WXF
+GAME 	YU HongMu(D)LI JiaHua,105
+TIME       ;
+RESULT     0.5-0.5
+RED        YU HongMu ; CM ; China-Qinggong ; ÓÚºìÄ¾ , ¤_¬õ¤ì
+BLACK      LI JiaHua ; ICM ; China-Yaudian ; Àî¼Ò»ª , §õ®aµØ
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  H8+7   c2.1   6.  P7+1   p7+1   
+7.  H7+6   a6+5   8.  R9+2   r9.8   9.  R2+9   h7-8   
+10. R9.8   r2+7   11. C5.8   c1+4   12. C8+1   e7+5   
+13. C6.7   c1-1   14. H6+7   h8+7   15. C8.7   h7+6   
+16. H7-8   h3-1   17. P7+1   h6+4   18. P7+1   h4+3   
+19. H8-7   c6+1   20. C7.9   c6.3   21. H7+6   c3-2   
+22. H6+5   h1+2   23. E3+5   c1.2   24. H5+7   c2+2   
+25. H3-2   p1+1   26. H2+4   c2-1   27. C9-2   p1+1   
+28. C9.8   h2-4   29. H4+6   c2.4   30. C8.1   h4+3   
+31. C1+5   c3.4   32. A4+5   c-+6   33. A5+6   h3+2   
+34. A6+5   c4.7   35. H7-6   k5.6   36. H6+4   h2+3   
+37. K5.4   c7.8   38. C1.2   c8-1   39. P1+1   p1.2   
+40. P1+1   p2+1   41. C2.1   p2.3   42. P1.2   p3.4   
+43. C1-5   h3-2   44. P5+1   p7+1   45. C1.4   p7.6   
+46. P5+1   p6+1   47. H4-5   k6.5   48. P5.6   p6.5   
+49. C4+5   c8.6   50. P2.3   p4+1   51. A5+6   h2+4   
+52. P3.4   h4-5   53. C4-2   }END
+
+
+FORMAT 	WXF
+GAME 	CUI Yan(W)LIU DaHua,81
+TIME       ;
+RESULT     1-0
+RED        CUI Yan ; CM ; China-HuoCheTou ; ´ÞÑÒ , ±Z©¥
+BLACK      LIU DaHua ; IGM ; China-Hubei ; Áø´ó»ª , ¬h¤jµØ
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  E3+5   c2.6   2.  H8+7   h2+3   3.  R9.8   r1.2   
+4.  C8+4   p3+1   5.  C8.7   h8+9   6.  H2+3   p7+1   
+7.  R8+9   h3-2   8.  C7.1   h9-8   9.  C2.1   h8+7   
+10. R1.2   r9.8   11. C+.3   h2+3   12. P3+1   p7+1   
+13. E5+3   c8+4   14. P1+1   h3+4   15. P1+1   c6.3   
+16. E7+5   e7+5   17. C3.9   c3+4   18. C9-1   h4-3   
+19. H3+4   c8+1   20. P1.2   c8.3   21. C1.7   r8+1   
+22. P2+1   r8.1   23. P9+1   r1.2   24. P2+1   r2+4   
+25. H4+3   h7-8   26. C7-1   r2.1   27. C7.2   r1-1   
+28. C2+8   e5-7   29. R2+5   c3.2   30. H3+4   r1-3   
+31. R2.4   r1.4   32. H4-5   h3+5   33. R4+4   k5+1   
+34. R4.5   k5.6   35. R5-3   r4+1   36. P2+1   c2-5   
+37. R5.3   k6.5   38. P2.3   c2+8   39. A6+5   k5.4   
+40. A5+6   c2-7   41. R3.7   }END
+
+
+FORMAT 	WXF
+GAME 	DENG SongHong(W)ZHANG ZhiZhong,71
+TIME       ;
+RESULT     1-0
+RED        DENG SongHong ; CM ; China-Shenzhen ; µËËÌºê , ¾H¹|§»
+BLACK      ZHANG ZhiZhong ; CM ; China-Shanyi ; ÕÅÖÂÖÒ , ±i­P©¾
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  P7+1   h2+1   2.  C2.5   c8.5   3.  H2+3   h8+7   
+4.  R1.2   r9+1   5.  C8.6   r9.4   6.  A4+5   r1.2   
+7.  H8+7   a4+5   8.  R9.8   r4+5   9.  P3+1   r4-2   
+10. R2+6   p3+1   11. R8+5   c2.3   12. R8.7   r4.3   
+13. P7+1   r2+4   14. R2-1   p5+1   15. R2.5   h7+5   
+16. R5+1   r2.3   17. H7-9   r3+4   18. R5.3   r3.1   
+19. C5+5   e7+5   20. R3.9   r1.3   21. E3+5   h1+3   
+22. H3+4   h3+5   23. H4+6   c3+2   24. R9+3   a5-4   
+25. R9-5   a6+5   26. R9.4   r3.2   27. R4.5   h5-6   
+28. R5+2   r2-2   29. H6+4   c3+2   30. P3+1   c3.1   
+31. P3+1   c1.5   32. P3+1   c5.6   33. P3.4   c6-4   
+34. H4-3   r2.7   35. R5.4   p9+1   36. C6+3   }END
+
+
+FORMAT 	WXF
+GAME 	SHANG Wei(D)LI JiaHua,63
+TIME       ;
+RESULT     0.5-0.5
+RED        SHANG Wei ; CM ; China-Yejin ; ÉÐÍþ , ©|«Â
+BLACK      LI JiaHua ; ICM ; China-Yaudian ; Àî¼Ò»ª , §õ®aµØ
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.4   p7+1   2.  H2+1   c8.5   3.  C8.5   c5+4   
+4.  A4+5   e3+5   5.  H8+7   c5-2   6.  R9.8   h2+4   
+7.  R1.2   h8+7   8.  H1-3   r1.2   9.  H3+4   c2+5   
+10. R2+6   c2.5   11. E7+5   r2+9   12. H7-8   c5.4   
+13. R2-2   h4+2   14. H8+7   r9.8   15. R2.8   h2-3   
+16. H7+5   c4-3   17. R8+4   c4+5   18. H5+6   h3+4   
+19. R8-1   a6+5   20. H6+4   r8+1   21. R8-3   e5-3   
+22. H+-5   p5+1   23. H5-6   e7+5   24. P9+1   r8+5   
+25. R8.6   c4.7   26. R6+2   c7.9   27. H4+5   c9+3   
+28. C4-2   c9.6   29. A5-4   h7+6   30. H5+6   a5+4   
+31. R6.1   r8.4   32. A6+5   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DianZhong(D)WANG BingGuo,86
+TIME       ;
+RESULT     0.5-0.5
+RED        LIU DianZhong ; GM ; China-Hebei ; ÁõµîÖÐ , ¼B·µ¤¤
+BLACK      WANG BingGuo ; CM ; China-Shandong ; Íõ±ü¹ú , ¤ýªÃ°ê
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  C2.1   h2+1   5.  P9+1   c2+7   6.  R9.8   r1.2   
+7.  R8+1   c4+5   8.  E5-3   c4.9   9.  E3+1   r2+6   
+10. R2+6   e7+5   11. R2.3   r9.7   12. P5+1   h1-3   
+13. P5+1   p5+1   14. H3-5   p5+1   15. H5+4   p5+1   
+16. H4+5   a6+5   17. H5+7   e5+3   18. H7-5   e3+5   
+19. P7+1   h3+2   20. P7+1   h2+1   21. H5-7   e5+3   
+22. R3-1   h7-9   23. R3.2   h1+2   24. R8+1   r2+1   
+25. H7-8   r7+3   26. P3+1   e3-1   27. R2+4   a5-6   
+28. R2-2   e1-3   29. A4+5   r7.5   30. P3+1   a4+5   
+31. H8+7   h9+8   32. R2.3   h8-6   33. P3.4   r5+2   
+34. E7+9   r5.6   35. P4.3   r6+1   36. E1+3   r6.9   
+37. P3.4   r9.6   38. P4.5   r6.8   39. P5.6   p5.6   
+40. A5-4   r8-3   41. R3.4   r8.5   42. P6.5   r5+1   
+43. H7+5   a5+6   }END
+
+
+FORMAT 	WXF
+GAME 	LI Aidong(W)CUI Yan,57
+TIME       ;
+RESULT     1-0
+RED        LI Aidong ; CM ; China-Sichuan ; Àî°¬¶« , §õ¦ãªF
+BLACK      CUI Yan ; CM ; China-HuoCheTou ; ´ÞÑÒ , ±Z©¥
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  P3+1   r9.8   3.  H2+3   c8.9   
+4.  H8+7   p3+1   5.  C8+4   e3+5   6.  C8.3   h2+3   
+7.  R9.8   c2+2   8.  R1.2   r8+9   9.  H3-2   c9+4   
+10. C5.3   r1+1   11. E7+5   r1.8   12. H2+1   r8+6   
+13. C--1   c9.6   14. A6+5   p9+1   15. R8+4   p9+1   
+16. P7+1   p3+1   17. R8.7   h3+4   18. R7.6   h4-3   
+19. R6.7   h3+4   20. H7+6   c6+2   21. R7+4   c2+1   
+22. C+.9   r8.7   23. H6+8   e5-3   24. R7+1   r7.5   
+25. C9+3   r5-1   26. R7-1   a4+5   27. H8+9   e7+5   
+28. C3+6   r5.9   29. H1+3   }END
+
+
+FORMAT 	WXF
+GAME 	FU GuangMing(W)ZHANG HuiMin,79
+TIME       ;
+RESULT     1-0
+RED        FU GuangMing ; CM ; China-Beijing ; ¸µ¹âÃ÷ , ³Å¥ú©ú
+BLACK      ZHANG HuiMin ; NT ; China ; ÕÅ»ÝÃñ , ±i´f¥Á
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  P7+1   h8+7   2.  H8+7   p7+1   3.  E3+5   r9+1   
+4.  H2+4   e3+5   5.  R1.3   h2+4   6.  P3+1   p7+1   
+7.  R3+4   r1.3   8.  H7+6   r9.6   9.  R9+1   h7+8   
+10. R3+5   c8+5   11. H4+2   p3+1   12. P7+1   r6+8   
+13. K5.4   e5-7   14. P7+1   c2.8   15. R9.4   r3.2   
+16. C8.6   r2+5   17. C6+6   r2.4   18. R4+8   k5+1   
+19. R4-1   k5-1   20. R4+1   k5+1   21. R4-1   k5-1   
+22. R4+1   k5+1   23. R4-1   k5-1   24. H2-4   a4+5   
+25. C6-2   c8.6   26. K4.5   h8+6   27. H4+3   h6+7   
+28. A6+5   r4+3   29. A5+4   r4.6   30. C6-4   r6+1   
+31. K5+1   r6.4   32. C6.8   r4-2   33. C8+4   r4-1   
+34. C8.5   k5.4   35. R4.5   c6.5   36. C5.2   r4.5   
+37. C2+3   e7+9   38. H3+4   r5-2   39. R5-1   r5.6   
+40. E5+3   }END
+
+
+FORMAT 	WXF
+GAME 	WAN FuChu(L)MENG ZhaoZhong,70
+TIME       ;
+RESULT     0-1
+RED        WAN FuChu ; NT ; NA ; Íò¸£³õ , ¸UºÖªì
+BLACK      MENG ZhaoZhong ; CM ; China-HeilongJiang ; ÃÏÕÑÖÒ , ©s¥l©¾
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  R1+1   e3+5   6.  H7+6   a4+5   
+7.  C8.7   c2+4   8.  P7+1   c2.7   9.  E3+1   e5+3   
+10. R9.8   r1.4   11. R8+4   c8+3   12. H6+8   h3-1   
+13. R1.4   c8+1   14. P9+1   e7+5   15. C7.9   r4+6   
+16. P9+1   c8.5   17. H3+5   r4.5   18. P9+1   h1-3   
+19. H8+7   r5.3   20. C9-1   r8+7   21. P9.8   c7.5   
+22. C9.5   r3+3   23. R8-2   r8-1   24. R8+1   c5.3   
+25. C-.9   r3.1   26. R4.7   r1-1   27. R7+2   r8.3   
+28. R8.7   h3+1   29. C5.3   h7+6   30. H7-5   h1+2   
+31. A4+5   r1-1   32. C3.6   r1.2   33. R7.4   h6-4   
+34. R4.6   h4+3   35. R6.7   h3-1   }END
+
+
+FORMAT 	WXF
+GAME 	SUN ZhiWei(L)HE LianSheng,110
+TIME       ;
+RESULT     0-1
+RED        SUN ZhiWei ; CM ; China-HeilongJiang ; ËïÖ¾Î° , ®]§Ó°¶
+BLACK      HE LianSheng ; CM ; China-Yunnan ; ºÎÁ¬Éú , ¦ó³s¥Í
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  R1+1   r1+1   6.  R1.6   e7+5   
+7.  R9+1   r1.6   8.  H7+6   h7+8   9.  R6.4   r8+1   
+10. H6+5   h8+7   11. H5-6   r6.4   12. C8+2   h7+5   
+13. E7+5   p3+1   14. H6+4   p3+1   15. C8+2   r8.6   
+16. C8.7   c2+7   17. A6+5   h3+5   18. R9.8   c2.1   
+19. R4+1   a4+5   20. C7.1   r6+2   21. C1.5   r6.5   
+22. E5+7   r5.6   23. R4.9   r6+1   24. R9-2   c8.7   
+25. R8+1   r4+4   26. E7-9   r4.7   27. R9.7   r7+2   
+28. R8.3   c7+5   29. R7+4   c7-1   30. P9+1   r6+2   
+31. P1+1   c7.5   32. E3+5   c5-2   33. R7.5   c5.3   
+34. R5.7   r6.1   35. E9-7   c3.4   36. R7.6   c4.2   
+37. R6.8   c2.4   38. A5-6   c4-2   39. A4+5   e5+3   
+40. A5-4   c4.5   41. A6+5   r1.3   42. R8.5   p7+1   
+43. R5+2   p7+1   44. P1+1   p7.6   45. P1.2   p6.5   
+46. P2.3   p5+1   47. E7+5   r3.1   48. A5-6   r1-1   
+49. A4+5   p1+1   50. P3.4   r1.8   51. P4+1   r8+4   
+52. A5-4   r8-2   53. A6+5   c5+5   54. A5+6   c5.7   
+55. R5.9   c7-3   }END
+
+
+FORMAT 	WXF
+GAME 	LIN HongMin(D)HUANG JingXian,80
+TIME       ;
+RESULT     0.5-0.5
+RED        LIN HongMin ; GM ; China-Shanghai ; ÁÖºêÃô , ªL§»±Ó
+BLACK      HUANG JingXian ; CM ; China-Guangzhou ; »Æ¾°ÏÍ , ¶À´º½å
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  E3+5   e3+5   2.  H8+9   h2+3   3.  C8.6   r1.2   
+4.  R9.8   h8+9   5.  H2+3   c2+2   6.  P1+1   p7+1   
+7.  P9+1   c8.7   8.  R8+4   r9.8   9.  C2.1   a4+5   
+10. A4+5   r8+7   11. P3+1   p7+1   12. R8.3   c2.7   
+13. R3.2   r8-2   14. H3+2   c-.6   15. C1+4   r2.4   
+16. P1+1   c7.2   17. C1.7   r4+5   18. R1.2   p5+1   
+19. P1+1   h9-7   20. H2+3   r4-2   21. H3-5   r4.5   
+22. P5+1   e5+3   23. H9+8   c6.5   24. R2.3   c5+2   
+25. P5+1   r5.3   26. R3+8   r3.9   27. R3-3   h3+5   
+28. R3.4   h5-7   29. R4.3   h7+5   30. R3.4   e7+5   
+31. C6+3   e3-1   32. R4-2   c2.5   33. R4.5   c5.8   
+34. C6-3   h5+7   35. E5-3   e1-3   36. H8-6   p1+1   
+37. P9+1   c8.1   38. R5+2   c1+2   39. H6-4   h7+6   
+40. R5.9   h6+4   }END
+
+
+FORMAT 	WXF
+GAME 	XU TianHong(D)XU Bo,81
+TIME       ;
+RESULT     0.5-0.5
+RED        XU TianHong ; IGM ; China-Jiangsu ; ÐìÌìºì , ®}¤Ñ¬õ
+BLACK      XU Bo ; CM ; China-Yaudian ; Ðí²¨ , ³\ªi
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   r9+1   
+4.  R1.2   r9.2   5.  H8+7   h2+4   6.  R2+4   h8+9   
+7.  R9+2   r2+3   8.  C8-2   p3+1   9.  R9.8   r2+3   
+10. C5.8   r1.3   11. E7+5   c8.6   12. H3-5   c3.2   
+13. C-.7   c6+5   14. R2.4   c6.3   15. H5+7   p3+1   
+16. C7+4   p7+1   17. C8-2   h9+7   18. C8.7   h7+5   
+19. C+-1   r3+4   20. R4.8   h5+6   21. C-+1   h6+7   
+22. K5+1   h7+9   23. C++1   a4+5   24. H7+6   r3.4   
+25. C+-1   c2.4   26. C-.6   r4.3   27. R8.7   r3+1   
+28. E5+7   c4+6   29. K5.6   h9-8   30. E3+5   h8+6   
+31. H6+4   p5+1   32. C7-1   h4+2   33. K6.5   h2+4   
+34. H4+5   e7+5   35. K5.4   h4+6   36. K4.5   h6+5   
+37. C7.9   h5-6   38. P3+1   p7+1   39. E5+3   p9+1   
+40. K5-1   h6+5   41. E3-5   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG ZhiLiang(D)ÍõÏëÁÖ,106
+TIME       ;
+RESULT     0.5-0.5
+RED        JIANG ZhiLiang ; CM ; China-Anhui ; ½¯Ö¾Áº , ½±§Ó¼Ù
+BLACK      ÍõÏëÁÖ ; NT ; NA ; ÍõÏëÁÖ , ÍõÏëÁÖ
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c2.5   5.  C8+5   h2+3   6.  C8.5   e7+5   
+7.  H3+4   c8+1   8.  H8+7   p3+1   9.  H7-5   r1.2   
+10. R9+1   r2+3   11. H4+3   r2+2   12. H5+3   r2.7   
+13. H++1   r8+2   14. R2+2   r8.9   15. R9.6   h3+2   
+16. C5-1   r7+1   17. R6+7   a6+5   18. E3+5   h2+3   
+19. C5.3   r7.6   20. C3.7   h7+6   21. R6-5   h3-2   
+22. R6.8   h6-4   23. C7.8   h2-3   24. R8+3   h4+2   
+25. C8.7   h2+3   26. R8.7   h+-2   27. R2+2   r9.7   
+28. R2.8   r7+5   29. R8+1   r6.5   30. P9+1   r7-2   
+31. R8+3   r7.4   32. R7+1   r5.3   33. C7.8   r3.9   
+34. C8+6   r9.4   35. A6+5   r-.1   36. C8.9   r1.4   
+37. C9+2   r--4   38. R8-2   r-+1   39. R7+1   r-.1   
+40. C9.8   r1-2   41. C8.6   a5-4   42. R7.2   e5-7   
+43. R8.5   e3+5   44. R2.4   r1+2   45. R5.3   e7+9   
+46. R3.2   r4.7   47. R4.6   r7-6   48. R2.8   r1-2   
+49. R8.1   e9+7   50. R1.4   r7.6   51. R4.5   p1+1   
+52. R6.3   a4+5   53. R5.6   r6+4   }END
+
+
+FORMAT 	WXF
+GAME 	LI Aidong(W)ÑÕÓ¦À¤,77
+TIME       ;
+RESULT     1-0
+RED        LI Aidong ; CM ; China-Sichuan ; Àî°¬¶« , §õ¦ãªF
+BLACK      ÑÕÓ¦À¤ ; NT ; NA ; ÑÕÓ¦À¤ , ÑÕÓ¦À¤
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  P3+1   p3+1   3.  H2+3   h2+3   
+4.  R1.2   r9.8   5.  H8+9   e7+5   6.  R9+1   c2.1   
+7.  C8.7   r1.2   8.  R2+6   r2+5   9.  P5+1   r2.4   
+10. P7+1   h3+2   11. P7+1   h2+1   12. R9.7   c8-1   
+13. C7+1   c8.5   14. R2+3   h7-8   15. A6+5   p1+1   
+16. C7.5   h8+6   17. R7+2   p1+1   18. P7+1   c5.3   
+19. P7.8   h1-3   20. P8.7   c1+2   21. P7+1   c3.5   
+22. C+.2   c5.1   23. H3+5   c++3   24. E7+9   h3-2   
+25. P5+1   p5+1   26. R7+3   p5+1   27. H5-7   r4+1   
+28. C2+3   r4.8   29. R7.8   a6+5   30. R8.9   c1.2   
+31. P7+1   c2+5   32. R9.4   h6+8   33. R4.3   r8.3   
+34. R3.8   c2.9   35. P7.6   r3+1   36. C5+5   k5.6   
+37. C2-3   r3-5   38. R8.5   p5.6   39. R5-1   }END
+
+
+FORMAT 	WXF
+GAME 	SHANG Wei(W)YAN YuSuo,111
+TIME       ;
+RESULT     1-0
+RED        SHANG Wei ; CM ; China-Yejin ; ÉÐÍþ , ©|«Â
+BLACK      YAN YuSuo ; CM ; China-Hubei ; ÑÖÓñËø , ÀF¥ÉÂê
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   a4+5   6.  H8+7   e3+5   
+7.  R2.3   c2+4   8.  P3+1   p7+1   9.  R3+1   p7+1   
+10. H3-5   c8+7   11. P5+1   c2.9   12. C5.1   r8+6   
+13. R9.8   r1.4   14. C8+1   r8+1   15. R3-4   c9.2   
+16. R8+3   r8.9   17. R3.2   r4+8   18. H7+5   r9.5   
+19. E7+9   k5.4   20. H+-7   k4.5   21. H7-8   r4-1   
+22. R2-3   k5.4   23. H8+7   r5-2   24. R8.7   r4-3   
+25. R2+3   p3+1   26. P7+1   e5+3   27. R2.6   r5-1   
+28. R6+2   r5.4   29. H5+6   h3+2   30. R7.8   e3-5   
+31. H7+5   r4.7   32. H6+8   h2-3   33. R8.6   k4.5   
+34. R6+3   r7.5   35. H8-7   p9+1   36. A6+5   p9+1   
+37. R6-2   h3+2   38. R6.9   r5.3   39. R9+2   r3+2   
+40. R9+3   a5-4   41. R9-5   p5+1   42. R9.7   r3.4   
+43. R7.8   h2+4   44. H5+3   h4+2   45. A5+4   h2+4   
+46. K5+1   r4.7   47. K5.6   h4-6   48. H3+4   a6+5   
+49. R8.1   r7-3   50. R1.4   h6-8   51. H7+5   h8+7   
+52. H5-3   r7+4   53. E3+5   r7+1   54. A4-5   r7-2   
+55. P9+1   r7.4   56. A5+6   }END
+
+
+FORMAT 	WXF
+GAME 	ZOU LiMu(L)WANG GangKou,72
+TIME       ;
+RESULT     0-1
+RED        ZOU LiMu ; NT ; China-Anhui ; ×ÞÁ¢Îä , ¹Q¥ßªZ
+BLACK      WANG GangKou ; CM ; China-Guizhou ; Íõ¸Õ¿Û , ¤ý­è¦©
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   p3+1   3.  R1.2   c8.6   
+4.  C8.7   e3+5   5.  H8+9   h8+7   6.  R9.8   c2.1   
+7.  P7+1   p3+1   8.  R2+4   c1-1   9.  R2.4   a6+5   
+10. R8+8   r9.8   11. R4.7   h3+4   12. R7.6   r8+4   
+13. H9+7   h4-3   14. C7+5   c6.3   15. H7+6   c3+2   
+16. P3+1   c1+5   17. H3+4   p5+1   18. R8-2   c1.9   
+19. R8.3   c9.7   20. P3+1   c7-3   21. P3.2   c7.3   
+22. E7+9   r1.2   23. H4+3   c-.4   24. R6.7   r2+4   
+25. P2+1   h7+5   26. H3+4   h5+7   27. R7.3   c3-3   
+28. H4-2   h7-8   29. H6-7   r2+2   30. H7-6   h8+6   
+31. R3.7   h6+4   32. H6+4   r2.3   33. H4+3   r3-1   
+34. E9+7   c4.5   35. C5+3   h4+5   36. H3-5   p9+1   }END
+
+
+FORMAT 	WXF
+GAME 	CAO Lin(W)CUI Yan,83
+TIME       ;
+RESULT     1-0
+RED        CAO Lin ; CM ; China-Jilin ; ²ÜÁØ , ±äÀM
+BLACK      CUI Yan ; CM ; China-HuoCheTou ; ´ÞÑÒ , ±Z©¥
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P3+1   c8.9   
+4.  H8+7   p3+1   5.  C8+4   e3+5   6.  C8.3   h2+3   
+7.  R9.8   r1.2   8.  R8+4   r8+4   9.  R1.2   r8+5   
+10. H3-2   c9+4   11. P5+1   c9-1   12. H2+1   p1+1   
+13. H1+3   c9.8   14. R8+2   c8+1   15. P5+1   c8.3   
+16. H7+5   c2.1   17. R8+3   h3-2   18. P5+1   c3.7   
+19. C3-3   h7+8   20. C3.4   a4+5   21. H5+6   c1+4   
+22. P5+1   e7+5   23. P3+1   h8+7   24. H6+5   c1.5   
+25. C5.2   a5+6   26. C2+7   k5+1   27. H5-6   h7+6   
+28. C4-1   h6-4   29. K5+1   c5-2   30. C2.8   k5.4   
+31. K5.6   h4-5   32. C4.6   h5+4   33. K6+1   c5-4   
+34. K6.5   p3+1   35. K5.4   a6+5   36. P3.2   p3.4   
+37. H6-8   k4-1   38. C8-3   p1+1   39. H8+7   c5.6   
+40. K4.5   p4+1   41. H7+8   k4+1   42. C8.9   }END
+
+
+FORMAT 	WXF
+GAME 	WANG CongXiang(W)WANG GuiFu,105
+TIME       ;
+RESULT     1-0
+RED        WANG CongXiang  ; NT  ; NA ; Íõ´ÓÏé , ¤ý±q²»
+BLACK      WANG GuiFu ; CM ; China-Ningxie ; Íõ¹ó¸£ , ¤ý¶QºÖ
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.4   c2.5   2.  H8+7   h2+3   3.  R9.8   h8+9   
+4.  H2+3   r9.8   5.  R1.2   r1.2   6.  C8+4   p3+1   
+7.  R2+5   p7+1   8.  R2.3   c5.6   9.  C4.6   e3+5   
+10. R3.4   a4+5   11. E7+5   c8.7   12. P3+1   c7-1   
+13. C8+1   c6.7   14. H3+4   c++7   15. E5-3   c7+8   
+16. A4+5   c7.9   17. K5.4   r8+9   18. K4+1   r8-3   
+19. R8+2   c9-2   20. H4-3   c9.4   21. A5+6   r8.7   
+22. R4-3   h9+7   23. P3+1   e5+7   24. K4-1   e7-5   
+25. K4.5   h7+8   26. H3-4   r7.5   27. A6-5   r5.9   
+28. H4+5   h3+4   29. C8-4   r9+3   30. A5-4   p5+1   
+31. R4+2   r9-2   32. H5-3   r9.7   33. R4.2   h4+3   
+34. H3-1   p5+1   35. R2-2   r7+2   36. R2.1   r2+3   
+37. H7-5   r7-5   38. R1.6   p3+1   39. P9+1   p5.4   
+40. H5+4   r7.4   41. C8.9   r2.5   42. A4+5   h3-1   
+43. R8+1   h1-3   44. H1+2   p1+1   45. C9-2   p1+1   
+46. R8+6   a5-4   47. C9.6   r4.8   48. H4+6   p3.4   
+49. R6+2   e5-3   50. R8.7   a6+5   51. C6+8   e7+5   
+52. R7.8   r8+3   53. C6-4   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG Yong(W)HE LianSheng,83
+TIME       ;
+RESULT     1-0
+RED        HUANG Yong ; CM ; China-Shenzhen ; »ÆÓÂ , ¶À«i
+BLACK      HE LianSheng ; CM ; China-Yunnan ; ºÎÁ¬Éú , ¦ó³s¥Í
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   p7+1   3.  R1.2   r9+2   
+4.  C8+2   p9+1   5.  H8+7   c2-1   6.  R2+6   h8+7   
+7.  P5+1   c2.5   8.  R2.3   c8+2   9.  R9.8   p3+1   
+10. C8+3   e7+5   11. H7+5   r1.2   12. A6+5   h3+4   
+13. P5+1   h4+5   14. H3+5   c5.7   15. R3.4   c8.5   
+16. H5+6   r2+1   17. R8+4   r9+1   18. C8.3   r9.6   
+19. R8+4   a6+5   20. R8-4   p7+1   21. P3+1   r6-1   
+22. C3-1   c7+1   23. K5.6   r6+4   24. R8.6   c5.8   
+25. P3+1   c8+4   26. E7+9   p5+1   27. R6.2   r6.4   
+28. K6.5   c8.9   29. R2+5   a5-6   30. R2-2   c7+2   
+31. H6+7   r4-4   32. H7-9   c7+3   33. R2-2   a6+5   
+34. R2+4   e5-7   35. C3.5   a5-6   36. R2.3   c7-5   
+37. H9-7   r4.3   38. C+.2   c7.5   39. H7+5   r3+4   
+40. C2+3   r3.8   41. H5+3   c5+5   42. E3+5   }END
+
+
+FORMAT 	WXF
+GAME 	FU GuangMing(D)CHEN XinAn,156
+TIME       ;
+RESULT     0.5-0.5
+RED        FU GuangMing ; CM ; China-Beijing ; ¸µ¹âÃ÷ , ³Å¥ú©ú
+BLACK      CHEN XinAn ; CM ; China-Yunnan ; ³ÂÐÅ°² , ³¯«H¦w
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  C2.1   h2+1   5.  P9+1   c2+7   6.  R9.8   r1.2   
+7.  C8+5   c4+5   8.  R2+2   r9.8   9.  R2+7   h7-8   
+10. E5-3   c4.9   11. E3+1   h8+7   12. P3+1   p7+1   
+13. E1+3   r2+1   14. E3-5   h7+6   15. H3+4   p3+1   
+16. R8+6   e7+5   17. H4+6   p5+1   18. A6+5   a4+5   
+19. A5+4   h6+7   20. E5+3   h7+8   21. A4+5   h8-9   
+22. P5+1   h9-7   23. E7+5   h7-6   24. P5+1   h6-4   
+25. H6+7   r2.3   26. C8.6   r3+1   27. C6+1   r3-1   
+28. C6-6   r3+2   29. R8+1   r3.4   30. E5-3   p9+1   
+31. C6.5   p9+1   32. R8-3   p9+1   33. R8.5   r4.7   
+34. E3+1   r7+3   35. P5+1   h1-3   36. P7+1   r7.3   
+37. P7+1   r3-2   38. E1+3   h3+2   39. R5.6   r3+5   
+40. A5-6   r3-4   41. R6+4   r3-4   42. R6-2   h2+1   
+43. P5+1   h1-3   44. P5+1   k5+1   45. C5-1   k5-1   
+46. E3-5   a6+5   47. E5+7   a5+4   48. R6-1   e3+1   
+49. R6.5   k5.4   50. C5.6   a4-5   51. R5.6   k4.5   
+52. R6.1   h3+5   53. R1+4   a5-6   54. R1-6   r3+4   
+55. C6.2   a6+5   56. R1+6   a5-6   57. C2+8   k5+1   
+58. R1-6   e1-3   59. C2-5   r3-3   60. R1.5   r3.8   
+61. R5+1   r8.5   62. R5+3   e3+5   63. K5+1   k5.4   
+64. C2-4   e5+7   65. C2.5   p1+1   66. K5+1   p1+1   
+67. A6+5   a6+5   68. A5-4   a5+6   69. A4+5   a6-5   
+70. A5+6   a5+4   71. A6-5   a4-5   72. A5+6   a5+4   
+73. C5.2   p1.2   74. A6-5   a4-5   75. C2.6   p2.3   
+76. A5-4   p3+1   77. C6.5   a5+6   78. A4-5   a6-5   }END
+
+
+FORMAT 	WXF
+GAME 	XU TianHong(W)ÃÏÕ×ÖÒ,75
+TIME       ;
+RESULT     1-0
+RED        XU TianHong ; IGM ; China-Jiangsu ; ÐìÌìºì , ®}¤Ñ¬õ
+BLACK      ÃÏÕ×ÖÒ ; NT ; NA ; ÃÏÕ×ÖÒ , ÃÏÕ×ÖÒ
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  P3+1   r9.8   3.  H2+3   p3+1   
+4.  R1.2   h2+3   5.  H8+9   e7+5   6.  R9+1   p1+1   
+7.  C8.7   h3+2   8.  H3+4   h2+1   9.  C7.6   a6+5   
+10. R9.8   c2.4   11. R8+5   p1+1   12. H4+3   p3+1   
+13. R2+5   c8.9   14. R2+4   h7-8   15. R8.5   r1+4   
+16. H3-5   h8+7   17. R5.3   c4.3   18. C6+4   r1.4   
+19. C6.7   c3.2   20. A4+5   c9+4   21. P3+1   h1+3   
+22. C7+1   c9+3   23. E3+1   h7-6   24. R3.7   c2+5   
+25. A5+6   h3+4   26. C5.8   r4.5   27. C7-3   p1+1   
+28. C8+6   p1+1   29. K5.6   r5.7   30. C8.6   e3+1   
+31. R7.9   e1-3   32. R9.7   e3+1   33. R7+1   r7.4   
+34. R7.9   c9.3   35. C7.8   r4.2   36. C8.5   p1.2   
+37. K6.5   p2.3   38. C6.9   }END
+
+
+FORMAT 	WXF
+GAME 	YAN WenQing(L)WAN FuChu,98
+TIME       ;
+RESULT     0-1
+RED        YAN WenQing ; ICM ; China-Hebei ; ÑÖÎÄÇå , ÀF¤å²M
+BLACK      WAN FuChu ; NT ; China-Hunan ; Íò¸£³õ , ¸UºÖªì
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  P7+1   p7+1   2.  C2.3   e7+5   3.  C8.5   r1+1   
+4.  H2+1   r1.6   5.  R1.2   r6+2   6.  H8+7   h8+6   
+7.  R9.8   h2+1   8.  A6+5   p1+1   9.  P5+1   a6+5   
+10. R8+3   r9.8   11. H7+6   c2.4   12. C3.4   c8.6   
+13. P5+1   r8+9   14. P5.4   r6.8   15. H1-2   c6+5   
+16. A5+4   r8+6   17. P4.3   r8-4   18. H6+4   e5+7   
+19. R8+4   c4.5   20. C5+5   e3+5   21. R8.9   r8.3   
+22. E3+5   r3.6   23. R9-2   r6+2   24. P3+1   r6-2   
+25. H4+3   e7-9   26. R9.2   r6-2   27. R2+3   p9+1   
+28. R2.1   h6+7   29. R1+1   a5-6   30. P3+1   e9+7   
+31. R1-3   e7-9   32. P9+1   p5+1   33. P9+1   a4+5   
+34. P9.8   p5+1   35. A4+5   p5+1   36. R1.2   p5.6   
+37. H3+2   e5-7   38. H2-3   p6.7   39. E5-3   p7+1   
+40. E3+5   p7+1   41. P8+1   p3+1   42. P8+1   p7.6   
+43. P8.7   a5-4   44. P7.6   p3+1   45. P6+1   p3+1   
+46. R2-3   r6-1   47. H3-1   h7+6   48. R2.4   p6.5   
+49. K5.4   r6.4   }END
+
+
+FORMAT 	WXF
+GAME 	SHANG Wei(D)ÍõÏëÁÖ,115
+TIME       ;
+RESULT     0.5-0.5
+RED        SHANG Wei ; CM ; China-Yejin ; ÉÐÍþ , ©|«Â
+BLACK      ÍõÏëÁÖ ; NT ; China-Hubei ; ÍõÏëÁÖ , ÍõÏëÁÖ
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c2.5   5.  P7+1   r1+1   6.  H8+7   r1.8   
+7.  H3+4   h2+3   8.  R9.8   c8+1   9.  H7-5   c8-2   
+10. H4+6   c8.3   11. H6+8   c3-1   12. H5+7   p5+1   
+13. R2+8   r8+1   14. A6+5   h3+5   15. H7+6   p5+1   
+16. C5+2   c5+3   17. H6+5   h7+5   18. P5+1   h5+4   
+19. H8-7   r8.5   20. R8+1   r5+4   21. C8+2   c3.5   
+22. H7+6   r5.6   23. E7+5   h4-2   24. H6+7   k5+1   
+25. C8.5   r6.5   26. R8+4   k5.6   27. H7-6   r5.4   
+28. H6-4   r4.5   29. H4+3   p9+1   30. R8.6   a6+5   
+31. K5.6   r5+1   32. P9+1   r5-1   33. R6+1   r5.1   
+34. R6.4   a5+6   35. R4.3   c5-2   36. H3+2   r1.4   
+37. K6.5   k6.5   38. R3+2   k5-1   39. R3+1   k5+1   
+40. R3-1   k5-1   41. R3+1   k5+1   42. R3-3   k5-1   
+43. R3.5   a4+5   44. R5.7   r4.7   45. R7+3   a5-4   
+46. R7-2   r7.5   47. H2-4   r5+1   48. R7-2   k5+1   
+49. R7+3   k5-1   50. H4-6   k5.6   51. R7.1   a4+5   
+52. H6-7   r5-2   53. R1+1   k6+1   54. R1.7   p1+1   
+55. R7-3   r5.4   56. H7-8   r4+2   57. H8+9   r4.9   
+58. R7.5   }END
+
+
+FORMAT 	WXF
+GAME 	LI WangXiang(D)HUANG JingXian,98
+TIME       ;
+RESULT     0.5-0.5
+RED        LI WangXiang ; CM ; China-Hubei ; ÀîÍûÏé , §õ±æ²»
+BLACK      HUANG JingXian ; CM ; China-Guangzhou ; »Æ¾°ÏÍ , ¶À´º½å
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  P3+1   p3+1   5.  H8+9   e3+5   6.  C8+4   p7+1   
+7.  P3+1   e5+7   8.  C8.7   r1.2   9.  R9.8   c2+4   
+10. H9-7   c2+1   11. H3+4   c8+5   12. H4+6   h3-5   
+13. P5+1   r2+3   14. H6+4   h5+6   15. C7.4   r2+2   
+16. P5+1   c8-1   17. A6+5   a6+5   18. H7+6   p1+1   
+19. P5+1   r2.4   20. C4+1   e7-5   21. P5+1   e7+5   
+22. C4-1   r4+1   23. C4.9   k5.6   24. R8+2   r4.3   
+25. C9.7   r3.6   26. R8+5   h7+6   27. C5.4   r8+3   
+28. R8-4   c8.2   29. R2+6   c2.5   30. K5.6   k6.5   
+31. R2+3   a5-6   32. R2-2   a4+5   33. C7.3   r6.7   
+34. C3.4   c5-1   35. R2.5   r7.4   36. C-.6   c5.4   
+37. R5-2   c4+2   38. A5+6   r4+1   39. K6.5   h6+8   
+40. R5.7   k5.4   41. A4+5   r4-1   42. R7.9   h8+6   
+43. E7+5   h6+7   44. C4-5   r4.6   45. K5.4   r6.9   
+46. R9.3   r9.1   47. A5-6   r1.4   48. A6+5   h7-6   
+49. R3-2   h6-5   }END
+
+
+FORMAT 	WXF
+GAME 	SUN ZhiWei(L)ZHANG HuiMin,90
+TIME       ;
+RESULT     0-1
+RED        SUN ZhiWei ; CM ; China-HeilongJiang ; ËïÖ¾Î° , ®]§Ó°¶
+BLACK      ZHANG HuiMin ; NT ; China ; ÕÅ»ÝÃñ , ±i´f¥Á
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.6   c8.5   2.  H2+3   h8+7   3.  A4+5   h2+3   
+4.  E3+5   r9+1   5.  H8+9   p5+1   6.  R1.4   r1+1   
+7.  R4+6   p5+1   8.  P5+1   h3+5   9.  C8+4   p3+1   
+10. C6+4   h5+4   11. C6-1   r1.6   12. C6.5   h7+5   
+13. H9-7   c5+2   14. P5+1   h5-3   15. R4-4   r6+6   
+16. A5+4   r9.6   17. A6+5   r6+5   18. R9+2   r6.3   
+19. R9.6   p3+1   20. H7+9   r3.7   21. E5+7   h3+2   
+22. H3-4   c2.8   23. H4+5   r7+3   24. A5-4   h4+6   
+25. R6+1   c8+7   26. H9-7   h6+8   27. K5.6   r7.6   
+28. K6+1   r6-2   29. R6.3   r6+1   30. K6-1   h8+7   
+31. H7-5   r6.5   32. H+-3   h2+4   33. R3.6   r5.7   
+34. E7+5   r7.5   35. C8-6   r5-1   36. R6+1   r5.2   
+37. C8.7   r2.3   38. E7-9   r3.1   39. K6+1   r1+1   
+40. K6+1   h7-8   41. R6+5   k5+1   42. R6-1   k5-1   
+43. C7.2   h8-6   44. K6.5   r1.5   45. K5.4   h6-5   }END
+
+
+FORMAT 	WXF
+GAME 	ÍòÔ¾Ã÷(W)YU HongMu,149
+TIME       ;
+RESULT     1-0
+RED        ÍòÔ¾Ã÷ ; NT ; NA ; ÍòÔ¾Ã÷ , ÍòÔ¾Ã÷
+BLACK      YU HongMu ; CM ; China-Qinggong ; ÓÚºìÄ¾ , ¤_¬õ¤ì
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   e7+5   6.  R9+1   p1+1   
+7.  C8.7   h3+2   8.  R9.6   p1+1   9.  P9+1   r1+5   
+10. R6+5   c2.3   11. R2+4   a6+5   12. C5-1   c8+2   
+13. E3+5   r1+1   14. R6.7   c8-1   15. R7.8   r1.2   
+16. R8+2   c8+1   17. H3+4   c8.6   18. R2+5   h7-8   
+19. C5.1   h8+6   20. H4+6   c3.4   21. A4+5   h6+8   
+22. R8-2   p7+1   23. R8.5   p7+1   24. E5+3   h2-1   
+25. H6+4   h8+6   26. R5.4   c6.9   27. C1.2   c9.8   
+28. R4.2   c8.5   29. P5+1   r2+1   30. C7.1   c5.9   
+31. C1.4   c9.7   32. R2.1   h1-3   33. P5+1   p3+1   
+34. R1+3   a5-6   35. P5.4   c7-4   36. C4.5   a4+5   
+37. R1.3   r2.5   38. E3-5   e5-7   39. P7+1   h3+4   
+40. P4.3   c4.3   41. P7+1   h4+5   42. P7+1   c3.5   
+43. C2.3   h5+6   44. C3.4   h6+8   45. P1+1   h8-7   
+46. C4.3   e7+9   47. P1+1   e9+7   48. C3+4   a5-4   
+49. H9+7   c5+2   50. C3-1   a6+5   51. P1.2   e3+5   
+52. H7+6   e5+3   53. P2.3   h7-5   54. C3.4   c5-2   
+55. P3.4   c5.1   56. C4.2   c1+2   57. H6-5   h5+3   
+58. C2.8   a5-6   59. E5+7   a4+5   60. E7+9   c1.2   
+61. P4+1   k5.4   62. P4.5   k4.5   63. H5+3   h3+4   
+64. C8-1   h4-3   65. H3+2   k5.4   66. C8+1   e3-1   
+67. P5.6   c2.5   68. K5.4   h3+4   69. E7-5   h4-5   
+70. C8.6   c5.4   71. P6.5   c4.6   72. P7.6   c6.4   
+73. P5+1   e1-3   74. P6+1   a5+4   75. P5.6   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG YouYi(D)HU RongEr,140
+TIME       ;
+RESULT     0.5-0.5
+RED        HUANG YouYi  ; NT  ; China-Sichuan ; »ÆÓÐÒå , ¶À¦³¸q
+BLACK      HU RongEr  ; NT  ; China-Zhejiang ; ºúÈÝ¶ù , ­J®e¨à
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P3+1   c8.9   
+4.  H8+7   p3+1   5.  C8+4   h2+3   6.  C8.7   r1.2   
+7.  R9.8   e3+5   8.  R8+6   c2.1   9.  R8+3   h3-2   
+10. R1+1   c1.3   11. R1.8   h2+4   12. R8+5   p1+1   
+13. E7+9   r8+4   14. C7.3   r8.4   15. A6+5   a6+5   
+16. R8-2   c9-1   17. P7+1   r4+2   18. C5.4   p3+1   
+19. R8.7   c3+5   20. C4+1   r4-2   21. R7-2   h4+2   
+22. R7.6   r4.8   23. R6+2   h2+3   24. E9+7   r8+3   
+25. R6+1   r8-1   26. C4+1   c9+5   27. H3+1   r8.9   
+28. C3+3   r9.5   29. C3.1   r5-1   30. C4+4   r5.7   
+31. R6-2   r7-1   32. R6.2   r7.8   33. R2.3   r8.7   
+34. C4.2   a5+4   35. R3.8   k5.6   36. C1.6   a4-5   
+37. C6.9   r7+5   38. R8+6   k6+1   39. C9-1   a5+4   
+40. R8-1   a4-5   41. C2-1   h7+6   42. C2-5   r7-4   
+43. R8+1   a5-4   44. R8-1   k6-1   45. C9+1   a4+5   
+46. R8+1   k6+1   47. C9-1   a5-4   48. C2.8   r7.4   
+49. R8-1   k6-1   50. C9+1   e5-3   51. R8.7   h3-2   
+52. R7-1   h6-4   53. C8.5   k6+1   54. C9.6   r4.3   
+55. R7.6   r3+4   56. A5-6   r3-2   57. C6-3   r3.5   
+58. A6+5   h2+4   59. R6-1   r5-3   60. R6+2   k6-1   
+61. R6+1   k6+1   62. R6.7   p9+1   63. R7-5   k6.5   
+64. P9+1   p1+1   65. R7.9   r5.8   66. R9.3   r8-1   
+67. R3+4   k5-1   68. R3.1   r8+1   69. R1-1   p5+1   
+70. R1.5   k5.4   }END
+
+
+FORMAT 	WXF
+GAME 	ZOU LiMu(L)LI JiaHua,70
+TIME       ;
+RESULT     0-1
+RED        ZOU LiMu ; NT ; China-Anhui ; ×ÞÁ¢Îä , ¹Q¥ßªZ
+BLACK      LI JiaHua ; ICM ; China-Yaudian ; Àî¼Ò»ª , §õ®aµØ
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p3+1   5.  P3+1   p1+1   6.  C8.7   h3+2   
+7.  R9+1   e3+5   8.  R9.6   r1+3   9.  R2+6   a6+5   
+10. C7-1   c8.9   11. R2+3   h7-8   12. P5+1   h8+7   
+13. H3+2   h2+1   14. R6+2   r1.2   15. H2+3   c9-1   
+16. C7.2   c2.3   17. C2+5   r2+2   18. A6+5   p1+1   
+19. E3+1   p3+1   20. P5+1   p3.4   21. R6.4   c3+7   
+22. P5+1   c3.1   23. A5+6   p4+1   24. P5+1   r2.5   
+25. E1-3   p4+1   26. C2-2   r5-2   27. C2.9   a5+4   
+28. C5+3   p4+1   29. A4+5   c9.2   30. C9.8   h1+3   
+31. K5.4   h3+4   32. C8-4   p4.5   33. H9-7   c2+7   
+34. P5.6   a4+5   35. P6+1   p5.6   }END
+
+
+FORMAT 	WXF
+GAME 	WANG GuiFu(L)SHI JueMin,76
+TIME       ;
+RESULT     0-1
+RED        WANG GuiFu ; CM ; China-Ningxie ; Íõ¹ó¸£ , ¤ý¶QºÖ
+BLACK      SHI JueMin  ; NT  ; NA ; Ê©¾õÃñ , ¬IÄ±¥Á
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  P7+1   p7+1   6.  H8+7   c2.1   
+7.  H7+6   a6+5   8.  R9+2   r9.8   9.  R2+9   h7-8   
+10. R9.7   e7+5   11. R7+1   h8+7   12. P5+1   r2+4   
+13. H6+5   h3+5   14. C5+4   c6+1   15. C6.5   p1+1   
+16. A4+5   c1.3   17. E7+9   c6.7   18. R7.4   p7+1   
+19. R4+3   c7.5   20. C5+4   p7+1   21. H3+5   p7.6   
+22. H5-4   h7+5   23. R4.5   r2.7   24. R5.4   r7+5   
+25. A5-4   r7-2   26. R4-3   r7.1   27. R4+3   c3.2   
+28. H4+3   r1-1   29. H3+4   c2+7   30. A6+5   r1.3   
+31. H4+6   r3+3   32. A5-6   r3-4   33. K5+1   r3.4   
+34. R4.1   a5+4   35. P5+1   c2-8   36. R1+3   k5+1   
+37. P5+1   e5-7   38. R1-3   c2.4   }END
+
+
+FORMAT 	WXF
+GAME 	ÍòÔ¾Ã÷(D)HE LianSheng,70
+TIME       ;
+RESULT     0.5-0.5
+RED        ÍòÔ¾Ã÷ ; NT ; China-Hubei ; ÍòÔ¾Ã÷ , ÍòÔ¾Ã÷
+BLACK      HE LianSheng ; CM ; China-Yunnan ; ºÎÁ¬Éú , ¦ó³s¥Í
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  P3+1   h2+3   2.  P7+1   c2.1   3.  C8.6   r1.2   
+4.  H8+7   r2+4   5.  R9.8   r2.8   6.  C2+5   c1.8   
+7.  H2+3   e7+5   8.  E3+5   p3+1   9.  P7+1   r8.3   
+10. H7+6   p7+1   11. P3+1   r3.7   12. R1.2   h8+6   
+13. R8+6   r9.7   14. R8.7   r+.3   15. R7-1   e5+3   
+16. R2+3   e3-5   17. R2.4   h6+7   18. R4+3   a6+5   
+19. A4+5   c8+1   20. R4-1   c8+3   21. R4-2   c8-4   
+22. R4.3   c8.9   23. R3.2   c9.7   24. R2+3   c7+5   
+25. C6.3   h7+6   26. C3+2   h6+4   27. A5+6   r7+4   
+28. H6+5   h3+5   29. R2.5   r7.9   30. C3.6   r9+2   
+31. A6+5   r9+3   32. A5-4   r9-4   33. R5.6   r9+1   
+34. R6.9   r9.5   35. R9.1   h4+2   }END
+
+
+FORMAT 	WXF
+GAME 	XU TianHong(W)CHEN XinAn,61
+TIME       ;
+RESULT     1-0
+RED        XU TianHong ; IGM ; China-Jiangsu ; ÐìÌìºì , ®}¤Ñ¬õ
+BLACK      CHEN XinAn ; CM ; China-Yunnan ; ³ÂÐÅ°² , ³¯«H¦w
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  P3+1   r9.8   3.  H2+3   p3+1   
+4.  R1.2   h2+3   5.  H8+9   r1+1   6.  C8+4   h3+2   
+7.  R9+1   r1.4   8.  C8.3   e7+5   9.  R9.4   p3+1   
+10. R2+5   h2+4   11. P7+1   c2.3   12. R4.6   r8+1   
+13. C5.4   c3+7   14. A6+5   h4+3   15. R6+7   r8.4   
+16. H9-7   h3+1   17. E3+5   c3.2   18. R2.8   c2.6   
+19. K5.4   c8+6   20. H7+8   h1-2   21. R8-2   r4+3   
+22. P5+1   r4.8   23. C3.9   a6+5   24. H3+4   c8-3   
+25. H4+3   c8.5   26. R8.4   p5+1   27. C9+3   c5+3   
+28. H3+5   a5+4   29. H5+3   k5+1   30. E5-3   e3+5   
+31. C9-1   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG ZhiLiang(D)CAO Lin,206
+TIME       ;
+RESULT     0.5-0.5
+RED        JIANG ZhiLiang ; CM ; China-Anhui ; ½¯Ö¾Áº , ½±§Ó¼Ù
+BLACK      CAO Lin ; CM ; China-Jilin ; ²ÜÁØ , ±äÀM
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   c8.5   2.  H2+3   r9+1   3.  R1.2   h8+7   
+4.  H8+7   r9.4   5.  P3+1   h2+1   6.  H3+4   r4+4   
+7.  H4+5   r4-1   8.  A6+5   a4+5   9.  H5+3   c2.7   
+10. R2+6   r1.2   11. R2.3   c7.8   12. R9.8   r4+4   
+13. C5.3   c8+4   14. R3.2   c8.7   15. E3+5   r2+6   
+16. P7+1   r2.3   17. R2-3   r3+1   18. R2.3   r3+1   
+19. C3-1   c5+5   20. A5+6   r4.5   21. K5.6   r5.4   
+22. K6.5   r4.5   23. K5.6   r5.7   24. R3-2   r3.7   
+25. E7+5   r7-2   26. C8+6   r7.5   27. R8+7   r5-4   
+28. R8.5   e3+5   29. C8-7   p1+1   30. C8.7   p3+1   
+31. P7+1   e5+3   32. C7.1   h1+2   33. P3+1   h2+1   
+34. K6.5   h1+2   35. A4+5   h2-3   36. E5+3   h3-5   
+37. P3.4   h5-4   38. P4.5   h4-6   39. P5.6   e3-5   
+40. C1+5   h6+8   41. E3-1   h8+6   42. P1+1   h6+8   
+43. C1-1   p1+1   44. E1+3   h8-7   45. C1.2   p1.2   
+46. C2+1   p2.3   47. P1+1   p3.4   48. P1.2   p4.5   
+49. C2.1   p5.6   50. P2+1   h7+8   51. C1-2   h8+7   
+52. E3-5   p6+1   53. C1.5   h7-6   54. P6+1   k5.4   
+55. K5.6   e5-3   56. E5-3   p6.7   57. A5-4   e3+5   
+58. A6-5   p7.8   59. P2+1   p8.7   60. P2+1   p7.6   
+61. P2.3   p6.7   62. A5+6   p7.6   63. E3+1   p6.5   
+64. E1+3   p5.4   65. A6-5   p4.5   66. C5.6   k4.5   
+67. C6-2   p5.4   68. C6.2   p4.5   69. P3.4   p5.6   
+70. C2-1   p6.7   71. P6.7   h6-7   72. P4.3   h7+6   
+73. P7+1   p7.6   74. P7+1   h6-5   75. A5+6   e5+7   
+76. C2.5   k5.4   77. C5-1   e7+9   78. K6+1   e9-7   
+79. K6.5   h5+3   80. P3.4   e7+9   81. C5+8   h3-4   
+82. P4+1   h4+2   83. P7.8   k4+1   84. C5+1   p6.5   
+85. C5.8   h2+3   86. E3-5   p5.4   87. K5.4   h3+4   
+88. K4.5   p4.5   89. K5.6   p5+1   90. C8.5   k4.5   
+91. C5-7   h4-2   92. C5-2   h2-4   93. P8.7   h4-3   
+94. K6+1   k5.6   95. P4.5   h3-5   96. P7.6   h5+6   
+97. A4+5   h6+7   98. C5.4   k6+1   99. K6-1   h7+8   
+100. C4.7   e9-7   101. C7+2   h8-7   102. C7.3   e7-9   
+103. P5.4   e7+5   }END
+
+
+FORMAT 	WXF
+GAME 	YU YouHua(W)XU Bo,65
+TIME       ;
+RESULT     1-0
+RED        YU YouHua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+BLACK      XU Bo ; CM ; China-Yaudian ; Ðí²¨ , ³\ªi
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P3+1   p3+1   
+4.  R1.2   h2+3   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   p1+1   8.  P9+1   r1+5   9.  R9.4   r1.7   
+10. H3+4   e7+5   11. H4+6   c8+1   12. C7-1   r7-1   
+13. H6+4   c8.6   14. R2+9   h7-8   15. C5+4   a6+5   
+16. R4+5   r7.5   17. E3+5   r5+2   18. C7.5   r5.7   
+19. C+-3   c2.1   20. H9+8   p3+1   21. P7+1   h2+4   
+22. H8+9   h4+3   23. C++1   r7.4   24. C-.7   r4-1   
+25. H9-7   c1+7   26. A4+5   e3+1   27. C7.8   h3-2   
+28. C8.9   h8+7   29. C5+1   p7+1   30. H7+8   r4-1   
+31. H8+9   r4-3   32. K5.4   c1.2   33. R4.3   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG ShiQing(L)ÃÏÕ×ÖÒ,130
+TIME       ;
+RESULT     0-1
+RED        HUANG ShiQing ; CM ; China-Guangxi ; »ÆÊÀÇå , ¶À¥@²M
+BLACK      ÃÏÕ×ÖÒ ; NT ; China-HeilongJiang ; ÃÏÕ×ÖÒ , ÃÏÕ×ÖÒ
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  H8+9   e3+5   2.  R9+1   h2+3   3.  P7+1   c2.1   
+4.  E3+5   r1.2   5.  R9.4   r2+6   6.  R4+7   h8+9   
+7.  H2+4   a4+5   8.  C8.7   c8.6   9.  R4.2   p1+1   
+10. A4+5   r2-2   11. P1+1   c1+4   12. R1.2   p1+1   
+13. R+-4   p1.2   14. C2.1   p2+1   15. P7+1   p3+1   
+16. R+.9   r9.8   17. R2+9   h9-8   18. C7-1   p3+1   
+19. R9.7   h3+4   20. C7.8   r2.1   21. H9-7   p2.3   
+22. C8+8   h4-3   23. C8-3   r1.6   24. H4+2   r6.8   
+25. H2-4   c1-2   26. H7+9   p3.4   27. C8-5   c1-4   
+28. H9+8   c1.3   29. R7.6   r8.6   30. C1.4   c6+5   
+31. A5+4   p4.5   32. H4+6   p++1   33. E7+5   r6+3   
+34. H8+6   h3+4   35. R6+1   r6.5   36. A6+5   r5-3   
+37. R6.5   p5+1   38. H6+7   p5+1   39. C8+3   p5+1   
+40. H7-5   h8+7   41. H5+4   h7+5   42. H4-2   h5+6   
+43. H2+1   c3+3   44. H1-2   p7+1   45. P1+1   c3.5   
+46. K5.4   k5.4   47. C8+1   c5.6   48. K4.5   h6+5   
+49. H2-1   h5+3   50. K5.4   c6-2   51. P1.2   a5+6   
+52. A5+4   h3-4   53. P2.3   e5+7   54. H1+2   h4+6   
+55. H2+3   h6+8   56. K4.5   c6.5   57. C8.4   h8-7   
+58. C4-2   h7+9   59. H3-1   h9-8   60. H1-3   c5.7   
+61. H3+5   e7+5   62. C4.5   h8+7   63. C5.2   c7.5   
+64. C2+6   k4+1   65. C2-4   e7-9   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG YouYi(L)WANG GangKou,58
+TIME       ;
+RESULT     0-1
+RED        HUANG YouYi  ; NT  ; China-Sichuan ; »ÆÓÐÒå , ¶À¦³¸q
+BLACK      WANG GangKou ; CM ; China-Guizhou ; Íõ¸Õ¿Û , ¤ý­è¦©
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  H8+9   h2+1   5.  P9+1   r9+1   6.  C8.7   r1.2   
+7.  R9.8   c2+4   8.  A4+5   r9.2   9.  R2+4   r++3   
+10. R2.4   a4+5   11. P3+1   p7+1   12. R4.3   h7+6   
+13. C7.6   h6+5   14. R3+5   r+.4   15. R3-3   p5+1   
+16. R3-1   c2-2   17. H3+5   c5+4   18. K5.4   r2+2   
+19. C5+3   r2.5   20. C6.2   k5.4   21. C2.6   k4.5   
+22. R8+4   r5+2   23. R3.5   r4.5   24. R8.4   r5.7   
+25. E3+1   c5-4   26. H9+8   c2.6   27. R4.5   c6-3   
+28. C6.5   c5+5   29. E7+5   r7+2   }END
+
+
+FORMAT 	WXF
+GAME 	SUN ZhiWei(D)LIU DaHua,129
+TIME       ;
+RESULT     0.5-0.5
+RED        SUN ZhiWei ; CM ; China-HeilongJiang ; ËïÖ¾Î° , ®]§Ó°¶
+BLACK      LIU DaHua ; IGM ; China-Hubei ; Áø´ó»ª , ¬h¤jµØ
+DATE       1986.11.15
+PLACE      ÏæÌ¶
+EVENT      Chinese National Champion ; 1986
+ROUND      
+START{
+1.  E3+5   c2.6   2.  H8+7   h2+3   3.  R9.8   r1.2   
+4.  C8+4   p3+1   5.  C8.7   h8+9   6.  R8+9   h3-2   
+7.  C2+4   p7+1   8.  H2+3   h2+1   9.  C7.8   c6.3   
+10. A4+5   e7+5   11. R1.4   a6+5   12. R4+6   c8.7   
+13. P5+1   p3+1   14. E5+7   r9.8   15. H7+5   c7+1   
+16. C2+1   c7-1   17. C2-1   p9+1   18. C2.5   h9+8   
+19. R4.2   r8+3   20. C8.2   p1+1   21. E7-5   h8+7   
+22. P5+1   h1+2   23. C2.3   h2+3   24. C3-3   c7+4   
+25. H5+6   h3-4   26. P5.6   c3.1   27. C5-1   c1+4   
+28. C5.1   c1.6   29. P1+1   p1+1   30. H3-2   p7+1   
+31. C1.5   p1.2   32. P1+1   p2+1   33. H2+4   c7.8   
+34. H4+2   p7.6   35. P6+1   p2.3   36. H2-1   c6.7   
+37. H1+3   c7+1   38. P1.2   p3.4   39. C5.9   c8+2   
+40. C9-3   c7-1   41. P2+1   p4.5   42. P2.3   p6+1   
+43. H3+2   c8+1   44. H2-3   c7.9   45. H3+1   c8-5   
+46. P6.5   c8.9   47. H1-3   p6.7   48. C9+1   c-.7   
+49. H3+1   p5.6   50. P3.4   c7.9   51. H1+3   c+.8   
+52. K5.4   c9+5   53. K4+1   c9-4   54. K4-1   c9+4   
+55. K4+1   c9-8   56. K4-1   e5-7   57. C9.8   e7+9   
+58. C8.7   e9+7   59. E5+7   e3+1   60. C7.8   p6.7   
+61. C8.2   p7.8   62. K4.5   a5+4   63. E7-5   p8.7   
+64. P5.6   p7.6   65. P6.5   }END
+
