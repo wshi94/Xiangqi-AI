@@ -589,6 +589,7 @@ class Horse_black2:
         #BUT, unlike the knight in western chess, its blocked by an interveneing piece
         
         #x.Input('n',8,'+',7)
+        print("hey")
         i = self.posx_h_black2
         j = self.posy_h_black2
         self.board[i][j]='.'
@@ -600,7 +601,7 @@ class Horse_black2:
         
         #8 possible moves
         #blocked by an interveneing piece
-        if (    ((i+2)<10) & ((j+1)<9)     ):
+        if (    ((i+2)<10) & ((j+1)<9)     and Operator == '+'):
             path = self.board[i+1][j]
             if(     path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                 #self.board[i+1][j]='#'
@@ -608,7 +609,7 @@ class Horse_black2:
                 if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+2][j+1]
-                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
+                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j+1     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -616,7 +617,7 @@ class Horse_black2:
                             self.posy_h_black2 = j+1
                             self.board[i+2][j+1]='h'
             
-        if (    ((i+2)<10) &((j-1)>=0)     ):
+        if (    ((i+2)<10) &((j-1)>=0)     and Operator == '+' ):
             path = self.board[i+1][j]
             if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"   ):
                 #self.board[i+1][j]='#'
@@ -624,7 +625,7 @@ class Horse_black2:
                 if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+2][j-1]
-                    if(     path =="." or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"   ):
+                    if(     path =="." or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j-1     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -633,7 +634,7 @@ class Horse_black2:
                             self.board[i+2][j-1]='h'
             
             
-        if (    ((i-2)>=0) & ((j+1)<9)     ):
+        if (    ((i-2)>=0) & ((j+1)<9)     and Operator == '-'):
             path = self.board[i-1][j]
             if(    path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                 #self.board[i+1][j]='#'
@@ -641,7 +642,7 @@ class Horse_black2:
                 if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-2][j+1]
-                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"   ):
+                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j+1     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -650,7 +651,7 @@ class Horse_black2:
                             self.board[i-2][j+1]='h'
                         
                         
-        if (    ((i-2)>=0) & ((j-1)>=0)     ):
+        if (    ((i-2)>=0) & ((j-1)>=0)    and Operator == '-' ):
             path = self.board[i-1][j]
             if(     path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                 #self.board[i+1][j]='#'
@@ -658,7 +659,7 @@ class Horse_black2:
                 if(    path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-2][j-1]
-                    if(    path =="." or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"   ):
+                    if(    path =="." or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j-1     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -666,7 +667,7 @@ class Horse_black2:
                             self.posy_h_black2 = j-1
                             self.board[i-2][j-1]='h'
             
-        if (    ((i-1)>=0) & ((j+2)<9)     ):
+        if (    ((i-1)>=0) & ((j+2)<9)     and Operator == '-'):
             path = self.board[i-1][j]
             if(    path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                 #self.board[i+1][j]='#'
@@ -674,7 +675,7 @@ class Horse_black2:
                 if(    path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-1][j+2]
-                    if(     path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
+                    if(     path =="."   or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j+2     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -682,7 +683,7 @@ class Horse_black2:
                             self.posy_h_black2 = j+2
                             self.board[i-1][j+2]='h'
                         
-        if (    ((i-1)>=0) & ((j-2)>=0)     ):
+        if (    ((i-1)>=0) & ((j-2)>=0)     and Operator == '-'):
             path = self.board[i-1][j]
             if(     path =="." or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                 #self.board[i+1][j]='#'
@@ -690,7 +691,7 @@ class Horse_black2:
                 if(     path =="." or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-1][j-2]
-                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
+                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j-2     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -698,7 +699,7 @@ class Horse_black2:
                             self.posy_h_black2 = j-2
                             self.board[i-1][j-2]='h'
             
-        if (    ((i+1)<9) & ((j+2)<9)     ):
+        if (    ((i+1)<9) & ((j+2)<9)    and Operator == '+' ):
             path = self.board[i+1][j]
             if(    path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                 #self.board[i+1][j]='#'
@@ -706,7 +707,7 @@ class Horse_black2:
                 if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+1][j+2]
-                    if(     path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
+                    if(     path =="."   or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j+2     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -715,7 +716,7 @@ class Horse_black2:
                             self.board[i+1][ j+2 ]='h'
             
             
-        if (    ((i+1)<9) & ((j-2)>=0)     ):
+        if (    ((i+1)<9) & ((j-2)>=0)   and Operator == '+'  ):
             path = self.board[i+1][j]
             if(     path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                 #self.board[i+1][j]='#'
@@ -723,7 +724,7 @@ class Horse_black2:
                 if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+1][j-2]
-                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"   ):
+                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j-2     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -767,7 +768,7 @@ class Horse_black1:
         
         #8 possible moves
         #blocked by an intervening piece
-        if (    ((i+2)<10) & ((j+1)<9)     ):
+        if (    ((i+2)<10) & ((j+1)<9)      and Operator == '+'):
             path = self.board[i+1][j]
             if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"   ):
                 #self.board[i+1][j]='#'
@@ -775,7 +776,7 @@ class Horse_black1:
                 if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+2][j+1]
-                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"   ):
+                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j+1     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -783,7 +784,7 @@ class Horse_black1:
                             self.posy_h_black1 = j+1
                             self.board[i+2][j+1]='h'
             
-        if (    ((i+2)<10) &((j-1)>=0)     ):
+        if (    ((i+2)<10) &((j-1)>=0)      and Operator == '+'):
             path = self.board[i+1][j]
             if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                 #self.board[i+1][j]='#'
@@ -791,7 +792,7 @@ class Horse_black1:
                 if(    path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+2][j-1]
-                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"   ):
+                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j-1     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -800,7 +801,7 @@ class Horse_black1:
                             self.board[i+2][j-1]='h'
             
             
-        if (    ((i-2)>=0) & ((j+1)<9)     ):
+        if (    ((i-2)>=0) & ((j+1)<9)     and Operator == '-' ):
             path = self.board[i-1][j]
             if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"   ):
                 #self.board[i+1][j]='#'
@@ -808,7 +809,7 @@ class Horse_black1:
                 if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-2][j+1]
-                    if(    path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"   ):
+                    if(    path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j+1     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -817,7 +818,7 @@ class Horse_black1:
                             self.board[i-2][j+1]='h'
                         
                         
-        if (    ((i-2)>=0) & ((j-1)>=0)     ):
+        if (    ((i-2)>=0) & ((j-1)>=0)    and Operator == '-'  ):
             path = self.board[i-1][j]
             if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                 #self.board[i+1][j]='#'
@@ -825,7 +826,7 @@ class Horse_black1:
                 if(     path =="." or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-2][j-1]
-                    if(     path =="." or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"    ):
+                    if(     path =="." or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j-1     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -833,7 +834,7 @@ class Horse_black1:
                             self.posy_h_black1 = j-1
                             self.board[i-2][j-1]='h'
             
-        if (    ((i-1)>=0) & ((j+2)<9)     ):
+        if (    ((i-1)>=0) & ((j+2)<9)     and Operator == '-' ):
             path = self.board[i-1][j]
             if(    path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                 #self.board[i+1][j]='#'
@@ -841,7 +842,7 @@ class Horse_black1:
                 if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-1][j+2]
-                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"   ):
+                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j+2     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -849,7 +850,7 @@ class Horse_black1:
                             self.posy_h_black1 = j+2
                             self.board[i-1][j+2]='h'
                         
-        if (    ((i-1)>=0) & ((j-2)>=0)     ):
+        if (    ((i-1)>=0) & ((j-2)>=0)     and Operator == '-' ):
             path = self.board[i-1][j]
             if(    path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                 #self.board[i+1][j]='#'
@@ -857,7 +858,7 @@ class Horse_black1:
                 if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-1][j-2]
-                    if(    path =="." or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"   ):
+                    if(    path =="." or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j-2     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -865,7 +866,7 @@ class Horse_black1:
                             self.posy_h_black1 = j-2
                             self.board[i-1][j-2]='h'
             
-        if (    ((i+1)<9) & ((j+2)<9)     ):
+        if (    ((i+1)<9) & ((j+2)<9)      and Operator == '+'):
             path = self.board[i+1][j]
             if(    path =="."    or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                 #self.board[i+1][j]='#'
@@ -873,7 +874,7 @@ class Horse_black1:
                 if(     path =="." or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"   ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+1][j+2]
-                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
+                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j+2     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -882,7 +883,7 @@ class Horse_black1:
                             self.board[i+1][ j+2 ]='h'
             
             
-        if (    ((i+1)<9) & ((j-2)>=0)     ):
+        if (    ((i+1)<9) & ((j-2)>=0)     and Operator == '+' ):
             path = self.board[i+1][j]
             if(     path =="."    or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s" ):
                 #self.board[i+1][j]='#'
@@ -890,7 +891,7 @@ class Horse_black1:
                 if(     path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"  ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+1][j-2]
-                    if(     path =="." or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"    ):
+                    if(     path =="." or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"    ):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile-1 == j-2     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -934,7 +935,7 @@ class Horse_red1:
         
         #8 possible moves
         #can't jump the opponent's piece, but you can jump over your own side
-        if (    ((i+2)<10) & ((j+1)<9)     ):
+        if (    ((i+2)<10) & ((j+1)<9)     and Operator == '-' ):
             path = self.board[i+1][j]
             if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
                 #self.board[i+1][j]='#'
@@ -942,7 +943,7 @@ class Horse_red1:
                 if(     path =="." or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"   ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+2][j+1]
-                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
+                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile + j+1 == 9    ):#Choose the move that is specified in the input
                             #update coordinates
@@ -950,7 +951,7 @@ class Horse_red1:
                             self.posy_H_red1 = j+1
                             self.board[i+2][j+1]='H'
             
-        if (    ((i+2)<10) &((j-1)>=0)     ):
+        if (    ((i+2)<10) &((j-1)>=0)   and Operator == '-'   ):
             path = self.board[i+1][j]
             if(     path =="."   or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
                 #self.board[i+1][j]='#'
@@ -958,7 +959,7 @@ class Horse_red1:
                 if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+2][j-1]
-                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"   ):
+                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile + j-1 ==9    ):#Choose the move that is specified in the input
                             self.posx_H_red1 = i+2
@@ -966,7 +967,7 @@ class Horse_red1:
                             self.board[i+2][j-1]='H'
             
             
-        if (    ((i-2)>=0) & ((j+1)<9)     ):
+        if (    ((i-2)>=0) & ((j+1)<9)    and Operator == '+'  ):
             path = self.board[i-1][j]
             if(     path =="."   or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
                 #self.board[i+1][j]='#'
@@ -974,7 +975,7 @@ class Horse_red1:
                 if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-2][j+1]
-                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"   ):
+                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (    NewFile + j+1 == 9      ):#Choose the move that is specified in the input
                             self.posx_H_red1 = i-2
@@ -982,7 +983,7 @@ class Horse_red1:
                             self.board[i-2][j+1]='H'
                         
                         
-        if (    ((i-2)>=0) & ((j-1)>=0)     ):
+        if (    ((i-2)>=0) & ((j-1)>=0)     and Operator == '+' ):
             path = self.board[i-1][j]
             if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
                 #self.board[i+1][j]='#'
@@ -990,7 +991,7 @@ class Horse_red1:
                 if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"   ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-2][j-1]
-                    if(     path =="."   or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
+                    if(     path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile + j-1 == 9    ):#Choose the move that is specified in the input
                             #update coordinates
@@ -998,7 +999,7 @@ class Horse_red1:
                             self.posy_H_red1 = j-1
                             self.board[i-2][j-1]='H'
             
-        if (    ((i-1)>=0) & ((j+2)<9)     ):
+        if (    ((i-1)>=0) & ((j+2)<9)     and Operator == '+' ):
             path = self.board[i-1][j]
             if(     path =="."   or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
                 #self.board[i+1][j]='#'
@@ -1006,7 +1007,7 @@ class Horse_red1:
                 if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"   ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-1][j+2]
-                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
+                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile + j+2 == 9      ):#Choose the move that is specified in the input
                             #update coordinates
@@ -1014,7 +1015,7 @@ class Horse_red1:
                             self.posy_H_red1 = j+2
                             self.board[i-1][j+2]='H'
                         
-        if (    ((i-1)>=0) & ((j-2)>=0)     ):
+        if (    ((i-1)>=0) & ((j-2)>=0)   and Operator == '+'   ):
             print('yes')
             path = self.board[i-1][j]
             if(    path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"   ):
@@ -1023,7 +1024,7 @@ class Horse_red1:
                 if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-1][j-2]
-                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"   ):
+                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (    NewFile + j-2 == 9     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -1033,7 +1034,7 @@ class Horse_red1:
         else:
             print('no')
             
-        if (    ((i+1)<9) & ((j+2)<9)     ):
+        if (    ((i+1)<9) & ((j+2)<9)     and Operator == '-' ):
             path = self.board[i+1][j]
             if(    path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"   ):
                 #self.board[i+1][j]='#'
@@ -1041,7 +1042,7 @@ class Horse_red1:
                 if(    path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"   ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+1][j+2]
-                    if(     path =="."   or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
+                    if(     path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile + j+2 == 9     ):#Choose the move that is specified in the input
                             #update coordinates
@@ -1050,7 +1051,7 @@ class Horse_red1:
                             self.board[i+1][ j+2 ]='H'
             
             
-        if (    ((i+1)<9) & ((j-2)>=0)     ):
+        if (    ((i+1)<9) & ((j-2)>=0)     and Operator == '-' ):
             path = self.board[i+1][j]
             if(     path =="."   or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
                 #self.board[i+1][j]='#'
@@ -1058,7 +1059,7 @@ class Horse_red1:
                 if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"   ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+1][j-2]
-                    if(     path =="."    or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S" ):
+                    if(     path =="."    or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (    NewFile + j-2 == 9      ):#Choose the move that is specified in the input
                             #update coordinates
@@ -1107,7 +1108,7 @@ class Horse_red2:
                 if(     path =="." or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S" ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+2][j+1]
-                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
+                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile + j+1 == 9    ):#Choose the move that is specified in the input
                             #update coordinates
@@ -1123,7 +1124,7 @@ class Horse_red2:
                 if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+2][j-1]
-                    if(     path =="." or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S" ):
+                    if(     path =="." or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile + j-1 == 9    ):#Choose the move that is specified in the input
                             #update coordinates
@@ -1132,7 +1133,7 @@ class Horse_red2:
                             self.board[i+2][j-1]='H'
             
             
-        if (    ((i-2)>=0) & ((j+1)<9)     ):
+        if (    ((i-2)>=0) & ((j+1)<9)    and Operator == '+'  ):
             path = self.board[i-1][j]
             if(    path =="." or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
                 #self.board[i+1][j]='#'
@@ -1140,7 +1141,7 @@ class Horse_red2:
                 if(     path =="."   or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S" ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-2][j+1]
-                    if(    path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
+                    if(    path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile + j+1 == 9    ):#Choose the move that is specified in the input
                             #update coordinates
@@ -1149,7 +1150,7 @@ class Horse_red2:
                             self.board[i-2][j+1]='H'
                         
                         
-        if (    ((i-2)>=0) & ((j-1)>=0)     ):
+        if (    ((i-2)>=0) & ((j-1)>=0)     and Operator == '+' ):
             path = self.board[i-1][j]
             if(     path =="."   or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
                 #self.board[i+1][j]='#'
@@ -1157,7 +1158,7 @@ class Horse_red2:
                 if(    path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S" ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-2][j-1]
-                    if(     path =="."   or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"):
+                    if(     path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile + j-1 == 9    ):#Choose the move that is specified in the input
                             #update coordinates
@@ -1165,7 +1166,7 @@ class Horse_red2:
                             self.posy_H_red2 = j-1
                             self.board[i-2][j-1]='H'
             
-        if (    ((i-1)>=0) & ((j+2)<9)     ):
+        if (    ((i-1)>=0) & ((j+2)<9)     and Operator == '+' ):
             path = self.board[i-1][j]
             if(     path =="." or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
                 #self.board[i+1][j]='#'
@@ -1173,7 +1174,7 @@ class Horse_red2:
                 if(     path =="."   or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S" ):
                     #self.board[i+2][j]='#'
                     path = self.board[i-1][j+2]
-                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
+                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile + j+2 == 9    ):#Choose the move that is specified in the input
                             #update coordinates
@@ -1181,24 +1182,28 @@ class Horse_red2:
                             self.posy_H_red2 = j+2
                             self.board[i-1][j+2]='H'
                         
-        if (    ((i-1)>=0) & ((j-2)>=0)     ):
-            #print("yes")
+        if (    ((i-1)>=0) & ((j-2)>=0)      and Operator == '+'):
+            print("yes1")
             path = self.board[i-1][j]
             if(     path =="."   or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"):
                 #self.board[i-1][j]='1'
+                print("yes2")
                 path = self.board[i-1][j-1]
                 if(    path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S" ):
                     #self.board[i-1][j-1]='2'
+                    print("yes3")
                     path = self.board[i-1][j-2]
-                    if(    path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"):
+                    if(    path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i-1][j-2]='3'
-                        if (     NewFile + j-2 == 9    ):#Choose the move that is specified in the input
+                        print("yes4")
+                        if (     NewFile + j-2 == 9    ):#Choose the move that is specified in the inputs
+                        	print("yes5")
+                        	self.posx_H_red2 = i-1
+                        	self.posy_H_red2 = j-2
+                        	self.board[i-1][j-2]='H'
                             #print("y")
                             #update coordinates
-                            self.posx_H_red2 = i-1
-                            self.posy_H_red2 = j-2
-                            self.board[i-1][j-2]='H'
-                        #else:
+
                             #print("n")
                             #print(NewFile)
                             #print(j)
@@ -1213,7 +1218,7 @@ class Horse_red2:
                 if(    path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S" ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+1][j+2]
-                    if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"  ):
+                    if(     path =="."  or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile + j+2 == 9    ):#Choose the move that is specified in the input
                             #update coordinates
@@ -1230,7 +1235,7 @@ class Horse_red2:
                 if(     path =="."  or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"   ):
                     #self.board[i+2][j]='#'
                     path = self.board[i+1][j-2]
-                    if(     path =="."   or path =="R" or path =="H" or path =="E" or path =="A" or path =="K" or path =="C" or path =="S"):
+                    if(     path =="."   or path =="r" or path =="h" or path =="e" or path =="a" or path =="k" or path =="c" or path =="s"):
                         #self.board[i+2][j-1]='#'
                         if (     NewFile + j-2 == 9    ):#Choose the move that is specified in the input
                             self.board[i+1][j-2]='H'
@@ -1487,9 +1492,9 @@ class Chariot_black2:
             self.board[self.posx_r_black2][j]='r'
             
         elif Operator == '-': #move row, same column(move down)
+            """
             path_posx = i
             can_jump = 1
-            """
             #print(path_posx)
             #print(i+NewFile-1)
             #print("##")
@@ -1541,7 +1546,7 @@ class Chariot_red1:#Finished
         
         #There cannot be a piece between the current and next position
         if Operator == '=': #same row, move column(move right or left)
-            if (NewFile<FormerFile):#moves right
+            if ( NewFile<FormerFile):#moves right
                 path_posy = j
                 """
                 can_jump = 1
@@ -1568,7 +1573,7 @@ class Chariot_red1:#Finished
                 self.posy_R_red1 = 9-NewFile
                 self.board[i][self.posy_R_red1]='R'
                     
-            elif (NewFile>FormerFile):#moves left
+            elif ( NewFile>FormerFile):#moves left
                 path_posy = j
                 """
                 can_jump = 1
@@ -1596,6 +1601,11 @@ class Chariot_red1:#Finished
                 #self.posx_R_red1 = posx -> Do not need to update
                 self.posy_R_red1 = 9-NewFile
                 self.board[i][self.posy_R_red1]='R'
+
+            elif ( FormerFile == '+'):
+            	self.posy_R_red2 = 9-NewFile
+            	self.board[i][self.posy_R_red2]='R'
+                
                     
         #There cannot be a piece between the current and next position
         elif Operator == '+': #move row, same column(move up)                   
@@ -1650,7 +1660,7 @@ class Chariot_red1:#Finished
                 print("Cannot jump other pieces")
             """
             #update coordinates
-            self.posx_R_red1 = i+NewFile-2
+            self.posx_R_red1 = i+NewFile
             self.board[self.posx_R_red1][j]='R'
         
         
@@ -1682,8 +1692,11 @@ class Chariot_red2:#Finished
         
         #There cannot be a piece between the current and next position
         if Operator == '=': #same row, move column(move right or left)
-            if (NewFile<FormerFile):#moves right
-                """
+        	if ( not(FormerFile=='+') and NewFile<FormerFile):#moves right
+        		self.posy_R_red2 = 9-NewFile
+        		self.board[i][self.posy_R_red2]='R'
+
+        		"""
                 path_posy = j
                 can_jump = 1
                 while(path_posy<(10-NewFile)):
@@ -1707,13 +1720,16 @@ class Chariot_red2:#Finished
                 """
                 #update coordiates
                 #self.posx_R_red1 = posx -> Do not need to update
-                self.posy_R_red2 = 9-NewFile
-                self.board[i][self.posy_R_red2]='R'
+        	elif ( not(FormerFile=='+') and NewFile>FormerFile):#moves left
+        		self.posy_R_red2 = 9-NewFile
+        		self.board[i][self.posy_R_red2]='R'
+        		path_posy = j
 
-                    
-            elif (NewFile>FormerFile):#moves left
-                path_posy = j
-                """
+        	else:
+        		print("a")
+        		self.posy_R_red2 = 9-NewFile
+        		self.board[i][self.posy_R_red2]='R'
+        		"""
                 can_jump = 1
                 #print(path_posy)
                 #print(9-NewFile)
@@ -1735,11 +1751,7 @@ class Chariot_red2:#Finished
                 else:
                     print("You can only move until you meet another piece")
                 """
-                #update coordiates
-                self.posy_R_red2 = 9-NewFile
-                self.board[i][self.posy_R_red2]='R'
-                    
-        #There cannot be a piece between the current and next position
+		#There cannot be a piece between the current and next position
         elif Operator == '+': #move row, same column(move up)                   
             path_posx = i
             """
@@ -1795,7 +1807,7 @@ class Chariot_red2:#Finished
                 print("Cannot jump other pieces")
             """
             #update coordinates
-            self.posx_R_red2 = i+NewFile-2
+            self.posx_R_red2 = i+NewFile
             self.board[self.posx_R_red2][j]='R'
         
         
@@ -2951,7 +2963,7 @@ class Soldier_black1:
             else:
                 print("A soldier can only move forward before it crosses the river")
                 
-        if(crossedRiver==1):
+        elif(crossedRiver==1):
             print("crossed")
             if(Operator=='+'):
                 if(NewFile==1):
@@ -3025,7 +3037,7 @@ class Soldier_black2:
             else:
                 print("A soldier can only move forward before it crosses the river")
                 
-        if(crossedRiver==1):
+        elif(crossedRiver==1):
             print("crossed")
             if(Operator=='+'):
                 if(NewFile==1):
@@ -3096,7 +3108,7 @@ class Soldier_black3:
             else:
                 print("A soldier can only move forward before it crosses the river")
                 
-        if(crossedRiver==1):
+        elif(crossedRiver==1):
             print("crossed")
             if(Operator=='+'):
                 if(NewFile==1):
@@ -3167,7 +3179,7 @@ class Soldier_black4:
             else:
                 print("A soldier can only move forward before it crosses the river")
                 
-        if(crossedRiver==1):
+        elif(crossedRiver==1):
             print("crossed")
             if(Operator=='+'):
                 if(NewFile==1):
@@ -3238,7 +3250,7 @@ class Soldier_black5:
             else:
                 print("A soldier can only move forward before it crosses the river")
                 
-        if(crossedRiver==1):
+        elif(crossedRiver==1):
             print("crossed")
             if(Operator=='+'):
                 if(NewFile==1):
@@ -3310,7 +3322,7 @@ class Soldier_red1:
             else:
                 print("A soldier can only move forward before it crosses the river")
                 
-        if(crossedRiver==1):
+        elif(crossedRiver==1):
             print("crossed")
             if(Operator=='+'):
                 if(NewFile==1):
@@ -3383,7 +3395,7 @@ class Soldier_red2:
             else:
                 print("A soldier can only move forward before it crosses the river")
                 
-        if(crossedRiver==1):
+        elif(crossedRiver==1):
             print("crossed")
             if(Operator=='+'):
                 if(NewFile==1):
@@ -3455,7 +3467,7 @@ class Soldier_red3:
             else:
                 print("A soldier can only move forward before it crosses the river")
                 
-        if(crossedRiver==1):
+        elif(crossedRiver==1):
             print("crossed")
             if(Operator=='+'):
                 if(NewFile==1):
@@ -3527,7 +3539,7 @@ class Soldier_red4:
             else:
                 print("A soldier can only move forward before it crosses the river")
                 
-        if(crossedRiver==1):
+        elif(crossedRiver==1):
             print("crossed")
             if(Operator=='+'):
                 if(NewFile==1):
@@ -3598,7 +3610,7 @@ class Soldier_red5:
             else:
                 print("A soldier can only move forward before it crosses the river")
                 
-        if(crossedRiver==1):
+        elif(crossedRiver==1):
             print("crossed")
             if(Operator=='+'):
                 if(NewFile==1):
@@ -3767,9 +3779,17 @@ class Engine(Board):
             elif (   (type(FormerFile) is int) and (Chariot_red2.get_posy_R_red2(self)+FormerFile) == 9   ):
                 print("chariot red2")
                 Chariot_red2.move(self,Piece, FormerFile, Operator, NewFile)
-            elif (   FormerFile=='-'  ):
-                pass
-                #ToDo
+
+            elif (   FormerFile=='+'  ):
+            	print(Chariot_red1.get_posx_R_red1(self))
+            	print(Chariot_red2.get_posx_R_red2(self))
+
+            	if (Chariot_red1.get_posx_R_red1(self) < Chariot_red2.get_posx_R_red2(self)):
+                    print("chariot red 1")
+                    Chariot_red1.move(self,Piece, FormerFile, Operator, NewFile)
+            	elif (Chariot_red1.get_posx_R_red1(self) > Chariot_red2.get_posx_R_red2(self)):
+                	print("chariot red2")
+                	Chariot_red2.move(self,Piece, FormerFile, Operator, NewFile)
             else:
                 print("Error: This is not a legal move")
                 
@@ -3780,9 +3800,18 @@ class Engine(Board):
             elif (   (type(FormerFile) is int) and Chariot_black2.get_posy_r_black2(self)== FormerFile-1  ):
                 print("chariot black2")
                 Chariot_black2.move(self,Piece, FormerFile, Operator, NewFile)
-                
-            else:
-                print("Error: This is not a legal move")
+
+            if (   Operator=='-'  and FormerFile=="="	):
+
+            	if (Chariot_black1.get_posx_r_black1(self) > Chariot_black2.get_posx_r_black2(self)):
+                    print("chariot  black 1")
+                    Chariot_black1.move(self,Piece, FormerFile, Operator, NewFile)
+            	elif (Chariot_black1.get_posx_r_black1(self) < Chariot_black2.get_posx_r_black2(self)):
+                	print("chariot black 2")
+                	Chariot_black2.move(self,Piece, FormerFile, Operator, NewFile)
+
+            	else:
+                	print("Error: This is not a legal move")\
                 
         
         elif(Piece=='E'):
@@ -3836,7 +3865,7 @@ class Engine(Board):
                     print("horse red2")
                     Horse_red2.move(self,Piece, FormerFile, Operator, NewFile)
             else:
-                print("Error: This is not a legal move")
+                print("Horse Error: This is not a legal move")
 
         
         elif(Piece=='h'):#horse black
@@ -3852,27 +3881,29 @@ class Engine(Board):
                 pass
                 #Todo
             else:
-                print("Error: This is not a legal move")
+                print("horse Error: This is not a legal move")
         
         elif(Piece=='s'):#Soldier black
-            if (    (type(FormerFile) is int) and Soldier_black1.get_posy_s_black1(self) == FormerFile-1  ):
+            if (    (type(FormerFile) is int) and Soldier_black1.get_posy_s_black1(self) == FormerFile-1  and x.board[Soldier_black1.get_posx_s_black1(self)][Soldier_black1.get_posy_s_black1(self)]=="s"):
                 print("soldier black1")
                 Soldier_black1.move(self,Piece, FormerFile, Operator, NewFile)
-            elif (   (type(FormerFile) is int) and Soldier_black2.get_posy_s_black2(self) == FormerFile-1  ):
+            elif (   (type(FormerFile) is int) and Soldier_black2.get_posy_s_black2(self) == FormerFile-1  and x.board[Soldier_black2.get_posx_s_black2(self)][Soldier_black2.get_posy_s_black2(self)]=="s"):
                 print("soldier black2")
                 Soldier_black2.move(self,Piece, FormerFile, Operator, NewFile)
-            elif (    (type(FormerFile) is int) and Soldier_black3.get_posy_s_black3(self) == FormerFile-1  ):
+            elif (    (type(FormerFile) is int) and Soldier_black3.get_posy_s_black3(self) == FormerFile-1  and x.board[Soldier_black3.get_posx_s_black3(self)][Soldier_black3.get_posy_s_black3(self)]=="s"):
                 print("soldier black3")
                 Soldier_black3.move(self,Piece, FormerFile, Operator, NewFile)
-            elif (    (type(FormerFile) is int) and Soldier_black4.get_posy_s_black4(self) == FormerFile-1  ):
+            elif (    (type(FormerFile) is int) and Soldier_black4.get_posy_s_black4(self) == FormerFile-1  and x.board[Soldier_black4.get_posx_s_black4(self)][Soldier_black4.get_posy_s_black4(self)]=="s"):
                 print("soldier black4")
                 Soldier_black4.move(self,Piece, FormerFile, Operator, NewFile)
-            elif (    (type(FormerFile) is int) and Soldier_black5.get_posy_s_black5(self) == FormerFile-1  ):
+            elif (    (type(FormerFile) is int) and Soldier_black5.get_posy_s_black5(self) == FormerFile-1  and x.board[Soldier_black5.get_posx_s_black5(self)][Soldier_black5.get_posy_s_black5(self)]=="s"):
                 print("soldier black5")
                 Soldier_black5.move(self,Piece, FormerFile, Operator, NewFile)
 
             elif(     FormerFile=='+'      ):
                 pass
+
+        	
                 
                 #ToDo
 
@@ -3889,6 +3920,7 @@ class Engine(Board):
 
             else:
                 print("not a legal move")
+            print()
                 
         elif(Piece=='S'):#soldier red
             #print(Soldier_red1.get_posy_S_red1(self))

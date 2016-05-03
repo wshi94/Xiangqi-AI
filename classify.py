@@ -7,7 +7,7 @@ from move import *
 #gameresults: black won = 1, red won= -1, tie = 0
 #use multiclass classification (three classes)
 
-txtfile='finished-games/5-ram-cup-xiangqi-championship-2.txt'
+txtfile='test/tournament-1-1.txt'
 removeComments(txtfile)
 vectors_fromOnetxtfile=makeVector(txtfile)
 

@@ -84,6 +84,7 @@ def makeVector(txtfile):
 						x.Input(move[0],int(move[1]),move[2],int(move[3]))
 						x.Display()
 
+
 						piece_fit = PieceFitness(x.board)
 						print("piece fit:" + str(piece_fit))
 						attack_fit = AttackingFitness(x.board)
@@ -108,6 +109,7 @@ def makeVector(txtfile):
 						#pass
 						#exit()
 					else:
+						#if (	move[0]='+' and move[2]="=" and move[3].isdigit()):	# +R=7
 						x.Input(move[0].strip(),move[1].strip(),move[2].strip(),int(move[3].strip()))
 						x.Display()
 
@@ -150,6 +152,7 @@ def makeVector(txtfile):
 							move = move+ line[i+2]
 						move = move+ line[i+3]
 					print(move)
+
 					if len(move)==4:
 						if move[1].isdigit():
 							try:
