@@ -102,8 +102,9 @@ def ccS(gi, gj, i, j, sign, board):#done
         if(board[i+1][j].lower()==sign):
             total+=1
         if(inBoard(i+1,j)):
-            if(board[i+2][j].lower()==sign):
-                total+=1
+            if not (i+2 > 9):
+                if(board[i+2][j].lower()==sign):
+                    total+=1
     return total
 
 def ccR(gi, gj, i, j, sign, board):

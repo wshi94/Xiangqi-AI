@@ -1,6 +1,8 @@
 import requests
 
-for gameI in range(574, 600):
+count = 0
+
+for gameI in range(1, 600):
     for i in range(1, 100):
         req = 'http://wxf.ca/xq/xqdb/jgamelist_gen.php?id=' + str(gameI) + '&lan=c&mode=e&step=&order=&page=' + str(i) + '&pack=1&bid=&nolink=&rid='
         response = requests.get(req).text
@@ -11,8 +13,8 @@ for gameI in range(574, 600):
         if len(game) == 1:
 	        break
 
-        fname = 'tournament-' + str(gameI) + '-' + str(i) + '.txt'
-
+        fname = 'tournament-' + str(count) + '.txt'
+        count += 1
         f = open(fname, 'w')
         f.write(game)
         f.close

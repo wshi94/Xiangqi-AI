@@ -1,7 +1,7 @@
 Notes:
 
 	We should implement 3 algorithms
-		SVM
+-DONE		SVM
 		Naive Bayes
 		Random Forest
 		
@@ -24,8 +24,10 @@ Notes:
 
 TODO:
 
-	Extract the moves from the tournaments, and link the resultant boards with a label
+-DONE	Extract the moves from the tournaments, and link the resultant boards with a label
 	
 	Store every board with associated label into an array
 	
 	Make fitness functions be able to evaluate the boards generated from our game
+
+	Change our implementation of soldier move from using ’S’ to using ‘P’ (since that’s what the training data uses)

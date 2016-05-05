@@ -1,0 +1,1429 @@
+
+
+FORMAT 	WXF
+GAME 	WANG Bin(D)XU YinChuan,62
+TIME       ;
+RESULT     0.5-0.5
+RED        WANG Bin ; IGM ; China-Jiangsu
+BLACK      XU YinChuan ; GM    ; China-Guangdong
+DATE       2014-11-17
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 24 ÂÖ
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  R9+1   p1+1   
+7.  P9+1   r1+5   8.  R9.6   p7+1   9.  P3+1   r1.7   
+10. C8.7   r7-1   11. H3+4   r7.6   12. R6+3   e7+5   
+13. C5.4   r6.7   14. E7+5   a6+5   15. R2+6   c8.9   
+16. R2+3   h7-8   17. P7+1   p3+1   18. R6.7   h3+2   
+19. H4+5   r7.5   20. R7.5   r5+1   21. P5+1   c9+4   
+22. H5-4   h8+7   23. A6+5   c9.1   24. P5+1   p9+1   
+25. C7+2   h7+9   26. H9-7   h9+7   27. P5.4   h7+6   
+28. H4+6   a5+6   29. C7.9   h6-4   30. P4+1   h2+3   
+31. H6+8   h3-1   }END
+
+
+FORMAT 	WXF
+GAME 	XU GuoYi(D)WANG Bin,55
+TIME       ;
+RESULT     0.5-0.5
+RED        XU GuoYi ; NT  ; China-Guangdong
+BLACK      WANG Bin ; IGM ; China-Jiangsu
+DATE       2014-11-17
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 24 ÂÖ
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  H2+3   r9+1   
+4.  E7+5   p3+1   5.  P7+1   r9.3   6.  H7+6   r3+3   
+7.  R9.7   r3+5   8.  E5-7   h2+3   9.  C8.6   r1.2   
+10. R1+1   c2.1   11. E3+5   r2+7   12. H3-5   r2+1   
+13. C2-1   r2-7   14. H5+7   h3+2   15. C2+5   h2+4   
+16. H7+6   e7+5   17. R1.4   c8.9   18. A4+5   r2.8   
+19. R4+5   p9+1   20. R4.3   c9+1   21. C2-4   c9-3   
+22. H6+8   c1.4   23. H8+6   c9.7   24. R3.4   a6+5   
+25. C2+4   c4+5   26. A5+6   a5+4   27. A6+5   a4+5   
+28. C2.5   }END
+
+
+FORMAT 	WXF
+GAME 	ZHU Xiaohu(D)Lv Qin,55
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHU Xiaohu ; NT  ; China-Jiangsu
+BLACK      Lv Qin ; IGM  ; China-Guangdong
+DATE       2014-11-17
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 24 ÂÖ
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  R2+6   p1+1   
+7.  P9+1   r1+5   8.  C8.7   h3+2   9.  H9-7   r1+4   
+10. H7-9   e7+5   11. H9+8   h2+3   12. H3+4   c8-1   
+13. C5+4   c8.5   14. R2+3   c5+2   15. H4+5   h7-8   
+16. H5-6   h8+6   17. C7.3   p7+1   18. P3+1   e5+7   
+19. C3.1   c2.9   20. C1+4   c9+4   21. C1-2   e7-5   
+22. E7+5   h6+8   23. A6+5   h8+7   24. C1.3   c9-1   
+25. H6+4   a6+5   26. H4+6   h3-4   27. H8+6   h4+5   
+28. H-+7   }END
+
+
+FORMAT 	WXF
+GAME 	PAN ZhenBo(W)SUN HaoYu,53
+TIME       ;
+RESULT     1-0
+RED        PAN ZhenBo ; CM  ; China-Jilin
+BLACK      SUN HaoYu ; FM ; China-Hunan
+DATE       2014-11-17
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 24 ÂÖ
+START{
+1.  P7+1   c2.3   2.  E3+5   c8.5   3.  H8+7   h8+7   
+4.  P3+1   r9.8   5.  R1+2   h2+1   6.  C8-1   r8+6   
+7.  R9+1   r1+1   8.  H2+3   r1.6   9.  H7+6   p5+1   
+10. A6+5   p5+1   11. C8+2   r8-2   12. P5+1   r6.4   
+13. C2+2   r8.2   14. P7+1   r2.3   15. P5+1   r3.5   
+16. C8.6   r5.3   17. R9-1   r4.2   18. H3+4   c5+4   
+19. R1.4   r3+5   20. R9.7   c3+7   21. K5.6   c3-1   
+22. H4+6   h7+5   23. H++4   h5-6   24. H4+3   c5.1   
+25. C6.8   p3+1   26. C2+4   p3+1   27. H6+5   }END
+
+
+FORMAT 	WXF
+GAME 	LI ShaoGeng(D)HUANG HaiLin,51
+TIME       ;
+RESULT     0.5-0.5
+RED        LI ShaoGeng ; NT ; China-Henan
+BLACK      HUANG HaiLin ; CM  ; China-Guangdong
+DATE       2014-11-17
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 24 ÂÖ
+START{
+1.  C2.5   h8+7   2.  P7+1   p7+1   3.  H2+3   h2+3   
+4.  H8+7   r9.8   5.  C8+2   c2.1   6.  R1.2   r1.2   
+7.  C5-1   r2+4   8.  E7+5   e3+5   9.  P3+1   c8.9   
+10. R2+9   h7-8   11. C5.7   c9.7   12. H3+4   p7+1   
+13. P7+1   p3+1   14. C7.8   r2.1   15. C+.3   p3+1   
+16. C3.7   r1.2   17. C7.8   r2.3   18. R9+2   p1+1   
+19. C-.7   r3.2   20. C7+6   c7.3   21. H4+5   c3-1   
+22. C8.5   c3.5   23. H5-6   r2.4   24. R9-1   h8+7   
+25. C5+4   a4+5   26. R9.4   }END
+
+
+FORMAT 	WXF
+GAME 	YAO HongXin(D)ZHENG Weitong,246
+TIME       ;
+RESULT     0.5-0.5
+RED        YAO HongXin ; NT ; China-Henan
+BLACK      ZHENG Weitong ; NT  ; China
+DATE       2014-11-17
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 24 ÂÖ
+START{
+1.  H8+7   p3+1   2.  P3+1   h2+3   3.  C2.5   h8+9   
+4.  H2+3   r9.8   5.  R1.2   e3+5   6.  C8+4   h3+2   
+7.  R2+5   a4+5   8.  C8.3   p9+1   9.  R2+1   r1.3   
+10. E7+9   c8.7   11. C5+4   c7+3   12. R2+3   h9-8   
+13. H3+4   r3.4   14. C5-1   r4+5   15. C5.8   r4.6   
+16. C8.1   r6-2   17. R9.8   c2.4   18. C3+2   h8+9   
+19. R8+9   c4-2   20. R8-5   c7-1   21. C3.1   h9+7   
+22. C--1   r6+4   23. H7-5   c7.5   24. R8.3   c4.2   
+25. R3.5   c2+6   26. E9-7   r6-2   27. P7+1   p3+1   
+28. E3+5   r6+3   29. R5.3   h7+9   30. R3.7   c2.9   
+31. H5+7   r6.8   32. H7-5   r8.6   33. H5+7   r6.8   
+34. R7.5   c5.6   35. E5-3   c9+3   36. E7+5   r8-1   
+37. H7+6   c6+4   38. R5.4   c6.8   39. A6+5   c8+1   
+40. R4-2   h9+7   41. R4.2   h7+8   42. C+-8   h8-9   
+43. H6+4   h9-7   44. E5+3   a5+4   45. C1+9   e5-3   
+46. C1-7   c8-3   47. P5+1   c8-5   48. C1.9   e3+5   
+49. P5+1   c8.1   50. C9+4   c1+5   51. H4-5   a6+5   
+52. P5.4   h7-8   53. C9.2   e5+3   54. C2.5   e7+5   
+55. C5-1   k5.6   56. E3-5   a5+6   57. H5+3   e5+7   
+58. H3-1   c1-5   59. H1+2   c1.6   60. C5-2   k6.5   
+61. H2-3   k5.4   62. C5.8   e3-5   63. C8-2   k4.5   
+64. C8.6   a4-5   65. P4.5   h8+9   66. A5+4   c6.7   
+67. H3+5   h9+8   68. P5+1   h8+7   69. K5.6   h7-6   
+70. P5.4   e7-9   71. E5+7   e9-7   72. E3+5   c7.9   
+73. H5+6   h6-5   74. C6.2   c9.8   75. C2.1   c8.9   
+76. H6-4   c9+5   77. H4+2   k5.6   78. C1.5   h5+4   
+79. C5.4   c9+3   80. A4+5   c9-5   81. A5+6   c9.4   
+82. K6.5   k6.5   83. K5.4   h4-5   84. C4.5   h5+6   
+85. P4.5   c4-3   86. C5.1   e5+3   87. P5.6   h6-7   
+88. C1.7   e3-1   89. H2-4   h7+6   90. P6.7   h6-5   
+91. P7.8   c4+3   92. H4+2   h5-4   93. P8.7   h4+3   
+94. E5+3   c4-3   95. P7.8   h3+5   96. E3-5   c4+5   
+97. A4-5   c4.3   98. A5-6   c3.6   99. K4.5   h5+6   
+100. K5+1   c6.5   101. E5-7   h6-5   102. K5-1   c5.4   
+103. A6+5   e7+5   104. E7+5   e1-3   105. P8.7   c4.3   
+106. P7.8   c3.4   107. C7.9   c4.1   108. P8.7   e5-7   
+109. A5+4   c1.4   110. H2+3   k5.4   111. A6-5   c4.1   
+112. C9.6   c1-5   113. H3-2   e3+5   114. P7+1   k4.5   
+115. P7+1   h5-7   116. H2+3   k5.6   117. C6+4   a5+4   
+118. C6.4   a6-5   119. P7.6   c1+5   120. H3-2   k6.5   
+121. H2+3   k5.6   122. H3-4   k6.5   123. C4.5   h7-5   }END
+
+
+FORMAT 	WXF
+GAME 	WU JunQiang(W)Áõ×Ó½¡,53
+TIME       ;
+RESULT     1-0
+RED        WU JunQiang ; NT  ; China-Yunnan
+BLACK      Áõ×Ó½¡ ; NT ; China-Nanjing
+DATE       2014-11-17
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 24 ÂÖ
+START{
+1.  P7+1   p7+1   2.  C8.6   c8.4   3.  H8+7   h2+1   
+4.  E3+5   h8+7   5.  H2+4   e7+5   6.  R1.3   r1.2   
+7.  P3+1   p7+1   8.  R3+4   c2-1   9.  R3.6   c4+5   
+10. C2.6   a6+5   11. R9.8   c2+5   12. P1+1   p9+1   
+13. P7+1   p3+1   14. H7+8   c2.3   15. C6.8   r2.1   
+16. R8+1   r9.6   17. H4+2   r1+1   18. R8.7   h7+6   
+19. R6.4   p3+1   20. E5+7   c3.4   21. C8.4   r6.8   
+22. H2+3   h6-7   23. R4.6   r8+5   24. E7+5   c4.2   
+25. R7.8   c2.3   26. H8-7   r1.3   27. R8+2   }END
+
+
+FORMAT 	WXF
+GAME 	YAO HongXin(W)WU JunQiang,181
+TIME       ;
+RESULT     1-0
+RED        YAO HongXin ; NT ; China-Henan
+BLACK      WU JunQiang ; NT  ; China-Yunnan
+DATE       2014-11-17
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 24 ÂÖ
+START{
+1.  H8+7   p3+1   2.  P3+1   h2+3   3.  C2.5   h8+7   
+4.  H2+3   r9.8   5.  R1.2   e7+5   6.  C8+4   h3+4   
+7.  C8.3   c2.3   8.  R9.8   h4+3   9.  C5.4   r1+1   
+10. R2+5   r1.6   11. A6+5   c8.9   12. R2+4   h7-8   
+13. R8+4   r6+5   14. P3+1   c9.7   15. H3+2   r6.8   
+16. E7+5   c7+2   17. H2+4   r8.6   18. H4+6   c3.4   
+19. H6+8   h8+7   20. C3.9   r6-5   21. R8.6   c7.4   
+22. R6.3   r6.3   23. C4+1   h3-2   24. C4.3   r3+2   
+25. H8+7   e5-3   26. R3+3   c-.1   27. C9-1   h2-3   
+28. R3+1   c4.1   29. C3.2   a6+5   30. R3+1   a5-6   
+31. R3-1   a6+5   32. R3+1   a5-6   33. C2+6   e3+5   
+34. R3-5   a6+5   35. P9+1   p3+1   36. P9+1   p3+1   
+37. H7-6   a5+6   38. R3.8   p5+1   39. P5+1   p5+1   
+40. R8.5   r3.8   41. C2.3   r8.5   42. R5.7   h3+4   
+43. C3-1   a4+5   44. R7.6   r5+1   45. H6+8   c1.4   
+46. R6.2   c4-2   47. C3-6   r5.6   48. C3.4   p9+1   
+49. P1+1   p9+1   50. R2.1   p3.4   51. H8+9   r6+1   
+52. R1+1   h4+3   53. H9+8   h3+4   54. H8+6   a5+4   
+55. R1.4   r6-1   56. H6-4   a4-5   57. H4+5   h4-3   
+58. H5+7   c4+1   59. H7-6   p4.5   60. E5+7   p5.6   
+61. C4.1   c4+1   62. E3+5   h3+4   63. P9.8   h4-5   
+64. C1+2   h5+3   65. C1.5   k5.4   66. P8.7   h3-4   
+67. H6-8   a5-6   68. P7.6   c4-1   69. P6+1   h4+3   
+70. H8+7   c4.3   71. C5+1   k4.5   72. P6+1   k5+1   
+73. C5.9   h3-4   74. C9+3   c3-1   75. P6.5   k5-1   
+76. P5.4   c3+1   77. A5+6   h4-6   78. C9-7   c3.5   
+79. A4+5   c5.3   80. H7-6   h6-4   81. P4.5   c3.4   
+82. H6+4   c4.6   83. A5-4   p6.5   84. C9.5   h4+6   
+85. E5-3   k5.4   86. C5.6   k4.5   87. P5.6   h6-8   
+88. P6+1   h8-6   89. C6.5   p5.4   90. H4-5   p4.5   
+91. H5+6   }END
+
+
+FORMAT 	WXF
+GAME 	LI ShaoGeng(D)HUANG HaiLin,124
+TIME       ;
+RESULT     0.5-0.5
+RED        LI ShaoGeng ; NT ; China-Henan
+BLACK      HUANG HaiLin ; CM  ; China-Guangdong
+DATE       2014-11-17
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 24 ÂÖ
+START{
+1.  C2.6   h8+7   2.  H2+3   r9.8   3.  P3+1   c8.9   
+4.  H8+7   p3+1   5.  C8+4   e7+5   6.  R1+1   r8+4   
+7.  C8.3   c2.4   8.  R9+1   h2+3   9.  R1.2   r8.6   
+10. R9.4   r6+4   11. R2.4   r1.2   12. R4+7   r2+8   
+13. C6.4   r2.8   14. R4-3   a6+5   15. E7+5   c9-2   
+16. P3+1   c9.7   17. R4-1   h7-9   18. P7+1   h3+4   
+19. R4.2   r8-3   20. H3+2   p3+1   21. E5+7   e5+7   
+22. E7-5   p1+1   23. H2+4   e3+5   24. C4.1   h9+7   
+25. H4+3   c4.7   26. C3.2   c-.9   27. C1+4   h4+6   
+28. C2+3   a5+4   29. C1-1   c9+6   30. C1.9   e5-3   
+31. C2-8   h6+8   32. A6+5   c7.5   33. H7+6   c5+4   
+34. H6+5   h8+6   35. C2.4   h6-5   36. H5-6   e7-5   
+37. C4+3   a4-5   38. P9+1   c9-1   39. C9.1   h5-4   
+40. H6-7   c5-3   41. P9+1   h4+5   42. K5.6   c5.4   
+43. K6.5   c4.5   44. K5.6   c9+1   45. C1-1   h5+3   
+46. C4-1   c9.8   47. E5+7   c8-2   48. C4.5   c5.4   
+49. K6.5   h3-5   50. C1.4   h5-3   51. C4+1   h3-2   
+52. P9+1   c4.7   53. E7-5   c8-1   54. H7+8   h2+4   
+55. C4.6   c8.9   56. C5.6   h4+2   57. C-.8   h2-4   
+58. C6-4   h4+5   59. C8.5   h5-6   60. C6.7   c7.1   
+61. H8-7   c1.5   62. H7+6   c5+2   }END
+
+
+FORMAT 	WXF
+GAME 	WEI Qiang(D)ZHAO Wei,94
+TIME       ;
+RESULT     0.5-0.5
+RED        WEI Qiang ; NT ; China-Neimenggu
+BLACK      ZHAO Wei ; NT ; China-Shanghai
+DATE       2014-11-17
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 24 ÂÖ
+START{
+1.  P7+1   p7+1   2.  C2.3   c8.5   3.  P3+1   c5+4   
+4.  H8+7   c5-1   5.  C8+2   c5.2   6.  P3+1   e7+9   
+7.  C3.5   c-.5   8.  R9.8   h2+1   9.  R8+4   e9+7   
+10. H2+3   h8+6   11. R1+1   r1.2   12. R8+5   h1-2   
+13. H3+5   a6+5   14. R1.4   r9.6   15. R4+5   p9+1   
+16. A6+5   h2+1   17. P9+1   h1-3   18. C5.4   h6+8   
+19. R4.2   h8-7   20. H5+6   r6+4   21. H6+5   e7-5   
+22. R2.5   h3+2   23. R5.7   h2+1   24. R7.9   h1+3   
+25. R9.5   r6+2   26. C4.1   r6.9   27. H7+5   h7+6   
+28. H5+6   h6+7   29. R5.3   h3-5   30. H6+8   k5.6   
+31. C1.9   r9.6   32. R3.2   r6.8   33. R2.3   r8.6   
+34. R3.2   r6.8   35. R2.3   r8.6   36. H8+7   r6-3   
+37. R3.4   h5-6   38. C9+7   h6+4   39. H7-6   h7+5   
+40. H6-4   k6.5   41. H4+2   h4-6   42. E3+1   k5.6   
+43. E7+5   h6+4   44. C9-4   h5-7   45. P7+1   h4+6   
+46. P7+1   h6+5   47. C9.1   h5-4   }END
+
+
+FORMAT 	WXF
+GAME 	SUN YongZheng(D)WANG TianYi,49
+TIME       ;
+RESULT     0.5-0.5
+RED        SUN YongZheng ; GM ; China
+BLACK      WANG TianYi ; NT  ; China
+DATE       2014-11-17
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 24 ÂÖ
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  R2+6   p1+1   
+7.  P9+1   r1+5   8.  C8.7   h3+2   9.  H9-7   r1+4   
+10. H7-9   e7+5   11. H9+8   h2+3   12. H3+4   c8-1   
+13. C5+4   c8.5   14. R2+3   c5+2   15. H4+5   h7-8   
+16. H5-6   h8+6   17. C7.3   p7+1   18. P3+1   e5+7   
+19. C3.1   c2.9   20. C1+4   c9+4   21. C1.7   e7-5   
+22. C7-3   c9.3   23. E7+5   a6+5   24. A6+5   h6+7   
+25. H6+4   }END
+
+
+FORMAT 	WXF
+GAME 	HONG Zhi(W)WAN ChunLin,95
+TIME       ;
+RESULT     1-0
+RED        HONG Zhi ; IGM ; China-Jilin
+BLACK      WAN ChunLin ; CM  ; China-Shanghai
+DATE       2014-11-17
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 24 ÂÖ
+START{
+1.  C2.6   p7+1   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  R2+4   c8.9   5.  R2.4   h2+3   6.  H8+7   p3+1   
+7.  P7+1   p3+1   8.  R4.7   c2-1   9.  E7+5   c2.3   
+10. R7.8   e3+5   11. H7+6   r1.3   12. P9+1   r8+1   
+13. P9+1   p1+1   14. R9+5   r8.6   15. A6+5   a4+5   
+16. C8-2   c9.8   17. C8.6   c8.9   18. P3+1   p7+1   
+19. E5+3   r6.8   20. E3-5   r8+3   21. R9.2   h7+8   
+22. H6+4   c3.1   23. R8.9   c1.2   24. C-.8   h3+4   
+25. R9.6   h4-6   26. C8+6   r3+4   27. H3+2   c9.6   
+28. H4+6   c2.4   29. R6.9   r3-1   30. H6-7   h8+6   
+31. C8-5   r3+1   32. C8.7   r3.2   33. H7+6   r2+5   
+34. C7-1   c4+1   35. C6+5   a5+4   36. R9+5   k5+1   
+37. R9.4   c6-1   38. H2+1   h-+8   39. R4.3   r2-3   
+40. H6-7   r2.3   41. A5+6   h6+4   42. R3-5   c6+4   
+43. R3.2   r3-1   44. R2+1   r3+3   45. C7.6   h4-3   
+46. H1+3   k5.4   47. A6-5   r3.4   48. E5+7   }END
+
+
+FORMAT 	WXF
+GAME 	XIE Jing(D)SU ShaoFeng,188
+TIME       ;
+RESULT     0.5-0.5
+RED        XIE Jing ; GM ; China-Shanghai
+BLACK      SU ShaoFeng ; NT ; China-Neimenggu
+DATE       2014-11-17
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 24 ÂÖ
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  R1.2   p3+1   5.  H8+9   r9+1   6.  R9.8   r9.4   
+7.  C5+4   a4+5   8.  C5.1   h8+9   9.  A6+5   r4+4   
+10. C8.6   h2+4   11. P3+1   r1.2   12. R8+9   h4-2   
+13. E7+5   c8.7   14. R2+5   c3+2   15. R2.5   h2+3   
+16. C1-2   r4+1   17. C1.7   r4.1   18. C7.5   c3.2   
+19. H9-7   r1.3   20. H7+9   r3+1   21. H9+8   r3.2   
+22. H8-6   r2-1   23. H3+4   r2.3   24. C5.8   c7.8   
+25. H4+6   r3.4   26. H6+7   c8.3   27. R5.8   r4.5   
+28. C6+6   c3-2   29. C6.9   a5-4   30. P1+1   r5-3   
+31. P1+1   h9-7   32. P1.2   h7+6   33. C8.7   h6+5   
+34. C9+1   a6+5   35. C7-4   h5-6   36. R8.7   p1+1   
+37. C7+9   e5-3   38. R7+4   r5.1   39. R7-3   r1-3   
+40. R7.4   r1+2   41. R4.3   e7+5   42. R3.4   p1+1   
+43. P3+1   r1+2   44. P3.4   a5-6   45. P2.3   a4+5   
+46. P3+1   p1.2   47. R4+2   p2+1   48. P4+1   r1.5   
+49. R4.1   r5+2   50. R1-4   p2.3   51. R1.9   r5.4   
+52. P4.5   r4-4   53. E5+7   e5-7   54. E3+5   p3.4   
+55. R9+2   p4.5   56. P3.4   r4+2   57. R9+3   r4-4   
+58. R9-4   r4+2   59. R9.3   e7+9   60. R3-2   p5.4   
+61. A5-6   k5.4   62. A4+5   k4.5   63. P4.3   r4+2   
+64. P5.4   r4-1   65. E5-7   e9-7   66. R3.4   r4-1   
+67. P4.5   e7+9   68. R4.3   r4+2   69. P3.2   r4-2   
+70. R3.2   a5-4   71. P2+1   e9+7   72. P2+1   r4-1   
+73. P5.4   r4.6   74. P4.3   a4+5   75. P3+1   p4.5   
+76. P2.3   r6+2   77. P+.2   p5.6   78. R2+2   r6.7   
+79. P3+1   r7-1   80. P3.4   e7-5   81. P2.3   r7.6   
+82. A5-4   p6.5   83. R2.5   p5.4   84. A6+5   r6.7   
+85. A5+4   r7.6   86. E7-9   r6.7   87. R5.1   p4.5   
+88. R1-2   e5-3   89. A4-5   r7.5   90. P4+1   a5-6   
+91. P3.4   k5.4   92. R1+1   a6+5   93. R1+5   k4+1   
+94. R1.7   a5+6   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO XinXin(W)ZHANG LanTian,63
+TIME       ;
+RESULT     1-0
+RED        ZHAO XinXin ; GM  ; China-Hangzhou
+BLACK      ZHANG LanTian ; NT  ; China
+DATE       2014-11-17
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 24 ÂÖ
+START{
+1.  C2.5   h8+7   2.  P3+1   r9.8   3.  H2+3   c8.9   
+4.  H8+7   p3+1   5.  C8+4   h2+3   6.  R1+1   r8+4   
+7.  C8.3   e7+5   8.  R9.8   r1.2   9.  R8+6   c2.1   
+10. R8.7   r2+5   11. P5+1   r8-1   12. H3+4   r2.5   
+13. R1.4   h7-5   14. C5-1   c9.7   15. E3+1   r5-1   
+16. R4+2   c7.6   17. H4-6   r5.4   18. C5.6   r4.8   
+19. R4+4   r-.7   20. H6+4   r7.8   21. C6.4   r--3   
+22. H7+5   r+.5   23. H4+6   r8+6   24. A4+5   e5-7   
+25. R4-3   c1+4   26. H5-7   r5.4   27. H7+9   r4.5   
+28. R4+4   p1+1   29. H9-8   h3-2   30. H8+6   h2+1   
+31. R7.8   r5+2   32. C4-1   }END
+
+
+FORMAT 	WXF
+GAME 	SUN YongZheng(D)PAN ZhenBo,44
+TIME       ;
+RESULT     0.5-0.5
+RED        SUN YongZheng ; GM ; China
+BLACK      PAN ZhenBo ; CM  ; China-Jilin
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  P7+1   c8.5   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  H8+7   r8+4   5.  P3+1   h2+1   6.  E7+5   c2.4   
+7.  C2.1   r8+5   8.  H3-2   r1.2   9.  R9.8   r2+4   
+10. H2+3   p7+1   11. P3+1   r2.7   12. H3+4   p3+1   
+13. P7+1   r7.3   14. C8+5   c4+5   15. C8.3   c4.9   
+16. E3+1   r3+3   17. C3.9   e3+1   18. R8+3   p5+1   
+19. E1-3   p5+1   20. P5+1   r3-2   21. H4+3   r3.5   
+22. H3+5   e7+5   }END
+
+
+FORMAT 	WXF
+GAME 	Áõ×Ó½¡(D)ZHAO Wei,51
+TIME       ;
+RESULT     0.5-0.5
+RED        Áõ×Ó½¡ ; NT ; China-Nanjing
+BLACK      ZHAO Wei ; NT ; China-Shanghai
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  R9+1   p1+1   
+7.  P9+1   r1+5   8.  R9.6   p7+1   9.  P3+1   r1.7   
+10. C8.7   r7-1   11. H3+4   r7.6   12. R6+3   e7+5   
+13. C5.4   r6.7   14. E7+5   a6+5   15. R2+6   c8.9   
+16. R2+3   h7-8   17. P7+1   p3+1   18. R6.7   h3+2   
+19. H4+5   r7.5   20. R7.5   r5+1   21. P5+1   c9+4   
+22. H5-4   c9.1   23. P5+1   c2.1   24. C7+2   h8+7   
+25. A6+5   c-+2   26. P5.6   }END
+
+
+FORMAT 	WXF
+GAME 	XIE Jing(D)HUANG HaiLin,45
+TIME       ;
+RESULT     0.5-0.5
+RED        XIE Jing ; GM ; China-Shanghai
+BLACK      HUANG HaiLin ; CM  ; China-Guangdong
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  R1.2   p3+1   5.  H8+9   r9+1   6.  R9.8   r9.4   
+7.  C5+4   a4+5   8.  C5.1   h8+9   9.  R2+4   p7+1   
+10. R2.7   r4+2   11. C1-2   h2+4   12. A6+5   r1.2   
+13. P9+1   h9+8   14. P3+1   p7+1   15. R7.3   c8.7   
+16. H9+8   h8-6   17. C8+7   h6+7   18. E7+5   h4-2   
+19. E5+3   c7+5   20. R8+2   c7-1   21. H8+9   r4.1   
+22. R8+7   a5-4   23. R8-5   }END
+
+
+FORMAT 	WXF
+GAME 	ZHENG Weitong(D)XU YinChuan,62
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHENG Weitong ; NT  ; China
+BLACK      XU YinChuan ; GM    ; China-Guangdong
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  H2+1   e3+5   
+4.  C2.4   h7+8   5.  C8.9   h2+3   6.  R9.8   r1.2   
+7.  R8+6   r9+1   8.  C9+4   r9.6   9.  A4+5   c2-1   
+10. C9-2   c2.1   11. R8+3   h3-2   12. H7+6   h2+3   
+13. C4.7   p3+1   14. P7+1   r6.4   15. H6+4   r4+5   
+16. E3+5   r4.3   17. C7.6   r3-2   18. R1.4   a4+5   
+19. H4+6   h3+4   20. C9.6   h8-7   21. P5+1   c8+1   
+22. R4+3   c8.4   23. C++2   r3+2   24. R4.7   h4+3   
+25. C+-3   a5-4   26. P3+1   p7+1   27. E5+3   c1.9   
+28. H1+3   h7+8   29. H3-2   h8-6   30. C-.5   h6+5   
+31. C5+4   a4+5   }END
+
+
+FORMAT 	WXF
+GAME 	DONG Fei(D)XIE Kui,50
+TIME       ;
+RESULT     0.5-0.5
+RED        DONG Fei ; NT  ; China-Hubei
+BLACK      XIE Kui ; FM ; China-Shandong
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  E3+5   p7+1   2.  P7+1   e7+5   3.  H8+7   h2+1   
+4.  R9+1   r1+1   5.  R9.4   r1.4   6.  H2+3   h8+7   
+7.  R4+3   r4+3   8.  P3+1   a6+5   9.  A4+5   p1+1   
+10. C2-2   h7+8   11. C2.3   p7+1   12. R4.3   c8.7   
+13. R3.6   r4+1   14. H7+6   c7+7   15. R1.3   h1+2   
+16. C8+5   h2+4   17. R3.2   h4+6   18. C8-6   r9.7   
+19. H3+2   h6+7   20. C8.3   r7+8   21. H2+4   r7-4   
+22. H4-6   r7.4   23. R2+4   h8-7   24. R2.3   h7+6   
+25. H6+4   r4.6   }END
+
+
+FORMAT 	WXF
+GAME 	NEI TieWen(D)JIANG Chuan,40
+TIME       ;
+RESULT     0.5-0.5
+RED        NEI TieWen ; GM ; China-HeilongJiang
+BLACK      JIANG Chuan ; NT    ; China-Wenzhou
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  E3+5   c8.4   2.  P7+1   h8+7   3.  C2.4   r9.8   
+4.  H2+3   p7+1   5.  H8+7   h2+1   6.  P9+1   r1+1   
+7.  P9+1   p1+1   8.  R9+5   e7+5   9.  R9.6   a6+5   
+10. H7+8   c2+5   11. C4.8   r1.3   12. R1.2   r8+9   
+13. H3-2   p3+1   14. P7+1   r3+3   15. R6.7   e5+3   
+16. P3+1   p7+1   17. E5+3   h7+6   18. H2+3   c4.6   
+19. A4+5   e3-5   20. H8+6   h1+3   }END
+
+
+FORMAT 	WXF
+GAME 	ËïÒÝÑô(D)ZHANG LanTian,52
+TIME       ;
+RESULT     0.5-0.5
+RED        ËïÒÝÑô ; NT ; China-Jiangsu
+BLACK      ZHANG LanTian ; NT  ; China
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  E3+5   c2.4   2.  P7+1   h2+1   3.  H8+7   r1.2   
+4.  R9.8   r2+4   5.  C8.9   r2.4   6.  H2+3   p7+1   
+7.  C2.1   h8+7   8.  R1.2   r9.8   9.  R2+4   c8.9   
+10. R2+5   h7-8   11. R8+1   h8+7   12. R8.2   p3+1   
+13. R2+3   e7+5   14. H7+8   p1+1   15. P7+1   r4.3   
+16. P3+1   r3.2   17. P3+1   h1+3   18. P3+1   h3+2   
+19. P3+1   h2+1   20. E7+9   c4+5   21. R2.3   r2.7   
+22. R3+1   e5+7   23. E5+3   c4.9   24. E3-1   p5+1   
+25. P3.2   c9-1   26. P2+1   c9+1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG Qiang(D)HAO JiChao,38
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHANG Qiang ; GM ; China-Beijing
+BLACK      HAO JiChao ; NT  ; China-HeilongJiang
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  H8+7   p3+1   2.  C2.4   h2+3   3.  H2+3   h8+9   
+4.  R1.2   r9.8   5.  P3+1   r1+1   6.  C8.9   p7+1   
+7.  P3+1   r1.7   8.  R9.8   r7+3   9.  H3+4   c2.1   
+10. E3+1   a6+5   11. R2+6   c8.6   12. R2+3   h9-8   
+13. R8+6   c6+5   14. C9.4   h3+4   15. H4+6   r7.4   
+16. A4+5   h8+7   17. R8.7   e7+5   18. P7+1   p3+1   
+19. R7-2   r4.3   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG XueChao(D)Ñî»Ô,72
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHANG XueChao ; NT  ; China-Xiamen
+BLACK      Ñî»Ô ; NT ; NA
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  R2+4   e7+5   
+7.  R9+1   p1+1   8.  P9+1   r1+5   9.  R9.6   c8.9   
+10. R2+5   h7-8   11. R6.2   h8+7   12. R2+6   e5-7   
+13. C8+2   c2.1   14. C8.5   a4+5   15. C+.4   r1.4   
+16. A6+5   p5+1   17. C5+3   k5.4   18. E3+5   h7+5   
+19. R2-2   c1+4   20. C4-3   e3+5   21. R2.4   c9.7   
+22. R4-1   r4.6   23. H3+4   c1.5   24. H4-3   c7+3   
+25. C4.1   c5-1   26. C1+5   h5+7   27. C1-2   c7+1   
+28. C1.3   h7-9   29. C5.1   p7+1   30. C3.1   h9-7   
+31. P7+1   p3+1   32. C-.7   h3+5   33. H9+7   c5.8   
+34. A5-6   h5+6   35. C7.2   h6+7   36. C2.6   k4.5   }END
+
+
+FORMAT 	WXF
+GAME 	LIU Ming(D)WANG TianYi,65
+TIME       ;
+RESULT     0.5-0.5
+RED        LIU Ming ; CM ; China-Ningxie
+BLACK      WANG TianYi ; NT  ; China
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P3+1   r9+1   5.  C8+4   p3+1   6.  C8.3   e7+5   
+7.  H8+9   r9.4   8.  R9.8   r1.2   9.  R8+4   c2.1   
+10. R8+5   h3-2   11. C5+4   a4+5   12. R2+6   r4+3   
+13. A4+5   h2+3   14. C5-2   c1+4   15. E3+5   p9+1   
+16. C3-1   r4.5   17. R2.3   h7-8   18. R3.4   c6.7   
+19. P7+1   p3+1   20. E5+7   h3+4   21. C3.6   r5.4   
+22. R4.3   r4+2   23. P1+1   p1+1   24. C5.4   r4-2   
+25. E7-5   p9+1   26. H9+7   r4.5   27. C4.1   r5.9   
+28. C1.2   c7-2   29. C2+4   r9-3   30. C2.4   r9.6   
+31. R3+3   h8+9   32. R3-2   h9+8   33. R3.2   }END
+
+
+FORMAT 	WXF
+GAME 	LI ZhiPing(D)HUANG ZhuFeng,50
+TIME       ;
+RESULT     0.5-0.5
+RED        LI ZhiPing ; CM ; China-Tianjin
+BLACK      HUANG ZhuFeng ; NT ; China-Hangzhou
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  E3+5   h2+3   2.  P3+1   p3+1   3.  H2+3   e7+5   
+4.  H8+9   r1+1   5.  R9+1   r1.6   6.  R9.6   r6+3   
+7.  P9+1   h8+7   8.  C2-2   a6+5   9.  A4+5   c8+4   
+10. C2.3   r6.4   11. R6.7   r4.6   12. R1.2   r9.8   
+13. R2+2   p9+1   14. P7+1   p3+1   15. R7+3   h3+4   
+16. C8.7   c2.4   17. H9+8   h4+2   18. R7.8   c8-2   
+19. R8.7   p1+1   20. P9+1   r6.1   21. R7+2   c8-1   
+22. R7+1   c8.9   23. R2+7   h7-8   24. C3.4   p7+1   
+25. R7-3   h8+6   }END
+
+
+FORMAT 	WXF
+GAME 	SU ShaoFeng(L)SHEN Peng,68
+TIME       ;
+RESULT     0-1
+RED        SU ShaoFeng ; NT ; China-Neimenggu
+BLACK      SHEN Peng ; NT  ; China-Anhui
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  C8.6   r1.2   6.  H8+7   p3+1   
+7.  R9.8   c2+1   8.  R2-2   c8.9   9.  R2.4   r8+4   
+10. P7+1   p3+1   11. R4.7   p7+1   12. R7.3   h7+6   
+13. R3.7   r2+2   14. R8+3   e7+5   15. P3+1   c9.7   
+16. H3-5   a6+5   17. C5.3   c7.6   18. E7+5   h3+4   
+19. P5+1   r8+4   20. C6-1   c2.4   21. R8.6   c4+3   
+22. C6.2   c4.8   23. P5+1   p5+1   24. R7.6   r2+2   
+25. H5-7   h6+7   26. C2.3   p5+1   27. R6.7   h4+6   
+28. C-+2   h6+7   29. H+-5   h7+9   30. R7.5   r2.6   
+31. C3.6   c8+3   32. H5+7   h9-7   33. A6+5   c6+7   
+34. H-+6   c6-1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHUANG YuTing(L)LI ShaoGeng,68
+TIME       ;
+RESULT     0-1
+RED        ZHUANG YuTing ; IGM ; China-Guangdong
+BLACK      LI ShaoGeng ; NT ; China-Henan
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  H2+3   p7+1   2.  C2.1   h8+7   3.  R1.2   r9.8   
+4.  P7+1   h2+3   5.  H8+7   c2+4   6.  E3+5   c2.3   
+7.  R2+4   c8.9   8.  R2+5   h7-8   9.  R9.8   r1.2   
+10. C1+4   h8+7   11. C1.3   h7+9   12. C8+2   r2+4   
+13. C8.9   r2+5   14. H7-8   p3+1   15. H8+9   c3.2   
+16. H9-7   c2.3   17. H7+9   c3.2   18. C9.8   c2+1   
+19. H3-5   c9+4   20. H5+7   p3+1   21. E5+7   p1+1   
+22. C3.2   h3+4   23. C2-3   c9.7   24. C8-1   c7+3   
+25. A4+5   c7.9   26. E7-5   h4+6   27. C2-2   h9+8   
+28. H7+6   h8+9   29. H6-4   p7+1   30. C2+1   h9+8   
+31. E5-3   c9-3   32. C2.4   c9.5   33. K5.4   h8-7   
+34. K4+1   e7+5   }END
+
+
+FORMAT 	WXF
+GAME 	ÕÔµîÓî(D)HONG Zhi,78
+TIME       ;
+RESULT     0.5-0.5
+RED        ÕÔµîÓî ; NT ; China-Hebei
+BLACK      HONG Zhi ; IGM ; China-Jilin
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  C2.6   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+1   5.  C8+4   a4+5   6.  H7+6   e3+5   
+7.  E3+5   p1+1   8.  A4+5   c8+3   9.  H6+5   p3+1   
+10. H5+3   c2.7   11. P7+1   r8+3   12. R1.2   c8+2   
+13. C8-2   r1.3   14. P9+1   p1+1   15. R9+4   r3+4   
+16. C8.2   c8.9   17. C6.9   h1-3   18. R2.1   c9.8   
+19. R1.4   c7.8   20. C2.5   c+.9   21. C9.8   r3.2   
+22. C8.6   h3+1   23. C6.9   h1-2   24. R9+5   r2+3   
+25. P3+1   p7+1   26. E5+3   c9.8   27. R4+4   r8.2   
+28. E3-5   c+-4   29. R4+3   c-.9   30. R4-2   c8.4   
+31. R4.3   c4-3   32. R9-4   r-.5   33. R9.5   r5+1   
+34. R3.5   r2-4   35. R5.4   r2.8   36. C9+1   h2+3   
+37. H3+4   r8.1   38. C9.6   r1.4   39. C6+6   k5.4   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO XinXin(D)LIU DaHua,147
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHAO XinXin ; GM  ; China-Hangzhou
+BLACK      LIU DaHua ; IGM ; China-Hubei
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  P7+1   p7+1   2.  C8.5   h8+7   3.  H2+1   e3+5   
+4.  H8+7   h2+4   5.  C2.3   r1.3   6.  R1.2   c8.9   
+7.  R9.8   p3+1   8.  P7+1   r3+4   9.  R2+4   r9+1   
+10. H7+6   p9+1   11. R8+5   r3+5   12. C5.7   c2.3   
+13. E3+5   r3-1   14. A6+5   r3.1   15. P3+1   p9+1   
+16. R2.1   p7+1   17. C3+5   c3.7   18. C7+7   a4+5   
+19. C7-1   r9.6   20. R8+4   a5-4   21. C7.4   h4-2   
+22. C4.2   e5+7   23. H6+5   c7.2   24. H5-3   r1+1   
+25. A5-6   c9.5   26. R1.3   c2+7   27. A6+5   c2-1   
+28. A5-6   c2+1   29. A6+5   h2+4   30. R3.6   c2-8   
+31. A5-6   c2.8   32. R6+4   a6+5   33. R6-5   r1-2   
+34. H1+3   c5+5   35. H--5   r1.5   36. A4+5   r5.7   
+37. R6+2   r7+2   38. A5-4   c8+8   39. K5+1   r7-1   
+40. K5+1   r7-1   41. K5-1   r7+1   42. K5+1   r7-2   
+43. R6.5   k5.6   44. P1+1   c8.4   45. P1+1   c4-7   
+46. P1.2   c4.1   47. K5.6   c1+4   48. H3+2   r7-4   
+49. H2-3   c1.3   50. R5.7   r7.4   51. K6.5   r4+4   
+52. R7.4   k6.5   53. R4.5   r4-4   54. P2+1   r4.7   
+55. H3-5   c3-5   56. R5.3   r7.5   57. R3+4   a5-6   
+58. R3-3   c3.5   59. R3.6   c5+4   60. P5+1   p1+1   
+61. R6-1   r5+3   62. K5.6   p1+1   63. R6+4   k5+1   
+64. R6-1   k5-1   65. R6+1   k5+1   66. P2.3   p1.2   
+67. R6-1   k5-1   68. R6+1   k5+1   69. R6-1   k5-1   
+70. R6+1   k5+1   71. P3.4   p2.3   72. R6-1   k5-1   
+73. R6+1   k5+1   74. R6-3   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG ShiQing(D)WANG Bin,144
+TIME       ;
+RESULT     0.5-0.5
+RED        HUANG ShiQing ; GM ; China-Nanfang
+BLACK      WANG Bin ; IGM ; China-Jiangsu
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  P7+1   p7+1   2.  C8.6   h8+7   3.  H8+7   c8.9   
+4.  R9.8   r9.8   5.  H2+3   c2.3   6.  R1.2   p3+1   
+7.  H7-9   p3+1   8.  R8+8   r8+6   9.  C6.8   h7-5   
+10. C8+7   c3.5   11. R8-6   h5+3   12. C8-1   h3+4   
+13. C2-1   h4+6   14. C2.5   r8+3   15. H3-2   r1.2   
+16. R8+3   c5+4   17. E3+5   c5+2   18. A4+5   p3+1   
+19. H2+4   c9+4   20. P3+1   c9+2   21. P3+1   e3+5   
+22. P3.4   a4+5   23. E5+3   h6+4   24. E7+5   c9.8   
+25. P4+1   p5+1   26. H9-7   c8-7   27. C8-2   c8.6   
+28. K5.4   h4-6   29. H7+8   h6+7   30. K4.5   c6+7   
+31. H8+7   h7-6   32. R8.5   c6-5   33. R5.4   c6.8   
+34. R4-1   c8+2   35. R4+2   c8.3   36. E5+7   p1+1   
+37. K5.4   p3.2   38. C8.5   k5.4   39. C5-4   p2.1   
+40. R4.9   r2.3   41. R9-1   r3+5   42. R9-2   r3.7   
+43. R9+6   k4+1   44. C5.6   r7.3   45. C6-1   r3+3   
+46. C6+2   r3-2   47. C6-2   r3+2   48. C6+2   r3-4   
+49. K4.5   p9+1   50. C6-2   r3+4   51. C6+5   r3-5   
+52. C6-1   r3+1   53. C6+1   p9+1   54. C6.2   r3.8   
+55. C2.4   r8.6   56. C4.3   p9.8   57. A5-4   r6.7   
+58. C3.1   r7.9   59. C1.4   r9.5   60. A6+5   r5.6   
+61. C4.1   e7+9   62. C1.2   e9-7   63. C2+2   r6-3   
+64. C2+1   p8+1   65. A5+6   p8+1   66. A6-5   p8.7   
+67. R9.8   p7.8   68. A5+6   p8.7   69. R8-8   k4-1   
+70. R8+8   k4+1   71. A6-5   p7+1   72. R8-2   p7.6   }END
+
+
+FORMAT 	WXF
+GAME 	WU JunQiang(D)XU GuoYi,161
+TIME       ;
+RESULT     0.5-0.5
+RED        WU JunQiang ; NT  ; China-Yunnan
+BLACK      XU GuoYi ; NT  ; China-Guangdong
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  C2+4   p7+1   5.  P7+1   e3+5   6.  H8+7   h2+4   
+7.  R9+1   r1.3   8.  R9.6   a4+5   9.  R6+4   p3+1   
+10. P7+1   e5+3   11. P5+1   c2+2   12. R6+1   h7+6   
+13. R6.8   e3-5   14. H7+5   c2.3   15. R8+2   h6+5   
+16. H3+5   c4+1   17. C2+1   h4+3   18. R8-3   c4-1   
+19. C2-1   c4+2   20. R8-2   c4-1   21. C2+1   c4-1   
+22. C2-1   p5+1   23. P5+1   h3+5   24. R2+2   r3+3   
+25. C2+2   c3+2   26. H5+7   h5+3   27. R8.7   h3-5   
+28. R7+3   h5-3   29. C2.4   r8+7   30. C8.2   c4.1   
+31. C2.1   c1+4   32. C1+4   h3+5   33. A4+5   h5+6   
+34. C1.4   a5+6   35. C-.5   a6-5   36. C5.4   a5+6   
+37. C-.5   a6-5   38. C5.4   a5+6   39. C-.3   a6-5   
+40. P1+1   c1.5   41. C4-2   p1+1   42. P1+1   p1+1   
+43. P1.2   e7+9   44. P2.3   e9+7   45. C4-2   p1.2   
+46. C3.4   h6+7   47. K5.4   e7-9   48. C--3   c5.1   
+49. C+.7   p2+1   50. C7-5   c1+3   51. A5+4   h7-9   
+52. A4-5   p2.3   53. K4.5   h9-7   54. E5+3   p3.4   
+55. C7.9   p4.5   56. C4.1   a5+4   57. K5.4   e5+3   
+58. K4.5   k5+1   59. C1.3   h7-9   60. E3-1   h9+8   
+61. A5-4   c1.2   62. C3.8   p5+1   63. C8.7   e3-5   
+64. A4+5   k5-1   65. C7.8   a6+5   66. C8.7   e5+3   
+67. C7.8   a5+6   68. A5-4   a6-5   69. A4+5   e9+7   
+70. C8.7   e7-5   71. C7.8   e5-3   72. C8.7   a5-4   
+73. A5-4   k5+1   74. C7.8   k5+1   75. C8.7   a4+5   
+76. C7.8   a5-4   77. C8.7   a4+5   78. C7.8   a5-4   
+79. C8+6   k5-1   80. C8-6   k5-1   81. C8.7   }END
+
+
+FORMAT 	WXF
+GAME 	YAO HongXin(L)WAN ChunLin,280
+TIME       ;
+RESULT     0-1
+RED        YAO HongXin ; NT ; China-Henan
+BLACK      WAN ChunLin ; CM  ; China-Shanghai
+DATE       2014-11-18
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 25 ÂÖ
+START{
+1.  H8+7   p3+1   2.  C2.5   h8+7   3.  H2+3   r9.8   
+4.  R1.2   h2+3   5.  P3+1   e7+5   6.  C8+4   h3+2   
+7.  C8.3   r1+1   8.  R2+5   h2+3   9.  R9.8   c2.3   
+10. C5.4   r1.6   11. A6+5   c8.9   12. R2+4   h7-8   
+13. R8+4   r6+5   14. P3+1   c9.7   15. H3+2   r6.9   
+16. E7+5   c7+2   17. H2+4   r9.6   18. H4+6   c3.4   
+19. H6+8   r6-3   20. C3+2   r6-2   21. C3+1   a6+5   
+22. H8+9   h3+1   23. H9-7   c4-1   24. R8-2   c7-3   
+25. H-+8   r6+5   26. R8.9   e5-7   27. H8+7   r6-4   
+28. H-+6   c7.4   29. R9.6   r6.4   30. R6+5   a5+4   
+31. C4+4   p1+1   32. C4-1   k5.6   33. C4-4   h8+7   
+34. A5+4   k6.5   35. P5+1   h7+8   36. H7-8   h8+7   
+37. C4.5   h7+8   38. C5.3   a4+5   39. P9+1   p1+1   
+40. H8-9   e7+5   41. H9+8   p9+1   42. H8+7   k5.4   
+43. H7+9   a5+6   44. H9-8   c4.6   45. H8-9   k4.5   
+46. H9+7   a6-5   47. H7-9   a5+6   48. H9+7   c6+6   
+49. P5+1   c6-4   50. H7+8   p5+1   51. H8-6   k5.4   
+52. H6-5   c6.5   53. A4+5   h8-7   54. A5+6   h7-5   
+55. C3.6   k4.5   56. A6-5   p9+1   57. K5.4   a6-5   
+58. C6.9   e5+7   59. A5-6   e3+5   60. H5+7   h5+3   
+61. H7+9   p9.8   62. H9+7   k5.4   63. H7-6   a5+4   
+64. C9.5   c5.9   65. C5.1   c9+3   66. K4.5   p8+1   
+67. E5-7   p8.7   68. E3+5   p7.6   69. C1.7   c9-2   
+70. C7.5   h3+4   71. C5.1   h4-6   72. C1.4   p6.5   
+73. A6+5   h6-8   74. C4+4   c9-3   75. C4.6   k4.5   
+76. H6+4   k5+1   77. H4-2   c9.6   78. K5.6   h8-6   
+79. C6+1   c6+2   80. H2+3   c6-1   81. C6.1   k5.4   
+82. H3-4   p5.4   83. H4-5   h6-7   84. H5+6   c6+3   
+85. E7+9   c6.4   86. K6.5   c4-1   87. C1-2   e7-9   
+88. C1.6   h7+6   89. E5+3   k4.5   90. A5+4   k5.6   
+91. C6.8   p4.5   92. C8-3   c4+4   93. H6-5   h6-5   
+94. H5-7   c4.3   95. H7+6   p5.6   96. A4-5   h5+4   
+97. C8+5   h4+2   98. C8.2   c3.2   99. K5.4   h2-4   
+100. H6+5   h4+3   101. K4.5   h3-2   102. H5-3   k6-1   
+103. H3-5   h2+1   104. C2.4   k6.5   105. H5-4   h1+3   
+106. K5.4   h3-4   107. C4.5   c2-2   108. H4-6   c2-5   
+109. K4.5   p3+1   110. C5-3   k5.4   111. C5.1   c2.5   
+112. K5.4   h4-6   113. H6+4   c5.6   114. C1+1   h6+4   
+115. K4.5   h4+3   116. K5.6   c6.4   117. H4-6   p3+1   
+118. C1-3   h3-4   119. K6.5   k4.5   120. H6+4   c4.6   
+121. C1.3   e9+7   122. E3-1   h4-6   123. C3.4   c6.5   
+124. A5+6   h6+8   125. K5.6   c5.4   126. C4.5   h8+6   
+127. H4+3   k5.4   128. C5.4   p3+1   129. H3+5   p3.4   
+130. K6.5   k4.5   131. K5.4   h6+8   132. C4.3   c4.1   
+133. E1+3   c1.7   134. E3-1   p4.5   135. K4.5   c7.5   
+136. E1+3   p5+1   137. K5.6   h8-7   138. C3.1   h7-5   
+139. E3-5   h5+3   140. C1.2   c5.1   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG Chuan(D)HONG Zhi,71
+TIME       ;
+RESULT     0.5-0.5
+RED        JIANG Chuan ; NT    ; China-Wenzhou
+BLACK      HONG Zhi ; IGM ; China-Jilin
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  P7+1   p7+1   2.  C2.3   e3+5   3.  H2+1   h8+7   
+4.  R1.2   r9.8   5.  H8+7   c8+4   6.  E7+5   c2.3   
+7.  A6+5   p3+1   8.  P7+1   c3+5   9.  C3.7   h2+1   
+10. C8+3   e5+3   11. C8.3   e3-5   12. C3+1   r1.3   
+13. C7.6   c8.5   14. C6+5   r8+9   15. H1-2   h7-5   
+16. H2+3   c5-1   17. H3+5   r3+6   18. H5+3   e5+7   
+19. R9.8   h1+3   20. C3.7   r3-3   21. C6-4   h5+6   
+22. R8+3   h6+7   23. P3+1   e7-5   24. C6-3   p5+1   
+25. R8.5   r3.5   26. C6+4   a6+5   27. R5.4   r5.4   
+28. C6.7   r4.2   29. R4.5   a5-6   30. C7.6   a4+5   
+31. C6-4   r2.7   32. C6+4   r7.5   33. C6-3   c5.6   
+34. A5+6   p5+1   35. R5.8   r5.3   36. P3+1   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Bin(D)LI ShaoGeng,107
+TIME       ;
+RESULT     0.5-0.5
+RED        WANG Bin ; IGM ; China-Jiangsu
+BLACK      LI ShaoGeng ; NT ; China-Henan
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  E3+5   c2.4   2.  P3+1   h2+3   3.  R9+1   r1.2   
+4.  H8+9   h8+7   5.  C8.7   r2+4   6.  P7+1   a6+5   
+7.  C2.3   e7+5   8.  C3+4   p3+1   9.  P7+1   r2.3   
+10. C7+5   r3-2   11. H2+3   r9.6   12. R1.2   c8-2   
+13. R9.7   r3.2   14. H9+7   r2.3   15. R2+1   r6+3   
+16. P3+1   r3+2   17. H7+5   r3+4   18. R2.7   p5+1   
+19. H5-3   c4+2   20. H++2   c8+3   21. R7+3   c4.7   
+22. H3+4   p9+1   23. A4+5   e5+3   24. R7.8   e3-5   
+25. P9+1   e3+1   26. R8.7   e1-3   27. R7.8   e3+1   
+28. R8.7   e1-3   29. R7.8   h7-6   30. C3+2   h6+8   
+31. H4-3   r6-2   32. C3+1   r6+1   33. C3-1   r6-1   
+34. C3+1   r6+1   35. C3-1   r6-1   36. C3+1   r6+1   
+37. C3-1   r6.7   38. R8+2   c7-1   39. C3-2   c8.2   
+40. H2+3   h8+7   41. H+-5   c2.4   42. A5+6   a5+6   
+43. A6+5   e3+1   44. E7+9   e1+3   45. E9-7   e3-1   
+46. E7+9   c4-2   47. H5+7   c4.7   48. H3-4   h7+6   
+49. H7-9   c7.9   50. H4+2   h6-4   51. H2+4   h4+5   
+52. H4+3   h5-6   53. H3+1   c9+5   54. H1-3   }END
+
+
+FORMAT 	WXF
+GAME 	ZHU Xiaohu(D)Ñî»Ô,50
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHU Xiaohu ; NT  ; China-Jiangsu
+BLACK      Ñî»Ô ; NT ; NA
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  C2.5   h8+7   2.  P3+1   r9.8   3.  H2+3   p3+1   
+4.  R1.2   h2+3   5.  H8+9   p1+1   6.  R9+1   p1+1   
+7.  P9+1   r1+5   8.  R9.6   p7+1   9.  P3+1   r1.7   
+10. C8.7   r7-1   11. H3+4   a4+5   12. H9+8   c2+2   
+13. C7.9   e3+5   14. C9+7   r7+1   15. H8+6   h3+4   
+16. H4+6   c2.4   17. R6+4   r7.1   18. C9.8   r1.2   
+19. C8.9   r2.1   20. C9.8   r1-5   21. C8-2   c8.9   
+22. R2+9   h7-8   23. C8.1   h8+9   24. C5+4   r1+3   
+25. C5-2   r1.5   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO Wei(D)XU GuoYi,52
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHAO Wei ; NT ; China-Shanghai
+BLACK      XU GuoYi ; NT  ; China-Guangdong
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  R2+6   p1+1   
+7.  P9+1   r1+5   8.  C8.7   h3+2   9.  H9-7   r1+4   
+10. H7-9   e7+5   11. H9+8   h2+3   12. H3+4   c8-1   
+13. C5+4   c8.5   14. R2+3   c5+2   15. H4+5   h7-8   
+16. H5-6   h8+6   17. C7.3   p7+1   18. P3+1   e5+7   
+19. C3.1   c2.9   20. C1+4   c9+4   21. E7+5   e7-5   
+22. C1.7   a6+5   23. A6+5   h6+7   24. C7-3   c9.3   
+25. H8+9   c3.4   26. H9+8   a5+6   }END
+
+
+FORMAT 	WXF
+GAME 	ZHUANG YuTing(L)XIE Jing,82
+TIME       ;
+RESULT     0-1
+RED        ZHUANG YuTing ; IGM ; China-Guangdong
+BLACK      XIE Jing ; GM ; China-Shanghai
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  E7+5   c2.5   2.  H8+7   h2+3   3.  H2+3   r1.2   
+4.  R9.8   p3+1   5.  C2.1   h8+9   6.  R1.2   c8.7   
+7.  P1+1   p7+1   8.  C8+4   r9.8   9.  R2+9   h9-8   
+10. C8.7   r2+9   11. H7-8   c7+4   12. C1+4   e3+1   
+13. H8+6   p5+1   14. H3-2   h8+7   15. C1-1   h3+5   
+16. H2+1   p7+1   17. E5+3   c7.6   18. H1+2   p5+1   
+19. H2+3   p5.4   20. H3+5   e7+5   21. C1.5   e1-3   
+22. H6+4   h7+6   23. H4+2   h6+5   24. H2+3   h+-6   
+25. A6+5   a6+5   26. H3+2   c6.1   27. H2+4   h5+7   
+28. P1+1   h7-6   29. C5-3   c1-1   30. E3+1   p4+1   
+31. C5+2   h+-4   32. C5.8   h6+5   33. C7.8   p4.3   
+34. H4-2   h5+4   35. H2-4   p-+1   36. C--3   p++1   
+37. C+.7   p-+1   38. C8+3   h-+5   39. H4-6   c1+4   
+40. C8+5   p++1   41. K5.6   p-+1   }END
+
+
+FORMAT 	WXF
+GAME 	SUN YongZheng(D)ZHANG XueChao,50
+TIME       ;
+RESULT     0.5-0.5
+RED        SUN YongZheng ; GM ; China
+BLACK      ZHANG XueChao ; NT  ; China-Xiamen
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  R2+6   p1+1   
+7.  P9+1   r1+5   8.  C8.7   h3+2   9.  H9-7   r1+4   
+10. H7-9   e7+5   11. H9+8   h2+3   12. H3+4   c8-1   
+13. C5+4   c8.5   14. R2+3   c5+2   15. H4+5   h7-8   
+16. H5-6   h8+6   17. C7.3   p7+1   18. P3+1   e5+7   
+19. C3.1   c2.9   20. C1+4   c9+4   21. C1.7   e7-5   
+22. C7-3   c9.3   23. E7+5   h6+4   24. A6+5   a6+5   
+25. H6+4   c3.2   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(D)WAN ChunLin,69
+TIME       ;
+RESULT     0.5-0.5
+RED        XU YinChuan ; GM    ; China-Guangdong
+BLACK      WAN ChunLin ; CM  ; China-Shanghai
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  E3+5   h2+3   2.  P7+1   p7+1   3.  H8+7   h8+7   
+4.  R9+1   r1+1   5.  R9.4   r9+1   6.  H2+3   r1.6   
+7.  R1+1   h7+8   8.  C2+5   c2.8   9.  H7+6   e3+5   
+10. H6+7   c8.7   11. C8.7   r6+7   12. R1.4   r9.4   
+13. A4+5   a4+5   14. R4+7   c7.6   15. P3+1   p7+1   
+16. E5+3   r4+3   17. E7+5   h3-2   18. R4.2   h2+1   
+19. R2-2   h1+3   20. C7+4   c6+4   21. P9+1   r4.7   
+22. R2.3   r7-1   23. C7.3   p5+1   24. C3.6   c6-2   
+25. E3-1   p9+1   26. H3+2   c6+1   27. P7+1   p9+1   
+28. H2+4   p9+1   29. E1+3   c6+1   30. H4+2   h8-6   
+31. P7+1   p9.8   32. P7.8   c6-1   33. C6.9   h6-4   
+34. P8.7   h4-2   35. P7.8   }END
+
+
+FORMAT 	WXF
+GAME 	PAN ZhenBo(D)LU WeiTao,50
+TIME       ;
+RESULT     0.5-0.5
+RED        PAN ZhenBo ; CM  ; China-Jilin
+BLACK      LU WeiTao ; NT  ; China
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  P7+1   c2.3   2.  C2.5   e7+5   3.  C5+4   a6+5   
+4.  E7+5   h2+1   5.  H2+3   r1.2   6.  H8+6   h8+7   
+7.  C5.9   p7+1   8.  R1.2   h7+6   9.  P9+1   r9.6   
+10. P3+1   h6+4   11. C8.6   h4+6   12. H6+4   p7+1   
+13. R2+5   p7+1   14. H3-1   h6-7   15. A4+5   r6+6   
+16. R9+3   r2+3   17. C6+1   r6.5   18. C6.3   r5.1   
+19. C9-3   r2+3   20. C9+4   r2.7   21. C9-2   c3.2   
+22. P7+1   p3+1   23. C9.3   r7-2   24. R2.3   e5+7   
+25. H4+5   e7-5   }END
+
+
+FORMAT 	WXF
+GAME 	LI HanLin(W)XU ChongFeng,73
+TIME       ;
+RESULT     1-0
+RED        LI HanLin ; NT ; China
+BLACK      XU ChongFeng ; NT ; China-Wenzhou
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  C2.5   h8+7   2.  P3+1   r9.8   3.  H2+3   c8.9   
+4.  P7+1   p3+1   5.  P7+1   r8+4   6.  P7+1   r8.3   
+7.  E7+9   r3-1   8.  H8+6   h2+3   9.  P5+1   r3+5   
+10. R1+1   e3+5   11. H3+5   h3+4   12. C5-1   r3-4   
+13. H5+7   c2.4   14. C5+1   a4+5   15. C8-1   r1.4   
+16. R9.8   r3.2   17. H6+8   h4+2   18. A6+5   p7+1   
+19. P3+1   e5+7   20. R1.4   c9+4   21. P5+1   e7-5   
+22. R4+2   c9-2   23. C5+4   h7+5   24. P5+1   c9+1   
+25. R4+1   c9.3   26. R4.7   c4.2   27. R8.7   r2.3   
+28. C8+3   c2+5   29. R++1   e5+3   30. R7+5   c2-1   
+31. R7-2   c2+3   32. R7+3   p1+1   33. P5.6   e7+5   
+34. C8.2   r4.2   35. A5+6   c2-5   36. C2+5   e5-7   
+37. P6+1   }END
+
+
+FORMAT 	WXF
+GAME 	Cheng JiJun(D)BU FengBo,52
+TIME       ;
+RESULT     0.5-0.5
+RED        Cheng JiJun ; NT ; China-Hangzhou
+BLACK      BU FengBo ; GM  ; China-Dalian
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P3+1   c8.9   
+4.  H8+7   p3+1   5.  C8+4   h2+3   6.  R1+1   e7+5   
+7.  R9+1   h3+2   8.  H3+4   h2+3   9.  H4+5   a6+5   
+10. H5+3   c2.7   11. R9.2   r8+8   12. R1.2   r1.2   
+13. C8.5   c7-2   14. R2+5   c9.7   15. R2+1   c++3   
+16. C-.1   k5.6   17. C5.1   k6.5   18. C++3   a5-6   
+19. E3+5   c++2   20. R2.4   a4+5   21. R4-5   c+-1   
+22. R4+4   p7+1   23. C-.3   h3-4   24. R4-1   h4+3   
+25. R4+1   h3-4   26. R4-1   h4+3   }END
+
+
+FORMAT 	WXF
+GAME 	LIU Ming(D)Áõ×Ó½¡,50
+TIME       ;
+RESULT     0.5-0.5
+RED        LIU Ming ; CM ; China-Ningxie
+BLACK      Áõ×Ó½¡ ; NT ; China-Nanjing
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  P3+1   p3+1   2.  H2+3   h2+3   3.  H8+9   e7+5   
+4.  E3+5   r1+1   5.  R9+1   r1.6   6.  R9.6   r6+3   
+7.  A4+5   h8+7   8.  R6+3   p7+1   9.  C2-2   a6+5   
+10. P9+1   p9+1   11. P3+1   r6.7   12. C2.3   h7+6   
+13. R6.8   c2+5   14. C3+5   c2.7   15. R8.4   c7.1   
+16. E7+9   e5+7   17. R4+1   e3+5   18. R1.2   c8.9   
+19. R2+3   r9.6   20. R4+4   a5-6   21. P5+1   a4+5   
+22. E9-7   c9-1   23. A5+4   c9+1   24. A6+5   c9-1   
+25. K5.6   c9+1   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Yang(W)CAI Yi,90
+TIME       ;
+RESULT     1-0
+RED        WANG Yang ; CM  ; China-Hubei
+BLACK      CAI Yi ; NT  ; China-HuoCheTou
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  R1.2   c2+4   6.  P5+1   c8+4   
+7.  P5+1   e3+5   8.  P5.6   h7+6   9.  A4+5   c2.3   
+10. H7+5   h6+4   11. R9.8   r1.2   12. C8+5   a4+5   
+13. R8+6   c3.7   14. P6+1   h4+6   15. P6.7   r8+3   
+16. P++1   h6+7   17. K5.4   r8.6   18. C5.4   c8.5   
+19. C4-1   c5-2   20. C8.5   c5-2   21. R8+3   a5-4   
+22. R8-7   c5.6   23. A5+4   c6+5   24. K4.5   c6.3   
+25. H3+5   c3-5   26. R2+1   r6+3   27. R2.3   c7.5   
+28. C4.7   c3.5   29. R3+4   c+-2   30. P7+1   r6.5   
+31. C7.5   c++4   32. A6+5   r5+2   33. K5.4   r5+1   
+34. K4+1   r5-1   35. K4-1   r5+1   36. K4+1   r5-3   
+37. E7+5   p5+1   38. R3+4   r5.6   39. K4.5   p5+1   
+40. R8+5   c5-1   41. R8.5   p5.4   42. R3-4   r6.1   
+43. R3.4   r1+2   44. K5-1   r1+1   45. K5+1   r1.7   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG LanTian(L)LI ZhiPing,52
+TIME       ;
+RESULT     0-1
+RED        ZHANG LanTian ; NT  ; China
+BLACK      LI ZhiPing ; CM ; China-Tianjin
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  P7+1   e3+5   2.  C8.6   p7+1   3.  H8+7   h2+3   
+4.  C2.4   h8+7   5.  H2+1   h7+8   6.  C6+3   c2+2   
+7.  R9.8   r1.2   8.  C4.5   r9+1   9.  P7+1   c2.4   
+10. R8+9   h3-2   11. P7.6   r9.4   12. C5+4   a4+5   
+13. H7+8   p3+1   14. P6.7   h2+3   15. C5-1   p7+1   
+16. P3+1   r4+4   17. H8+7   h3+5   18. R1+1   k5.4   
+19. H7+8   k4+1   20. H8-7   k4-1   21. H7+8   k4+1   
+22. A4+5   h5+3   23. P3+1   h8+9   24. R1.2   h9+7   
+25. R2+5   h3+2   26. R2.7   r4+4   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN HongAheng(D)HAO JiChao,53
+TIME       ;
+RESULT     0.5-0.5
+RED        CHEN HongAheng ; NT ; China-Xiamen
+BLACK      HAO JiChao ; NT  ; China-HeilongJiang
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   a4+5   
+7.  R9.6   e3+5   8.  P5+1   c2+4   9.  C5+1   c2-2   
+10. R2.3   c8+5   11. C5-1   c8.5   12. C8.5   r8+2   
+13. R6+5   r1.4   14. R6.7   r4.3   15. H7+5   h3-1   
+16. R7+3   h1-3   17. R3.4   h3+4   18. P3+1   c2-1   
+19. R4-2   p7+1   20. H5+3   r8+2   21. H++4   c2.6   
+22. R4+2   r8.6   23. R4.3   r6.7   24. R3-1   e5+7   
+25. H3+4   e7-5   26. H4+5   h7+5   27. C5+4   }END
+
+
+FORMAT 	WXF
+GAME 	NEI TieWen(D)ZHENG YiHong,47
+TIME       ;
+RESULT     0.5-0.5
+RED        NEI TieWen ; GM ; China-HeilongJiang
+BLACK      ZHENG YiHong ; IGM ; China-Xiamen
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  C2.5   h8+7   2.  H2+3   p3+1   3.  R1.2   r9.8   
+4.  P3+1   h2+3   5.  H8+9   p1+1   6.  C8+4   e7+5   
+7.  C8.7   r1+3   8.  R9.8   r1.3   9.  R8+7   c8.9   
+10. R2+9   h7-8   11. R8+1   a4+5   12. R8-7   h8+6   
+13. R8.2   p5+1   14. R2.4   h6+8   15. C5+3   p3+1   
+16. P7+1   r3+2   17. R4.7   r3+3   18. H9-7   p7+1   
+19. E3+5   p7+1   20. E5+3   h8+9   21. E3-5   h9-7   
+22. C5-1   c9.7   23. C5.3   c7+3   24. E5+3   }END
+
+
+FORMAT 	WXF
+GAME 	SU ShaoFeng(D)WANG YueFei,167
+TIME       ;
+RESULT     0.5-0.5
+RED        SU ShaoFeng ; NT ; China-Neimenggu
+BLACK      WANG YueFei ; GM ; China-Yunnan
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  H8+7   p3+1   2.  P3+1   h2+3   3.  H2+3   h8+9   
+4.  R1+1   r9+1   5.  E7+5   e3+5   6.  R1.6   r9.6   
+7.  R6+3   a4+5   8.  A6+5   r6+5   9.  P7+1   r6.7   
+10. H7-6   p3+1   11. R6.7   r1.4   12. C8.6   c2-2   
+13. R9.8   c2.3   14. R7.8   r7.9   15. R-+3   r9-2   
+16. P5+1   r9.3   17. H3+5   c8+3   18. C6.7   h3+4   
+19. H5+7   c8.5   20. C7+3   c5.2   21. C7.8   c3.2   
+22. H6+7   c+.7   23. H++8   c2+4   24. R8+2   h4-2   
+25. R8+1   c7.8   26. R8.5   c8-2   27. R5-1   r4+6   
+28. P9+1   h9-7   29. C2.4   r4.8   30. R5.4   r8.3   
+31. R4.5   r3.8   32. R5.4   r8.3   33. R4.5   r3.8   
+34. R5.4   r8.3   35. R4.5   r3.7   36. H7+5   r7-2   
+37. R5-1   h7+6   38. R5.2   c8+1   39. H5+7   h6-4   
+40. C4+4   p9+1   41. R2.6   h4+3   42. R6+2   c8+1   
+43. R6.8   p9+1   44. C4.9   h3-1   45. R8.9   e5+3   
+46. R9.5   c8.1   47. H7+5   r7.6   48. R5.3   r6.5   
+49. R3-2   c1-3   50. R3.1   r5.4   51. R1.9   c1.5   
+52. R9+5   a5-4   53. R9-6   c5.8   54. R9.2   c8.7   
+55. R2.3   c7.8   56. R3+6   a4+5   57. R3-2   c8+1   
+58. R3-1   c8+3   59. R3-3   c8-3   60. R3+3   c8+3   
+61. R3-3   c8-3   62. R3+3   c8+3   63. R3-3   c8-3   
+64. R3.2   c8.5   65. R2.5   c5.8   66. R5.2   c8.5   
+67. R2.5   c5.8   68. R5+3   c8+3   69. R5-3   c8-3   
+70. A5-6   c8+6   71. R5.2   c8.9   72. R2.1   c9.8   
+73. R1.2   c8.9   74. R2-3   c9-6   75. R2+6   c9+6   
+76. R2-6   c9-6   77. A4+5   k5.4   78. R2+6   c9+6   
+79. R2-6   c9-6   80. R2+6   c9+6   81. E3+1   r4+2   
+82. R2-4   r4.7   83. R2.4   r7.8   84. R4+3   }END
+
+
+FORMAT 	WXF
+GAME 	ZHENG Weitong(D)CHENG Ming,116
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHENG Weitong ; NT  ; China
+BLACK      CHENG Ming ; NT ; China-Jiangsu
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  P7+1   e3+5   2.  H8+7   p7+1   3.  C8.9   h2+3   
+4.  R9.8   r1.2   5.  C2.6   h8+7   6.  H2+3   h7+8   
+7.  R8+6   r9+1   8.  H7+6   r9.2   9.  H6+7   c2.1   
+10. R8+2   r2+1   11. H7+9   r2+1   12. E3+5   r2.1   
+13. A4+5   r1.2   14. C9+4   r2+1   15. C9-1   r2+1   
+16. P9+1   a4+5   17. C6+1   h3+4   18. C9.6   r2.4   
+19. C6-1   h8+7   20. R1.2   c8.6   21. R2+6   r4.5   
+22. R2.1   h7-6   23. R1.4   h6+5   24. H3+4   p7+1   
+25. R4.5   r5.9   26. H4+3   r9+2   27. R5.8   a5-4   
+28. H3-5   a6+5   29. R8.4   c6.8   30. R4.2   r9-2   
+31. H5-3   h5-7   32. R2+1   h7-5   33. R2-4   r9.6   
+34. R2.5   h5+6   35. A5+4   h6-7   36. A6+5   r6+2   
+37. R5+2   r6.1   38. C6+2   h7+8   39. P9+1   r1.4   
+40. C6+1   h8+7   41. K5.4   h7-6   42. R5.2   h6-7   
+43. C6.8   a5+6   44. E5+3   a4+5   45. C8+4   r4.3   
+46. E7+5   r3.1   47. P9.8   r1+3   48. K4+1   h7+5   
+49. R2-2   r1.7   50. A5+6   r7-1   51. K4-1   r7-2   
+52. R2+3   h5+4   53. R2.4   h4-5   54. R4-2   h5+3   
+55. A4-5   r7.8   56. K4.5   h3+1   57. R4.6   h1+3   
+58. R6-3   h3-4   }END
+
+
+FORMAT 	WXF
+GAME 	WU JunQiang(W)XU Chao,182
+TIME       ;
+RESULT     1-0
+RED        WU JunQiang ; NT  ; China-Yunnan
+BLACK      XU Chao ; CM ; China-Nanjing
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  C2+4   p7+1   5.  P7+1   e3+5   6.  H8+7   h2+1   
+7.  C8.9   c2.3   8.  R9.8   a4+5   9.  P9+1   h7+6   
+10. P9+1   p1+1   11. C2-1   h6-7   12. C2.9   r1.2   
+13. R8+9   h1-2   14. R2+9   h7-8   15. H7+8   h8+7   
+16. H8+7   c4+4   17. C-+1   h2+4   18. H7-6   c3.2   
+19. C+.8   c4+1   20. H3-2   c4-1   21. H2+4   c2.1   
+22. C9+3   c1-2   23. P7+1   e5+3   24. C8.3   h7+8   
+25. C3+3   a5-4   26. P3+1   p9+1   27. P3+1   h8+9   
+28. H4+2   c4.1   29. C9-1   c-+1   30. C3-1   h4+2   
+31. C9.8   c-.5   32. H2-4   c1-4   33. H6+5   c1.7   
+34. H5+3   c5.4   35. P3.4   h9+7   36. P5+1   p9+1   
+37. H3-5   e3-5   38. H4+3   p9.8   39. H5-4   h7+9   
+40. H3-1   p8.9   41. C8-4   c4.6   42. H4+2   h2+3   
+43. P5+1   h3+2   44. C8.6   h9-7   45. H1+3   p9.8   
+46. H2+4   c6.4   47. H4+3   k5+1   48. H-+2   h2+3   
+49. H2+4   k5.6   50. H4+2   k6.5   51. A4+5   c4.2   
+52. H2-4   k5.6   53. H4+2   k6.5   54. A5+4   c2+7   
+55. K5+1   c2.4   56. K5.6   h3-4   57. A6+5   h7-6   
+58. K6-1   p8+1   59. H3-4   k5.4   60. E5+3   a4+5   
+61. H2-1   p8.7   62. H1+3   a5+4   63. H3+4   a6+5   
+64. H-+2   e7+9   65. H4-3   e5-7   66. H2+4   h6+7   
+67. P5+1   h7-9   68. E3-1   h9-8   69. P5.6   h8-7   
+70. E7+5   p7.6   71. E1+3   p6.5   72. P4.5   e9+7   
+73. P5.6   p5.6   74. P-.5   e7+9   75. P5.4   p6.5   
+76. E5-3   h4-2   77. P4.5   h2+3   78. K6.5   h3-4   
+79. P5.6   h4+2   80. K5.4   h2-1   81. P-.7   h1+2   
+82. P7+1   h2-3   83. E3+5   h3+5   84. K4.5   h5-3   
+85. E5+7   h3+5   86. H3-5   h5-3   87. P7+1   h3-1   
+88. P7+1   k4-1   89. H5+6   h7+6   90. P6.7   h6-5   
+91. A5+6   h5+7   }END
+
+
+FORMAT 	WXF
+GAME 	WANG TianYi(D)JIN Bo,160
+TIME       ;
+RESULT     0.5-0.5
+RED        WANG TianYi ; NT  ; China
+BLACK      JIN Bo ; GM ; China-HuoCheTou
+DATE       2014-11-19
+PLACE      
+EVENT      2014 China Xiangqi League ; 2014
+ROUND      µÚ 26 ÂÖ
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  A6+5   h8+7   
+4.  H2+3   r9.8   5.  P3+1   c8.9   6.  C8.6   a4+5   
+7.  H8+7   h2+1   8.  R9.8   r1.2   9.  R8+9   h1-2   
+10. H7+6   p7+1   11. P3+1   e5+7   12. R1+1   e7-5   
+13. A5-6   r8+4   14. R1.8   h2+1   15. R8+6   c3-2   
+16. E7+9   r8.7   17. R8.9   h7+6   18. H6+5   r7+3   
+19. C6.3   c9.1   20. H5-4   c1+4   21. C3.4   h6+4   
+22. C5.8   c1.2   23. E3+5   p3+1   24. H4+6   c3+1   
+25. P7+1   e5+3   26. P1+1   a5+6   27. H6+4   a6+5   
+28. H4-5   e3-5   29. H5+6   c3.4   30. E9-7   h4+6   
+31. C4.2   h6-7   32. C2+7   e7+9   33. H6-4   a5+4   
+34. C8-1   c4.6   35. H4-6   c2-5   36. C8.3   c2.5   
+37. H6-7   c6.8   38. A4+5   p1+1   39. C3.1   c5.3   
+40. H7+8   c3-1   41. C2.7   e5-3   42. H8+6   c8.6   
+43. A5+6   e9-7   44. E5+3   e3+5   45. E7+5   c6.9   
+46. H6+4   a4-5   47. H4-2   a5-6   48. C1+5   c9.5   
+49. A6+5   c5+5   50. C1.4   c5-1   51. E3-1   p1+1   
+52. H2-3   c5-1   53. E1+3   h7-5   54. P1+1   h5+3   
+55. P1.2   a6-5   56. P2.3   p1.2   57. P3.4   c5-1   
+58. P4.5   c5.1   59. P5.6   h3+4   60. H3+5   h4-6   
+61. C4.2   p2+1   62. A5+4   a5+6   63. C2-2   h6-7   
+64. C2-3   a6+5   65. H5+6   c1+2   66. H6+7   k5.6   
+67. A4-5   c1.6   68. C2+4   e5+7   69. P6.5   h7-5   
+70. H7-9   c6.2   71. C2+4   e7+9   72. P5+1   c2-3   
+73. P5+1   e7-5   74. H9-8   k6.5   75. H8+6   c2.4   
+76. H6-5   c4-2   77. C2-6   e9-7   78. A5+4   a5-6   
+79. H5-3   a6-5   80. C2.8   c4+1   }END
+

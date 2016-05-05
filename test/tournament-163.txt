@@ -1,0 +1,2831 @@
+
+
+FORMAT 	WXF
+GAME 	CHIANG ChungHao(W)TAN Wei TaT,71
+TIME       ;
+RESULT     1-0
+RED        CHIANG ChungHao ; NT ; China-Taipei
+BLACK      TAN Wei TaT ; NT ; Malaysia East
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T02
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p3+1   
+4.  H8+9   h2+3   5.  R2+4   c8.9   6.  R2+5   h7-8   
+7.  C8.7   h8+7   8.  R9.8   h3+4   9.  A6+5   c2.5   
+10. R8+4   p3+1   11. R8.7   r1.2   12. R7.6   c5.3   
+13. C7+5   h4-3   14. P3+1   r2+4   15. H3+4   p7+1   
+16. H4+3   c9.8   17. P5+1   a4+5   18. P5+1   p7+1   
+19. R6.3   p5+1   20. R3.2   c8.9   21. R2+3   h3+5   
+22. H3-4   h5+7   23. R2.3   p5+1   24. H4+2   c9.8   
+25. C5.3   e7+5   26. H2-3   c8+3   27. C3+3   c8.7   
+28. R3.2   r2.7   29. H3+5   r7.5   30. H5-6   c7+1   
+31. H6+7   r5.4   32. R2-4   c7-2   33. R2+3   p1+1   
+34. R2.1   e5+3   35. R1.5   c7-2   36. R5-1   }END
+
+
+FORMAT 	WXF
+GAME 	Nguyen Thanh Bao(W)MINARTA Ifan,69
+TIME       ;
+RESULT     1-0
+RED        Nguyen Thanh Bao ; NT ; Vietnam
+BLACK      MINARTA Ifan ; IM ; Indonesia
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T03
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  C8+2   c2-1   6.  H8+7   c8+2   
+7.  R2+4   p3+1   8.  P7+1   c8.3   9.  R2.6   e3+5   
+10. R6+4   c2.1   11. R9.8   a4+5   12. H7+6   r1.4   
+13. R6+1   a5-4   14. C5.7   c1.2   15. H6+8   h3+2   
+16. C8+4   c3.5   17. A6+5   h2+4   18. C8+1   e5-3   
+19. C7.6   h4+6   20. R8+4   r8+6   21. E7+5   r8.7   
+22. R8.6   a6+5   23. K5.6   c5.2   24. C6.9   c2-2   
+25. R6.7   e7+5   26. R7+3   c2-1   27. R7.5   r7-1   
+28. A5+4   r7.4   29. K6.5   r4-3   30. R5.6   a5+4   
+31. H3+4   c2.4   32. C9+4   h7+6   33. C9+3   p7+1   
+34. C9.7   k5+1   35. C7-1   }END
+
+
+FORMAT 	WXF
+GAME 	HE ZhiMing(D)NG JunMing,38
+TIME       ;
+RESULT     0.5-0.5
+RED        HE ZhiMing ; NT  ; Italy
+BLACK      NG JunMing ; NT ; Singapore
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T04
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  C5+4   a4+5   
+4.  E7+5   h8+7   5.  C5-1   h2+4   6.  H2+3   r1.2   
+7.  H8+6   r9.8   8.  R9.8   p7+1   9.  R1+1   c8+6   
+10. C8+4   h7+5   11. P5+1   p3+1   12. H3+5   p3+1   
+13. H5+7   h5+3   14. H6+4   c8-3   15. R1.6   r8+3   
+16. R6+7   r8.2   17. R8+6   r2+3   18. R6-3   r2.5   
+19. C5.7   c8.3   }END
+
+
+FORMAT 	WXF
+GAME 	CHIU Yu Kuen(D)LOOK Kean Chor,58
+TIME       ;
+RESULT     0.5-0.5
+RED        CHIU Yu Kuen ; IM ; China-Hong Kong
+BLACK      LOOK Kean Chor ; ICM ; Mailaysia West
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T06
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  P3+1   h8+7   
+4.  H3+4   e7+5   5.  R1.2   c2.1   6.  H8+7   r1.2   
+7.  R9.8   r2+5   8.  H4+5   h3+5   9.  C5+4   a6+5   
+10. C8.9   r2.7   11. C5-2   r9.8   12. R2+9   h7-8   
+13. E7+5   r7.6   14. A6+5   c6+1   15. R8+5   h8+6   
+16. P7+1   h6+8   17. C5+2   h8+7   18. C5.3   c6-1   
+19. C3.9   c6.7   20. E3+1   h7+8   21. C--1   c7+5   
+22. R8.2   r6+1   23. E5-3   c7.8   24. R2.6   h8-7   
+25. C+-1   c8-3   26. R6+1   c8+2   27. K5.6   c1.4   
+28. C-.6   c4+6   29. K6+1   c8.5   }END
+
+
+FORMAT 	WXF
+GAME 	LEE Michuel(L)NGUYEN Vu Quan,46
+TIME       ;
+RESULT     0-1
+RED        LEE Michuel ; NT ; USA-San Francisco
+BLACK      NGUYEN Vu Quan ; NT ; Vietnam
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T05
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1+1   h8+7   
+4.  R1.4   r9.8   5.  H8+7   a4+5   6.  P5+1   p3+1   
+7.  P5+1   c6.5   8.  H7+5   p5+1   9.  R4+5   h7+5   
+10. R4.3   p5+1   11. H5+3   c2+1   12. H++4   c2.6   
+13. R3.4   r1.2   14. R9+2   h3+4   15. R4.5   h4+3   
+16. R9-1   r2+7   17. R5.7   h3+5   18. E7+5   p5+1   
+19. R7+3   a5-4   20. H3+5   r2-1   21. R9.6   a6+5   
+22. R7-4   r2.5   23. A6+5   r5.7   }END
+
+
+FORMAT 	WXF
+GAME 	LEONG SioMan(D)ZHENG ZhengMing,196
+TIME       ;
+RESULT     0.5-0.5
+RED        LEONG SioMan ; NT ; China-Macau
+BLACK      ZHENG ZhengMing ; NT  ; Canada-Toronto
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T07
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  H8+7   p3+1   5.  R9+1   c8+4   6.  R9.6   e3+5   
+7.  P5+1   a4+5   8.  C5+1   c8+1   9.  C5-1   c8-1   
+10. C5+1   c8+1   11. C5-1   c8-1   12. C5+1   c8-2   
+13. E3+5   p7+1   14. C8.9   h3+2   15. R6+2   c2.3   
+16. H7-5   c8+4   17. H5-3   r1.4   18. R6+6   k5.4   
+19. H-+4   h2+3   20. C9.7   c3.2   21. C5.6   c8-1   
+22. H4-3   c8+1   23. H-+4   c8.7   24. R2+9   h7-8   
+25. P3+1   p7+1   26. H4+3   c7-3   27. E5+3   h8+7   
+28. H3+4   k4.5   29. H4+3   c2+1   30. C7.3   p3+1   
+31. H3-4   h7+8   32. H4+5   h8+9   33. C6.2   h3-5   
+34. A6+5   h9-8   35. C3.9   h5-3   36. H5+7   c2-1   
+37. H7-6   p3.4   38. C9.2   h8-7   39. C-.3   p4+1   
+40. C2.3   h7-9   41. C-.5   p9+1   42. C5+3   p9+1   
+43. C5.7   e5+3   44. H6+4   e7+5   45. E3-5   h9+8   
+46. C3+3   p1+1   47. H4-5   a5+4   48. C3.5   k5.4   
+49. C5.6   a4-5   50. C6-1   c2+7   51. E7+9   k4.5   
+52. H5+6   c2.1   53. H6+7   k5.4   54. H7-8   h8+6   
+55. H8-7   p4.3   56. H7+5   h6+5   57. C6-1   c1-3   
+58. H5+6   h5-4   59. H6-8   h4-6   60. H8-6   h6-4   
+61. C6+3   a5+4   62. H6-7   a4-5   63. A5-6   a5+6   
+64. A4+5   a6+5   65. E9-7   c1.2   66. H7+5   p1+1   
+67. K5.4   c2-6   68. H5-6   p1.2   69. H6+5   p2+1   
+70. K4.5   k4+1   71. H5+6   p9.8   72. H6-4   p8+1   
+73. H4-5   p8.7   74. H5+3   c2.6   75. H3+5   c6.3   
+76. K5.4   p7+1   77. H5+3   k4-1   78. H3-5   c3+1   
+79. H5-3   a5-6   80. H3-5   c3.6   81. K4.5   p7+1   
+82. H5+3   p7.6   83. A5+4   e5+7   84. A6+5   p2.3   
+85. H3-2   p6.7   86. H2+3   c6.5   87. K5.4   p3+1   
+88. H3+1   p3+1   89. H1-2   p7.8   90. E7+9   p3.4   
+91. E9+7   k4.5   92. K4.5   c5.7   93. A5+6   a6+5   
+94. A4-5   k5.6   95. K5.4   a5+4   96. K4.5   a6-5   
+97. A5+4   a5-4   98. A6-5   p8.7   }END
+
+
+FORMAT 	WXF
+GAME 	JI ZhongQi(L)WU Kui Lin,62
+TIME       ;
+RESULT     0-1
+RED        JI ZhongQi ; NT ; USA-New York
+BLACK      WU Kui Lin ; IGM ; China-Taipei
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T08
+START{
+1.  C2.5   h2+3   2.  H2+3   r9+1   3.  R1.2   h8+9   
+4.  P7+1   c8.6   5.  P3+1   r9.4   6.  C5.4   r4+7   
+7.  H8+7   p9+1   8.  A4+5   a4+5   9.  E3+5   e3+5   
+10. C4-1   r4-4   11. H3+4   r4.5   12. C8-1   p3+1   
+13. P7+1   r5.3   14. R9+2   c6+6   15. C8.4   r1.4   
+16. R2+8   c2-1   17. R2-1   c2+2   18. A5-4   h3+2   
+19. H4+5   r3.6   20. R2-6   r4+3   21. H5+3   r6-2   
+22. P3+1   r6.7   23. P3.4   p7+1   24. P5+1   h2+3   
+25. R9.8   h3-5   26. H7+5   r7+1   27. H5+7   h5-3   
+28. R8+3   r4+3   29. P4.5   p7+1   30. C4.9   c2.3   
+31. H7-8   r4-1   }END
+
+
+FORMAT 	WXF
+GAME 	JIRAPARKDEEPAN Vithaya(L)WONG Chi Keung,60
+TIME       ;
+RESULT     0-1
+RED        JIRAPARKDEEPAN Vithaya ; FM ; Thailand
+BLACK      WONG Chi Keung ; IM ; China-Hong Kong
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T09
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. H3+5   r8+8   11. H5+6   r8.2   12. C8.6   e3+5   
+13. H6+7   r1.3   14. H7-5   p7+1   15. R4+2   c2-1   
+16. C6+6   h7+5   17. P5+1   c7+8   18. A4+5   r3+2   
+19. P5.6   c2+8   20. R9+2   c7-2   21. K5.4   k5.4   
+22. R9.6   e5+7   23. C5+4   r2.5   24. P6.7   r3.4   
+25. R6+5   a5+4   26. R4+1   k4+1   27. P++1   r5-5   
+28. P+.6   k4.5   29. R4-1   k5-1   30. P6+1   c2-9   }END
+
+
+FORMAT 	WXF
+GAME 	TAN Henry(L)LU GuoLong,90
+TIME       ;
+RESULT     0-1
+RED        TAN Henry ; NT  ; Indonesia
+BLACK      LU GuoLong ; NT ; Singapore
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T10
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1+1   r9.8   
+4.  H8+7   h2+3   5.  R1.6   r8+4   6.  R6+5   c2+2   
+7.  C8+2   c2.7   8.  C8.3   c7+2   9.  E3+1   p3+1   
+10. R9.8   r1+2   11. R8+8   a6+5   12. R6.7   p1+1   
+13. P7+1   c5.6   14. R7-1   p7+1   15. C3+3   c7-4   
+16. H3+4   r8+5   17. H4+5   e7+5   18. R7+1   c7-1   
+19. R8-4   c7.6   20. A6+5   r8-2   21. H5-6   r8.9   
+22. P7+1   h3-1   23. R7.2   r9.7   24. P7+1   c++6   
+25. R2+3   a5-6   26. R2-8   c+.7   27. A5+4   c7+1   
+28. A4+5   r7-1   29. H6+4   r7.9   30. R2+7   c6.7   
+31. H4+6   a4+5   32. H7+6   r9+3   33. H-+4   c+-1   
+34. A5-4   c++1   35. A4+5   c+-1   36. A5-4   c++1   
+37. A4+5   r1+1   38. R8.7   c+-1   39. A5-4   c++1   
+40. A4+5   c+-1   41. A5-4   c++1   42. A4+5   p1+1   
+43. P9+1   c+-1   44. A5-4   c++1   45. K5+1   r9-1   }END
+
+
+FORMAT 	WXF
+GAME 	TO Hung Tu(L)TAN ZhenBang,90
+TIME       ;
+RESULT     0-1
+RED        TO Hung Tu ; NT ; Australia
+BLACK      TAN ZhenBang ; NT ; USA-New York
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T11
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P3+1   p3+1   5.  C8.6   r1.2   6.  H8+7   c2.1   
+7.  R9+2   e7+5   8.  R9.8   r2+7   9.  C6.8   c6+5   
+10. C5+4   h3+5   11. C8.4   a6+5   12. R2+3   r9.6   
+13. A4+5   p7+1   14. E3+5   c1.3   15. P5+1   p7+1   
+16. P5+1   h5+7   17. H7+5   p7.6   18. R2+1   p6.5   
+19. H5+3   r6+6   20. R2+2   r6.7   21. P5.4   p5.6   
+22. P4.3   p6.7   23. R2.7   c3.4   24. P3+1   h7-8   
+25. H3-4   p7.6   26. P3.2   p9+1   27. R7.3   r7.3   
+28. R3.4   p6.5   29. R4.9   r3.9   30. C4+3   r9.6   
+31. C4.6   h8+9   32. P2.1   h9-7   33. R9.3   h7+6   
+34. C6.5   k5.6   35. H4+3   c4+1   36. C5+1   p9+1   
+37. P1+1   r6-2   38. P1.2   r6.5   39. R3.1   e5-7   
+40. R1.3   e3+5   41. C5+2   r5.6   42. C5.4   k6+1   
+43. R3+3   h6-8   44. R3-1   k6-1   45. R3-1   h8+7   }END
+
+
+FORMAT 	WXF
+GAME 	XU HaoHua(D)DANG Thanh Trung,81
+TIME       ;
+RESULT     0.5-0.5
+RED        XU HaoHua ; NT   ; China-Macau
+BLACK      DANG Thanh Trung ; FM  ; France
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T12
+START{
+1.  C8.6   c8.5   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  P3+1   r8+6   5.  H8+7   r8.7   6.  E7+5   r1+1   
+7.  R9.8   r1.4   8.  A6+5   h2+3   9.  P7+1   r4+5   
+10. C2+6   p5+1   11. C2.7   p5+1   12. P5+1   h7+5   
+13. C7-2   h5+6   14. R2+5   e3+1   15. R2.4   h6+7   
+16. C6.3   r7+1   17. P5+1   c2+4   18. P1+1   r4-3   
+19. C7.3   c2.7   20. C3-3   r7-1   21. P9+1   a4+5   
+22. H7+8   c5.9   23. P7+1   e1+3   24. P5.6   r4.2   
+25. P6.7   c9+3   26. P7+1   r2+2   27. R8+4   c9.2   
+28. P7+1   r7.3   29. R4.8   c2.5   30. K5.6   r3.4   
+31. K6.5   e7+5   32. R8+4   a5-4   33. R8-5   c5+1   
+34. R8+2   r4.1   35. K5.6   r1-1   36. R8.6   a4+5   
+37. P7+1   p9+1   38. P7.6   p9+1   39. P3+1   e5+7   
+40. P6+1   a5-4   41. R6.5   }END
+
+
+FORMAT 	WXF
+GAME 	VITTAYA P.B.(D)ZOU JingHua,150
+TIME       ;
+RESULT     0.5-0.5
+RED        VITTAYA P.B. ; NT ; Thailand
+BLACK      ZOU JingHua ; NT ; China-Macau
+DATE       10/19/2007
+PLACE      Macau
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T13
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  P7+1   r9.8   
+4.  H8+7   h2+3   5.  R1+1   e3+5   6.  C8.9   c2+4   
+7.  R9.8   c2.7   8.  E3+1   a4+5   9.  R1.4   p7+1   
+10. R8+7   r1.3   11. E1+3   c8+7   12. A4+5   c8.9   
+13. R4.1   r8+9   14. A5-4   r8-4   15. R1-1   r8.7   
+16. P5+1   c7.8   17. R1.2   r7+1   18. C5-1   h7+6   
+19. H3-1   c8-1   20. R2+3   r7.8   21. H1+2   c8-3   
+22. R8-4   r3.4   23. C5.9   h6-4   24. C++4   h3+1   
+25. C9+5   h4+5   26. A4+5   p5+1   27. H2+4   p3+1   
+28. H7+5   p3+1   29. H5+7   h5-3   30. C9-1   p5+1   
+31. H4+3   p5.4   32. R8.2   c8.6   33. H7-8   r4.2   
+34. H8-9   c6+1   35. R2.4   c6.1   36. K5.4   r2+3   
+37. H3-5   p4.5   38. H9+7   r2.5   39. H5-7   p5.4   
+40. H+-6   r5.2   41. E7+5   c1-1   42. E5+7   c1.3   
+43. H7+8   p4.3   44. H8+7   e5+3   45. R4+2   e7+5   
+46. H6+5   r2.5   47. H5+4   a5+6   48. H4-2   r5+3   
+49. C9+1   a6+5   50. C9.2   c3.2   51. C2.8   r5.1   
+52. H2+1   c2-1   53. P1+1   r1.7   54. R4+1   p3+1   
+55. R4.1   e5-7   56. H1-3   c2.4   57. H3-5   r7+3   
+58. K4+1   c4+7   59. A5+4   r7-1   60. K4-1   r7-4   
+61. C8-1   r7+5   62. K4+1   r7-1   63. K4-1   r7-1   
+64. K4.5   e3-5   65. R1.6   p3+1   66. H5-7   r7+2   
+67. K5+1   c4.2   68. H7-9   r7-1   69. K5-1   c2+1   
+70. A6+5   p3+1   71. C8.5   r7+1   72. A5-4   r7-3   
+73. K5.6   k5.6   74. C5.4   k6.5   75. C4.5   k5.6   }END
+
+
+FORMAT 	WXF
+GAME 	WOO WeiCheung(W)YANG Xiao Lin,141
+TIME       ;
+RESULT     1-0
+RED        WOO WeiCheung ; FM ; France
+BLACK      YANG Xiao Lin ; NT ; Canada-Vancouver
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T14
+START{
+1.  P3+1   h2+3   2.  H2+3   p3+1   3.  E3+5   h8+9   
+4.  H8+9   e3+5   5.  R9+1   c2.1   6.  R9.4   a4+5   
+7.  P9+1   r1.2   8.  C8.7   c1+3   9.  R4+3   p1+1   
+10. P1+1   c8.6   11. R1.2   r9.8   12. C2+5   r2+4   
+13. A6+5   p9+1   14. P1+1   p3+1   15. R4.7   r2.9   
+16. R7.8   r9.8   17. R2+5   h9+8   18. C7+5   r8+2   
+19. C7-1   h8-9   20. R8+5   a5-4   21. R8-4   r8+2   
+22. R8.2   h9+8   23. C7.3   c1+1   24. P7+1   c6+4   
+25. P7+1   c6.7   26. P3+1   e5+7   27. C3.4   e7-9   
+28. C4-1   p1+1   29. P5+1   c1.6   30. H9-8   c7-4   
+31. H3+2   c6+2   32. A5+6   c7.5   33. A4+5   c5+3   
+34. H8+7   c6-3   35. H2-1   p1.2   36. H7+9   p2.1   
+37. H9-8   p1.2   38. H8+7   c5.4   39. P7.6   c4+1   
+40. H7+8   c4.9   41. H8+7   h8-7   42. C4+1   c6.8   
+43. H1+3   c8+4   44. A5+4   a6+5   45. C4.3   c8-8   
+46. H3+1   e7+5   47. H1+2   c8.6   48. C3-5   c9-3   
+49. E5+3   h7+8   50. H2+3   c9+1   51. C3.9   p2.1   
+52. C9.5   e9+7   53. H7-5   k5.6   54. H3-4   h8-7   
+55. H5+7   c6+1   56. H7+9   c9-3   57. H9-8   p1+1   
+58. P6.5   c9.6   59. H4-6   c++3   60. E7+5   e5+3   
+61. P5+1   c+.2   62. P5.4   e7-9   63. P4.3   h7+9   
+64. P3.2   h9+8   65. H6+7   h8+7   66. H7-5   e3-5   
+67. H5+3   c6.7   68. P2+1   k6+1   69. P2+1   c7-1   
+70. P2.3   k6+1   71. C5.4   }END
+
+
+FORMAT 	WXF
+GAME 	CHONG Heung Ming(W)YAN Dot San,107
+TIME       ;
+RESULT     1-0
+RED        CHONG Heung Ming ; NT ; Philippines
+BLACK      YAN Dot San ; FM ; USA-San Francisco
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T15
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   p7+1   5.  H8+7   e3+5   6.  R9.8   r1.2   
+7.  P7+1   h7+6   8.  R2+6   a4+5   9.  R2.4   h6+7   
+10. H7+6   r9.8   11. H6+5   h3+5   12. C5+4   r2.4   
+13. C5.6   r4.3   14. R8+5   h7-8   15. R4.3   h8-9   
+16. R3.4   p7+1   17. R8.3   p9+1   18. R3-1   r8+4   
+19. A4+5   p3+1   20. P7+1   r3+4   21. E3+5   r3-1   
+22. R3.7   r3+2   23. E5+7   r8.3   24. E7-5   r3-1   
+25. C+.5   h9+8   26. R4.3   e7+9   27. P5+1   c2+1   
+28. P5+1   r3+1   29. C5.9   c6+1   30. P5+1   r3.1   
+31. R3.2   h8+7   32. R2-3   r1.7   33. P5.4   c2+6   
+34. H3-4   c2-3   35. R2+1   c2.9   36. H4+3   c9.1   
+37. R2.3   r7+1   38. E5+3   h7-5   39. P4.3   c1-2   
+40. C6+3   p9+1   41. E3-5   e9-7   42. C6.8   h5-3   
+43. H3+5   p9+1   44. H5+7   c1+1   45. C9-1   h3-4   
+46. P3.4   c1.2   47. C8+4   a5+6   48. H7+6   c2-4   
+49. P4+1   c2.1   50. P4+1   k5.4   51. A5+6   e5+7   
+52. H6+8   h4-6   53. H8+7   k4+1   54. C8-8   }END
+
+
+FORMAT 	WXF
+GAME 	IWAN SETIAWAN(L)YE RongGuang,56
+TIME       ;
+RESULT     0-1
+RED        IWAN SETIAWAN ; NT   ; Indonesia
+BLACK      YE RongGuang ; NT ; Holland
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T16
+START{
+1.  C2.5   c8.5   2.  H2+3   r9+1   3.  R1.2   h8+7   
+4.  H8+7   p3+1   5.  R2+4   r9.4   6.  P7+1   r4+3   
+7.  R2.6   h2+3   8.  R6+1   h3+4   9.  P7+1   h4+3   
+10. C5-1   e3+1   11. C8+4   r1.3   12. C8.7   c2+5   
+13. C7.3   r3+4   14. R9.8   r3.2   15. P3+1   c2+1   
+16. C5+1   c5.3   17. H3-5   e7+5   18. C5.3   p1+1   
+19. R8.9   c2.4   20. C--1   r2+4   21. R9+1   h3+5   
+22. R9-1   h5+7   23. C3-5   c4.7   24. R9.8   r2.4   
+25. H5+4   c7-2   26. P5+1   r4-2   27. H4+6   c3+3   
+28. E7+5   c7+1   }END
+
+
+FORMAT 	WXF
+GAME 	LIU Qin(W)GU YiQing,76
+TIME       ;
+RESULT     1-0
+RED        LIU Qin ; NT ; Australia
+BLACK      GU YiQing ; NT  ; Canada-Vancouver
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T17
+START{
+1.  P7+1   h8+7   2.  H8+7   p7+1   3.  R9+1   e7+5   
+4.  C2.6   h2+1   5.  H2+3   c2.3   6.  C8+2   p3+1   
+7.  P7+1   r1.2   8.  C6+5   c3+5   9.  C8.9   c8+2   
+10. R9.7   r2+7   11. H3-5   c8.3   12. R7+1   r2.3   
+13. H5+7   c3+5   14. A6+5   h7+6   15. E3+5   c3-1   
+16. C9+3   e3+1   17. R1.3   r9+1   18. C6-7   c3.2   
+19. P3+1   r9.3   20. P3+1   r3+6   21. P3.4   r3.5   
+22. R3+6   r5-1   23. R3.1   e1+3   24. R1.2   a4+5   
+25. C6+2   c2-4   26. P4+1   c2-1   27. P1+1   r5.1   
+28. P1+1   p1+1   29. P1.2   r1+3   30. C6-2   r1-4   
+31. P2.3   p5+1   32. R2-3   c2+6   33. C6+6   r1+4   
+34. C6.9   r1-4   35. C9-2   p1+1   36. R2.8   c2.3   
+37. R8.7   c3.2   38. R7+1   p1+1   }END
+
+
+FORMAT 	WXF
+GAME 	KOAY Hean Hong(L)KUNG Kar Cheung,150
+TIME       ;
+RESULT     0-1
+RED        KOAY Hean Hong ; NT ; Mailaysia West
+BLACK      KUNG Kar Cheung ; FM ; Philippines
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T18
+START{
+1.  H2+3   p7+1   2.  P7+1   h8+7   3.  H8+7   h2+1   
+4.  P9+1   e7+5   5.  P9+1   p1+1   6.  R9+5   c8-1   
+7.  R9.6   c8.3   8.  H7+8   c2+2   9.  C8+3   r1.2   
+10. C2-1   r2+4   11. R6.8   h1+2   12. C2.8   h2+4   
+13. E3+5   r9.8   14. R1.2   r8+9   15. H3-2   h7+6   
+16. C8.1   p3+1   17. P7+1   e5+3   18. H2+4   c3.6   
+19. H4+2   h6+5   20. C1.5   h5+7   21. C5.7   e3+5   
+22. A6+5   h7-5   23. P3+1   p7+1   24. E5+3   c6.9   
+25. P1+1   h4+2   26. H8-6   h2+3   27. H6-7   c9.3   
+28. H7+6   c3+8   29. E3-5   c3-3   30. H2+3   h5-6   
+31. P1+1   p9+1   32. H3+1   h6+7   33. H1+3   h7+5   
+34. H3+4   h5-4   35. H6+4   c3.9   36. A5+6   c9-5   
+37. A4+5   a4+5   38. H+-5   h4+2   39. H4+3   a5+6   
+40. K5.4   a6+5   41. K4.5   c9-1   42. H3+2   h2+3   
+43. K5.4   c9.7   44. H5-4   e5+7   45. A5+4   e3-5   
+46. A4-5   k5.4   47. A5+4   k4+1   48. K4+1   c7.2   
+49. H2-3   c2.6   50. H4+6   c6.4   51. H6-8   c4+7   
+52. H3-5   c4-4   53. H8-6   h3-2   54. H5+7   k4-1   
+55. A4-5   c4.9   56. K4-1   c9-3   57. K4.5   e5+3   
+58. H7-5   c9.5   59. K5.4   h2-4   60. H5-3   k4+1   
+61. K4+1   c5.6   62. A5+4   a5+4   63. K4-1   k4-1   
+64. H3+5   a6-5   65. A4-5   e3-5   66. K4.5   c6+1   
+67. K5.4   c6-1   68. K4.5   e5+3   69. K5.4   e7-9   
+70. K4.5   c6.5   71. H5-3   e9+7   72. K5.4   h4+6   
+73. A5+4   c5.6   74. K4.5   c6.7   75. H3+5   h6-5   }END
+
+
+FORMAT 	WXF
+GAME 	JOUNI Ramo(D)BOSE Chandra,100
+TIME       ;
+RESULT     0.5-0.5
+RED        JOUNI Ramo ; NT   ; Finland
+BLACK      BOSE Chandra ; NT ; Mailaysia West
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T19
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1+1   r9.8   
+4.  R1.6   h2+1   5.  H8+9   a6+5   6.  R9+1   c2+4   
+7.  P9+1   r8+5   8.  A6+5   c2.1   9.  R9.8   r8.2   
+10. C8+1   c5.4   11. R6+4   r2.1   12. C8+4   e7+5   
+13. R8+2   p7+1   14. C5.6   c4+5   15. C8.3   p7+1   
+16. R6-3   p7+1   17. C3.9   r-+2   18. H3-1   p1+1   
+19. R6+4   r+.8   20. R6.7   p1+1   21. R7.5   p1.2   
+22. R8-1   r8+3   23. R8.1   p2+1   24. R5.8   p2.3   
+25. H9+7   c1.5   26. E3+5   r1.4   27. R8.5   r4+4   
+28. H7+6   c5+2   29. A4+5   r4-2   30. R5.1   a5-6   
+31. E5-3   r4+4   32. R+.5   r4.3   33. E7+9   r3.2   
+34. R1.6   r8.9   35. R5-4   r9-2   36. R5.1   r9.8   
+37. R6.2   r2-4   38. R2+1   p7.8   39. E9-7   r2.5   
+40. E3+5   r5.8   41. R1.3   p8+1   42. R3+2   r8.9   
+43. A5-4   p8+1   44. R3.6   p8.7   45. R6.4   r9+2   
+46. R4+1   r9.4   47. A4+5   a4+5   48. R4-1   r4.9   
+49. R4+1   e5+7   50. R4-1   e7-5   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG ChunLong(D)ZHANG Zhang,85
+TIME       ;
+RESULT     0.5-0.5
+RED        HUANG ChunLong ; NT ; United Kingdom
+BLACK      ZHANG Zhang ; NT ; Germany
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T20
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c2.5   5.  C8+5   h2+3   6.  C8.5   e3+5   
+7.  H3+4   c8+1   8.  H8+9   r1.2   9.  H4+6   h3-1   
+10. R9.8   r2+9   11. H9-8   p3+1   12. R2+1   h1+2   
+13. H6-4   c8-4   14. H4+5   c8.5   15. C5+4   a6+5   
+16. R2+8   h7-8   17. E7+5   p9+1   18. C5.9   h8+9   
+19. C9-1   a5-6   20. H8+6   p7+1   21. P3+1   e5+7   
+22. C9.3   e7+5   23. C3-4   h9+8   24. C3.1   h8+9   
+25. C1+4   h9+8   26. P5+1   h2-4   27. C1.6   h8-7   
+28. H6+4   h4+2   29. C6-1   h7-6   30. P5+1   h6+5   
+31. A4+5   h5+3   32. C6-1   p3+1   33. P7+1   h2+3   
+34. H4+3   h+-1   35. C6.1   h3-2   36. H3+2   a4+5   
+37. H2+3   k5.4   38. H3-5   h2-4   39. P5.6   h1-2   
+40. C1.6   k4.5   41. A5-4   h2+4   42. P6+1   h-+2   
+43. P6.7   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Hui Chuan(D)CHEN FaZuo,35
+TIME       ;
+RESULT     0.5-0.5
+RED        WANG Hui Chuan ; NT ; Holland
+BLACK      CHEN FaZuo ; NT ; United Kingdom
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T21
+START{
+1.  E3+5   p7+1   2.  P7+1   h8+7   3.  H8+7   r9+1   
+4.  R9+1   e3+5   5.  R9.4   r9.3   6.  H7+8   c2.4   
+7.  R4+3   h2+1   8.  H2+4   p1+1   9.  R1.3   r1+1   
+10. C2.4   c8-1   11. P3+1   p7+1   12. R3+4   c8.7   
+13. R3.2   c7.6   14. R2+2   c4+1   15. R2+1   c4-1   
+16. R2-1   c4+1   17. R2+1   c4-1   18. R2-1   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN Ling Wei(L)Ung Dau,182
+TIME       ;
+RESULT     0-1
+RED        CHEN Ling Wei ; NT ; Malaysia East
+BLACK      Ung Dau ; NT ; Canada-Edmonton
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T22
+START{
+1.  P7+1   e3+5   2.  H8+7   h2+3   3.  C2.4   h8+9   
+4.  H2+3   r9.8   5.  R1.2   a4+5   6.  C8.9   p9+1   
+7.  R2+3   c2+2   8.  P3+1   c8.7   9.  R2+6   h9-8   
+10. R9.8   c2.6   11. H7+6   c6-1   12. C4.6   h8+9   
+13. E7+5   h9+8   14. P9+1   r1.3   15. R8+1   c7.9   
+16. C9+1   c9.6   17. C9.7   r3.2   18. R8+8   h3-2   
+19. H6+5   c-.9   20. C6+3   h2+4   21. H5-6   h8-7   
+22. C6+1   h7+5   23. H6+5   c6.4   24. H5-6   p7+1   
+25. P3+1   e5+7   26. C7+3   c9.1   27. C7-1   c1+3   
+28. C7.5   e7-5   29. P7+1   p9+1   30. H6+4   p9+1   
+31. H4+2   c1+4   32. A6+5   c1-5   33. C5-1   h4+5   
+34. H2+3   k5.4   35. P7.6   c4-2   36. H+-4   p9.8   
+37. C5.9   c1.2   38. P5+1   h5+4   39. E5+7   h4+3   
+40. A5+6   p1+1   41. C9-2   h3+1   42. E3+5   p8.7   
+43. H3+1   c2+5   44. K5+1   c2-2   45. C9+1   c2-1   
+46. H1+3   p7+1   47. C9-1   c2+1   48. C9+1   h1-2   
+49. C9-3   c2+1   50. C9.6   p7+1   51. H3-2   c2.1   
+52. E5-7   h2+4   53. K5+1   c1.2   54. H4-3   c2-1   
+55. K5-1   h4+3   56. E7-5   h3-4   57. P5+1   h4-2   
+58. C6+8   k4+1   59. K5-1   c2+1   60. K5.6   h2+3   
+61. E5+7   p7.6   62. H2+4   p1+1   63. H4-6   c2.1   
+64. P6+1   p6.7   65. H3-5   h3-4   66. P5+1   c1-2   
+67. H5+4   p1.2   68. E7-9   c1-2   69. H4-5   k4-1   
+70. H5+6   c1-3   71. H+-5   c1.4   72. K6.5   h4-5   
+73. A4+5   c4+6   74. A5+6   p2+1   75. A6-5   p2.3   
+76. E9-7   p3.4   77. H5+4   h5+6   78. H4-3   p4.5   
+79. H3+4   p5.4   80. H4-3   h6-7   81. H3+4   h7+8   
+82. H4-3   p4.5   83. E7+9   p5.6   84. H3+4   p7.6   
+85. A5+6   h8-6   86. K5.6   p-.5   87. K6+1   p5.4   
+88. H4-6   h6+7   89. H6-8   h7-5   90. K6-1   p4.3   
+91. H8-9   h5+7   }END
+
+
+FORMAT 	WXF
+GAME 	MACGREGOR Angua(L)SHOSHI Kazuharo,66
+TIME       ;
+RESULT     0-1
+RED        MACGREGOR Angua ; NT  ; Australia
+BLACK      SHOSHI Kazuharo ; NT ; Japan
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T23
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  P7+1   c8+4   5.  H8+7   e3+5   6.  R9+1   h2+1   
+7.  C8+4   p3+1   8.  P7+1   r1.3   9.  H7+6   r3+4   
+10. H6+5   r3-1   11. P5+1   r3.2   12. H5-3   c8-2   
+13. H+-4   c2.3   14. P5+1   a6+5   15. R2+4   h1+3   
+16. E7+9   r8+3   17. R9.6   r2+3   18. H4+6   r2.7   
+19. H6+8   c3.4   20. H3-1   r7.5   21. A6+5   r5-2   
+22. H1+3   c8.7   23. R2.3   c7.2   24. R6+2   c2.4   
+25. R6.5   r5+2   26. H3+5   c+.5   27. H5+7   r8.6   
+28. H7+5   h3+5   29. R3.5   h5-7   30. R5.6   h++6   
+31. C5.8   r6.2   32. C8+2   h6-4   33. C8.7   c4+3   }END
+
+
+FORMAT 	WXF
+GAME 	TANAKA Atsushi(L)KON Islang,90
+TIME       ;
+RESULT     0-1
+RED        TANAKA Atsushi ; NT  ; Japan
+BLACK      KON Islang ; NT ; China-Hong Kong
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T24
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  P3+1   r9.4   5.  H8+7   h2+3   6.  A4+5   r4+5   
+7.  C5.4   r4.3   8.  E3+5   p5+1   9.  C8+4   p5+1   
+10. P5+1   h7+5   11. C8.5   h3+5   12. R9.8   c2+4   
+13. P5+1   c5+2   14. H3+4   h5+3   15. R2+5   c5+1   
+16. R2.5   e3+5   17. H7-9   r3.9   18. H9+8   h3+2   
+19. R8+2   h2-3   20. R8.7   r1.2   21. R7+2   r2+6   
+22. R5.6   c5+1   23. R6.4   a4+5   24. H4+6   c5-3   
+25. R4+1   c5+1   26. R4+2   r2.6   27. R4-5   r9.6   
+28. R7.5   r6-2   29. R5-1   c5+3   30. E7+5   r6.4   
+31. E5+7   r4+1   32. C4.7   r4.3   33. C7+3   p3+1   
+34. R5+3   r3.7   35. R5.9   p9+1   36. P9+1   p3+1   
+37. P9+1   p3.4   38. P9.8   p7+1   39. R9.6   r7.5   
+40. P8+1   p9+1   41. P8+1   p9.8   42. P8+1   p8+1   
+43. P8.7   a5-4   44. R6.2   p8.7   45. R2.4   a6+5   }END
+
+
+FORMAT 	WXF
+GAME 	YANG weiJun(L)KNAB Reinhard,148
+TIME       ;
+RESULT     0-1
+RED        YANG weiJun ; NT ; Japan
+BLACK      KNAB Reinhard ; NT   ; Germany
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T25
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P3+1   p3+1   5.  H8+9   e3+5   6.  C8.7   r1.2   
+7.  R9.8   c2+4   8.  A4+5   r9+2   9.  R8+1   a4+5   
+10. R8.6   r2.4   11. R6+8   a5-4   12. P9+1   r9.8   
+13. R2+7   c6.8   14. P7+1   h3+4   15. P7+1   e5+3   
+16. H9+8   h4-6   17. E3+1   c8+4   18. H3+4   c8-1   
+19. P3+1   p7+1   20. H4+5   e3-5   21. H8+6   c8-2   
+22. H6+4   c8.5   23. H4+3   k5+1   24. C5.2   k5.4   
+25. C2+6   k4+1   26. C2-1   c5.7   27. H3+5   k4-1   
+28. H5-4   c7.6   29. C7.3   h7+6   30. P5+1   h6-4   
+31. H4+2   c2.5   32. E7+5   h4+5   33. H2+4   k4.5   
+34. H4-3   k5.4   35. H3-4   c5.2   36. H4-6   c2+3   
+37. E5-7   c2-2   38. C3-1   c6+1   39. H6+7   k4.5   
+40. C2-1   c6-1   41. H7-6   c2-5   42. C2.9   e5+3   
+43. C9.5   c6+2   44. H6+8   c6.1   45. H8+7   k5.4   
+46. C3+1   c1.3   47. H7+8   k4+1   48. A5-4   c2+6   
+49. A6+5   c2+1   50. A5-6   c2-1   51. A6+5   c2+1   
+52. A5-6   c2-1   53. K5+1   h5+4   54. C5.6   h4-2   
+55. C3.8   c3+3   56. K5+1   h2-4   57. K5.6   c2-8   
+58. C6+3   k4.5   59. K6-1   c2+2   60. C6-4   h4+6   
+61. C6-2   c3-2   62. C6.5   c3.4   63. C8.5   k5.4   
+64. C-.4   k4-1   65. K6.5   c2.6   66. K5.4   c6+5   
+67. K4+1   e7+5   68. A4+5   h6+8   69. C5-1   h8-6   
+70. C5+1   p9+1   71. E7+9   c4-3   72. C5+3   h6-8   
+73. E1-3   h8+7   74. C5-1   p7+1   }END
+
+
+FORMAT 	WXF
+GAME 	SOUR SAMPHY(D)NAEGLER Michael,125
+TIME       ;
+RESULT     0.5-0.5
+RED        SOUR SAMPHY ; NT ; Kampuchea
+BLACK      NAEGLER Michael ; NT    ; Germany
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T26
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   c2.5   
+4.  H8+7   p7+1   5.  R1+1   h2+3   6.  H7+8   c8+4   
+7.  R1.6   r8+5   8.  E7+9   p3+1   9.  R9.7   p3+1   
+10. R7+4   r8.3   11. E9+7   c8.5   12. H3+5   c5+4   
+13. A6+5   e7+5   14. R6+6   c5.3   15. R6-4   c3+3   
+16. C5.7   r1+2   17. E3+5   c3.2   18. H8+7   r1.2   
+19. C8+2   c2-2   20. R6+5   h7+6   21. C7+1   c2-1   
+22. P1+1   r2+2   23. R6-1   h3-2   24. C8+5   c2-6   
+25. H7+6   a4+5   26. R6-5   e3+1   27. H6-5   r2+2   
+28. C7-3   c2.3   29. C7.6   c3.4   30. C6.9   r2.1   
+31. E7-9   r1.2   32. C9+6   r2-3   33. H5+7   r2.3   
+34. R6+3   h6+7   35. H7+6   a5-4   36. C9-2   h7+5   
+37. K5.6   a6+5   38. C9.5   r3.5   39. E9-7   h5-3   
+40. C5.7   r5.3   41. R6-1   e1-3   42. K6.5   h3-1   
+43. E7+5   r3.5   44. C7-2   h1-3   45. E5+7   h3+5   
+46. C7.5   h5+7   47. K5.6   h7+9   48. C5.2   r5.8   
+49. C2.5   r8.5   50. C5.2   h9+8   51. C2.5   h8-7   
+52. K6.5   h7-9   53. K5.6   p7+1   54. A5+4   p7+1   
+55. A4+5   p7.6   56. R6.2   p6.7   57. R2+5   a5-6   
+58. R2-3   r5+2   59. R2.1   a6+5   60. R1+3   a5-6   
+61. R1-4   h9-7   62. R1.6   a6+5   63. P1+1   }END
+
+
+FORMAT 	WXF
+GAME 	YAMAZAKI Hideo(W)KLEIN,43
+TIME       ;
+RESULT     1-0
+RED        YAMAZAKI Hideo ; NT ; Japan
+BLACK      KLEIN ; NT ; Germany
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T27
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  P3+1   h8+7   
+4.  H8+9   r9.8   5.  C8.7   r1.2   6.  R9.8   c2+4   
+7.  R1+1   e7+5   8.  R1.4   a6+5   9.  R4+3   r8+6   
+10. P7+1   c2.3   11. R8+9   c3+3   12. A6+5   h3-2   
+13. C5+4   c6+7   14. C5-1   c6-3   15. E3+5   c3.1   
+16. P7+1   e3+1   17. P7.6   h2+4   18. C7.6   h4+2   
+19. H9-7   c1-1   20. R4.8   c6-4   21. R8.4   c6-2   
+22. R4+3   }END
+
+
+FORMAT 	WXF
+GAME 	SONE Toshihiko(L)WENG Han Ming,82
+TIME       ;
+RESULT     0-1
+RED        SONE Toshihiko ; NT ; Japan
+BLACK      WENG Han Ming ; NT   ; Germany
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T28
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  P7+1   h2+3   
+4.  R1.2   r9.8   5.  H8+7   c8+4   6.  C8+2   a4+5   
+7.  A6+5   e3+5   8.  C5.4   r1.4   9.  E7+5   p3+1   
+10. P7+1   e5+3   11. P3+1   p7+1   12. E5+3   c8.7   
+13. E3-5   r8+9   14. H3-2   h7+8   15. H2+1   c7+1   
+16. R9.6   r4+9   17. A5-6   h8+9   18. H7+6   h3+4   
+19. C8-1   h9-8   20. H1+2   h8+6   21. A4+5   p9+1   
+22. C8+2   e3-5   23. H2+4   c7-3   24. H4+6   c2.4   
+25. C8.3   e5+7   26. A5+6   h6+8   27. C4.2   p9+1   
+28. A6+5   h8-6   29. P5+1   p9.8   30. H-+8   p8+1   
+31. C2.1   e7-5   32. H8+9   e5-3   33. H9+7   k5.4   
+34. H6+8   e3+5   35. C1+3   h4-3   36. C1+4   c4.2   
+37. C1-8   c2+4   38. A5+4   c2.5   39. K5.6   c5.4   
+40. K6.5   p8.7   41. C1+8   p7+1   }END
+
+
+FORMAT 	WXF
+GAME 	HOFFARTH Karsten(W)ARTO Vaara,61
+TIME       ;
+RESULT     1-0
+RED        HOFFARTH Karsten ; NT ; Germany
+BLACK      ARTO Vaara ; NT   ; Finland
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T29
+START{
+1.  E7+5   c2.5   2.  H8+7   h2+3   3.  R9.8   p3+1   
+4.  C8.9   r1+1   5.  H2+3   p7+1   6.  R1+1   h8+7   
+7.  R8+4   p5+1   8.  P7+1   h7+5   9.  P7+1   h5+3   
+10. C2+3   h-+5   11. H7+6   p5+1   12. H6+5   h3-5   
+13. P5+1   h5+6   14. P3+1   h6+7   15. C9.3   p7+1   
+16. C2.5   a6+5   17. E5+3   c8+3   18. R1.2   r9.8   
+19. R8+2   r1.3   20. E3-5   k5.6   21. R8.4   a5+6   
+22. R4+1   r3.6   23. C5.4   r8+1   24. C4+3   a4+5   
+25. R4.3   k6.5   26. R3+2   a5-6   27. C4-3   c8+2   
+28. R2.7   r8.4   29. R7+8   r4-1   30. R7.6   k5.4   
+31. R3.2   }END
+
+
+FORMAT 	WXF
+GAME 	TORNQVIST Mikko(W)CHEIN Kvi,229
+TIME       ;
+RESULT     1-0
+RED        TORNQVIST Mikko ; NT  ; Finland
+BLACK      CHEIN Kvi ; NT   ; Burna
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T30
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  R2+6   a6+5   5.  C8.6   c2.1   6.  H8+7   r1.2   
+7.  P7+1   r2+6   8.  R9.8   r2.3   9.  R2.3   h7-6   
+10. R8+2   c8.7   11. C6-1   e7+5   12. C6.7   r3.4   
+13. H7+8   r4.3   14. R8.7   r3.2   15. H8+7   r8+4   
+16. H7+9   r2-4   17. P7+1   e3+1   18. P7+1   h3-2   
+19. C5+4   h2+4   20. C5-2   r2+2   21. P7.6   r8.5   
+22. C7.5   r5.3   23. R7.6   r2-2   24. C-.2   r3.8   
+25. C2.6   r8.5   26. R3.4   c7+5   27. R6.3   r2+4   
+28. R3.5   h4+2   29. C6.2   r5.8   30. C2.4   r8.5   
+31. A4+5   h2+3   32. C5.4   h6+7   33. R4.3   r5.7   
+34. C-.3   r7-1   35. C3+5   r2.4   36. P6.7   r4-1   
+37. C4.3   h7+5   38. C+.2   e5+7   39. C2+3   r4.6   
+40. P7.6   h3+2   41. R5.8   h5+4   42. C3.6   h2-4   
+43. C2.1   r6+3   44. R8.2   k5.6   45. P5+1   r6-5   
+46. R2.4   r6+4   47. A5+4   e1-3   48. C1.2   p1+1   
+49. C2-6   p9+1   50. P5+1   e7-5   51. P5+1   h4-6   
+52. P3+1   h6+7   53. A6+5   h7-5   54. C2-1   h5+3   
+55. C2.1   h3-2   56. C1+3   h2+1   57. P5.4   h1-3   
+58. P3+1   h3-4   59. C1.9   h4+5   60. P3+1   e3+1   
+61. C9.4   k6.5   62. C4.5   h5-3   63. P1+1   h3+4   
+64. C5-2   e1-3   65. P1+1   h4-5   66. P1+1   h5+7   
+67. C5+3   k5.6   68. C5-2   h7-5   69. P1.2   h5+3   
+70. P3+1   h3-4   71. C5.4   k6.5   72. P4.5   h4+5   
+73. P3+1   a5-6   74. P3.4   a4+5   75. K5.6   h5-3   
+76. C4.1   a5+4   77. P5.6   a6+5   78. P2.3   h3+5   
+79. P6.5   h5-7   80. C1+5   h7-5   81. P3.4   h5+6   
+82. K6.5   h6-8   83. P-.5   h8-7   84. P5.6   h7+6   
+85. P6.5   h6-7   86. P5.6   h7+6   87. P6.5   h6-7   
+88. P5.6   h7+9   89. K5.4   h9-7   90. A5-6   h7+6   
+91. P6.5   h6-7   92. P5.6   h7+6   93. P6.5   a5+6   
+94. A4-5   a4-5   95. C1-7   h6+7   96. C1.8   e5+3   
+97. P5.6   e3+1   98. P6.7   h7-6   99. P7+1   h6-5   
+100. C8.5   k5.4   101. A5+6   h5+4   102. P7+1   h4+6   
+103. C5-1   h6+7   104. C5.3   e3-5   105. K4.5   e1+3   
+106. C3.6   k4.5   107. P7.6   h7-5   108. C6.5   h5+7   
+109. C5+3   h7-9   110. P4.5   a6-5   111. P6.5   k5.6   
+112. A6-5   h9-7   113. C5.4   h7+8   114. C4-4   e5+7   
+115. A5+4   }END
+
+
+FORMAT 	WXF
+GAME 	OLAVI Stenman(L)LYUU Yin San,76
+TIME       ;
+RESULT     0-1
+RED        OLAVI Stenman ; NT   ; Finland
+BLACK      LYUU Yin San ; NT   ; Burna
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T31
+START{
+1.  C2.5   h2+3   2.  P7+1   p7+1   3.  H8+7   h8+7   
+4.  H7+6   e3+5   5.  H2+3   h7+8   6.  C8.6   h8+7   
+7.  R1.2   c8.7   8.  R9+1   r9+1   9.  R9.4   a4+5   
+10. R4+2   c2+4   11. P5+1   c2-1   12. H6+7   c2.5   
+13. H3+5   c5+2   14. E7+5   r1.4   15. C6.7   r4+6   
+16. R2+6   h7+6   17. R2.3   r4.5   18. R4-2   r5+1   
+19. R4.5   r5.3   20. R3+1   r3-2   21. H7+9   h3+2   
+22. R5+5   h2-1   23. R5.9   h1+3   24. R9+3   a5-4   
+25. R3-1   h3+5   26. R3.6   a6+5   27. R6-1   h5+6   
+28. R6-4   r9.8   29. R9-5   r3+1   30. P1+1   r8+8   
+31. E3+5   r8-2   32. R9.5   r3+1   33. E5+7   r8.7   
+34. R5+2   h6+7   35. K5+1   r3.6   36. R5.1   k5.6   
+37. R6+5   r6+1   38. K5-1   r6.4   }END
+
+
+FORMAT 	WXF
+GAME 	GOLLMAR Bastian(D)DEKKER Alian,53
+TIME       ;
+RESULT     0.5-0.5
+RED        GOLLMAR Bastian ; NT   ; Germany
+BLACK      DEKKER Alian ; NT   ; United Kingdom
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T32
+START{
+1.  C8.5   c2.5   2.  H8+7   h2+3   3.  R9.8   r1+1   
+4.  H2+1   h8+7   5.  C2.3   r1.6   6.  R8+6   h7-5   
+7.  R1.2   c8.7   8.  R2+4   p3+1   9.  R8.7   e3+1   
+10. C3+4   r6+3   11. R7.6   c5.6   12. R6-2   e7+5   
+13. A4+5   h5-3   14. R6+2   a6+5   15. P1+1   p9+1   
+16. P1+1   r9+4   17. R2+5   c6-2   18. H1+2   r6.8   
+19. R2-4   r9.8   20. R6-2   c7+4   21. P7+1   c7.9   
+22. C5.2   c9-4   23. A5-4   r8.7   24. E7+5   h++4   
+25. P7+1   e1+3   26. R6.3   r7+1   27. E5+3   }END
+
+
+FORMAT 	WXF
+GAME 	HAPKHINA Irimia(L)BYWAY Paul,56
+TIME       ;
+RESULT     0-1
+RED        HAPKHINA Irimia ; NT ; Canada-Vancouver
+BLACK      BYWAY Paul ; NT  ; United Kingdom
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M5T33
+START{
+1.  P7+1   h8+7   2.  H8+7   h2+3   3.  H2+3   p7+1   
+4.  E7+5   h7+6   5.  C8.9   c8.7   6.  C2+4   p7+1   
+7.  C2.3   p7+1   8.  H3-1   r9.8   9.  C3.7   e3+5   
+10. C7.1   r8+3   11. C1-2   h3+2   12. P7+1   e5+3   
+13. C1.5   e3-5   14. C5.8   c2+3   15. H7+8   h6+5   
+16. A6+5   r8+2   17. H8-6   h2+4   18. R9.7   r1.3   
+19. R7.8   r3+6   20. R8+8   r3.4   21. R8.7   r4.1   
+22. C9.6   r1+3   23. E5-7   h5+3   24. E3+5   h4+5   
+25. R7-6   h5+7   26. K5.6   h7+9   27. C6+6   r8.4   
+28. K6.5   h9-7   }END
+
+
+FORMAT 	WXF
+GAME 	CHIANG ChungHao(L)XU YinChuan,44
+TIME       ;
+RESULT     0-1
+RED        CHIANG ChungHao ; NT ; China-Taipei
+BLACK      XU YinChuan ; IGM   ; China-Guangdong
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T01
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   h7+6   6.  H8+7   e3+5   
+7.  C8.9   c2-1   8.  R2.4   h6+7   9.  C5.4   a4+5   
+10. R9.8   c2.4   11. R4.2   r8+1   12. R8+8   c8.9   
+13. R2.4   c4+2   14. R4-2   r8+2   15. H7+8   p5+1   
+16. A6+5   p7+1   17. R4+4   p5+1   18. C4.7   r1.2   
+19. R8+1   h3-2   20. R4-3   p7.6   21. R4.6   h2+3   
+22. C7+4   c4.7   }END
+
+
+FORMAT 	WXF
+GAME 	NGUYEN Vu Quan(D)HONG Zhi,46
+TIME       ;
+RESULT     0.5-0.5
+RED        NGUYEN Vu Quan ; NT ; Vietnam
+BLACK      HONG Zhi ; GM ; China-Jilin
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T02
+START{
+1.  C2.5   c8.5   2.  H2+3   r9+1   3.  R1.2   h8+7   
+4.  H8+7   r9.4   5.  P3+1   h2+3   6.  P7+1   c2.1   
+7.  R9.8   r4+5   8.  R2+6   r4.3   9.  R2.3   r3+1   
+10. R3+1   r1.2   11. C8+4   p3+1   12. R3+2   c5.7   
+13. H3-5   r3-2   14. R3-1   r3.7   15. E3+1   r7.8   
+16. H5+3   r8.4   17. C5.7   r4.3   18. C7.4   p9+1   
+19. C4+4   a4+5   20. A4+5   r3.4   21. C4.1   c7.9   
+22. C1.2   c9.8   23. C2.1   c8.9   }END
+
+
+FORMAT 	WXF
+GAME 	WU Kui Lin(D)Nguyen Thanh Bao,104
+TIME       ;
+RESULT     0.5-0.5
+RED        WU Kui Lin ; IGM ; China-Taipei
+BLACK      Nguyen Thanh Bao ; NT ; Vietnam
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T03
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  P3+1   p3+1   5.  C8+4   h3+2   6.  H8+9   r1+1   
+7.  R9+1   r1.4   8.  C8.3   e7+5   9.  R2+4   r4+3   
+10. R9.4   a6+5   11. R4+3   p1+1   12. P9+1   p1+1   
+13. R4.9   c8.9   14. R2+5   h7-8   15. C5.4   r4.8   
+16. E7+5   h2-3   17. R9.6   h3+4   18. H9+8   p3+1   
+19. R6.7   h8+6   20. C3+3   h6+8   21. C3-1   h4+5   
+22. R7.5   h5+7   23. C3-6   p5+1   24. R5-1   h8+6   
+25. R5.3   h6+5   26. R3.5   c9+4   27. P7+1   r8-1   
+28. A6+5   c9-2   29. C3.1   r8.2   30. H8-7   c9+1   
+31. C4.2   c2.3   32. C1+1   c9.8   33. C2.1   c8-3   
+34. C++1   h5+3   35. R5+2   h3+1   36. R5.6   c8+6   
+37. A5-6   r2.8   38. C-.3   r8+4   39. H7+5   h1+3   
+40. R6-4   c8.9   41. H5-7   r8.7   42. R6.7   c9-2   
+43. R7.1   r7-1   44. H7+6   p9+1   45. C1.2   r7.8   
+46. H6+4   p9+1   47. C2+2   r8.6   48. H4-6   r6.4   
+49. H6+4   r4.6   50. H4-6   r6-1   51. H6+5   c9.5   
+52. A6+5   r6.7   }END
+
+
+FORMAT 	WXF
+GAME 	LU GuoLong(D)HE ZhiMing,102
+TIME       ;
+RESULT     0.5-0.5
+RED        LU GuoLong ; NT ; Singapore
+BLACK      HE ZhiMing ; NT  ; Italy
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T04
+START{
+1.  E3+5   p7+1   2.  P7+1   h8+7   3.  H8+7   c2.6   
+4.  R9+1   h2+3   5.  H7+8   h7+6   6.  H2+4   c8+4   
+7.  P3+1   p7+1   8.  R1.3   p7+1   9.  H4+3   c8.5   
+10. A6+5   h6+7   11. R3+3   c5-1   12. H8+7   r1.2   
+13. R9.6   e3+5   14. R6+3   c5-1   15. H7-5   p5+1   
+16. R3+3   r9.8   17. R3.7   r2+6   18. C2.4   a4+5   
+19. R6.4   c6.9   20. P1+1   r8+6   21. R7.1   r8.5   
+22. R1.7   r2.1   23. P1+1   r1+3   24. C8.6   r5+1   
+25. C6-2   r1.3   26. P1+1   c9.7   27. R4.3   c7.6   
+28. R3.4   p5+1   29. R4+1   c6.7   30. R7.3   c7.8   
+31. P1.2   c8.9   32. P2.1   c9.8   33. P1.2   c8.9   
+34. P2.1   c9-2   35. R3.7   h3-1   36. R7.9   h1-3   
+37. R9.2   e7+9   38. P1+1   c9.7   39. R2.3   p5.4   
+40. R4+3   c7.8   41. R3.2   c8.7   42. R2.3   c7.8   
+43. R3.2   c8.7   44. R2.3   c7.8   45. P1.2   h3+4   
+46. R3.6   e5+7   47. R4.1   c8.7   48. P2.3   c7.8   
+49. P3.2   c8.7   50. P2.3   c7.8   51. P3.2   c8.7   }END
+
+
+FORMAT 	WXF
+GAME 	LOOK Kean Chor(D)CHONG Heung Ming,78
+TIME       ;
+RESULT     0.5-0.5
+RED        LOOK Kean Chor ; ICM ; Mailaysia West
+BLACK      CHONG Heung Ming ; NT ; Philippines
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T05
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P5+1   c6.5   5.  H8+7   r1+1   6.  C8.9   r9+1   
+7.  R9.8   c2-1   8.  R2+6   r9.6   9.  H7+5   p3+1   
+10. R8+6   r6+1   11. R8.7   r1+1   12. P5+1   c2.3   
+13. R7.6   c3.5   14. R2.3   c++2   15. C5+3   p5+1   
+16. C9.5   h3+2   17. R6+2   r1.4   18. R6-1   r6.4   
+19. A4+5   h2+3   20. C5+3   r4.5   21. C5+3   h7-5   
+22. R3.9   h3-5   23. E7+5   h-+7   24. R9.3   e7+9   
+25. P3+1   r5.6   26. A5+6   a6+5   27. A6+5   p9+1   
+28. E5-7   e3+5   29. P9+1   e5-7   30. P9+1   r6.5   
+31. H3+4   r5.6   32. H4-3   r6.5   33. E3+5   h7-6   
+34. P9.8   r5+2   35. R3.6   h5+3   36. P8.7   r5.3   
+37. H5+7   h6+5   38. R6.5   h3-1   39. H3+5   r3.8   }END
+
+
+FORMAT 	WXF
+GAME 	TAN ZhenBang(W)CHIU Yu Kuen,73
+TIME       ;
+RESULT     1-0
+RED        TAN ZhenBang ; NT ; USA-New York
+BLACK      CHIU Yu Kuen ; IM ; China-Hong Kong
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T07
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   c8.9   
+4.  R1+1   c2.5   5.  H8+7   r8+4   6.  R1.4   p3+1   
+7.  P7+1   r8.3   8.  H7+6   p7+1   9.  H6+5   h7+5   
+10. C5+4   a4+5   11. C8.5   h2+3   12. C+-1   p1+1   
+13. A4+5   r1+3   14. R9.8   c9.7   15. R4+4   p7+1   
+16. R4.3   c7+1   17. R3-1   r1.4   18. C++1   c7+1   
+19. C+-1   c7-1   20. C++1   c7+1   21. C+-1   e7+9   
+22. P5+1   r3+2   23. H3+5   h3+4   24. H5-3   r3.1   
+25. C-.6   h4+3   26. R8+9   r4.3   27. E3+5   r1-1   
+28. C6.7   h3+5   29. E7+5   r3+4   30. H3+5   r3-3   
+31. H5+7   r1+3   32. R3.4   r1.4   33. H7-6   r3-1   
+34. R4+2   r3+1   35. R8-6   c7-2   36. R8.4   c7.6   
+37. R+.6   }END
+
+
+FORMAT 	WXF
+GAME 	WONG Chi Keung(L)WOO WeiCheung,240
+TIME       ;
+RESULT     0-1
+RED        WONG Chi Keung ; IM ; China-Hong Kong
+BLACK      WOO WeiCheung ; FM ; France
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T06
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  C2.6   h2+1   
+4.  H2+3   r9.8   5.  C8+2   c2.3   6.  H3-5   r1.2   
+7.  R9.8   r2+4   8.  P7+1   r2.3   9.  H7+6   a6+5   
+10. E7+5   r3+2   11. H6+8   r3.4   12. C6.7   c3+5   
+13. H5+7   p3+1   14. C8-3   p1+1   15. H8+9   c8.1   
+16. C8.7   e7+5   17. R1+1   h7+6   18. R8+8   h6+7   
+19. H7+8   r4.3   20. H8+6   r3+1   21. R1.6   c1.4   
+22. H6+7   r8+5   23. R8-2   h7-6   24. R6+4   h6+5   
+25. R6-2   h5-6   26. C7.9   r3.1   27. C9.6   c4+6   
+28. R6-2   r8.4   29. R6+3   h6+4   30. H7-5   h4+6   
+31. A4+5   r1-1   32. A5+4   h6-5   33. H5+3   h5+4   
+34. R8.4   p9+1   35. H3+1   a5+4   36. H1-2   a4+5   
+37. P1+1   h4+3   38. K5.4   p9+1   39. H2-1   r1.9   
+40. R4.1   r9.6   41. A6+5   p1+1   42. H1+2   p1+1   
+43. H2+3   k5.4   44. H3-4   e5-7   45. H4-5   e3+5   
+46. R1.6   h3-4   47. R6.9   h4+5   48. R9+3   k4+1   
+49. H5+6   h5-7   50. K4.5   r6.2   51. R9-2   a5-6   
+52. R9+1   k4-1   53. R9+1   k4+1   54. R9-1   k4-1   
+55. R9+1   k4+1   56. R9.4   h7-8   57. R4-1   k4-1   
+58. R4+1   k4+1   59. R4-1   k4-1   60. R4+1   k4+1   
+61. R4-1   k4-1   62. R4-4   r2+3   63. K5+1   r2-6   
+64. H6+4   h8-7   65. R4.6   k4+1   66. K5.6   h7-6   
+67. R6.9   h6+8   68. R9+4   k4-1   69. R9+1   k4+1   
+70. R9-1   k4-1   71. R9+1   k4+1   72. R9-6   r2.4   
+73. K6.5   r4.6   74. H4+5   r6.4   75. H5-3   h8+9   
+76. K5-1   h9-7   77. R9.5   h7+9   78. A4-5   r4+2   
+79. R5.1   h9-7   80. H3-4   r4-2   81. R1.4   h7+9   
+82. R4.1   h9-7   83. R1.4   r4.5   84. R4+1   p7+1   
+85. R4+1   p7+1   86. H4+3   h7+5   87. R4+1   r5.6   
+88. H3-4   h5+4   89. H4-5   p7+1   90. H5+6   p7+1   
+91. A5+6   p7.6   92. E3+1   a4-5   93. E1+3   k4-1   
+94. K5.6   h4-2   95. K6+1   h2+1   96. K6-1   a5-6   
+97. K6+1   h1-3   98. K6-1   p6.5   99. A6-5   h3-5   
+100. E5-7   p3+1   101. K6.5   h5-4   102. E3-5   p3+1   
+103. K5.6   a6+5   104. K6.5   h4+5   105. E5+3   p3.4   
+106. K5.4   p4.5   107. A5-6   p5.6   108. A6+5   h5-6   
+109. E3-1   a5-6   110. E7+5   e5-3   111. E5-3   h6+5   
+112. K4+1   p6.7   113. E1+3   p7+1   114. E3-5   p7+1   
+115. K4-1   h5+7   116. E5+3   p7.6   117. K4.5   h7-5   
+118. E3-5   h5-3   119. E5+7   h3-2   120. E7-9   h2+1   }END
+
+
+FORMAT 	WXF
+GAME 	NG JunMing(W)LIU Qin,57
+TIME       ;
+RESULT     1-0
+RED        NG JunMing ; NT ; Singapore
+BLACK      LIU Qin ; NT ; Australia
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T08
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+7   p7+1   5.  R2+6   r1+1   6.  P5+1   r1.4   
+7.  P5+1   a6+5   8.  H7+5   c2+4   9.  P5.6   r4+1   
+10. P7+1   r4.6   11. P6+1   c2.7   12. E3+1   c8.9   
+13. R2+3   h7-8   14. R9+1   h8+7   15. R9.2   r6+4   
+16. C8+1   c7.5   17. C5+4   h7+5   18. C8.4   c5-1   
+19. P6.5   h3+5   20. R2+6   h5+4   21. K5+1   c5-3   
+22. C4-1   c9-1   23. H3+4   c9+5   24. H4+6   c9.5   
+25. H6+5   e3+5   26. R2-4   c5.6   27. C4.8   c6-4   
+28. R2.6   h4-6   29. C8+7   }END
+
+
+FORMAT 	WXF
+GAME 	YE RongGuang(W)HUANG ChunLong,105
+TIME       ;
+RESULT     1-0
+RED        YE RongGuang ; NT ; Holland
+BLACK      HUANG ChunLong ; NT ; United Kingdom
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T09
+START{
+1.  P7+1   p7+1   2.  C8.5   h2+3   3.  H8+7   h8+7   
+4.  R9.8   r1.2   5.  H2+3   e7+5   6.  P5+1   a6+5   
+7.  H3+5   h7+6   8.  P5+1   h6+5   9.  H7+5   p5+1   
+10. C5+3   r9.6   11. C2.5   r6+6   12. H5+6   r6-2   
+13. R1.2   r6.5   14. R2+7   c2.1   15. R8+9   h3-2   
+16. R2+2   a5-6   17. R2-3   c1+4   18. R2.7   p1+1   
+19. H6+8   h2+1   20. R7.1   a4+5   21. P7+1   r5+2   
+22. R1.6   c1-1   23. R6-2   r5-3   24. H8+9   h1+2   
+25. H9+7   h2+3   26. R6-1   e5-3   27. R6.7   e3+5   
+28. P7.6   k5.4   29. R7.6   r5+2   30. A6+5   p7+1   
+31. P3+1   c1.7   32. P6+1   k4.5   33. R6.8   c7-3   
+34. R8+6   a5-4   35. R8.9   a6+5   36. R9-4   c7+4   
+37. R9.2   c7.5   38. R2-2   r5-1   39. P1+1   a5-6   
+40. P6+1   a6+5   41. P6+1   c5-1   42. R2+6   a5-6   
+43. R2-5   c5+1   44. R2.6   a6+5   45. K5.6   c5.6   
+46. P1+1   c6-3   47. R6+2   c6+2   48. P1+1   r5+2   
+49. P1.2   c6.5   50. P6+1   a5-4   51. R6+3   k5+1   
+52. R6-1   k5-1   53. C5+2   }END
+
+
+FORMAT 	WXF
+GAME 	TAN Wei TaT(L)DANG Thanh Trung,125
+TIME       ;
+RESULT     0-1
+RED        TAN Wei TaT ; NT ; Malaysia East
+BLACK      DANG Thanh Trung ; FM  ; France
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T10
+START{
+1.  H8+7   p3+1   2.  P3+1   h2+3   3.  C2.5   h8+7   
+4.  H2+3   c8+4   5.  P5+1   c2+2   6.  R9+1   e3+5   
+7.  R9.6   a4+5   8.  R1+1   r9.8   9.  R6+5   p7+1   
+10. H7+5   c8.7   11. E3+1   h7+6   12. P5+1   h6+5   
+13. H3+5   r8+6   14. R1.6   c7.9   15. H5+6   c9-2   
+16. R+.7   c9.5   17. A6+5   r1.4   18. C8+1   r8+1   
+19. R6+2   r4+4   20. R6+2   c2.4   21. R7+1   c4+4   
+22. E1-3   p7+1   23. C8+6   c5.7   24. R7+2   a5-4   
+25. R7-4   a4+5   26. R7+4   a5-4   27. R7-5   a4+5   
+28. A5+4   c7+5   29. A4+5   r8+2   30. R7+5   a5-4   
+31. R7-3   a4+5   32. R7.5   c7-2   33. A5-4   c7.5   
+34. R5-4   c4.9   35. R5+1   c9+1   36. R5.1   c9.6   
+37. E7+5   p7.6   38. P7+1   p9+1   39. A4-5   c6-2   
+40. A5-4   r8-5   41. C8-5   r8.6   42. A4+5   c6.8   
+43. R1.2   c8.7   44. R2+3   p6+1   45. R2.9   r6.2   
+46. R9-2   c7-3   47. P7+1   r2.3   48. C8.5   c7.5   
+49. K5.4   p6.5   50. R9.7   p5+1   51. R7+1   e5+3   
+52. A5-6   p9+1   53. P9+1   e7+5   54. C5.3   p9.8   
+55. C3+2   c5-1   56. P9+1   p8.7   57. P9.8   p7.6   
+58. P8.7   p6+1   59. P7.6   c5.6   60. K4.5   p6+1   
+61. P6.5   p6+1   62. C3.2   a5-4   63. P5.4   }END
+
+
+FORMAT 	WXF
+GAME 	ZHENG ZhengMing(W)VITTAYA P.B.,71
+TIME       ;
+RESULT     1-0
+RED        ZHENG ZhengMing ; NT  ; Canada-Toronto
+BLACK      VITTAYA P.B. ; NT ; Thailand
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T11
+START{
+1.  C2.5   h8+7   2.  H2+3   p3+1   3.  R1.2   r9.8   
+4.  P3+1   h2+3   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   p1+1   8.  P9+1   r1+5   9.  R9.4   e7+5   
+10. R2+4   a6+5   11. R4+3   r1-2   12. R4+2   c2+1   
+13. R4+2   c8+1   14. C7-1   r1+2   15. P5+1   c2-2   
+16. R4-5   p7+1   17. P3+1   e5+7   18. P7+1   e3+5   
+19. P7+1   c8.7   20. R2+5   h7-8   21. P7.8   c7+4   
+22. H9+7   r1+3   23. C7.4   c2.3   24. H7+6   r1.3   
+25. A6+5   r3+1   26. A5-6   h8+7   27. P5+1   c3.4   
+28. H6+8   c7-2   29. R4+3   c7.5   30. C4.5   c4+2   
+31. R4-2   p5+1   32. C-+3   p5+1   33. R4+2   r3-6   
+34. C5+5   a5+4   35. C5-2   e7-9   36. R4.6   }END
+
+
+FORMAT 	WXF
+GAME 	MINARTA Ifan(D)LEONG SioMan,56
+TIME       ;
+RESULT     0.5-0.5
+RED        MINARTA Ifan ; IM ; Indonesia
+BLACK      LEONG SioMan ; NT ; China-Macau
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T12
+START{
+1.  H8+7   p3+1   2.  P3+1   h2+3   3.  H2+3   h8+7   
+4.  R1+1   e3+5   5.  C8+4   p7+1   6.  P3+1   e5+7   
+7.  E7+5   h7+6   8.  P7+1   p3+1   9.  R1.4   h6+7   
+10. E5+7   c8.7   11. C2+5   e7-5   12. R9+1   r9.8   
+13. R4.2   h3+4   14. C8-3   h4+6   15. R9.4   h6-8   
+16. C8.3   h8+7   17. R4+5   r1.3   18. R2+3   c7-1   
+19. C2-1   c2+1   20. C2.5   c7.5   21. R2+5   c2.6   
+22. C5+2   a4+5   23. R2-5   r3+4   24. H7+8   r3.2   
+25. E7-5   c6.7   26. H3-5   h7+6   27. H5+7   c7.2   
+28. A4+5   c2+2   }END
+
+
+FORMAT 	WXF
+GAME 	ZOU JingHua(L)LEE Michuel,112
+TIME       ;
+RESULT     0-1
+RED        ZOU JingHua ; NT ; China-Macau
+BLACK      LEE Michuel ; NT ; USA-San Francisco
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T13
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   e3+5   6.  R2+6   c2+1   
+7.  R9+1   p7+1   8.  R2-2   c2+1   9.  R9.6   a4+5   
+10. C8.7   p1+1   11. C7-1   c8.9   12. R2+5   h7-8   
+13. R6+3   r1.4   14. R6+5   k5.4   15. P3+1   c9.7   
+16. H3-1   c2.7   17. C5.6   k4.5   18. E3+5   h3+4   
+19. P5+1   c++2   20. C7.9   h4-6   21. P9+1   h6+5   
+22. A4+5   p1+1   23. C9+3   c-.9   24. C6.8   h5+3   
+25. C9+5   h3-2   26. H9+8   c7-2   27. H1+3   h8+7   
+28. H3+5   a5+4   29. H5+6   h2-1   30. H6+4   h1-3   
+31. C9-6   c9+4   32. C8.7   h3+1   33. H8+9   h1-2   
+34. H9+8   a4-5   35. C9.3   c9+3   36. K5.4   c7.6   
+37. E5+3   h7-9   38. E3-1   p3+1   39. C7.3   a5+6   
+40. H8-6   h2+4   41. H6-8   p3+1   42. H8+7   h9+8   
+43. C++3   p5+1   44. H4+6   p5+1   45. H6-5   a6+5   
+46. H5+7   p5.6   47. K4.5   c6.3   48. E7+9   c3-3   
+49. H7+6   c3+3   50. H6-7   h8+9   51. H7-5   c3.2   
+52. C-.5   p6.5   53. C5.8   h9+8   54. K5.4   h8-6   
+55. H5-3   c2.6   56. C8.4   h6-8   }END
+
+
+FORMAT 	WXF
+GAME 	KUNG Kar Cheung(W)XU HaoHua,137
+TIME       ;
+RESULT     1-0
+RED        KUNG Kar Cheung ; FM ; Philippines
+BLACK      XU HaoHua ; NT   ; China-Macau
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T14
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   h2+1   
+4.  P9+1   c2.3   5.  H8+9   r1.2   6.  R9.8   r2+4   
+7.  C8.6   r2.6   8.  C2.1   a6+5   9.  R8+4   e7+5   
+10. P3+1   p7+1   11. A4+5   p1+1   12. P9+1   r6.1   
+13. P3+1   r1.7   14. C1-1   r9.6   15. C1.3   r7.2   
+16. R2+4   c3.2   17. R8.5   c2+1   18. R5.4   r6+5   
+19. H3+4   r2.7   20. H4-3   r7.6   21. C6+2   p3+1   
+22. R2.4   r6.8   23. R4.2   r8.6   24. R2.5   r6-1   
+25. R5.4   r6.8   26. R4.2   h7+6   27. R2+2   c2.8   
+28. C6.4   h1+2   29. C3.4   h6-7   30. C++2   c8+3   
+31. C+.3   c8.7   32. P5+1   c4+3   33. A5+6   c4.1   
+34. C4.5   c1+1   35. H3-2   h2-3   36. H2+4   c7+1   
+37. P7+1   h3+4   38. P5+1   p5+1   39. P7+1   e5+3   
+40. C5+4   e3-5   41. A6+5   h7+5   42. P1+1   c7+1   
+43. C3.4   h4+2   44. E5+7   h5+3   45. H4+3   c1.5   
+46. K5.4   h2+1   47. E7+9   c5.6   48. C5.6   h3-2   
+49. C4.8   c6-4   50. K4.5   c7.9   51. H3+4   c9+1   
+52. C6.8   c6.8   53. K5.4   c8.6   54. K4.5   c6.8   
+55. A5+4   c8+7   56. K5+1   c8-7   57. C--2   c9.6   
+58. K5.4   c8.6   59. C-+4   c+-2   60. C+.4   c6-5   
+61. H4+2   c6+1   62. C8.5   c6-2   63. C5.1   a5+6   
+64. K4.5   c6.5   65. E7-5   e5+7   66. K5.6   c5.4   
+67. K6.5   c4.5   68. E5+7   e3+5   69. E7-5   }END
+
+
+FORMAT 	WXF
+GAME 	KNAB Reinhard(L)CHEN Ling Wei,30
+TIME       ;
+RESULT     0-1
+RED        KNAB Reinhard ; NT   ; Germany
+BLACK      CHEN Ling Wei ; NT ; Malaysia East
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T15
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P3+1   p3+1   
+4.  H8+9   h2+3   5.  R9+1   h3+2   6.  C8.7   e3+5   
+7.  R9.4   a4+5   8.  R1.2   r1.4   9.  A4+5   h2+1   
+10. C7-1   r4+8   11. R4+5   c8+4   12. P5+1   c2+5   
+13. H3+4   c2.3   14. K5.4   c3+2   15. K4+1   c8.6   }END
+
+
+FORMAT 	WXF
+GAME 	SHOSHI Kazuharo(D)WANG Hui Chuan,230
+TIME       ;
+RESULT     0.5-0.5
+RED        SHOSHI Kazuharo ; NT ; Japan
+BLACK      WANG Hui Chuan ; NT ; Holland
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T16
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   p7+1   5.  H8+7   r1.2   6.  P7+1   c2+4   
+7.  H7+6   e7+5   8.  R9.8   c2.7   9.  R8+9   h3-2   
+10. C5+4   a6+5   11. C5.9   h2+3   12. C9.8   r9+2   
+13. P5+1   r9.8   14. P5+1   r8+7   15. H3-2   c6+3   
+16. E3+5   c6.5   17. A4+5   c7.5   18. H6+7   c+.3   
+19. C8-2   c5.2   20. H7-8   h3+2   21. H2+3   h2+4   
+22. H3+2   h7+8   23. H8-9   c3.5   24. H2-3   c5.6   
+25. H9-7   p7+1   26. H7+6   p7+1   27. C6+2   p7+1   
+28. C6.2   c6.5   29. H6+8   h8+6   30. H8-7   c5.3   
+31. H7+5   p7+1   32. H5+3   h6+4   33. C2+2   h4+3   
+34. K5.4   c3.6   35. C2.7   h3-4   36. K4.5   c6.1   
+37. P1+1   p7.6   38. A5+6   c1-1   39. P5.4   c1.7   
+40. E5+3   h4+6   41. E7+5   h6-5   42. A6+5   h5+7   
+43. P4+1   h7-9   44. C7.1   h9-7   45. C1-3   h7+5   
+46. P4.5   h5+3   47. C1.6   k5.6   48. P5.6   e3+1   
+49. E5-7   k6.5   50. E3-5   k5.6   51. A5+4   k6.5   
+52. P6.5   e1-3   53. C6.4   p6.7   54. A6-5   p7.8   
+55. C4.6   p8.7   56. C6+3   h3-5   57. C6-5   h5-7   
+58. P5.6   h7+5   59. P6.5   h5-7   60. P5.6   h7+5   
+61. P6.5   p7.8   62. C6.2   h5+7   63. C2.1   h7-6   
+64. A5+6   h6+7   65. C1.8   h7-6   66. C8+4   h6+7   
+67. C8.5   h7-5   68. A4-5   k5.6   69. C5.9   k6.5   
+70. C9-1   h5+3   71. C9.8   k5.6   72. P5.6   e3+1   
+73. C8+5   k6+1   74. P6.5   e1-3   75. C8-3   k6-1   
+76. C8.6   h3-5   77. C6-3   k6.5   78. C6.9   k5.6   
+79. C9+6   k6+1   80. C9-8   k6-1   81. C9.6   h5+3   
+82. C6-1   h3+2   83. C6+1   h2-3   84. C6-1   h3+2   
+85. C6+1   h2-3   86. C6.7   k6+1   87. A5+4   k6-1   
+88. C7.4   k6.5   89. A4-5   h3-5   90. C4+3   k5.6   
+91. K5.4   k6.5   92. C4+1   k5.6   93. K4.5   k6.5   
+94. C4.5   k5.6   95. P5.6   k6+1   96. P6.7   k6-1   
+97. C5.8   k6+1   98. C8-1   h5+3   99. P+.6   e3+1   
+100. C8+4   k6-1   101. C8+1   k6+1   102. C8-4   k6-1   
+103. C8+2   h3-5   104. P6.5   e1-3   105. C8+2   k6+1   
+106. C8-1   k6-1   107. C8.6   e5+7   108. C6-4   e7-5   
+109. C6+4   e5+7   110. C6.8   e7-5   111. C8+1   k6+1   
+112. C8-5   h5+3   113. P5.6   e3+1   114. C8+4   k6-1   
+115. C8+1   k6+1   }END
+
+
+FORMAT 	WXF
+GAME 	YAN Dot San(W)JOUNI Ramo,65
+TIME       ;
+RESULT     1-0
+RED        YAN Dot San ; FM ; USA-San Francisco
+BLACK      JOUNI Ramo ; NT   ; Finland
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T17
+START{
+1.  C8.5   h8+7   2.  H8+7   c2.4   3.  R9+1   r1+1   
+4.  R9.4   r9+1   5.  C2.3   r1.6   6.  R1+1   c8+2   
+7.  P3+1   e3+5   8.  P7+1   h2+3   9.  C3+4   c8.9   
+10. R1.3   r6+7   11. R3.4   r9.2   12. P3+1   r2+3   
+13. P3.4   p3+1   14. P7+1   r2.3   15. H7-9   c4+1   
+16. C3.6   h7+6   17. C6.1   h6+7   18. R4+2   r3+4   
+19. R4.3   r3.1   20. H2+1   r1.3   21. P5+1   c9.3   
+22. E7+9   a4+5   23. C1+3   c3.7   24. P5+1   r3-1   
+25. E9-7   r3+2   26. P5.4   c7+5   27. R3-3   r3-3   
+28. C5+5   k5.4   29. R3+9   r3.9   30. H1+3   h3+4   
+31. C5.2   h4+6   32. R3-5   r9-6   33. R3.4   }END
+
+
+FORMAT 	WXF
+GAME 	KON Islang(W)BOSE Chandra,69
+TIME       ;
+RESULT     1-0
+RED        KON Islang ; NT ; China-Hong Kong
+BLACK      BOSE Chandra ; NT ; Mailaysia West
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T18
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+2   
+4.  H8+7   p3+1   5.  R9+1   c2.3   6.  P5+1   a4+5   
+7.  H7+5   e3+5   8.  P5+1   p5+1   9.  H5+4   p7+1   
+10. H4+3   c3.7   11. R9.2   c8+5   12. R2+8   c8.9   
+13. R2-9   h2+3   14. R2.1   r1.4   15. R1.2   r4+6   
+16. E3+1   r4.3   17. R2+6   c7+4   18. R2.7   r3.2   
+19. C8.6   c7.3   20. R7.4   p5+1   21. R4+2   c3.5   
+22. H3+5   r2.5   23. C6+4   h3+4   24. A4+5   h4+6   
+25. C5.4   h6+8   26. C4-1   p5.6   27. C6-4   r5.6   
+28. K5.4   r6.5   29. R4-2   r5.1   30. C6.5   r1.5   
+31. R4.9   h8+9   32. A5+4   p7+1   33. R9+3   a5-4   
+34. R9-6   r5-1   35. C4.5   }END
+
+
+FORMAT 	WXF
+GAME 	TAN Henry(D)TO Hung Tu,47
+TIME       ;
+RESULT     0.5-0.5
+RED        TAN Henry ; NT  ; Indonesia
+BLACK      TO Hung Tu ; NT ; Australia
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T19
+START{
+1.  C2.5   h2+3   2.  H2+3   r9+1   3.  R1.2   r9.4   
+4.  C8+2   p3+1   5.  C8.3   e7+9   6.  C5+4   h3+5   
+7.  R2+7   h8+7   8.  C3.5   c2.5   9.  C5+3   r1+2   
+10. R9+2   r1.5   11. R9.4   r4+4   12. A4+5   r4.6   
+13. R4+2   h5+6   14. H3-1   h6-4   15. H8+7   h4+3   
+16. E3+5   h7+5   17. R2.5   e3+5   18. P3+1   h5+4   
+19. H7-9   h3+2   20. H1+3   p7+1   21. P3+1   e9+7   
+22. H3+2   h4+3   23. H9+8   h3-5   24. P9+1   }END
+
+
+FORMAT 	WXF
+GAME 	YANG Xiao Lin(L)JIRAPARKDEEPAN Vithaya,56
+TIME       ;
+RESULT     0-1
+RED        YANG Xiao Lin ; NT ; Canada-Vancouver
+BLACK      JIRAPARKDEEPAN Vithaya ; FM ; Thailand
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T20
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  H7+6   r8+5   9.  C8+2   r8+3   
+10. C5.6   r8.2   11. H6+7   c9.7   12. R3.4   h7+8   
+13. R4.1   e3+5   14. E7+5   h8+7   15. R1.3   c2-1   
+16. A4+5   c2.3   17. C8.9   r1.2   18. H7-6   r-+5   
+19. H6-7   r-+1   20. P7+1   r-.3   21. P7+1   c3+2   
+22. R3+2   c3+4   23. C9.1   h7-9   24. P1+1   r2.4   
+25. K5.4   c3+2   26. R9.7   r3+3   27. R3-2   r3.1   
+28. H3+4   r4.5   }END
+
+
+FORMAT 	WXF
+GAME 	JI ZhongQi(L)YAMAZAKI Hideo,74
+TIME       ;
+RESULT     0-1
+RED        JI ZhongQi ; NT ; USA-New York
+BLACK      YAMAZAKI Hideo ; NT ; Japan
+DATE       10/19/2007
+PLACE      Macau
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T21
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H8+9   r9+1   
+4.  R9.8   r9.4   5.  H2+3   h8+9   6.  R1.2   r4+3   
+7.  C5+4   a4+5   8.  C8.5   p9+1   9.  C+-1   h2+1   
+10. A6+5   r1.2   11. R2+4   c8.7   12. R8+9   h1-2   
+13. P9+1   p7+1   14. R2.4   p7+1   15. R4.3   h2+4   
+16. H9+8   r4-1   17. C+.8   h9+7   18. R3.5   r4+1   
+19. C8+1   h7-9   20. R5.3   c3.2   21. C5.8   e5+7   
+22. P7+1   r4.3   23. R3.6   r3+5   24. A5-6   c2+3   
+25. R6+4   e7-5   26. R6-6   r3-3   27. C++1   c7+5   
+28. C+.1   r3.5   29. A4+5   c7.2   30. R6.8   c2.3   
+31. R8.7   c3.5   32. C1-1   r5.7   33. K5.4   r7+3   
+34. K4+1   r7-1   35. K4-1   r7+1   36. K4+1   p3+1   
+37. C1.4   r7-3   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN FaZuo(W)TORNQVIST Mikko,67
+TIME       ;
+RESULT     1-0
+RED        CHEN FaZuo ; NT ; United Kingdom
+BLACK      TORNQVIST Mikko ; NT  ; Finland
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T22
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  H8+7   r9.4   5.  R2+6   h2+3   6.  C8+2   p7+1   
+7.  R2.3   c5-1   8.  C8.5   r4+6   9.  R9.8   r1.2   
+10. R8+2   c5+4   11. P5+1   a4+5   12. R3-1   r4-1   
+13. P7+1   r4.3   14. E7+9   p1+1   15. R3+1   p9+1   
+16. A4+5   e3+1   17. P5+1   p3+1   18. H7+5   p5+1   
+19. H5+4   h7+5   20. C5+4   h3+5   21. R3.5   c2+4   
+22. R5-1   r2+2   23. P7+1   e1+3   24. E3+5   r2.6   
+25. H3+5   e3-5   26. H5+6   r3.4   27. H6+8   r4.3   
+28. R8+1   r3-4   29. H8-7   e5-3   30. R8.6   e7+5   
+31. R6+5   a5-4   32. H4+2   r6.8   33. H7+6   a6+5   
+34. R5.1   }END
+
+
+FORMAT 	WXF
+GAME 	WENG Han Ming(D)GU YiQing,191
+TIME       ;
+RESULT     0.5-0.5
+RED        WENG Han Ming ; NT   ; Germany
+BLACK      GU YiQing ; NT  ; Canada-Vancouver
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T23
+START{
+1.  C2.5   h8+7   2.  P3+1   r9.8   3.  H2+3   c8.9   
+4.  H8+9   h2+3   5.  R9+1   p1+1   6.  R9.4   a4+5   
+7.  R4+3   e3+5   8.  C8.7   r8+4   9.  R1.2   r8+5   
+10. H3-2   p7+1   11. P3+1   e5+7   12. R4.3   e7+5   
+13. H2+3   r1.4   14. R3.8   c2-2   15. P9+1   p1+1   
+16. R8.9   h7+6   17. A4+5   p3+1   18. R9.4   c2+4   
+19. H3+2   c9.6   20. R4.8   h6+5   21. C7.6   r4+6   
+22. H2+1   c6+6   23. R8.2   h5-6   24. R2-3   c2+4   
+25. R2+1   r4.7   26. R2.3   r7.8   27. R3.2   r8.9   
+28. R2.1   r9.4   29. H1-2   h6+4   30. C6+2   r4-1   
+31. H2-4   r4+1   32. H4-6   c2-4   33. C5+5   e7-5   
+34. H6-4   c2+4   35. R1.6   r4.8   36. R6-1   c2-1   
+37. R6+1   c2+1   38. R6-1   c2-1   39. R6.8   c2.7   
+40. R8+3   c7-3   41. E7+5   p5+1   42. R8.3   c7.9   
+43. R3.1   c9.8   44. P7+1   r8.1   45. H9-8   h3+5   
+46. P7+1   h5+3   47. E5+7   p5+1   48. H4+2   r1.8   
+49. H2-4   c8.5   50. R1+1   h3-4   51. R1.4   r8.3   
+52. H4+2   r3-1   53. K5.4   p5+1   54. H8+6   r3.8   
+55. H6+5   r8+2   56. H5+3   r8.7   57. H3+5   r7+2   
+58. K4+1   h4+3   59. H5+7   h3+5   60. R4-1   h5-4   
+61. R4.6   h4+6   62. R6.4   h6-4   63. R4+2   h4+5   
+64. R4-2   h5-4   65. H7-8   r7-5   66. K4-1   r7+5   
+67. K4+1   r7.8   68. H8-6   h4-6   69. H6-4   h6+7   
+70. R4.3   h7-9   71. R3-1   h9+7   72. R3+1   r8.9   
+73. R3.2   a5+4   74. R2.3   a6+5   75. R3-1   k5.6   
+76. R3+1   r9-3   77. R3.4   k6.5   78. R4.3   r9+3   
+79. R3.2   r9-2   80. K4-1   e5-7   81. R2.3   e7+9   
+82. R3.2   a5-4   83. R2.3   h7+9   84. R3.5   k5.6   
+85. R5.4   k6.5   86. R4.5   k5.6   87. R5.4   k6.5   
+88. R4.3   r9+2   89. K4+1   r9-3   90. R3.5   k5.6   
+91. R5.4   k6.5   92. R4.5   k5.6   93. R5.4   k6.5   
+94. R4.2   r9+1   95. H4+3   e9+7   96. K4-1   }END
+
+
+FORMAT 	WXF
+GAME 	NAEGLER Michael(D)HOFFARTH Karsten,44
+TIME       ;
+RESULT     0.5-0.5
+RED        NAEGLER Michael ; NT    ; Germany
+BLACK      HOFFARTH Karsten ; NT ; Germany
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T24
+START{
+1.  P7+1   c2.6   2.  H8+7   h2+3   3.  R9.8   e7+5   
+4.  P3+1   h8+9   5.  H2+3   r1.2   6.  C8+4   a6+5   
+7.  A4+5   p7+1   8.  P3+1   r9.7   9.  P3+1   r7+3   
+10. H3+4   r7+1   11. H4-2   r7+2   12. C8-3   r2+6   
+13. R8+3   c8+5   14. R1.2   r7.8   15. E3+5   h9+7   
+16. H7+6   h7+8   17. A5+4   c6.9   18. R8+3   c9+4   
+19. H6-7   c9+1   20. R8.7   c9.6   21. H7+6   c6-5   
+22. P7+1   h8-7   }END
+
+
+FORMAT 	WXF
+GAME 	SOUR SAMPHY(L)KOAY Hean Hong,66
+TIME       ;
+RESULT     0-1
+RED        SOUR SAMPHY ; NT ; Kampuchea
+BLACK      KOAY Hean Hong ; NT ; Mailaysia West
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T25
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  P3+1   h8+7   
+4.  R1.2   p3+1   5.  C8.7   e7+5   6.  H8+9   r1.2   
+7.  R9+1   c2.1   8.  P9+1   a6+5   9.  R9.6   c1+3   
+10. R2+6   r9.7   11. R6+3   c1-1   12. R2.3   c6+4   
+13. H3+2   c6.7   14. R3.4   h7+6   15. R6.8   r2+5   
+16. H9+8   h6+8   17. R4-2   r7.6   18. R4.6   c7.3   
+19. E7+9   h8-7   20. H8+9   h3+1   21. R6.9   c1+3   
+22. C5.9   h1-3   23. P3+1   h7+5   24. P5+1   h5+7   
+25. E3+5   h7+9   26. R9.6   h9+8   27. A6+5   c3.9   
+28. C7+5   r6+8   29. K5.6   c9+3   30. K6+1   h8+6   
+31. K6+1   c9-2   32. E5+3   r6-1   33. E3-5   r6.5   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG Zhang(W)IWAN SETIAWAN,55
+TIME       ;
+RESULT     1-0
+RED        ZHANG Zhang ; NT ; Germany
+BLACK      IWAN SETIAWAN ; NT   ; Indonesia
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T26
+START{
+1.  E3+5   c8.5   2.  H2+3   h8+7   3.  P3+1   p3+1   
+4.  R1.2   h2+3   5.  H8+7   r1+1   6.  C2+2   r1.6   
+7.  P7+1   p3+1   8.  C2.7   h3+4   9.  H7+6   r9.8   
+10. R2+9   h7-8   11. C8.7   e3+1   12. R9.8   c2.3   
+13. C-+5   h4-3   14. H6+7   e1+3   15. R8+5   r6+3   
+16. R8+3   h8+7   17. R8.3   h7-5   18. R3-2   c5.7   
+19. A4+5   r6-1   20. H7+5   e3-5   21. R3.4   c7+5   
+22. K5.4   h5+7   23. P3+1   h3+4   24. R4-4   h4+5   
+25. P3+1   h7-8   26. R4+7   k5+1   27. R4-1   k5-1   
+28. R4.2   }END
+
+
+FORMAT 	WXF
+GAME 	LYUU Yin San(L)TANAKA Atsushi,197
+TIME       ;
+RESULT     0-1
+RED        LYUU Yin San ; NT   ; Burna
+BLACK      TANAKA Atsushi ; NT  ; Japan
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T27
+START{
+1.  P3+1   c8.7   2.  E7+5   c2.5   3.  H2+3   h2+3   
+4.  H8+7   r1.2   5.  R9.8   r2+4   6.  H3+2   p7+1   
+7.  P3+1   r2.7   8.  P7+1   c7.6   9.  A6+5   h8+7   
+10. R8.6   r9+1   11. R6+4   r9.2   12. C8.9   r2+3   
+13. P1+1   p3+1   14. R1+3   p3+1   15. R6.7   r7.3   
+16. R7+1   r2.3   17. H2+3   c5.4   18. R1.4   a4+5   
+19. H3-2   e3+5   20. R4.3   c6-1   21. H7+8   c6.7   
+22. R3.4   r3+1   23. C2.3   r3.8   24. C3+6   r8.2   
+25. C3.2   r2.8   26. C2.4   r8.2   27. C9.7   h3+4   
+28. A5-6   r2.6   29. R4+1   h4+6   30. C4-2   p5+1   
+31. C7.9   h6-4   32. C4-4   h4+5   33. C9+4   c4+3   
+34. A4+5   p5+1   35. C9-2   c4+1   36. C9.8   p5.6   
+37. C4.1   h5-4   38. C8-2   c4.5   39. P9+1   h7+6   
+40. C1+4   h6+8   41. C1.7   h4+3   42. P9+1   p6+1   
+43. P9+1   h8+7   44. C8.3   p6+1   45. C3+1   h3+1   
+46. C7.6   h1+3   47. C6-5   p6+1   48. E3+1   c5.2   
+49. A5+6   c2+2   50. C3.6   a5-4   51. A6+5   h3-2   
+52. P1+1   h2-3   53. P9.8   p6.5   54. A6-5   h3+4   
+55. C6+1   h4-2   56. P1+1   c2-5   57. E1-3   h2-3   
+58. C6+1   c2.9   59. C6.4   h3+4   60. C4-1   c9.5   
+61. C4.1   k5+1   62. C1-1   k5.6   63. C1+1   h4+6   
+64. C1.4   h6+8   65. E3+1   e5+7   66. C4.3   e7+9   
+67. C3.4   k6.5   68. C4.3   h8-9   69. E1-3   h9+7   
+70. C3.4   k5.4   71. C4.3   a4+5   72. C3.4   h7+8   
+73. C4-1   c5.7   74. C4+5   c7.9   75. C4-2   h8-7   
+76. C4-1   c9.5   77. C4+3   h7-5   78. C4+2   a5+6   
+79. K5.4   c5.7   80. C4.2   h5+7   81. C2-4   c7.9   
+82. E5+3   h7+8   83. K4.5   c9.5   84. E3-5   c5+2   
+85. C2.4   h8-6   86. K5.4   h6-8   87. C4+5   a6-5   
+88. C4-1   a5+6   89. K4.5   h8+7   90. K5.4   c5+3   
+91. C4.2   h7-8   92. C2-4   c5.9   93. C2.3   h8-6   
+94. K4.5   h6+4   95. K5.6   c9-5   96. K6.5   h4+6   
+97. K5+1   k4.5   98. C3-2   h6+7   99. K5.6   }END
+
+
+FORMAT 	WXF
+GAME 	Ung Dau(L)YANG weiJun,120
+TIME       ;
+RESULT     0-1
+RED        Ung Dau ; NT ; Canada-Edmonton
+BLACK      YANG weiJun ; NT ; Japan
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T28
+START{
+1.  C2.5   h2+3   2.  H2+3   r9+1   3.  R1.2   h8+9   
+4.  R2+5   c8.6   5.  H8+9   r9.4   6.  P3+1   r4+4   
+7.  P3+1   p7+1   8.  R2.3   e3+5   9.  R3.4   a4+5   
+10. R4-1   r1.4   11. A4+5   h9+7   12. R4.6   r4+5   
+13. C5.6   h7+8   14. E7+5   h8+6   15. C8-1   r4.2   
+16. C8.7   p3+1   17. P9+1   r2+2   18. C6+1   h6-7   
+19. H3+4   c6.8   20. A5-4   c8+5   21. E5-7   h3+2   
+22. C7.1   r2.6   23. H4-5   r6+1   24. C1.3   c8-1   
+25. C6.2   h7+8   26. C3+5   p5+1   27. A6+5   r6-5   
+28. C3-2   r6+2   29. C3+2   r6.7   30. C3.2   r7+4   
+31. R9+1   r7-6   32. C2-1   r7.8   33. C2.4   r8.6   
+34. C4.2   r6+1   35. C2+4   c2+1   36. A5-6   c2.5   
+37. P1+1   c5+3   38. A6+5   p5+1   39. R9.6   p3+1   
+40. P7+1   p5.4   41. K5.6   h2+1   42. R6+1   c5.4   
+43. R6.8   h1-3   44. R8+7   a5-4   45. H9+7   c4.5   
+46. R8-2   p4.5   47. R8.6   a4+5   48. R6+1   r6.2   
+49. H7+5   r2+5   50. H-+7   c5.7   51. H5-3   r2.3   
+52. K6+1   r3-3   53. H3-5   r3.1   54. R6.8   r1.4   
+55. A5+6   h3+4   56. R8+1   a5-4   57. R8-5   h4-2   
+58. K6.5   r4.5   59. K5.4   h2+4   60. A4+5   r5.6   }END
+
+
+FORMAT 	WXF
+GAME 	ARTO Vaara(W)MACGREGOR Angua,57
+TIME       ;
+RESULT     1-0
+RED        ARTO Vaara ; NT   ; Finland
+BLACK      MACGREGOR Angua ; NT  ; Australia
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T29
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c2.5   5.  H8+7   r1+1   6.  H3+4   c8+1   
+7.  C5+4   h7+5   8.  H4+5   c8-3   9.  E7+5   c8.1   
+10. R2+9   c1+5   11. A6+5   h2+1   12. C8+2   r1.2   
+13. P7+1   c5+4   14. R2-6   c5.3   15. R2.7   r2+4   
+16. K5.6   r2+4   17. K6+1   r2-1   18. K6-1   p1+1   
+19. R7.6   a6+5   20. H5-6   r2+1   21. K6+1   r2-1   
+22. K6-1   r2+1   23. K6+1   r2-1   24. K6-1   e3+5   
+25. H6+4   r2-4   26. H7+5   r2.5   27. H4+2   r5-1   
+28. H5+6   a5+6   29. H6+7   }END
+
+
+FORMAT 	WXF
+GAME 	CHEIN Kvi(L)GOLLMAR Bastian,88
+TIME       ;
+RESULT     0-1
+RED        CHEIN Kvi ; NT   ; Burna
+BLACK      GOLLMAR Bastian ; NT   ; Germany
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T30
+START{
+1.  P3+1   c2.5   2.  H2+3   h2+3   3.  E7+5   r1.2   
+4.  H8+6   h8+9   5.  H3+4   r2+4   6.  H4+3   c8.6   
+7.  H3+5   e3+5   8.  C2.3   r9.8   9.  P7+1   p9+1   
+10. R9.7   r2.4   11. H6+7   r8+6   12. C8+1   r4.2   
+13. R7.8   c6+4   14. P7+1   r2.3   15. H7+5   r3.2   
+16. C8+1   p5+1   17. H5+3   a6+5   18. P5+1   e5+7   
+19. P5+1   c6.5   20. A4+5   e7-5   21. P5.6   r2.4   
+22. C8+3   r4.6   23. C8-5   h9+8   24. R8.7   p3+1   
+25. C3.4   r6+1   26. P3+1   e5+7   27. R7+5   r6-3   
+28. R7.3   r6.7   29. R3.7   h8+6   30. R7+1   h6+4   
+31. C8.6   c5-1   32. C4-2   r8.7   33. E3+1   r+.9   
+34. R1.2   r9.6   35. R2+4   h4-6   36. R2-2   h6+8   
+37. R7-2   r6.5   38. E1-3   p9+1   39. C6.7   c5.8   
+40. R7.2   p9.8   41. P9+1   e7+5   42. E3+1   h3+5   
+43. C4.2   h5+4   44. C7.6   h4+6   }END
+
+
+FORMAT 	WXF
+GAME 	BYWAY Paul(W)KLEIN,93
+TIME       ;
+RESULT     1-0
+RED        BYWAY Paul ; NT   ; United Kingdom
+BLACK      KLEIN ; NT ; Germany
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T31
+START{
+1.  C2.6   c8.5   2.  H2+3   h8+7   3.  A4+5   r9.8   
+4.  E3+5   c2.3   5.  P7+1   h2+1   6.  H8+9   r1.2   
+7.  C8.7   p1+1   8.  R9.8   r2+9   9.  H9-8   r8+4   
+10. R1.4   a4+5   11. H8+9   r8.4   12. R4+4   r4+2   
+13. C7+1   p7+1   14. P3+1   r4-2   15. C7-2   e7+9   
+16. C6.7   h7+6   17. P3+1   e9+7   18. C++4   c5.6   
+19. C+.1   e7-9   20. R4.3   c3+6   21. H9-7   c6.3   
+22. H7+8   e3+5   23. H8-6   h1+2   24. C1-1   h6+5   
+25. H3+5   r4.9   26. R3-1   h2+1   27. H5+3   r9.7   
+28. R3.9   e9-7   29. R9.5   p1+1   30. R5+3   p1.2   
+31. R5-1   r7-1   32. P7+1   p2.3   33. R5-1   p3+1   
+34. H6+7   e5+3   35. H7+5   r7.5   36. R5.6   c3.5   
+37. R6+1   e3-1   38. H5-4   r5.7   39. H4+2   r7.3   
+40. H3+5   r3.5   41. H5+3   c5.7   42. P1+1   e1-3   
+43. P1+1   e3+5   44. P1+1   c7.6   45. P1.2   r5+2   
+46. H2+4   r5.9   47. H4+6   }END
+
+
+FORMAT 	WXF
+GAME 	DEKKER Alian(D)SONE Toshihiko,70
+TIME       ;
+RESULT     0.5-0.5
+RED        DEKKER Alian ; NT   ; United Kingdom
+BLACK      SONE Toshihiko ; NT ; Japan
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T32
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p3+1   5.  P3+1   e3+5   6.  C8.7   c8+2   
+7.  R9+1   a4+5   8.  R9.6   h3+2   9.  R6+5   p3+1   
+10. R6.8   h2+1   11. C7+2   h1-3   12. R8+1   h3-5   
+13. C5+3   p5+1   14. E3+5   r1.4   15. R8-1   c8.6   
+16. R2+9   h7-8   17. R8.4   c6.8   18. R4.3   h8+9   
+19. R3.4   r4+8   20. A4+5   c8+3   21. H3-2   p9+1   
+22. P3+1   r4.2   23. R4-4   c8-5   24. P3+1   h9+8   
+25. H2+3   e5-3   26. R4+3   h8+7   27. R4-1   c8.1   
+28. H9+8   p5+1   29. R4-1   r2-3   30. R4.3   p5+1   
+31. R3.5   p9+1   32. P1+1   r2.9   33. R5.1   r9.5   
+34. R1.5   r5.9   35. R5.1   r9.5   }END
+
+
+FORMAT 	WXF
+GAME 	HAPKHINA Irimia(L)OLAVI Stenman,64
+TIME       ;
+RESULT     0-1
+RED        HAPKHINA Irimia ; NT  ; Canada-Vancouver
+BLACK      OLAVI Stenman ; NT   ; Finland
+DATE       10/19/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M6T33
+START{
+1.  P7+1   c8.5   2.  H2+3   h8+7   3.  C8.6   c2.3   
+4.  E3+5   r9.8   5.  R1.2   r8+4   6.  P3+1   p3+1   
+7.  C6.7   p3+1   8.  E5+7   r1+2   9.  E7+5   r1.2   
+10. C2.1   r8+5   11. H3-2   r2+6   12. A4+5   c3.2   
+13. C7.8   r2+1   14. R9.8   c2+7   15. E5-7   c5+4   
+16. C1.5   e7+5   17. H2+3   c5-1   18. H3+4   c5.7   
+19. H4+3   a4+5   20. K5.4   h2+3   21. C5.3   e5+7   
+22. C3+3   c7-2   23. C3+2   a5-4   24. C3.6   h3+4   
+25. C6.2   c7.6   26. C2-5   h4+6   27. K4.5   p5+1   
+28. C2.1   p5+1   29. C1+4   p5+1   30. C1.9   h6+4   
+31. C8.6   p5+1   32. K5.4   p5+1   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(W)NG JunMing,59
+TIME       ;
+RESULT     1-0
+RED        XU YinChuan ; IGM   ; China-Guangdong
+BLACK      NG JunMing ; NT ; Singapore
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T01
+START{
+1.  P7+1   p7+1   2.  C2.3   c8.5   3.  H8+7   h8+7   
+4.  E7+5   h2+1   5.  R1+1   c2.3   6.  R1.6   r1.2   
+7.  R9.8   r2+4   8.  A6+5   p1+1   9.  R6+6   c3-1   
+10. C8.9   r2+5   11. H7-8   h7+6   12. R6+1   r9.8   
+13. H2+1   h6+5   14. C3-1   c3+1   15. H8+6   p5+1   
+16. R6-2   a6+5   17. C9+3   e7+9   18. C3.4   c3+3   
+19. C4+5   r8+3   20. C9+1   c3.8   21. P1+1   c8+1   
+22. P9+1   h5+3   23. P9+1   p5+1   24. C4-4   r8.4   
+25. C4.7   c5.3   26. C9.6   c3+5   27. H1+2   p3+1   
+28. H2+3   h1-3   29. C6.5   e3+5   30. H3+2   }END
+
+
+FORMAT 	WXF
+GAME 	WOO WeiCheung(L)TAN ZhenBang,152
+TIME       ;
+RESULT     0-1
+RED        WOO WeiCheung ; FM ; France
+BLACK      TAN ZhenBang ; NT ; USA-New York
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T02
+START{
+1.  P3+1   e3+5   2.  H2+3   h8+9   3.  C8.5   h2+4   
+4.  H8+7   r9+1   5.  R1+1   p7+1   6.  P3+1   r9.7   
+7.  R1.6   h4+6   8.  H3+4   h6+7   9.  R9+1   a4+5   
+10. C2.4   c8.6   11. C4+5   c2.6   12. E3+1   p3+1   
+13. R6.3   r1.4   14. R9.6   r4+8   15. R3.6   h7+6   
+16. C5.4   r7+6   17. R6.4   r7.9   18. H7-5   r9-1   
+19. H4+2   h6+8   20. H2-1   c6+6   21. H5+6   h9+7   
+22. A6+5   c6.9   23. K5.6   c9+1   24. K6+1   p9+1   
+25. P5+1   p9+1   26. H1-3   h8-7   27. C4.5   h+-6   
+28. H6-4   c9-2   29. C5+4   c9.6   30. C5.3   c6+1   
+31. K6-1   h6+5   32. C3.7   c6-5   33. E7+5   c6.4   
+34. H3+5   c4+3   35. P9+1   p9.8   36. K6.5   c4-3   
+37. H5-3   p8+1   38. H3+2   k5.4   39. H2+4   c4.5   
+40. H4-6   h5+4   41. K5.6   h4+2   42. K6+1   c5+2   
+43. A5+6   c5.1   44. H6-8   c1.2   45. P7+1   p3+1   
+46. E5+7   p1+1   47. K6.5   p1+1   48. H8-7   h2-1   
+49. H7+8   p8.7   50. K5-1   p7.6   51. A4+5   p6.5   
+52. K5.4   e5+3   53. E7-5   c2.6   54. H8+7   p1.2   
+55. C7.6   h1-2   56. C6-1   h2-3   57. C6-1   e7+5   
+58. H7+6   h3+4   59. H6+8   k4.5   60. C6.5   c6-3   
+61. K4.5   p5+1   62. H8-7   p2.3   63. C5.3   a5+4   
+64. H7-5   a6+5   65. C3+2   c6+1   66. C3-2   p3.4   
+67. H5-4   p4.5   68. H4-3   c6.5   69. K5.4   h4+5   
+70. C3.1   h5+7   71. C1-4   p++1   72. C1.3   h7-6   
+73. C3.1   p+.4   74. C1+2   e5+7   75. C1-2   a5+6   
+76. C1+2   c5.7   }END
+
+
+FORMAT 	WXF
+GAME 	HONG Zhi(W)CHIANG ChungHao,127
+TIME       ;
+RESULT     1-0
+RED        HONG Zhi ; GM ; China-Jilin
+BLACK      CHIANG ChungHao ; NT ; China-Taipei
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T03
+START{
+1.  P7+1   p7+1   2.  C2.3   c2.5   3.  H8+7   h2+3   
+4.  R9.8   r1.2   5.  C8+4   h8+7   6.  C3+3   c8+2   
+7.  H2+3   p3+1   8.  P7+1   c8.3   9.  R1.2   c3+2   
+10. C8.7   h7+6   11. R2+4   c5.6   12. R2.7   c3.7   
+13. R7+1   h6-7   14. R8+9   h3-2   15. C3+1   e7+5   
+16. R7.8   h2+1   17. C7.8   r9.8   18. H7+6   a6+5   
+19. H3-5   r8+6   20. P1+1   c7+2   21. H5+7   r8.7   
+22. C3-5   r7+2   23. E7+5   c6-2   24. C8+1   r7-4   
+25. R8+1   c6+3   26. R8-5   c6+4   27. E5-7   r7+5   
+28. R8.4   c6.9   29. R4.1   c9.6   30. R1.2   c6-7   
+31. E7+5   r7-5   32. R2+5   h7+6   33. R2.5   h6+4   
+34. H7+6   r7.4   35. H6-4   r4.2   36. C8-1   p9+1   
+37. P1+1   r2.9   38. H4+5   p1+1   39. C8-2   a5+6   
+40. C8.5   a4+5   41. H5-7   r9.6   42. A6+5   r6-1   
+43. R5-1   r6+1   44. R5.9   r6.1   45. H7+9   h1+2   
+46. C5.8   h2+4   47. H9-7   h4+5   48. H7+6   c6+1   
+49. P9+1   h5-3   50. P9+1   c6.9   51. A5+6   e5+7   
+52. C8.7   e3+5   53. P9.8   k5.6   54. A4+5   c9+3   
+55. P8+1   h3-1   56. P8.7   h1-3   57. P5+1   a5+4   
+58. K5.4   c9-3   59. P5+1   c9.4   60. H6+4   h3+5   
+61. K4.5   c4.5   62. H4+2   k6+1   63. H2-3   k6-1   
+64. P7.6   }END
+
+
+FORMAT 	WXF
+GAME 	Nguyen Thanh Bao(D)NGUYEN Vu Quan,55
+TIME       ;
+RESULT     0.5-0.5
+RED        Nguyen Thanh Bao ; NT ; Vietnam
+BLACK      NGUYEN Vu Quan ; NT ; Vietnam
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T04
+START{
+1.  E3+5   p7+1   2.  P7+1   h8+7   3.  H8+7   e7+5   
+4.  R9+1   h2+1   5.  R9.3   c8-2   6.  P3+1   p7+1   
+7.  R3+3   r1+1   8.  R3.4   c8.7   9.  H2+4   p1+1   
+10. C2-2   p3+1   11. P7+1   r1.3   12. H7+6   r3+3   
+13. H6-8   r3-2   14. C8+5   r3.2   15. H8-6   h7+8   
+16. R4.3   r9+2   17. H4+2   r2+2   18. R3+2   h8+6   
+19. R3.4   h6+7   20. H2+3   h7+8   21. R1.2   r2.7   
+22. H3-4   p5+1   23. H6+7   a6+5   24. A4+5   p9+1   
+25. R4.9   p9+1   26. P1+1   r9+3   27. R9-1   r9.4   
+28. R2+9   }END
+
+
+FORMAT 	WXF
+GAME 	CHONG Heung Ming(D)WU Kui Lin,71
+TIME       ;
+RESULT     0.5-0.5
+RED        CHONG Heung Ming ; NT ; Philippines
+BLACK      WU Kui Lin ; IGM ; China-Taipei
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T05
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  R9+1   e7+5   
+4.  E3+5   h2+1   5.  R9.4   r1+1   6.  H7+8   c2.4   
+7.  H2+3   c4+3   8.  C2+2   c8.9   9.  R4.6   h7+6   
+10. H8-7   c4-3   11. C2.4   c9.6   12. R6+4   c6+3   
+13. R6.4   r1.2   14. C8.9   c6.8   15. R1.2   r9.8   
+16. A4+5   r2+5   17. H7+6   r2.1   18. H6+5   r8+3   
+19. H5-4   h1-3   20. P3+1   h3+4   21. R4.8   p7+1   
+22. E5+3   c8+3   23. E3-5   r1-2   24. R8.9   p1+1   
+25. H3-4   c8-3   26. H-+3   c8+3   27. H3-4   c8-3   
+28. H-+3   h4+6   29. H3+2   r8+2   30. R2+4   h6+8   
+31. C9.7   p3+1   32. P7+1   e5+3   33. C7+7   a4+5   
+34. C7-3   h8-6   35. C7.3   e3-5   36. H4+6   }END
+
+
+FORMAT 	WXF
+GAME 	LOOK Kean Chor(W)YE RongGuang,149
+TIME       ;
+RESULT     1-0
+RED        LOOK Kean Chor ; ICM ; Mailaysia West
+BLACK      YE RongGuang ; NT ; Holland
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T06
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+9   3.  R1.2   c8.6   
+4.  P7+1   e3+5   5.  H8+7   r9+1   6.  H7+6   r9.4   
+7.  C8+2   c2+2   8.  R2+4   a4+5   9.  H3-5   p9+1   
+10. H5+7   c2.4   11. R9.8   p1+1   12. C8+2   p3+1   
+13. P7+1   e5+3   14. C5.1   p7+1   15. P3+1   e3-5   
+16. P3+1   e5+7   17. E3+5   r4.2   18. C8-5   e7-5   
+19. C8+6   c4-2   20. C8.6   r2+8   21. C6.4   r2-7   
+22. C4.2   a5+6   23. R2.4   a6+5   24. P1+1   h3+2   
+25. H6+4   p5+1   26. P1+1   r1+3   27. C1+5   e7+9   
+28. C2.5   a5-4   29. C5.1   a6-5   30. C1+2   r2.9   
+31. C1.2   r9.8   32. C2.1   r8.9   33. C1.2   r1.6   
+34. R4.3   r9.6   35. R3+5   a5-6   36. R3-1   a6+5   
+37. R3+1   a5-6   38. R3-1   a6+5   39. R3+1   a5-6   
+40. R3-3   a6+5   41. R3.4   r6+1   42. H4-3   r6.3   
+43. H7+8   r3.8   44. C2.1   h2+4   45. H3-4   r8.2   
+46. H8-9   r2.6   47. H4+2   r6+1   48. H2+3   h4+6   
+49. H3-4   r6.9   50. C1.2   h6-8   51. A6+5   r9+2   
+52. H4+3   r9.6   53. H3+5   r6.5   54. H5-7   r5.4   
+55. E5+3   r4-2   56. C2-3   h8-7   57. C2-4   h7+6   
+58. H9-7   r4.3   59. E7+5   r3.2   60. C2+2   h6+7   
+61. C2-3   h7-6   62. C2+3   h6+7   63. C2-3   k5.6   
+64. C2.4   k6.5   65. H-+6   r2+5   66. A5-6   h7+6   
+67. H6-4   r2.1   68. E3-1   a5-6   69. E1-3   a4+5   
+70. H4+5   a5+6   71. H5-6   a6+5   72. E5-7   p1+1   
+73. H7+8   k5.4   74. C4.6   a5+4   75. H6+7   }END
+
+
+FORMAT 	WXF
+GAME 	DANG Thanh Trung(D)ZHENG ZhengMing,72
+TIME       ;
+RESULT     0.5-0.5
+RED        DANG Thanh Trung ; FM  ; France
+BLACK      ZHENG ZhengMing ; NT  ; Canada-Toronto
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T07
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  C5+4   a4+5   
+4.  E7+5   h2+4   5.  C5-1   r1.2   6.  H8+6   r9+1   
+7.  R9.8   r9.6   8.  H2+3   r2+6   9.  P3+1   r6+2   
+10. A6+5   h8+9   11. R1.2   p9+1   12. R2+6   c8.7   
+13. C8.6   r2+3   14. H6-8   h4+2   15. R2-3   p3+1   
+16. P7+1   h2+3   17. P5+1   h3+5   18. R2.8   r6.5   
+19. C5.6   p7+1   20. H3+5   p7+1   21. R8+6   c3-2   
+22. C++3   r5.3   23. C--2   p7.6   24. H8+7   r3-2   
+25. C+-4   c3.4   26. C-.7   r3.4   27. H5+7   e5+3   
+28. C7.6   r4.3   29. C+.4   h9+7   30. C4-1   h7+8   
+31. C4.5   h8+6   32. A5+4   c7+4   33. A4+5   c7.5   
+34. H-+5   r3+2   35. H7-6   h6-7   36. E5+3   e7+5   }END
+
+
+FORMAT 	WXF
+GAME 	HE ZhiMing(W)KUNG Kar Cheung,107
+TIME       ;
+RESULT     1-0
+RED        HE ZhiMing ; NT  ; Italy
+BLACK      KUNG Kar Cheung ; FM ; Philippines
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T08
+START{
+1.  P3+1   c8.7   2.  H8+7   h8+9   3.  H2+3   r9.8   
+4.  H3+4   h2+3   5.  C2.5   e3+5   6.  H4+5   h3+5   
+7.  C5+4   a4+5   8.  C8.9   r8+4   9.  R9.8   p3+1   
+10. R8+6   c2.3   11. E7+5   r8.4   12. C5.9   r4+2   
+13. C++1   r1.3   14. P9+1   r4.3   15. H7-8   c3.4   
+16. R1+1   r+.4   17. P5+1   p3+1   18. P5+1   c7.6   
+19. P5+1   c4-2   20. P5+1   e7+5   21. R1.4   e5-7   
+22. A4+5   p3+1   23. R4+4   c6.5   24. R4.5   h9-7   
+25. P9+1   r4-4   26. C+-1   h7+9   27. P1+1   c5.8   
+28. R8-1   r4+1   29. C-+2   c8.5   30. H8+9   a5+4   
+31. H9+8   a6+5   32. H8+6   r4+1   33. R5.6   c4+4   
+34. R8.6   r3+3   35. R6.5   p3+1   36. C++3   p3+1   
+37. C-.8   r3.2   38. C8+1   a5+6   39. C9.3   h9-7   
+40. C3.2   a6-5   41. C2-8   r2.3   42. C8.7   p3+1   
+43. P9.8   p3.4   44. K5.6   c5.9   45. C2+2   r3.6   
+46. C2.5   k5.6   47. R5.2   h7+5   48. C7+2   a5+6   
+49. C5.9   r6.1   50. C9+2   a4-5   51. R2+4   k6+1   
+52. C7-3   a5-4   53. R2-1   k6-1   54. R2-1   }END
+
+
+FORMAT 	WXF
+GAME 	LEE Michuel(L)LU GuoLong,166
+TIME       ;
+RESULT     0-1
+RED        LEE Michuel ; NT ; USA-San Francisco
+BLACK      LU GuoLong ; NT ; Singapore
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T09
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  H8+7   r9.4   5.  P3+1   h2+3   6.  P7+1   r1+1   
+7.  C8.9   r4+5   8.  R9.8   r4.3   9.  R8+2   p3+1   
+10. R2+5   r3-1   11. C9-1   c2+2   12. R2-3   c5-1   
+13. C9.7   r3.7   14. C7.3   r7.3   15. H3+2   c5.2   
+16. R8.9   c+.1   17. R9.8   c1.2   18. R8.9   c+.1   
+19. R9.8   c1.2   20. R8.9   c+.1   21. R9.8   c1.2   
+22. R8.9   h7-9   23. C5.3   r3.6   24. C++7   h9-7   
+25. C3+8   k5+1   26. R9-1   h3+4   27. R9.3   r1+1   
+28. H2+1   r1.9   29. R3+5   e3+5   30. H1+3   r6-3   
+31. H3+2   r9+2   32. R3.5   h4-3   33. R5.8   e5-7   
+34. R8+2   k5-1   35. E3+5   a6+5   36. R8-2   r9.6   
+37. A6+5   r+-1   38. R8.4   r6+1   39. R2.3   e7+5   
+40. H2-1   c2-3   41. R3+2   h3+4   42. P1+1   h4+3   
+43. P1+1   c2.3   44. P1.2   r6.4   45. E5-3   r4+5   
+46. H1-3   e5-3   47. H3-5   e3+5   48. R3-2   r4-4   
+49. H5+3   e5-7   50. P2+1   h3-2   51. P5+1   p3+1   
+52. H7+5   r4+2   53. H5+3   r4.6   54. R3.1   p3.4   
+55. P5+1   a5-6   56. P5+1   c3.7   57. H--4   r6.3   
+58. E3+5   c7.2   59. R1+2   a4+5   60. P9+1   r3-3   
+61. R1+1   h2+3   62. R1.5   c2+8   63. A5-6   h3+4   
+64. H4+3   r3+6   65. K5+1   c2-1   66. K5-1   c2+1   
+67. K5+1   c2-1   68. K5-1   c2+1   69. K5+1   c2-1   
+70. K5-1   c2+1   71. K5+1   r3-1   72. K5.4   h4+6   
+73. A6+5   h6-8   74. H+-2   c2-1   75. H2-3   r3-2   
+76. A5-6   r3+2   77. A6+5   r3-2   78. A5-6   r3+2   
+79. A6+5   c2.5   80. H--5   h8-7   81. K4-1   r3.5   
+82. H3-1   r5.9   83. H1-3   r9.7   }END
+
+
+FORMAT 	WXF
+GAME 	JIRAPARKDEEPAN Vithaya(D)MINARTA Ifan,67
+TIME       ;
+RESULT     0.5-0.5
+RED        JIRAPARKDEEPAN Vithaya ; FM ; Thailand
+BLACK      MINARTA Ifan ; IM ; Indonesia
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T10
+START{
+1.  C2.6   r9+1   2.  H2+3   r9.4   3.  H8+7   c8.5   
+4.  R1.2   h8+7   5.  R2+6   h2+3   6.  R2.3   c5-1   
+7.  E3+5   r4+5   8.  R9+2   c5.7   9.  R3.4   c7.3   
+10. A4+5   r4.3   11. C8+4   p3+1   12. H7-9   p3+1   
+13. C6+6   h3+4   14. R4.3   e7+5   15. R9.6   h4-2   
+16. R6+4   c2.3   17. R6.8   r3.4   18. C6.3   c-.4   
+19. R8.7   r1+2   20. R7-2   r1.2   21. K5.4   c4+2   
+22. R3-2   c4+1   23. R3+2   c4-1   24. R3-2   c4+1   
+25. R3+2   c4.6   26. P3+1   r4-5   27. P3+1   c6+2   
+28. R3.4   r4.7   29. R4-3   a4+5   30. P3+1   h7-9   
+31. H3+2   r7.8   32. K4.5   r2+6   33. R7+3   r8+4   
+34. R7-1   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN Ling Wei(W)YAN Dot San,161
+TIME       ;
+RESULT     1-0
+RED        CHEN Ling Wei ; NT ; Malaysia East
+BLACK      YAN Dot San ; FM ; USA-San Francisco
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T11
+START{
+1.  E3+5   c8.5   2.  H2+3   h8+7   3.  P3+1   p3+1   
+4.  C8.6   h2+3   5.  H8+7   h3+2   6.  C2+1   r1+1   
+7.  P9+1   r9.8   8.  R1.2   p5+1   9.  A6+5   p5+1   
+10. C6+3   h7+5   11. C6.8   h5+4   12. P5+1   h4-2   
+13. C2+2   p7+1   14. R2+3   r1.4   15. P3+1   c2.3   
+16. P5+1   r4+7   17. H3+4   h2+3   18. R9+1   r4-3   
+19. H4+5   r4-2   20. H7+5   c3.2   21. H--7   c2.3   
+22. R9+2   r8+3   23. R9.7   c3+4   24. R2.7   c5.9   
+25. R7.4   e3+5   26. H5+3   r4.6   27. H3-4   r6-1   
+28. C2-2   c9+4   29. C2-3   c9+3   30. C2.3   e5+7   
+31. R4.1   c9.8   32. H7+5   e7+5   33. H5-3   c8-1   
+34. C3.2   c8.6   35. C2+4   a6+5   36. R1-2   c6-2   
+37. R1+2   c6+2   38. C2.5   r8+4   39. H3+5   c6.8   
+40. R1+3   r8-2   41. C5+3   r6.5   42. H4+5   e7-5   
+43. H5+4   e5+7   44. R1.9   r8.5   45. R9.2   c8.9   
+46. P5.6   c9+1   47. R2-6   c9-8   48. P9+1   p3+1   
+49. H4+6   r5.4   50. R2+9   a5-6   51. R2-1   c9+8   
+52. E5-3   a4+5   53. H6+7   k5.4   54. H7-8   p3+1   
+55. R2-2   c9-8   56. R2.7   p3.4   57. R7+3   k4+1   
+58. P9+1   e7-5   59. P9+1   c9-1   60. R7-3   c9+2   
+61. R7.6   a5+4   62. P9.8   a6+5   63. P8.7   p4.5   
+64. R6.3   r4.2   65. P6+1   r2+4   66. P7.6   a5+4   
+67. P6+1   c9.4   68. H8+6   r2.3   69. A5-6   r3-7   
+70. H6-5   e5+3   71. A4+5   k4.5   72. R3-3   r3.5   
+73. H5-3   r5+1   74. H3-5   e3-5   75. H5+4   r5.6   
+76. H4-6   r6+2   77. H6+5   r6-3   78. R3.5   k5.6   
+79. H5+7   e5-3   80. H7+6   k6-1   81. A5+4   }END
+
+
+FORMAT 	WXF
+GAME 	YAMAZAKI Hideo(D)KON Islang,54
+TIME       ;
+RESULT     0.5-0.5
+RED        YAMAZAKI Hideo ; NT ; Japan
+BLACK      KON Islang ; NT ; China-Hong Kong
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T12
+START{
+1.  C2.5   c8.5   2.  H2+3   r9+1   3.  R1.2   h8+7   
+4.  C8.6   r9.4   5.  A4+5   h2+3   6.  H8+7   r4+5   
+7.  R9.8   r1.2   8.  R8+6   r4.3   9.  R2+8   a4+5   
+10. P3+1   c2.1   11. R8+3   h3-2   12. H3+4   r3-2   
+13. C5.3   c5+4   14. C6.5   c5-1   15. H4+3   r3+2   
+16. R2.4   r3.7   17. R4-4   c1.5   18. H3+5   c5-3   
+19. R4-2   p3+1   20. C5+5   e7+5   21. E7+5   h7+8   
+22. H7+6   h8+9   23. C3.1   p5+1   24. H6+4   r7.8   
+25. C1+4   r8-2   26. H4+3   r8-2   27. H3-4   r8+2   }END
+
+
+FORMAT 	WXF
+GAME 	LEONG SioMan(L)WONG Chi Keung,128
+TIME       ;
+RESULT     0-1
+RED        LEONG SioMan ; NT ; China-Macau
+BLACK      WONG Chi Keung ; IM ; China-Hong Kong
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T13
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  H8+9   h2+3   5.  C8.7   r1.2   6.  P7+1   e3+1   
+7.  P7+1   e1+3   8.  H9+7   c2+4   9.  H7+6   h3-1   
+10. R9.8   r9+1   11. R2+4   r9.4   12. H6+4   h1+3   
+13. P3+1   h7+6   14. P3+1   h6+4   15. H4+3   r4.7   
+16. R2.6   r7+3   17. A6+5   c5.7   18. H3-1   a6+5   
+19. C5.2   r7.8   20. C2.4   r8.7   21. E7+5   e3-5   
+22. R6+2   p3+1   23. C7+5   c7.3   24. R6.5   r7+4   
+25. H1+2   r7-2   26. R5.2   c3.4   27. C4+6   c4+4   
+28. C4.2   c4.1   29. C2+1   a5-6   30. R2.9   c1.5   
+31. H2-1   c5.9   32. R9.1   c2+2   33. A5-6   c2-3   
+34. A4+5   c2.9   35. R1-2   r2+9   36. C2-6   c9+1   
+37. C2-1   c9-1   38. C2+1   c9+1   39. C2-1   c9-1   
+40. C2+1   c9+1   41. C2-1   c9.5   42. E3+5   r2-3   
+43. R1.5   r7+2   44. H1-3   r2.7   45. C2.4   r+.6   
+46. R5.3   r7-1   47. E5+3   p3+1   48. C4.9   r6-2   
+49. H3+4   e5-3   50. K5.4   p3.4   51. E3-1   p4.5   
+52. E1-3   p5.6   53. E3+5   r6.5   54. E5-3   r5.9   
+55. E3+1   p6+1   56. C9.8   k5+1   57. C8.9   e7+9   
+58. C9.8   e9+7   59. C8.9   r9-1   60. C9.8   e3+5   
+61. K4.5   e5-7   62. K5.4   e7-9   63. C8.9   r9.8   
+64. C9.8   p6+1   }END
+
+
+FORMAT 	WXF
+GAME 	CHIU Yu Kuen(W)TAN Henry,77
+TIME       ;
+RESULT     1-0
+RED        CHIU Yu Kuen ; IM ; China-Hong Kong
+BLACK      TAN Henry ; NT  ; Indonesia
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T14
+START{
+1.  C2.6   e3+5   2.  H2+3   r9+1   3.  R1.2   r9.4   
+4.  A6+5   h8+9   5.  P7+1   r4+5   6.  H8+7   r4.3   
+7.  R9+2   p9+1   8.  P3+1   c8+2   9.  P9+1   p1+1   
+10. P9+1   p3+1   11. C8-1   p3+1   12. C8.7   r3.2   
+13. C7+3   r2.3   14. E3+5   h2+4   15. C7.4   r1.3   
+16. H7+9   c2+7   17. C6-2   c8.5   18. C4.5   c2.4   
+19. K5.6   r+.4   20. K6.5   c5+2   21. H3+5   r4.5   
+22. C5.7   h4+6   23. H9+8   h6+5   24. C7+3   p7+1   
+25. P3+1   e5+7   26. R9.6   a4+5   27. R2+4   h9+7   
+28. R2.8   h5-3   29. R8.9   r5-2   30. R6.7   h7-5   
+31. R7+3   e7-9   32. R7.5   p5+1   33. P9+1   r3.2   
+34. H8+6   r2+5   35. R9-1   p5+1   36. P9.8   r2-2   
+37. R9+6   a5-4   38. H6+4   k5+1   39. R9-1   }END
+
+
+FORMAT 	WXF
+GAME 	TO Hung Tu(D)CHEN FaZuo,80
+TIME       ;
+RESULT     0.5-0.5
+RED        TO Hung Tu ; NT ; Australia
+BLACK      CHEN FaZuo ; NT ; United Kingdom
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T15
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  H8+9   p1+1   5.  R2+4   r9.4   6.  A6+5   r4+3   
+7.  P9+1   r4.6   8.  P9+1   r6.1   9.  C5.6   h2+3   
+10. C6-1   r+.6   11. C6.9   c2.1   12. C9+6   r1+2   
+13. R9.8   p3+1   14. E3+5   r1+1   15. C8+4   p5+1   
+16. R2.6   r6-1   17. C8+1   r6+3   18. P3+1   r6.7   
+19. C8.5   e3+5   20. R8+7   h7+5   21. H9+8   r1+2   
+22. R6+2   h5-7   23. H8+9   h3+2   24. H9+8   a6+5   
+25. R8-2   r7+1   26. R8+1   r1-3   27. R6.3   e5-3   
+28. H8-7   r1.3   29. H7-5   r7-1   30. R8.7   r3.5   
+31. R7-1   r7.5   32. H5+7   r-.3   33. R7-1   r5.9   
+34. H7-5   r3.5   35. R7+5   r5+2   36. R3+1   e7+5   
+37. R7-3   p9+1   38. P7+1   r9.6   39. R7.3   r6-2   
+40. P3+1   e5+7   }END
+
+
+FORMAT 	WXF
+GAME 	LIU Qin(D)VITTAYA P.B.,68
+TIME       ;
+RESULT     0.5-0.5
+RED        LIU Qin ; NT ; Australia
+BLACK      VITTAYA P.B. ; NT ; Thailand
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T16
+START{
+1.  H8+7   p3+1   2.  R9+1   h2+3   3.  C2.5   h8+7   
+4.  H2+3   r9.8   5.  P5+1   h3+2   6.  R1.2   c2+5   
+7.  C5.8   c8+5   8.  H3+5   c8.2   9.  R2+9   h7-8   
+10. R9.8   h2+1   11. R8+1   h1+3   12. R8.7   r1.2   
+13. R7.2   h8+9   14. H5-6   r2+5   15. R2.5   e3+5   
+16. P5+1   p5+1   17. R5+3   r2.4   18. H6+4   p1+1   
+19. R5-1   r4-1   20. P1+1   a6+5   21. A6+5   r4.6   
+22. P7+1   p3+1   23. R5.7   r6+2   24. P3+1   h9-7   
+25. E7+5   h7+8   26. R7+2   h8+7   27. R7.3   h7-5   
+28. R3.1   h5+4   29. R1.6   p1+1   30. R6-2   p1+1   
+31. E5-7   h4-6   32. P1+1   p1.2   33. K5.6   p2.3   
+34. P1+1   p3+1   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Hui Chuan(W)TAN Wei TaT,44
+TIME       ;
+RESULT     1-0
+RED        WANG Hui Chuan ; NT ; Holland
+BLACK      TAN Wei TaT ; NT ; Malaysia East
+DATE       10/20/2007
+PLACE      Macau
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T17
+START{
+1.  E3+5   c8.4   2.  P7+1   h8+7   3.  H8+7   r9.8   
+4.  H7+6   h2+1   5.  R9+1   r8+4   6.  R9.4   r1+1   
+7.  A4+5   e3+5   8.  H2+1   p9+1   9.  R1.4   a4+5   
+10. R++4   p7+1   11. R+.8   c2+5   12. C2.8   r8+1   
+13. P3+1   p7+1   14. R8+2   e5-3   15. R4+8   r8-1   
+16. R8.6   r8.2   17. R6.3   r2+3   18. R3-3   r1.4   
+19. H6+5   r4+7   20. H1+3   p1+1   21. R3.5   h1+2   
+22. H5+3   h2+1   }END
+
+
+FORMAT 	WXF
+GAME 	KOAY Hean Hong(W)SHOSHI Kazuharo,57
+TIME       ;
+RESULT     1-0
+RED        KOAY Hean Hong ; NT ; Mailaysia West
+BLACK      SHOSHI Kazuharo ; NT ; Japan
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T18
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  P7+1   c8+4   5.  H8+7   e3+5   6.  C8+7   r1.2   
+7.  R9.8   c2+4   8.  H7+6   a4+5   9.  H6+5   c8.5   
+10. H3+5   r8+9   11. H++3   r8-6   12. H3-4   r8.6   
+13. R8+2   p1+1   14. P1+1   r2+2   15. A4+5   r6.8   
+16. A5-4   r2+1   17. C5+5   e7+5   18. H4+5   r8.6   
+19. H++7   k5.4   20. H7-8   c2.4   21. A6+5   c4-4   
+22. R8.4   r6+4   23. A5+4   c4.9   24. H5+4   c9+3   
+25. H4+3   k4+1   26. H3-1   c9+1   27. P9+1   p1+1   
+28. H8-9   c9-1   29. H9+8   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG ChunLong(D)ZOU JingHua,58
+TIME       ;
+RESULT     0.5-0.5
+RED        HUANG ChunLong ; NT ; United Kingdom
+BLACK      ZOU JingHua ; NT ; China-Macau
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T19
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. H3+5   p7+1   11. H5+6   r8+8   12. H8+7   e3+5   
+13. H6+7   r1.3   14. H+-5   p3+1   15. H7+5   p7.6   
+16. R4-3   c7+8   17. A4+5   r8+1   18. E7+9   r3.4   
+19. H-+6   c7-4   20. R4-3   c7+4   21. R4+3   r4+4   
+22. P5.6   h7+5   23. R4-1   h5+7   24. R4.2   r8.9   
+25. R2.1   r9.8   26. R1.2   r8.9   27. R2.1   r9.8   
+28. R1.2   r8.9   29. R2.1   r9.8   }END
+
+
+FORMAT 	WXF
+GAME 	XU HaoHua(W)ZHANG Zhang,127
+TIME       ;
+RESULT     1-0
+RED        XU HaoHua ; NT   ; China-Macau
+BLACK      ZHANG Zhang ; NT ; Germany
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T20
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  H8+9   p7+1   
+4.  R1+1   h2+3   5.  R1.4   p3+1   6.  R4+3   h3+4   
+7.  R4.6   c8+2   8.  C8.7   c2.4   9.  R6.2   r1.2   
+10. P7+1   p3+1   11. R2.7   e3+5   12. P9+1   r8+1   
+13. A6+5   r8.6   14. P3+1   p7+1   15. R7.3   c8.7   
+16. E3+1   r2.3   17. C7.6   c4+5   18. A5+6   r6.3   
+19. A4+5   r++4   20. P5+1   r++4   21. R9.7   r3+9   
+22. A5-6   r3-4   23. R3.2   a6+5   24. P5+1   r3.8   
+25. H3+2   p5+1   26. H2-4   c7+3   27. H4+5   c7.4   
+28. E1-3   c4.3   29. K5.4   h4+5   30. H9+7   c3+2   
+31. A6+5   c3.7   32. H7+6   h7+6   33. H6+8   c7-8   
+34. K4.5   h5+3   35. H5+4   k5.6   36. H4+2   h6+8   
+37. H8+7   h8-7   38. H2-3   c7.3   39. C5.1   h3-2   
+40. C1+4   e5+7   41. H3-5   c3.1   42. C1.4   k6.5   
+43. C4.8   e7-5   44. H5-7   e5-3   45. C8.5   k5.6   
+46. H7+8   c1.4   47. C5.4   c4+4   48. C4-5   c4.5   
+49. A5+4   a5+6   50. H8-7   a4+5   51. P1+1   h2+3   
+52. H7+6   c5-3   53. C4.8   h3-5   54. K5.4   h5-7   
+55. A4-5   h7-5   56. H6+5   c5+6   57. H5+7   c5-3   
+58. H7-8   h5+7   59. H8+6   k6+1   60. C8+7   c5-4   
+61. C8.5   k6.5   62. H6-5   h7+6   63. K4+1   h6-5   
+64. K4.5   }END
+
+
+FORMAT 	WXF
+GAME 	HOFFARTH Karsten(L)WENG Han Ming,56
+TIME       ;
+RESULT     0-1
+RED        HOFFARTH Karsten ; NT ; Germany
+BLACK      WENG Han Ming ; NT   ; Germany
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T21
+START{
+1.  E7+5   c2.4   2.  H8+7   p3+1   3.  P3+1   h2+3   
+4.  R9.8   r1.2   5.  C8+2   e7+5   6.  C2+2   h8+7   
+7.  P7+1   p3+1   8.  C2.7   h3+4   9.  C8+3   r9.8   
+10. H2+3   c8.9   11. C7.6   c4+3   12. H7+6   h7-5   
+13. C8+1   c9-1   14. C8-1   h5+3   15. H3-5   r8+6   
+16. H5+7   c9+5   17. H6+4   c9.5   18. H7+5   h4+5   
+19. R8+3   h5-7   20. R8.2   h7+6   21. K5+1   h6-8   
+22. H4+6   r2+1   23. R1+3   r2.4   24. H6-7   r4+5   
+25. C8-5   h3+4   26. R1+3   h4+6   27. C8.6   r4.3   
+28. K5.4   h6+5   }END
+
+
+FORMAT 	WXF
+GAME 	TANAKA Atsushi(L)YANG Xiao Lin,40
+TIME       ;
+RESULT     0-1
+RED        TANAKA Atsushi ; NT  ; Japan
+BLACK      YANG Xiao Lin ; NT ; Canada-Vancouver
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T22
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  H8+7   c8.9   
+4.  R1+1   p7+1   5.  P5+1   c2.5   6.  H7+5   h2+3   
+7.  P5+1   r1.2   8.  R9+2   p5+1   9.  C5+3   h3+5   
+10. C8.5   r2+4   11. C++2   c9.5   12. R1.4   h5+4   
+13. A4+5   h4+5   14. E7+5   r2.5   15. R4+6   r8+2   
+16. H5+7   r5.6   17. H7+6   r6.4   18. R4-1   c5+1   
+19. H6+7   r4-3   20. H7-8   c5.2   }END
+
+
+FORMAT 	WXF
+GAME 	YANG weiJun(L)JI ZhongQi,82
+TIME       ;
+RESULT     0-1
+RED        YANG weiJun ; NT ; Japan
+BLACK      JI ZhongQi ; NT ; USA-New York
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T23
+START{
+1.  H8+7   p3+1   2.  C2.4   h2+3   3.  H2+3   h8+9   
+4.  R1.2   r9.8   5.  P3+1   a4+5   6.  E7+5   e3+5   
+7.  P7+1   p3+1   8.  E5+7   c8.7   9.  R2+9   h9-8   
+10. H3+4   p7+1   11. E3+5   p7+1   12. E5+3   c2+4   
+13. P1+1   c7.9   14. E3-5   c9+3   15. R9+1   r1.4   
+16. R9.2   h8+9   17. C8-1   r4+3   18. C8.3   p5+1   
+19. A4+5   a5+6   20. R2+4   a6+5   21. R2.5   h9+7   
+22. H4+3   r4.7   23. C3.1   r7.8   24. R5-1   c9-1   
+25. R5.1   r8+6   26. A5-4   r8.9   27. H7-5   c9+4   
+28. H5+3   c9-2   29. A6+5   p9+1   30. R1+1   c9-1   
+31. C4+4   r9-2   32. H3+2   r9-1   33. H2+4   h3+4   
+34. C4.2   c9.8   35. R1.2   c8-2   36. R2+1   r9.6   
+37. H4+6   r6.5   38. H6+7   k5.6   39. R2.9   h4+6   
+40. R9.6   c2-2   41. R6.2   h6+8   }END
+
+
+FORMAT 	WXF
+GAME 	GU YiQing(L)NAEGLER Michael,116
+TIME       ;
+RESULT     0-1
+RED        GU YiQing ; NT  ; Canada-Vancouver
+BLACK      NAEGLER Michael ; NT    ; Germany
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T24
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c2.5   5.  H8+9   p3+1   6.  C8+6   r1+1   
+7.  R9.8   r8+1   8.  H3+4   r1.2   9.  R8+8   r8.2   
+10. R2+3   r2.6   11. H4+3   r6+2   12. P3+1   h2+3   
+13. R2.3   c5-1   14. P9+1   e3+5   15. H9+8   p5+1   
+16. A4+5   p5+1   17. C5+2   c5+4   18. P5+1   r6+2   
+19. H3-5   h7+5   20. P3+1   h5+7   21. H8-6   r6+1   
+22. R3.4   h7+6   23. H5+4   k5+1   24. H4+2   p9+1   
+25. P3.4   k5-1   26. H2-4   k5+1   27. H4+2   k5-1   
+28. H2-3   h3+4   29. P5+1   h4+3   30. H3-1   p3+1   
+31. H6+4   p3.4   32. P5+1   a4+5   33. H1+2   p4.5   
+34. H4+2   h3-1   35. P1+1   h1-3   36. P1+1   h3+4   
+37. H++4   e5-3   38. H4-3   h6-7   39. H2-3   h4-6   
+40. H-+4   p1+1   41. E3+5   h7+8   42. P1+1   p5+1   
+43. K5.4   p1+1   44. P1.2   e7+5   45. P2+1   p1.2   
+46. P2.3   p2+1   47. P3+1   p2.3   48. P3.4   h8-7   
+49. P5.6   h6-4   50. P-.5   h4+6   51. P6.7   h6-4   
+52. P5.6   h4+6   53. P7+1   h6+7   54. K4+1   h+-8   
+55. H3+5   e3+5   56. H4+5   h7+5   57. P7+1   h5-4   
+58. P7.6   h4-6   }END
+
+
+FORMAT 	WXF
+GAME 	JOUNI Ramo(D)KNAB Reinhard,73
+TIME       ;
+RESULT     0.5-0.5
+RED        JOUNI Ramo ; NT   ; Finland
+BLACK      KNAB Reinhard ; NT   ; Germany
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T25
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1+1   h8+7   
+4.  R1.4   a4+5   5.  P7+1   e3+5   6.  H8+7   r1.4   
+7.  C8+4   p7+1   8.  R4+5   r4+4   9.  A6+5   p3+1   
+10. C8.7   p3+1   11. R9.8   c2+2   12. P5+1   p3+1   
+13. H7+5   p3.4   14. P5+1   r4.3   15. P5+1   p4.5   
+16. H3+5   r3-1   17. H5+6   r3.5   18. R4.5   h3+5   
+19. R8+5   a5-4   20. R8+1   c6+2   21. H6+7   c6-1   
+22. R8+3   a6+5   23. H7-6   c6.7   24. R8-6   r9+1   
+25. E3+1   r9.6   26. H6+5   r6+1   27. H5+7   k5.6   
+28. C5.4   h5-6   29. R8.5   c7.5   30. K5.6   r6+3   
+31. R5+1   r6+1   32. R5-1   r6-1   33. R5+1   r6+1   
+34. R5-1   r6-1   35. R5+1   r6+1   36. R5-1   r6-1   
+37. R5+1   }END
+
+
+FORMAT 	WXF
+GAME 	BOSE Chandra(L)BYWAY Paul,40
+TIME       ;
+RESULT     0-1
+RED        BOSE Chandra ; NT ; Mailaysia West
+BLACK      BYWAY Paul ; NT   ; United Kingdom
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T26
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  P7+1   p7+1   5.  C8.7   c8+2   6.  H8+9   e3+5   
+7.  R9.8   r1.2   8.  P9+1   c2+4   9.  R2+4   c2.7   
+10. E3+1   r2+9   11. H9-8   r8+1   12. H8+9   r8.2   
+13. C7+4   r2+3   14. C5.7   p9+1   15. C-+1   c7.3   
+16. C7-3   h3+4   17. H3+4   p7+1   18. R2.3   h4+5   
+19. R3+3   c8.5   20. A4+5   h5-6   }END
+
+
+FORMAT 	WXF
+GAME 	IWAN SETIAWAN(L)SOUR SAMPHY,68
+TIME       ;
+RESULT     0-1
+RED        IWAN SETIAWAN ; NT   ; Indonesia
+BLACK      SOUR SAMPHY ; NT ; Kampuchea
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T27
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  H8+7   a4+5   6.  C8+2   c8+4   
+7.  P3+1   e3+5   8.  P3+1   e5+7   9.  H3+4   c8+1   
+10. H7+6   r1.4   11. C5.6   r4.3   12. H4+6   p5+1   
+13. H--4   c8-3   14. H4+3   e7+5   15. H6+7   e5+7   
+16. R9+1   r3+2   17. R9.3   h7+5   18. C6.5   p3+1   
+19. C8+1   p3+1   20. C8.3   h5+7   21. R3+4   c8+4   
+22. R3.5   r8+2   23. R5.6   p3+1   24. P5+1   c8-2   
+25. C5.3   r3.7   26. C3+3   r8+3   27. C3.5   c2.5   
+28. A6+5   r7+4   29. R2+2   r7.4   30. C5.3   c8.5   
+31. E3+5   r8.7   32. R6-2   p3.4   33. R2+3   p4+1   
+34. P5+1   p4.5   }END
+
+
+FORMAT 	WXF
+GAME 	GOLLMAR Bastian(D)ARTO Vaara,58
+TIME       ;
+RESULT     0.5-0.5
+RED        GOLLMAR Bastian ; NT   ; Germany
+BLACK      ARTO Vaara ; NT   ; Finland
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T28
+START{
+1.  C8.5   h8+7   2.  H8+7   c8.9   3.  C2.4   r9.8   
+4.  H2+3   c2.4   5.  R9.8   h2+3   6.  R8+6   r8+4   
+7.  R8.7   c4-1   8.  C4+5   h7-9   9.  C5+4   h3+5   
+10. R7.5   c4.5   11. A4+5   r1+2   12. C4-5   c9.5   
+13. R5.4   c-.3   14. E7+5   r1.3   15. P7+1   c3+4   
+16. E5+7   r3+3   17. H7-9   r8.2   18. R1.2   r2+5   
+19. C4.5   r2-1   20. C5+5   e3+5   21. R2+8   r3+2   
+22. R4-4   r3.6   23. A5+4   r2.1   24. R2.1   r1.7   
+25. R1-2   p7+1   26. H3-1   r7.9   27. E3+5   p1+1   
+28. A6+5   r9+1   29. A5-4   r9-2   }END
+
+
+FORMAT 	WXF
+GAME 	TORNQVIST Mikko(D)LYUU Yin San,88
+TIME       ;
+RESULT     0.5-0.5
+RED        TORNQVIST Mikko ; NT  ; Finland
+BLACK      LYUU Yin San ; NT   ; Burna
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T29
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  R2+6   c8.9   5.  R2.3   r8+2   6.  H8+9   c9-1   
+7.  C8.6   c9.7   8.  R3.4   h7+8   9.  R4.3   r8.7   
+10. R3+1   c2.7   11. H3-1   r1.2   12. R9.8   r2+9   
+13. H9-8   h8+7   14. E3+1   e7+5   15. P7+1   h7+6   
+16. A6+5   h6-5   17. E7+9   h5-6   18. H8+7   h6+7   
+19. E9-7   h7+8   20. A5+4   c++7   21. K5+1   c+.3   
+22. H7+6   c3-1   23. E1+3   h8+6   24. H1+2   h6-5   
+25. E3-5   p5+1   26. H6+4   c7.1   27. C6+6   k5+1   
+28. K5.6   h3+5   29. H2+4   p5+1   30. H-+2   p5.4   
+31. C6-2   p9+1   32. H2+4   k5.6   33. H++2   k6.5   
+34. C6.9   c1.4   35. K6.5   h5+6   36. H4-6   c4+3   
+37. H2-4   k5.6   38. H4-6   h6-4   39. C9-1   h4+6   
+40. H6+4   c3-2   41. C9.1   h6+4   42. K5.6   c3.9   
+43. H4-6   c9.1   44. H6+7   h4+6   }END
+
+
+FORMAT 	WXF
+GAME 	OLAVI Stenman(L)Ung Dau,62
+TIME       ;
+RESULT     0-1
+RED        OLAVI Stenman ; NT   ; Finland
+BLACK      Ung Dau ; NT ; Canada-Edmonton
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T30
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  R9+1   r1+3   
+7.  R9.6   e7+5   8.  H3+4   c2+4   9.  A6+5   c2.5   
+10. R6+2   c5-1   11. R2+6   r1.2   12. C8.6   c8.9   
+13. R2.3   r8+2   14. R6.5   c5+2   15. E3+5   r2+2   
+16. P7+1   p3+1   17. R5+1   p3.4   18. R5-1   p4.5   
+19. R5.7   h3+4   20. R7.3   h4+6   21. P3+1   h6-7   
+22. P3+1   h7-8   23. H9+7   r2+1   24. H7+5   r2.7   
+25. H5-3   r8+4   26. H3+4   c9+4   27. H4+6   r8.3   
+28. P3.4   r3+3   29. A5-6   r3-6   30. P4.5   h8+7   
+31. H6-7   r3.5   }END
+
+
+FORMAT 	WXF
+GAME 	MACGREGOR Angua(W)DEKKER Alian,101
+TIME       ;
+RESULT     1-0
+RED        MACGREGOR Angua ; NT  ; Australia
+BLACK      DEKKER Alian ; NT   ; United Kingdom
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T31
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1+1   r9.8   
+4.  R1.6   h2+3   5.  R6+5   h7-5   6.  R6+2   c5.7   
+7.  P3+1   r8+4   8.  H8+7   p3+1   9.  R9+1   c7-1   
+10. R6-4   h5+7   11. P5+1   e3+5   12. H7+5   a6+5   
+13. P7+1   p3+1   14. H5+7   h3+2   15. R6-2   c2+5   
+16. R6.8   h2+3   17. H7+6   r8.4   18. R8+4   h3-5   
+19. H3+5   r4-1   20. R8.6   h5-4   21. H5+4   r1.3   
+22. H4+6   p7+1   23. R9.4   r3+4   24. R4+7   h7+6   
+25. H6-5   h6+4   26. R4.3   p5+1   27. H5-6   h4+6   
+28. C5+5   e7+5   29. H6+4   p5+1   30. P3+1   r3+5   
+31. P3+1   r3-3   32. H4+2   r3.9   33. H2+4   p5.6   
+34. R3.4   r9.1   35. H4+2   r1.7   36. P3.4   a5-6   
+37. R4.1   a4+5   38. R1-2   p1+1   39. R1-2   r7.5   
+40. A6+5   p6.5   41. R1+1   a5+4   42. R1.9   a6+5   
+43. R9+4   a5-4   44. H2+3   k5.6   45. R9.6   k6+1   
+46. P4+1   k6.5   47. P4.5   k5.6   48. R6-2   p5.6   
+49. R6+1   k6-1   50. P5+1   p6.7   51. R6+1   }END
+
+
+FORMAT 	WXF
+GAME 	SONE Toshihiko(L)CHEIN Kvi,80
+TIME       ;
+RESULT     0-1
+RED        SONE Toshihiko ; NT ; Japan
+BLACK      CHEIN Kvi ; NT   ; Burna
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T32
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P3+1   e3+5   5.  H8+9   a4+5   6.  C8.6   r1.4   
+7.  A6+5   r4+5   8.  R9.8   c2+3   9.  E3+1   c2-5   
+10. C6.7   c2.3   11. C5.6   p9+1   12. C7-1   r4-1   
+13. E7+5   p7+1   14. R8+4   p9+1   15. P1+1   r9+5   
+16. P9+1   r4.6   17. P3+1   r9.2   18. H9+8   r6.7   
+19. H3+4   h7+6   20. H8+6   p3+1   21. P7+1   h3+4   
+22. H4+6   p3+1   23. C7+8   e5-3   24. H6+8   c6.2   
+25. R2+6   h6+4   26. H8-7   h4+5   27. R2.5   h5+7   
+28. K5.6   r7.4   29. R5.6   r4.3   30. R6-2   c2.3   
+31. C6.7   c3.4   32. R6+3   r3+1   33. R6-5   h7-8   
+34. R6.2   h8-7   35. C7.9   r3.1   36. R2.5   r1.4   
+37. R5.6   r4.2   38. R6+3   e3+5   39. C9.4   r2+1   
+40. R6.5   h7+8   }END
+
+
+FORMAT 	WXF
+GAME 	KLEIN(W)HAPKHINA Irimia,61
+TIME       ;
+RESULT     1-0
+RED        KLEIN ; NT ; Germany
+BLACK      HAPKHINA Irimia ; NT  ; Canada-Vancouver
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M7T33
+START{
+1.  C2.5   h2+3   2.  H2+3   p7+1   3.  R1.2   c8.6   
+4.  R2+8   a4+5   5.  C8+2   c2-1   6.  C8.1   c2.8   
+7.  C1+5   e3+5   8.  R9+1   c8+3   9.  R9.2   h8+7   
+10. P7+1   r1.4   11. H8+7   r4+7   12. H7+8   k5.4   
+13. A4+5   r4-2   14. H8+7   r4.3   15. H7+5   h3+2   
+16. C5+4   c6+2   17. C5.3   c6.3   18. E3+5   h7+5   
+19. P3+1   r3.4   20. P3+1   h5+7   21. R2.4   k4+1   
+22. H5+3   h2+3   23. C3+3   r4+3   24. E5+7   r4-3   
+25. C1-1   h7-5   26. R4+8   c8.5   27. K5.4   h3+2   
+28. E7+5   r4-1   29. R4-3   c5.9   30. C1.2   r4.8   
+31. H+-2   }END
+
+
+FORMAT 	WXF
+GAME 	TAN ZhenBang(L)XU YinChuan,72
+TIME       ;
+RESULT     0-1
+RED        TAN ZhenBang ; NT ; USA-New York
+BLACK      XU YinChuan ; IGM   ; China-Guangdong
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M8T01
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  H8+7   p7+1   5.  P7+1   e3+5   6.  C2+4   h2+1   
+7.  P9+1   c2.3   8.  H7+8   c4+3   9.  P7+1   c3+2   
+10. P9+1   p1+1   11. R9+5   h1-3   12. R9+4   h3-1   
+13. C2.7   r8+9   14. H3-2   h7+6   15. H2+4   p9+1   
+16. H8+6   h1+3   17. P3+1   p7+1   18. E5+3   a4+5   
+19. E3-5   c4+1   20. P5+1   h6+4   21. C8.6   c4.1   
+22. C7.9   h4+2   23. A4+5   h3+2   24. H6+4   c3.6   
+25. H++3   c6-3   26. C6.8   h+-3   27. C9+3   h3+5   
+28. H4+2   h5-3   29. H2+3   c1-2   30. H+-4   a5+6   
+31. H4+2   c6.3   32. H2-1   p5+1   33. H1+3   p5+1   
+34. H+-5   c3+1   35. C8+3   c1-3   36. E5+7   h3-2   }END
+
+
+FORMAT 	WXF
+GAME 	HONG Zhi(W)LOOK Kean Chor,57
+TIME       ;
+RESULT     1-0
+RED        HONG Zhi ; GM ; China-Jilin
+BLACK      LOOK Kean Chor ; ICM ; Mailaysia West
+DATE       10/20/2007
+PLACE      °ÄÃÅ
+EVENT      World Xiangqi Championships ; 2007
+ROUND      M8T02
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  H8+7   h2+3   5.  P7+1   r1+1   6.  H7+6   r9.6   
+7.  H6+7   r6+4   8.  E7+9   r1.4   9.  C8.7   c5.6   
+10. R9.8   r4+6   11. R8+2   c2+4   12. A4+5   r4-1   
+13. C7-2   e3+5   14. R2+8   p7+1   15. R2.4   e5-3   
+16. H7-8   h3+4   17. P3+1   a4+5   18. H3+4   h4+6   
+19. P7+1   r4.5   20. R4-1   h6+5   21. R4.3   h5+7   
+22. K5.4   r5.6   23. R8.4   r6.7   24. C7+1   c2.6   
+25. R4.2   h7-8   26. K4.5   c6.5   27. A5-4   c5-1   
+28. H8+6   c5-1   29. R2-1   }END
+

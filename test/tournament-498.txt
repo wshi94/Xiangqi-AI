@@ -1,0 +1,149 @@
+
+
+FORMAT 	WXF
+GAME 	´÷Æä·¼(D)ÖìÓñÁú,63
+TIME       ;
+RESULT     0.5-0.5
+RED        ´÷Æä·¼ ; NT ; China-Shanghai
+BLACK      ÖìÓñÁú ; NT ; China-Shanghai
+DATE       22-10-2006
+PLACE      
+EVENT      ÉÏº£ÊÐµÚ13½ìÔË¶¯»á ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  C8.9   c9.7   9.  R3.4   c2+4   
+10. P5+1   e7+5   11. R9.8   r1.2   12. R4-3   c2-2   
+13. P5+1   p7+1   14. P3+1   p5+1   15. H7+5   p5+1   
+16. C5+2   h7+5   17. E7+5   c2+2   18. R4+3   c7+6   
+19. C9.3   r8+6   20. H5-7   p3+1   21. A6+5   p3+1   
+22. E5+7   c2.5   23. E7-5   r2+9   24. H7-8   h5+3   
+25. C5+1   c5-1   26. R4.7   h-+5   27. R7.6   r8.1   
+28. H8+9   p1+1   29. C5.2   r1.7   30. C3.4   r7.4   
+31. R6-3   h3+4   32. H9+7   }END
+
+
+FORMAT 	WXF
+GAME 	ÖìÓñÁú(W)WANG GuoMin,59
+TIME       ;
+RESULT     1-0
+RED        ÖìÓñÁú ; NT ; China-Shanghai
+BLACK      WANG GuoMin ; FM ; China-Shanghai
+DATE       21-10-2006
+PLACE      
+EVENT      ÉÏº£ÊÐµÚ13½ìÔË¶¯»á ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   h7+6   6.  H8+7   e3+5   
+7.  R2.4   h6+7   8.  C8.9   a4+5   9.  R9.8   r1.2   
+10. R8+6   c8.7   11. C5.6   r8+8   12. A6+5   h7-8   
+13. C9-1   r8-2   14. E3+5   p7+1   15. R4.2   c2.1   
+16. R8+3   h3-2   17. H3-1   r8-1   18. E5+3   r8.7   
+19. R2-1   r7.3   20. R2.8   h2+4   21. R8-3   c1.3   
+22. C9.6   c7-1   23. H7+6   r3+4   24. A5-6   r3-4   
+25. H6+4   e5+7   26. H4+6   r3+3   27. C++6   c7.4   
+28. C6+7   r3.9   29. R8+7   a5-4   30. R8-2   }END
+
+
+FORMAT 	WXF
+GAME 	ÖìÓñÁú(L)WU ZhengWei,90
+TIME       ;
+RESULT     0-1
+RED        ÖìÓñÁú ; NT ; China-Shanghai
+BLACK      WU ZhengWei ; CM ; China-Pudong
+DATE       22-10-2006
+PLACE      
+EVENT      ÉÏº£ÊÐµÚ13½ìÔË¶¯»á ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   h7+6   6.  H8+7   p7+1   
+7.  R2.4   h6+8   8.  P3+1   h8+7   9.  C5+4   h3+5   
+10. R4.5   a6+5   11. C8.3   c8+7   12. A6+5   r8+7   
+13. C3.4   r1+2   14. R9.8   c2.6   15. R5.4   c6.5   
+16. R4.5   r1.4   17. E7+5   r4+4   18. R8.6   r4.3   
+19. R6.7   r8-1   20. P3+1   p9+1   21. P9+1   r8.9   
+22. P3+1   r9.6   23. R7.6   p9+1   24. R6+4   p9+1   
+25. R6.3   p9.8   26. P3.4   r6.7   27. R3-1   p8.7   
+28. C4.1   e7+9   29. H7-6   p7+1   30. R5-1   p7+1   
+31. R5.2   c8.9   32. R2-5   c9-1   33. R2+9   a5-6   
+34. P4+1   c5.2   35. P4+1   a4+5   36. R2-2   c2+7   
+37. H6+7   c2.1   38. R2.3   p7.6   39. C1.2   k5.4   
+40. R3-3   r3.2   41. R3.6   k4.5   42. C2+7   e9-7   
+43. R6+4   r2+3   44. R6-8   p6+1   45. A5-4   c9.3   }END
+
+
+FORMAT 	WXF
+GAME 	GE WeiPu(D)DONG XuBin,85
+TIME       ;
+RESULT     0.5-0.5
+RED        GE WeiPu ; CM  ; China-Shanghai
+BLACK      DONG XuBin ; CM ; China-Qinggong
+DATE       22-10-2006
+PLACE      
+EVENT      ÉÏº£ÊÐµÚ13½ìÔË¶¯»á ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   a4+5   6.  H8+7   e3+5   
+7.  P3+1   p7+1   8.  R2.3   p7+1   9.  H3-5   c2+4   
+10. C5.2   c8.9   11. R3+1   r8+6   12. P9+1   r1.4   
+13. R9+3   c2-2   14. R9.6   r4+6   15. H5+6   c2.7   
+16. E3+1   c9+4   17. R3-1   p7+1   18. C8.3   r8+1   
+19. R3-1   c9.4   20. E1-3   r8-2   21. E7+9   c4-6   
+22. R3+2   h3-2   23. R3-1   h2+4   24. C3.5   p9+1   
+25. R3-5   r8-1   26. R3+3   p3+1   27. P7+1   r8.3   
+28. R3.7   r3.4   29. A6+5   h4+2   30. C5+4   h2+3   
+31. C5-2   c4.3   32. R7.6   r4.7   33. H7+8   h3+5   
+34. P5+1   r7+5   35. H8+9   c3+6   36. K5.6   c3.8   
+37. H9+7   r7-2   38. R6.8   e5-3   39. H7-6   r7.1   
+40. H6+8   r1+2   41. K6+1   r1-1   42. K6+1   c8-5   
+43. R8.7   }END
+
+
+FORMAT 	WXF
+GAME 	³ÂÎÄÓÂ(D)ÇÇ¾üÃ÷,53
+TIME       ;
+RESULT     0.5-0.5
+RED        ³ÂÎÄÓÂ ; NT ; China-Shanghai
+BLACK      ÇÇ¾üÃ÷ ; NT ; China-Shanghai
+DATE       22-8-2006
+PLACE      
+EVENT      ÉÏº£ÊÐµÚ13½ìÔË¶¯»á ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  C8+4   e7+5   6.  R2+6   c8.9   
+7.  R2+3   h7-8   8.  H8+7   h8+7   9.  R9+1   c2.1   
+10. R9.6   r1.2   11. R6+5   p7+1   12. P3+1   e5+7   
+13. H3+4   h7+6   14. R6.7   h6+4   15. H4+6   r2+2   
+16. H7-9   h4+5   17. E7+5   e7-5   18. H6+7   c1.3   
+19. C8.5   a6+5   20. H9+7   r2+4   21. R7-1   r2-3   
+22. C5-2   r2.8   23. A6+5   k5.6   24. R7-1   c3+2   
+25. C5.1   c9.8   26. C1.4   k6.5   27. C4-2   }END
+
+
+FORMAT 	WXF
+GAME 	ÉòÒÝºê(L)Ê©öÎÊ¯,56
+TIME       ;
+RESULT     0-1
+RED        ÉòÒÝºê ; NT ; China-Shanghai
+BLACK      Ê©öÎÊ¯ ; NT ; China-Shanghai
+DATE       14-10-2006
+PLACE      
+EVENT      ÉÏº£ÊÐµÚ13½ìÔË¶¯»á ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   e3+5   6.  H8+7   c8.9   
+7.  R2.3   r8+2   8.  H7+6   a4+5   9.  C8+2   c2+1   
+10. H6+7   r1.4   11. A6+5   c9-1   12. C5.7   r4+8   
+13. R9+2   c9.7   14. R3.4   h7+8   15. R4.3   h8-7   
+16. R3.4   r8+6   17. C7.8   c2-2   18. C-+6   c7.2   
+19. R4.3   h7-8   20. C8+3   r8.6   21. P5+1   r6-2   
+22. R3.2   r6.3   23. R9-2   r3-1   24. H7+5   e7+5   
+25. C8.5   a5+6   26. R2+3   h3+4   27. C5.9   c2.5   
+28. E3+5   c5+4   }END
+

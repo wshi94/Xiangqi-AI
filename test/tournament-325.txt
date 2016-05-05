@@ -1,0 +1,122 @@
+
+
+FORMAT 	WXF
+GAME 	FU GuangMing(L)HU RongHua,74
+TIME       ;
+RESULT     0-1
+RED        FU GuangMing ; CM ; China-Beijing
+BLACK      HU RongHua ; GM ; China-Shanghai
+DATE       
+PLACE      º¼ÖÝ
+EVENT      Qing Chun Bao Cup ; 1986
+ROUND      
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H8+9   r9+1   
+4.  R9.8   r9.4   5.  H2+3   a4+5   6.  R1.2   h8+9   
+7.  A4+5   r4+3   8.  C5+4   p9+1   9.  R2+6   h2+4   
+10. C5-2   r1.2   11. E3+5   c8.6   12. P9+1   r2+6   
+13. C8.6   r2+3   14. H9-8   p3+1   15. P7+1   r4.3   
+16. H8+9   h4+5   17. P3+1   c3+1   18. R2-3   p7+1   
+19. P3+1   r3.7   20. H9+8   r7.2   21. H8-6   h9+7   
+22. R2+4   c6+4   23. C6.9   c6.4   24. C9+4   r2-1   
+25. C9.7   r2.3   26. R2-1   h5+4   27. R2-1   h4+2   
+28. R2.4   r3.5   29. K5.4   c4-4   30. P9+1   r5+1   
+31. R4+1   h7-9   32. H3+2   h9+8   33. R4.8   h2-3   
+34. C5.7   r5+2   35. R8.2   h8+6   36. P9.8   h3-5   
+37. H2+4   r5.6   }END
+
+
+FORMAT 	WXF
+GAME 	Xu Tianhong(D)Lv Qin,50
+TIME       ;
+RESULT     0.5-0.5
+RED        Xu Tianhong ; IGM ; China-Jiangsu ; ÐìÌìºì , ®}¤Ñ¬õ
+BLACK      Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+DATE       9/23/1986
+PLACE      
+EVENT      Çà´º±¦±­ ; 1986
+ROUND      
+START{
+1.  C2.5   h2+3   2.  P7+1   p7+1   3.  H8+7   h8+7   
+4.  H2+3   r9.8   5.  R1.2   c2+4   6.  P5+1   c8+4   
+7.  R9+1   c2.3   8.  E7+9   r1.2   9.  R9.6   c3.6   
+10. R6+6   e3+5   11. P5+1   a6+5   12. R6.7   c6+1   
+13. H7+6   c6.2   14. P5+1   h7+5   15. C5+5   e7+5   
+16. H6+5   r2+4   17. H5-4   p7+1   18. P3+1   r2.5   
+19. A6+5   c8.5   20. H4-5   r8+9   21. H3-2   c2-2   
+22. P3+1   c2-1   23. H2+3   c2.7   24. H3+5   r5+2   
+25. R7-1   c7.5   }END
+
+
+FORMAT 	WXF
+GAME 	Chen Xiaokun(W)Lv Qin,73
+TIME       ;
+RESULT     1-0
+RED        Chen Xiaokun ; CM ; China-Hangzhou ; ³ÂÐ¢À¤ , ³¯§µ©[
+BLACK      Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+DATE       27/9/1986
+PLACE      
+EVENT      Çà´º±¦±­ ; 1986
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  H8+7   c2.1   6.  P7+1   p7+1   
+7.  H7+6   a4+5   8.  R9+2   r9.8   9.  R2+9   h7-8   
+10. R9.7   e3+5   11. R7+1   h8+7   12. P5+1   r2+4   
+13. P5+1   p5+1   14. H6+7   p5+1   15. H7+9   r2-2   
+16. P7+1   h7+6   17. P7+1   h3-4   18. C5-1   r2.1   
+19. C6.5   p5.4   20. H3+5   h6+5   21. R7.5   r1.4   
+22. R5.4   c6.9   23. R4+3   c9+4   24. R4.3   h4+2   
+25. P7.6   r4.3   26. R3+3   c9.1   27. R3-4   k5.4   
+28. R3.8   r3-1   29. E7+9   c1.4   30. C+.6   c4.5   
+31. C5.6   k4.5   32. C-+3   c5-1   33. C+.7   e5-7   
+34. R8.5   c5.4   35. C6.3   e7+9   36. C3.2   r3.4   
+37. R5+1   }END
+
+
+FORMAT 	WXF
+GAME 	Lv Qin(W)Yu Youhua,57
+TIME       ;
+RESULT     1-0
+RED        Lv Qin ; IGM ; China-Guangdong ; ÂÀÇÕ , §f´Ü
+BLACK      Yu Youhua ; GM ; China-HuoCheTou ; ÓÚÓ×»ª , ¤_¥®µØ
+DATE       28/9/1986
+PLACE      
+EVENT      Çà´º±¦±­ ; 1986
+ROUND      
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  R1.2   p3+1   5.  H8+9   h2+4   6.  R9.8   a4+5   
+7.  C8.6   h4+3   8.  C5+4   p3.2   9.  E7+5   h8+7   
+10. C5.4   r9.8   11. R2+6   c8.9   12. R2+3   h7-8   
+13. P3+1   r1.2   14. C6+4   h3+4   15. H9+7   h4+2   
+16. R8+2   p2.3   17. H7-6   r2.4   18. C6.3   h2-3   
+19. H6+4   p3.4   20. A6+5   c9.6   21. C4.1   h8+9   
+22. C3.2   h3+4   23. R8.6   c3+4   24. P3+1   e5+7   
+25. H4+3   c6.2   26. R6.7   c3.2   27. H++5   e7+5   
+28. C2.5   c+.3   29. R7+1   }END
+
+
+FORMAT 	WXF
+GAME 	Guo Changshun(L)Liu Dianzhong,63
+TIME       ;
+RESULT     0-1
+RED        Guo Changshun ; CM ; China-Shenyang ; ¹ù³¤Ë³ , ³¢ªø¶¶
+BLACK      Liu Dianzhong ; GM ; China-Hebei ; ÁõµîÖÐ , ¼B·µ¤¤
+DATE       10/7/1986
+PLACE      
+EVENT      Qing Chun Bao Cup ; 1986
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P3+1   c2+1   9.  P7+1   c8+2   
+10. H3+4   a4+5   11. R9.6   r1.3   12. H7-5   p3+1   
+13. P3+1   e5+7   14. C8.7   c2.3   15. H4+2   c3+3   
+16. C5.3   p3+1   17. C3+5   r8+2   18. H5+4   e7-5   
+19. C3-6   r8+1   20. H2-4   r8.6   21. C3.4   r6+1   
+22. H--2   r6.7   23. H2+3   r3.4   24. R6+8   k5.4   
+25. C4.6   k4.5   26. E3+5   c3.2   27. C6.3   r7.3   
+28. C3.7   p3.2   29. C7+6   r3-2   30. H4+5   r3+1   
+31. H5-6   r3.4   32. H6-8   }END
+
