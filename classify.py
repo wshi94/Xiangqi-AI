@@ -10,6 +10,7 @@ import numpy as np
 #gameresults: black won = 1, red won= -1, tie = 0
 #use multiclass classification (three classes)
 
+<<<<<<< HEAD
 
 
 def train():
@@ -118,6 +119,9 @@ print(v_results.count(-1))
 
 '''
 txtfile='finished-games/5-ram-cup-xiangqi-championship-1.txt'
+=======
+txtfile='test/tournament-1-1.txt'
+>>>>>>> 104d541e8a653809b76d0bcc40491753e2ac4e12
 removeComments(txtfile)
 vectors_fromOnetxtfile=makeVector(txtfile)
 

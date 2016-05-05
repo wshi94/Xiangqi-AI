@@ -1,17 +1,4 @@
-
-
-FORMAT 	WXF
-GAME 	LEI Kam Fun(W)Ûà±¾½ø,57
-TIME       ;
-RESULT     put
-RED        LEI Kam Fun ; FM ; China-Macau ; Àî½õ»¶ , §õÀAÅw
-BLACK      Ûà±¾½ø ; NT ; Japan ; Ûà±¾½ø , Ûà±¾½ø
-DATE       2002/12/22
-PLACE      
-EVENT      Asia Cup ; 2002
-ROUND      M-R3
-AUTHOR     Peter Sung
-
+ 
 START{
 1.  P3+1   p3+1   2.  H2+3   h2+3   3.  E7+5   c8.6   
 4.  R1.2   h8+9   5.  C2.1   r9+1   6.  A6+5   c2+7   
