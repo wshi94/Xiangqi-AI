@@ -3,14 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="403c813e-9fce-49d6-8793-dd4644dc298a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FitnessFunction.ipynb" afterPath="$PROJECT_DIR$/FitnessFunction.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FitnessFunction.py" afterPath="$PROJECT_DIR$/FitnessFunction.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xiangqi.ipynb" afterPath="$PROJECT_DIR$/Xiangqi.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classify.py" afterPath="$PROJECT_DIR$/classify.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/finished-games/5-ram-cup-xiangqi-championship-3.txt" afterPath="$PROJECT_DIR$/finished-games/5-ram-cup-xiangqi-championship-3.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/move.py" afterPath="$PROJECT_DIR$/move.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notes" afterPath="$PROJECT_DIR$/notes" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/scraper.py" afterPath="$PROJECT_DIR$/test/scraper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_game.py" afterPath="$PROJECT_DIR$/new_game.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-20.txt" afterPath="$PROJECT_DIR$/test/tournament-20.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-21.txt" afterPath="$PROJECT_DIR$/test/tournament-21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-22.txt" afterPath="$PROJECT_DIR$/test/tournament-22.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-23.txt" afterPath="$PROJECT_DIR$/test/tournament-23.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-24.txt" afterPath="$PROJECT_DIR$/test/tournament-24.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-25.txt" afterPath="$PROJECT_DIR$/test/tournament-25.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-26.txt" afterPath="$PROJECT_DIR$/test/tournament-26.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-27.txt" afterPath="$PROJECT_DIR$/test/tournament-27.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-28.txt" afterPath="$PROJECT_DIR$/test/tournament-28.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-29.txt" afterPath="$PROJECT_DIR$/test/tournament-29.txt" />
     </list>
     <ignored path="xiangqi-ai.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/new_game.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="207" column="67" selection-start-line="207" selection-start-column="67" selection-end-line="207" selection-end-column="67" />
+              <caret line="240" column="55" selection-start-line="240" selection-start-column="55" selection-end-line="240" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -54,8 +59,8 @@
       <file leaf-file-name="move.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/move.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="129" column="28" selection-start-line="129" selection-start-column="28" selection-end-line="129" selection-end-column="28" />
+            <state vertical-scroll-proportion="27.222221">
+              <caret line="56" column="70" selection-start-line="56" selection-start-column="70" selection-end-line="56" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -64,8 +69,8 @@
       <file leaf-file-name="classify.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/classify.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5576923">
-              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.09615385">
+              <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -88,7 +93,39 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1462432091000" expanded="true" signature="108:241" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="132:241" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="317:2192" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="341:2192" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="2244:6853" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="2287:2410" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="2440:2459" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="2564:2598" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="2660:6853" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="6896:12306" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="6939:7062" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="7092:7111" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="7216:7250" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="7312:12306" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="12347:17899" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="12390:12509" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="12539:12558" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="12594:12626" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="12657:12689" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="12751:17899" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="17967:23519" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="18159:18178" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="18214:18246" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="18371:23519" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="23569:24166" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="23612:23735" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="23773:23807" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="23840:23874" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="23936:24166" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="166493:167862" placeholder="..." />
+                <marker date="1462432091000" expanded="true" signature="166493:167948" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,10 +152,10 @@
         <option value="$PROJECT_DIR$/new_game/fen_to_board_translator.py" />
         <option value="$PROJECT_DIR$/new_game/new_game.py" />
         <option value="$PROJECT_DIR$/FitnessFunction.py" />
-        <option value="$PROJECT_DIR$/new_game.py" />
         <option value="$PROJECT_DIR$/notes" />
-        <option value="$PROJECT_DIR$/classify.py" />
         <option value="$PROJECT_DIR$/move.py" />
+        <option value="$PROJECT_DIR$/new_game.py" />
+        <option value="$PROJECT_DIR$/classify.py" />
       </list>
     </option>
   </component>
@@ -153,7 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -202,7 +238,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Python.scraper">
     <configuration default="false" name="scraper" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -375,18 +416,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -453,37 +494,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Xiangqi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1462432091000" expanded="true" signature="108:241" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="132:241" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="317:2192" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="341:2192" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2244:6853" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2287:2410" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2440:2459" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2564:2598" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2660:6853" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="6896:12306" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="6939:7062" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="7092:7111" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="7216:7250" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="7312:12306" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12347:17899" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12390:12509" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12539:12558" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12594:12626" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12657:12689" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12751:17899" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="17967:23519" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="18159:18178" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="18214:18246" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="18371:23519" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23569:24166" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23612:23735" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23773:23807" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23840:23874" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23936:24166" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="166493:167862" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="166493:167948" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -513,8 +556,152 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/classify.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5576923">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xiangqi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1462432091000" expanded="true" signature="108:241" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="132:241" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="317:2192" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="341:2192" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2244:6853" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2287:2410" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2440:2459" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2564:2598" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2660:6853" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="6896:12306" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="6939:7062" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="7092:7111" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="7216:7250" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="7312:12306" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12347:17899" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12390:12509" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12539:12558" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12594:12626" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12657:12689" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12751:17899" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="17967:23519" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="18159:18178" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="18214:18246" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="18371:23519" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23569:24166" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23612:23735" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23773:23807" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23840:23874" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23936:24166" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="166493:167862" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="166493:167948" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xiangqi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1462432091000" expanded="true" signature="108:241" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="132:241" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="317:2192" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="341:2192" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2244:6853" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2287:2410" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2440:2459" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2564:2598" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="2660:6853" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="6896:12306" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="6939:7062" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="7092:7111" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="7216:7250" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="7312:12306" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12347:17899" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12390:12509" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12539:12558" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12594:12626" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12657:12689" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="12751:17899" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="17967:23519" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="18159:18178" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="18214:18246" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="18371:23519" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23569:24166" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23612:23735" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23773:23807" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23840:23874" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="23936:24166" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="166493:167862" placeholder="..." />
+            <marker date="1462432091000" expanded="true" signature="166493:167948" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FitnessFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="8" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/move.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="27.222221">
+          <caret line="56" column="70" selection-start-line="56" selection-start-column="70" selection-end-line="56" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="240" column="55" selection-start-line="240" selection-start-column="55" selection-end-line="240" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.09615385">
+          <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>

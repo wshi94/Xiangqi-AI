@@ -5,12 +5,14 @@ from move import *
 from sklearn.naive_bayes import GaussianNB
 from sklearn.ensemble import RandomForestClassifier
 import numpy as np
-#import re #regrex
 
-#gameresults: black won = 1, red won= -1, tie = 0
-#use multiclass classification (three classes)
 
-<<<<<<< HEAD
+# import re #regrex
+
+# gameresults: black won = 1, red won= -1, tie = 0
+# use multiclass classification (three classes)
+
+# <<<<<<< HEAD
 
 
 def train():
@@ -18,7 +20,7 @@ def train():
     vector_results = []
     vector = []
 
-    for i in range(0, 10):
+    for i in range(20, 30):
         txtfile = 'test/tournament-' + str(i) + '.txt'
         removeComments(txtfile)
         vectors_fromOnetxtfile = makeVector(txtfile)
@@ -32,7 +34,6 @@ def train():
     return vector
 
 
-
 def learn_svm(vector_features, vector_results):
     X = np.asarray(vector_features)
     Y = np.asarray(vector_results)
@@ -41,6 +42,7 @@ def learn_svm(vector_features, vector_results):
     clf.fit(X, Y)
 
     return clf
+
 
 def learn_linear_svm(vector_features, vector_results):
     X = np.asarray(vector_features)
@@ -51,6 +53,7 @@ def learn_linear_svm(vector_features, vector_results):
 
     return clf
 
+
 def learn_naive_bayes(vector_features, vector_results):
     X = np.asarray(vector_features)
     Y = np.asarray(vector_results)
@@ -60,14 +63,16 @@ def learn_naive_bayes(vector_features, vector_results):
 
     return gnb
 
+
 def learn_random_forest(vector_features, vector_results):
     X = np.asarray(vector_features)
     Y = np.asarray(vector_results)
 
-    rf = RandomForestClassifier(n_estimators=100)
+    rf = RandomForestClassifier()
     rf.fit(X, Y)
 
     return rf
+
 
 def test(classifier):
     vector_features = []
@@ -88,9 +93,10 @@ def test(classifier):
         if pred_results[i] != vector_results[i]:
             count += 1
 
-    #print(count)
-    #print(len(pred_results))
-    return count/len(pred_results)
+    # print(count)
+    # print(len(pred_results))
+    return count / len(pred_results)
+
 
 results = train()
 v_features = results[0]
@@ -98,24 +104,21 @@ v_results = results[1]
 print(len(v_features))
 print(len(v_results))
 svm = learn_svm(v_features, v_results)
-#lsvm = learn_linear_svm(v_features, v_results)
+# lsvm = learn_linear_svm(v_features, v_results)
 nb = learn_naive_bayes(v_features, v_results)
 rf = learn_random_forest(v_features, v_results)
 sr = test(svm)
-#lsr = test(lsvm)
+# lsr = test(lsvm)
 nbr = test(nb)
 rfr = test(rf)
 
 print(sr)
-#print(lsr)
+# print(lsr)
 print(nbr)
 print(rfr)
 print(v_results.count(0))
 print(v_results.count(1))
 print(v_results.count(-1))
-
-
-
 
 '''
 txtfile='finished-games/5-ram-cup-xiangqi-championship-1.txt'
@@ -154,7 +157,7 @@ print(count)
 print(len(a))
 print(count/len(a))
 '''
-#generate a board
+# generate a board
 """
 b=Engine()
 x.Input("P",7,"+",1)

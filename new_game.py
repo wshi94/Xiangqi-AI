@@ -152,6 +152,7 @@ class Engine(Board):
             if xpos == '+':
                 if Piece != 's' and Piece != 'S':
                     high = pieces[0]
+                    print("here in 155")
                     if type == 'r':
                         for piece in pieces:
                             if piece.posx < high.posx:
@@ -264,6 +265,9 @@ class Engine(Board):
             piece_to_be_moved = pieces[0]
             #print(pieces)
 
+        if None == piece_to_be_moved:
+            pass;
+
         return piece_to_be_moved
 
 
@@ -294,6 +298,7 @@ class Engine(Board):
                     piece = self.find_correct(9 - FormerFile, Piece, 'r', Operator)
 
             if FormerFile == '+' or FormerFile == '-':
+
                 if color == 'black':
                     print("hi")
                     captures = piece.move(Piece, piece.posy + 1, Operator, NewFile)

@@ -203,7 +203,7 @@ START{
 31. R4.3   c8.7   32. R3-2   r8-1   33. R8.4   r3+4   
 34. R3-1   r3+2   35. H5+3   r8+8   36. R4-7   k5+1   
 37. H3-4   k5.6   
-/*black run out of time*/}END
+}END
 
 
 FORMAT 	WXF
