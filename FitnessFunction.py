@@ -1,12 +1,12 @@
 
 # coding: utf-8
 
-# In[20]:
+# In[9]:
 
 import numpy as np
 
 
-# In[37]:
+# In[10]:
 
 def PieceFitness(board):
     #Evaluates board value for each side
@@ -56,7 +56,7 @@ def pval(piece, i, j):
         return 0
 
 
-# In[80]:
+# In[23]:
 
 #lower case is black
 #upper is red
@@ -66,24 +66,26 @@ def KingFitness(board):
     total=0
     gi=0
     gj=0
+    sideval=0
     for i in range(len(board)):#find king
         for j in range(len(board[0])):
-            if board[i][j].isupper():
-                sign='g'
-            else: 
-                sign='G'
-            if(board[i][j]==sign):
+            if(board[i][j]=='G'):
                 gi=i
                 gj=j
+                total+=RedKingFit(gi,gj,board)
+            elif(board[i][j]=='g'):
+                gi=i
+                gj=j
+                total+=BlackKingFit(gi,gj,board)
                 
-                
+    return total
+
+
+#evaluates red king for potential incoming attacks
+def RedKingFit(gi, gj, board):
+    sign=True
     for i in range(len(board)):
         for j in range(len(board[0])):
-            if board[i][j].isupper():
-                sign='g'
-            else: 
-                sign='G'
-            p=board[i][j].lower()
             if(p=='s'):
                 total+=ccS(gi, gj, i, j, sign, board)
             elif(p=='r'):
@@ -91,6 +93,22 @@ def KingFitness(board):
             elif(p=='h'):
                 total+=ccH(gi, gj, i, j, sign, board)
             elif(p=='c'):
+                total+=ccC(gi, gj, i, j, sign, board)
+            #elephants advisors and generals cant check
+    return -total
+
+
+def BlackKingFit(gi, gj, board):
+    sign=True
+    for i in range(len(board)):
+        for j in range(len(board[0])):
+            if(p=='S'):
+                total+=ccS(gi, gj, i, j, sign, board)
+            elif(p=='R'):
+                total+=ccR(gi, gj, i, j, sign, board)
+            elif(p=='H'):
+                total+=ccH(gi, gj, i, j, sign, board)
+            elif(p=='C'):
                 total+=ccC(gi, gj, i, j, sign, board)
             #elephants advisors and generals cant check
     return total
@@ -143,14 +161,13 @@ def ccH(gi, gj, i, j, sign, board):
                                     total+=1 #oh god its happening again
                 if(inBoard(i+dmi[2*dx+1],j+dmj[2*dx+1])):
                     for dxx in range(4):#check for a check on second move
-                        #original if(inBoard(i+dmi[2*dx+1]+dr[dxx],j+dmj[2*dx+1]+dc[dxx])):
                         if(inBoard(i+dmi[2*dx+1]+dr[dxx],j+dmj[2*dx+1]+dc[dxx])):
-                            if(board[i+dmi[2*dx+1]+dr[dxx]][j+dmj[2*dx+1]+dc[dxx]]=='.'): #IndexError: list index out of range
+                            if(board[i+dmi[2*dx+1]+dr[dxx]][j+dmj[2*dx+1]+dc[dxx]]=='.'):
                                 if((i+dmi[2*dx+1]+dmi[2*dxx])==gi and (j+dmj[2*dx+1]+dmj[2*dxx])==gj):
                                     total+=1
                                 if((i+dmi[2*dx+1]+dmi[2*dxx+1])==gi and (j+dmj[2*dx+1]+dmj[2*dxx+1])==gj):
                                     total+=1
-    return total
+    return total     
                                     
 
 def ccC(gi, gj, i, j, sign, board):
@@ -181,7 +198,7 @@ def ccC(gi, gj, i, j, sign, board):
     return total
 
 
-# In[86]:
+# In[12]:
 
 def AttackingFitness(board):
     #evaluates possibility for advantagous trades 
@@ -222,17 +239,10 @@ def AttackingFitness(board):
     return total
 
 
-# In[70]:
-"""
-def inBoard(i, j):
-    if(i>=0 and i<=8 and j>=0 and j<=9):
-        return True
-    else:
-        return False
-"""
+# In[13]:
 
 def inBoard(i, j):
-    if(i>=0 and i<=9 and j>=0 and j<=8):
+    if(i>=0 and i<=8 and j>=0 and j<=9):
         return True
     else:
         return False
@@ -247,7 +257,7 @@ def inPalace(i,j):
         return False
 
 
-# In[47]:
+# In[14]:
 
 #finished, may need debugging
 def possS(valb, i, j, sign, board):#done
@@ -280,7 +290,8 @@ def possR(valb, i, j, sign, board):#done
             valb[i][row]=valb[i][row]+v
             if(board[i][row]!='.'):
                 break
-    
+        
+
 def possH(valb, i, j, sign, board):
     v=sign/pval('h', i, j)
     if(inBoard(i+1,j)):
@@ -299,8 +310,7 @@ def possH(valb, i, j, sign, board):
         if(board[i][j+1]=='.'):
             if(inBoard(i+1,j+2)):
                 valb[i+1][j+2]=valb[i+1][j+2]+v
-            #original if(inBoard(i+2,j-1)):#IndexError: list index out of range
-            if(inBoard(i+2,j+2)):
+            if(inBoard(i+2,j-1)):
                 valb[i-1][j+2]=valb[i-1][j+2]+v
     if(inBoard(i,j-1)):
         if(board[i][j-1]=='.'):
@@ -308,7 +318,7 @@ def possH(valb, i, j, sign, board):
                 valb[i+1][j-2]=valb[i+1][j-2]+v
             if(inBoard(i+2,j-1)):
                 valb[i-1][j-2]=valb[i-1][j-2]+v
-
+                
 
 def possC(valb, i, j, sign, board):
     v=sign/pval('c', i, j)
@@ -383,7 +393,7 @@ def possG(valb, i, j, sign, board):
                 valb[i+dc[x]][j+dr[x]]+=v
 
 
-# In[84]:
+# In[15]:
 
 #red winning if returned value is positive, black winning if negative.
 def pst(board):
@@ -510,39 +520,39 @@ def pst(board):
     return rsum-bsum
 
 
-# In[27]:
+# In[16]:
 
 #debugging
 import Xiangqi as xq
 
 
-# In[31]:
+# In[17]:
 
 board=xq.Engine()
 board.Display()
 
 
-# In[32]:
+# In[18]:
 
 board.board
 
 
-# In[38]:
+# In[19]:
 
 PieceFitness(board.board)
 
 
-# In[85]:
+# In[20]:
 
 pst(board.board)
 
 
-# In[87]:
+# In[21]:
 
 AttackingFitness(board.board)
 
 
-# In[81]:
+# In[24]:
 
 KingFitness(board.board)
 
