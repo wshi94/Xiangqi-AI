@@ -1,0 +1,2989 @@
+
+
+FORMAT 	WXF
+GAME 	ZHAO XinXin(W)CHEN FuJie,99
+TIME       ;
+RESULT     1-0
+RED        ZHAO XinXin ; GM ; China-Hangzhou
+BLACK      CHEN FuJie ; CM  ; China-Guangdong
+DATE       21-6-2006
+PLACE      
+EVENT      China National Xiangqi League ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   p1+1   8.  P9+1   r1+5   9.  R2+4   e7+5   
+10. R9.4   r1.4   11. R4+3   r4+1   12. A6+5   h2+3   
+13. R4.8   h3+1   14. E7+9   c2.4   15. H3+4   r4.3   
+16. C7-2   c8+1   17. H4+5   c8.5   18. C5+4   a4+5   
+19. R2+5   h7-8   20. P5+1   h8+7   21. C5-1   c4+4   
+22. R8+2   c4.5   23. E3+5   c5-2   24. P5+1   r3.9   
+25. R8.3   h7-9   26. P5.6   h9-7   27. C7+2   h7+6   
+28. R3.4   r9-2   29. P6+1   r9.8   30. P6+1   r8-1   
+31. R4-1   r8.4   32. P6.7   r4.5   33. E5-7   r5+2   
+34. C7.5   h6+8   35. R4.2   h8-6   36. R2.6   r5.7   
+37. K5.6   r7.5   38. P7+1   h6+7   39. P7+1   h7-5   
+40. P7.6   a5-4   41. R6+4   k5+1   42. R6-3   h5+7   
+43. R6+2   k5-1   44. R6+1   k5+1   45. R6.4   p9+1   
+46. R4-4   k5-1   47. A5+4   p9+1   48. C5-2   h7+8   
+49. C5+1   h8-7   50. K6+1   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Yang(L)LIU DaHua,70
+TIME       ;
+RESULT     0-1
+RED        WANG Yang ; CM ; China-Hubei
+BLACK      LIU DaHua ; GM ; China-Hubei
+DATE       30-8-2006
+PLACE      
+EVENT      China National Xiangqi League ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   h2+1   8.  C7+3   r1+3   9.  R9.8   r1.4   
+10. R2+6   c2.4   11. H3+4   e7+5   12. C7+2   c8.9   
+13. R2+3   h7-8   14. H4+3   c9.7   15. E3+1   h8+6   
+16. P3+1   r4+1   17. R8.4   h1-2   18. R4+7   h2-3   
+19. C5+4   a4+5   20. R4-3   r4+2   21. H3-5   r4-3   
+22. C5.4   c7.6   23. H5+6   c6.4   24. P5+1   p1+1   
+25. C4.3   p1+1   26. H9-7   r4+5   27. C3.7   h3+1   
+28. A4+5   c4.3   29. C7-2   c3+4   30. R4-2   r4.3   
+31. E7+5   c3.2   32. K5.4   e5+7   33. P5+1   e7-5   
+34. P5+1   h1+3   35. R4.5   r3.4   }END
+
+
+FORMAT 	WXF
+GAME 	JIN So(L)XU YinChuan,64
+TIME       ;
+RESULT     0-1
+RED        JIN So ; CM ; China-Shenyang
+BLACK      XU YinChuan ; GM   ; China-Guangdong
+DATE       23-8-2006
+PLACE      
+EVENT      China National Xiangqi League ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  H8+7   c2+4   6.  P5+1   c8+4   
+7.  R9+1   c2.3   8.  E7+9   r1.2   9.  R9.6   c3.6   
+10. R6+6   c6+1   11. H7+6   c6.2   12. H6+5   h7+5   
+13. C5+4   r8+3   14. C5-1   k5+1   15. R6.7   r2+6   
+16. A4+5   c8+1   17. R7+1   k5-1   18. E9-7   r2.7   
+19. H3-4   r7-1   20. R7-1   k5+1   21. R7.8   c2.3   
+22. R8.6   r7.5   23. R6-2   k5-1   24. H4+5   p7+1   
+25. C5.2   r5+1   26. H5-3   c8-2   27. E3+5   r5.7   
+28. E5+3   c8.3   29. E3-5   c--1   30. H3-1   r7.9   
+31. R6-1   c-.5   32. R6+1   r8+1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHUANG YuTing(D)XIE Jing,126
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHUANG YuTing ; GM ; China-Guangdong
+BLACK      XIE Jing ; CM ; China-Shanghai
+DATE       20-9-2006
+PLACE      
+EVENT      China National Xiangqi League ; 2006
+ROUND      
+START{
+1.  E3+5   p7+1   2.  H8+9   h8+7   3.  R9+1   h2+3   
+4.  H2+4   r1+1   5.  C8.7   h7+6   6.  R9.8   c2.1   
+7.  P3+1   p7+1   8.  R1.3   e3+5   9.  R3+4   c8.6   
+10. R3+2   c6+6   11. R8.4   h6+5   12. C7-1   r1.8   
+13. C2+4   c1+4   14. P7+1   h5-4   15. R4+2   c1-1   
+16. H9+7   h4+3   17. R4.7   r9+1   18. C7.3   c1-1   
+19. R7.6   c1.5   20. A4+5   a4+5   21. R6.4   k5.4   
+22. R4.6   k4.5   23. R6.4   k5.4   24. R4.6   k4.5   
+25. R6.3   r8+1   26. R-.4   r8.6   27. R4.8   r9.8   
+28. R8+4   r6+6   29. R8.7   r6.7   30. R3-5   r8+2   
+31. K5.4   r8+3   32. R7-1   r8.6   33. K4.5   r6.9   
+34. K5.4   r9+3   35. K4+1   r9-5   36. R3+5   c5.4   
+37. R3.5   c4-4   38. R5.6   p1+1   39. R7+1   c4.3   
+40. R7.9   r9.6   41. A5+4   p9+1   42. R6-2   c3.4   
+43. A6+5   r6.8   44. R6.4   r8.4   45. A5+6   a5+4   
+46. A4-5   a6+5   47. K4-1   r4.5   48. R4+2   r5.4   
+49. R4.1   r4.6   50. K4.5   r6.5   51. R9-1   r5.7   
+52. R1+3   r7.5   53. A5+4   a5-6   54. R9+2   a6+5   
+55. R1-3   r5.6   56. R1.9   p9+1   57. R-.2   r6.4   
+58. A4-5   r4.6   59. R9.8   r6.4   60. R8-2   r4.5   
+61. R2-3   r5.6   62. R8.1   r6.2   63. R2.9   p9.8   }END
+
+
+FORMAT 	WXF
+GAME 	ZHUANG YuTing(D)ZHENG YiHong,44
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHUANG YuTing ; GM ; China-Guangdong
+BLACK      ZHENG YiHong ; GM ; China-Xiamen
+DATE       25-10-2006
+PLACE      
+EVENT      China National Xiangqi League ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  C8+2   c2+2   6.  C5.6   h7+6   
+7.  R1.2   c8+4   8.  P3+1   r1+1   9.  E3+5   r8+1   
+10. R9+1   r1.7   11. R9.4   h6+7   12. A4+5   p7+1   
+13. R4+4   c2-3   14. C8.3   e7+5   15. R2+2   c2+5   
+16. K5.4   r7.6   17. R4+3   r8.6   18. K4.5   c2.3   
+19. H7-8   r6.8   20. H8+9   c3.4   21. P9+1   p5+1   
+22. H9+8   h3+5   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(W)ZHANG ShenHong,173
+TIME       ;
+RESULT     1-0
+RED        XU YinChuan ; GM   ; China-Guangdong
+BLACK      ZHANG ShenHong ; NT  ; China-Hunan
+DATE       11-10-2006
+PLACE      
+EVENT      China National Xiangqi League ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   c8.9   5.  C8+2   r8+8   6.  R1+1   r8.9   
+7.  H3-1   h2+3   8.  P3+1   p7+1   9.  C8.3   h7+8   
+10. R9.8   r1.2   11. R8+6   c2-1   12. H1+2   e3+5   
+13. H7+6   c2.5   14. R8+3   h3-2   15. H2+3   h2+3   
+16. C5.4   c5.4   17. H3+4   k5+1   18. H4-2   h8+9   
+19. C3-3   c4+2   20. H2-4   c4-2   21. C4.5   k5-1   
+22. H6+5   h3+5   23. C5+4   c4.5   24. C5.9   h9-7   
+25. E7+5   h7+6   26. K5+1   h6-8   27. C3+3   h8-6   
+28. C9+3   e5-3   29. P5+1   p9+1   30. K5-1   c9.8   
+31. C9-4   p9+1   32. H4+6   e7+5   33. H6+4   c5.6   
+34. C9.4   a6+5   35. C4+3   h6-7   36. H4-5   h7-6   
+37. H5+7   h6+7   38. A6+5   p9.8   39. C3-1   c8.9   
+40. C3.8   c9+7   41. C8+1   h7+6   42. P5+1   h6+5   
+43. C8.2   h5+7   44. K5.6   h7-6   45. C2.5   h6+5   
+46. H7-6   h5+3   47. C5.1   c9-3   48. E3+5   h3-4   
+49. K6+1   h4+2   50. H6-7   h2-3   51. K6.5   h3-5   
+52. C1.4   h5+6   53. C4-1   c9+2   54. H7+6   h6-8   
+55. K5-1   a5+4   56. C4+3   c9-7   57. C4.5   k5.6   
+58. C5.6   h8+7   59. K5.6   c9.1   60. P5+1   a4-5   
+61. C6+2   e3+1   62. P5+1   c1+5   63. C6.8   c1.4   
+64. E5-3   a5+4   65. H6+7   h7-6   66. K6.5   a4+5   
+67. H7+9   h6+4   68. K5+1   c4.5   69. P7+1   h4-5   
+70. P5.6   a5+4   71. P7.6   h5-6   72. P6.5   h6+7   
+73. H9-7   c5-1   74. K5-1   a4-5   75. K5.6   h7+5   
+76. P5+1   h5+3   77. K6+1   h3-5   78. K6-1   h5+3   
+79. K6.5   h3-5   80. K5.6   k6.5   81. P5+1   h5-3   
+82. H7+9   h3-4   83. P5+1   k5.6   84. P5.6   h4-2   
+85. H9+8   k6.5   86. P6.5   k5.6   87. C8.9   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG ShenHong(L)JING XueYi,120
+TIME       ;
+RESULT     0-1
+RED        ZHANG ShenHong ; NT  ; China-Hunan
+BLACK      JING XueYi ; CM ; China-Meitan Tixie
+DATE       27-9-2006
+PLACE      
+EVENT      China National Xiangqi League ; 2006
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  C8+4   e7+5   6.  H8+7   h3+4   
+7.  C8.3   c8+4   8.  R9.8   c2.3   9.  P3+1   e5+7   
+10. R8+4   c8-2   11. H3+4   h4+6   12. R8.4   e7-5   
+13. R2+4   a6+5   14. H7-5   r1.2   15. C5.3   c8.7   
+16. R2+5   h7-8   17. C++2   r2+6   18. C+.2   r2.3   
+19. R4-1   r3-1   20. R4.2   r3.6   21. C3.1   c7.9   
+22. C1+3   p9+1   23. E7+5   r6+3   24. H5-7   r6.3   
+25. R2+3   h8+6   26. R2.4   h6+8   27. R4.5   h8+7   
+28. R5.7   c3.4   29. A4+5   r3-2   30. R7.9   r3.5   
+31. C2-6   c4+4   32. P9+1   c4.9   33. C2.1   c9.8   
+34. R9.2   p9+1   35. P9+1   h7+6   36. C1.4   p9.8   
+37. R2.3   r5.4   38. C4-2   p3+1   39. A5+4   h6-7   
+40. A6+5   c8+2   41. H7+6   p3+1   42. E5+3   p8.7   
+43. R3.2   p7.8   44. R2-2   h7+8   45. R2.1   a5-6   
+46. H6-4   c8.7   47. R1.3   c7-2   48. A5+6   c7.6   
+49. A4-5   c6.5   50. K5.6   c5-2   51. R3-1   c5.4   
+52. K6.5   e5+3   53. H4+5   h8+7   54. R3-2   r4.5   
+55. R3+4   c4.1   56. R3.7   c1-2   57. K5.6   c1.4   
+58. R7.6   r5+2   59. R6+2   r5+1   60. K6+1   r5.6   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO XinXin(D)JIANG Chuan,160
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHAO XinXin ; GM ; China-Hangzhou
+BLACK      JIANG Chuan ; NT  ; China-Wenzhou
+DATE       16-7-2008
+PLACE      
+EVENT      China National Xiangqi League ; 2008
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P7+1   c8+2   9.  R9.6   a4+5   
+10. R6+5   c2-2   11. P3+1   h7+6   12. R6.8   p7+1   
+13. R2.3   c2+6   14. C5.8   p3+1   15. R3.7   c8.7   
+16. E7+5   c7-1   17. R8+2   c7-1   18. H7+8   r8+6   
+19. C8+1   r8+1   20. H3+4   r8-2   21. H8+7   r1.4   
+22. R8-3   h6-8   23. C8.7   r4+3   24. R8-1   e5-3   
+25. H4+3   r8.3   26. R8.7   e7+5   27. C7-2   r4+1   
+28. H7+5   e3+5   29. C7+6   c7.3   30. R7+3   h8-7   
+31. R7-1   r4.6   32. R7.9   r6-1   33. H3-2   h7+8   
+34. R9+3   a5-4   35. R9-2   e5-7   36. H2+1   h8+7   
+37. H1+2   r6-2   38. H2-4   h7+5   39. A6+5   a6+5   
+40. H4+6   h5-6   41. R9-3   r6.9   42. P1+1   r9+2   
+43. R9+1   h6+4   44. P1+1   r9.7   45. H6-8   h4+2   
+46. R9.6   r7-1   47. H8-6   r7.4   48. P1.2   h2+3   
+49. K5.6   h3-1   50. K6.5   h1+3   51. K5.6   h3-1   
+52. R6-1   h1-3   53. K6.5   h3-5   54. H6-8   r4+3   
+55. H8-6   p5+1   56. E5+3   h5+7   57. P9+1   p5+1   
+58. H6+5   p5+1   59. P9+1   h7-5   60. P2+1   e7+5   
+61. P9.8   h5+3   62. P8+1   h3-4   63. P8.7   p5.4   
+64. H5-6   e5-3   65. A5-6   k5.6   66. P7.6   k6+1   
+67. H6+4   h4+5   68. H4+3   h5-7   69. P2.3   h7+6   
+70. K5+1   h6-5   71. P6.5   h5-7   72. P5.4   h7+5   
+73. P4.5   h5-7   74. P5.6   h7+5   75. P6.7   p4.5   
+76. P7+1   p5.4   77. H3+2   k6-1   78. P3+1   h5-7   
+79. P3+1   h7-5   80. P7+1   e3+1   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG Chuan(W)MIAO LiMing,63
+TIME       ;
+RESULT     1-0
+RED        JIANG Chuan ; NT  ; China-Wenzhou
+BLACK      MIAO LiMing ; NT  ; China-Anhui
+DATE       14-7-2008
+PLACE      
+EVENT      China National Xiangqi League ; 2008
+ROUND      
+START{
+1.  P7+1   e3+5   2.  C8.5   p7+1   3.  H8+7   h2+3   
+4.  H2+1   h8+7   5.  R1+1   p9+1   6.  R9.8   r1.2   
+7.  C2.3   h7+8   8.  H7+6   p9+1   9.  P1+1   r9+5   
+10. H6+5   h3+5   11. C5+4   a4+5   12. E7+5   r2.4   
+13. P3+1   r4+4   14. R1.4   r9-2   15. C5-2   r9.5   
+16. R4+7   e7+9   17. P3+1   r4.7   18. C3-1   r7.4   
+19. H1+2   c8.6   20. R4.2   h8+6   21. C5+3   k5.4   
+22. C5.1   c2.9   23. C3+8   k4+1   24. C3-1   k4+1   
+25. R2-1   k4.5   26. C3.4   h6+8   27. H2+4   r4.6   
+28. C4-3   h8+6   29. K5+1   r5.7   30. K5.6   r7.4   
+31. K6.5   c9+6   32. C4+4   }END
+
+
+FORMAT 	WXF
+GAME 	XIE Kui(L)JIANG Chuan,70
+TIME       ;
+RESULT     0-1
+RED        XIE Kui ; NT ; China-Shandong
+BLACK      JIANG Chuan ; NT  ; China-Wenzhou
+DATE       13-7-2008
+PLACE      
+EVENT      China National Xiangqi League ; 2008
+ROUND      
+START{
+1.  C2.4   c2.5   2.  H8+7   h2+3   3.  R9.8   r1.2   
+4.  H2+3   h8+9   5.  R1.2   r9.8   6.  P7+1   r2+4   
+7.  C4+5   p3+1   8.  C4.1   c5.9   9.  R2+4   p3+1   
+10. R2.7   c8.7   11. H7+8   r2.6   12. E7+5   e7+5   
+13. P3+1   r8+6   14. H8+7   r8.7   15. C8.7   p7+1   
+16. R8+4   a6+5   17. E3+1   c7+1   18. H7-6   r6+4   
+19. P3+1   r7-2   20. E1+3   r7.8   21. E3-1   h3+4   
+22. R8+1   e3+1   23. A6+5   e5+3   24. C7-1   r6-5   
+25. H6-7   r8+2   26. H3+2   c7+1   27. R7.3   h4+3   
+28. R8+1   h3+5   29. C7+4   r6+1   30. C7-1   c9.7   
+31. H2+3   r8+1   32. K5.6   h5+3   33. R8.6   r8.3   
+34. C7.5   k5.6   35. R3.2   h3-1   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG Chuan(D)WANG Bin,70
+TIME       ;
+RESULT     0.5-0.5
+RED        JIANG Chuan ; NT  ; China-Wenzhou
+BLACK      WANG Bin ; GM ; China-Jiangsu
+DATE       11-7-2008
+PLACE      
+EVENT      China National Xiangqi League ; 2008
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   e7+5   8.  H3+4   p1+1   9.  P9+1   r1+5   
+10. H4+5   h7+5   11. C5+4   a6+5   12. E3+5   r1-2   
+13. C5-1   h2+1   14. C7-1   r1.2   15. C7.1   r8.6   
+16. R9.6   r6+6   17. P5+1   r2.6   18. R6+3   k5.6   
+19. A4+5   r-+2   20. C1+1   p3+1   21. P7+1   c2+3   
+22. C1.4   r++1   23. A5+4   c2.4   24. R2+7   r6.5   
+25. R2+2   k6+1   26. C5.2   r5.6   27. A6+5   c4.5   
+28. C2-1   r6.7   29. C2.5   r7.5   30. R2.1   r5+1   
+31. R1-3   r5.6   32. P1+1   r6.9   33. P1+1   k6-1   
+34. R1+3   k6+1   35. P1+1   p7+1   }END
+
+
+FORMAT 	WXF
+GAME 	LI XueSong(D)JIANG Chuan,80
+TIME       ;
+RESULT     0.5-0.5
+RED        LI XueSong ; CM ; China-Hubei
+BLACK      JIANG Chuan ; NT  ; China-Wenzhou
+DATE       25-6-2008
+PLACE      
+EVENT      China National Xiangqi League ; 2008
+ROUND      
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  H8+9   p3+1   5.  R1.2   r9+1   6.  A6+5   r9.4   
+7.  C5+4   a4+5   8.  C5.1   h8+9   9.  R9.8   r4+4   
+10. C8.6   h2+1   11. P3+1   r1.2   12. R8+9   h1-2   
+13. E3+5   r4-1   14. R2+4   r4.3   15. P3+1   c8.6   
+16. P3.2   p3+1   17. R2.8   h2+4   18. H3+4   r3.6   
+19. H9+7   c6+3   20. R8+4   c3+1   21. R8.6   c3.9   
+22. R6-3   r6.4   23. H7+6   c6+1   24. P1+1   h9-7   
+25. P1+1   h7+6   26. H6+4   c9.6   27. C6.9   c+.1   
+28. C9+4   c6+3   29. P1+1   c1-2   30. P1.2   c6-2   
+31. P+.3   c1.8   32. P5+1   c6+4   33. A5+6   e5+7   
+34. A4+5   a5+6   35. P3.4   a6+5   36. C9-3   c6-2   
+37. C9.5   k5.4   38. C5.6   c8.9   39. C6+1   c6.5   
+40. C6+2   e7+9   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG Chuan(W)NEI TieWen,127
+TIME       ;
+RESULT     1-0
+RED        JIANG Chuan ; NT  ; China-Wenzhou
+BLACK      NEI TieWen ; CM ; China-HeilongJiang
+DATE       18-6-2008
+PLACE      
+EVENT      China National Xiangqi League ; 2008
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  R1.2   r9.8   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P3+1   p7+1   9.  R2.3   h7+6   
+10. P7+1   p3+1   11. R3.7   c8.7   12. R9.4   r8+4   
+13. H3+4   r8.7   14. H4-2   r7.8   15. C8+1   c2+1   
+16. C5.2   h6+7   17. C2+3   c2.5   18. A4+5   h7+6   
+19. H2-4   r1+1   20. H7+6   r1.6   21. C2.4   h6-8   
+22. C8.7   c5.3   23. C7+2   e5+3   24. R7+1   r6+1   
+25. E7+5   c7-1   26. C4.2   c7.9   27. C2+4   c9+5   
+28. E3+1   h8+9   29. R7.3   r6.8   30. R3+4   h3-5   
+31. R3-6   r8-2   32. R3.1   h9-7   33. K5.4   h5+3   
+34. E1-3   r8+4   35. H6+7   a4+5   36. R1.3   r8.3   
+37. H7+5   h7+9   38. P5+1   a5+4   39. R3.6   a6+5   
+40. R6.1   r3.6   41. H5-3   h9-7   42. R1.3   h7+9   
+43. R3.7   h3-4   44. R7.1   h9-7   45. R1.3   h7+9   
+46. H3-2   r6.8   47. H2-3   h4+3   48. R3.1   h9-8   
+49. R1+3   h3+4   50. R1.5   h4+5   51. R5.3   h8-9   
+52. H3+1   r8.7   53. R3.9   r7+2   54. H1+3   h5+7   
+55. K4.5   h9+8   56. H3+5   h8+9   57. R9+3   a5-4   
+58. H5+6   k5+1   59. R9.6   h9-7   60. K5.4   h+-9   
+61. K4.5   h9+7   62. K5.4   h+-5   63. K4.5   h5+3   
+64. H4-6   }END
+
+
+FORMAT 	WXF
+GAME 	WAN ChunLin(D)JIANG Chuan,54
+TIME       ;
+RESULT     0.5-0.5
+RED        WAN ChunLin ; GM ; China-Shanghai
+BLACK      JIANG Chuan ; NT  ; China-Wenzhou
+DATE       11-6-2008
+PLACE      
+EVENT      China National Xiangqi League ; 2008
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  P7+1   h2+3   5.  C8+2   c2.1   6.  H8+7   r1.2   
+7.  C5-1   r2+4   8.  E7+5   e7+5   9.  R2+6   p3+1   
+10. C5.8   r2.1   11. P9+1   r1+1   12. R9+4   p3+1   
+13. R9+2   h3+1   14. E5+7   c8-1   15. C++2   c8.3   
+16. R2+3   h7-8   17. H7+6   h8+7   18. E3+5   c1.3   
+19. C-.1   p5+1   20. P3+1   p7+1   21. C1.3   h1+2   
+22. C3+3   h2-3   23. H6+7   c-+2   24. C3+2   c-.1   
+25. A6+5   c3.5   26. C8-5   c1+3   27. A5+6   p5+1   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG Chuan(W)XIE ZhouMiao,87
+TIME       ;
+RESULT     1-0
+RED        JIANG Chuan ; NT  ; China-Wenzhou
+BLACK      XIE ZhouMiao ; NT ; China-Chengdu
+DATE       30-5-2008
+PLACE      
+EVENT      China National Xiangqi League ; 2008
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   p1+1   8.  P9+1   r1+5   9.  R2+4   p3+1   
+10. R9.6   e7+5   11. P3+1   p7+1   12. P7+1   a4+5   
+13. C7-1   c2.3   14. C7+6   h2-3   15. C5.7   h3+2   
+16. E3+5   c8+2   17. R6.4   r8+3   18. C7-1   r1-3   
+19. P7+1   e5+3   20. C7+8   e3-5   21. C7.8   r1.2   
+22. C8.9   r2.1   23. C9.8   r1.2   24. C8.9   r2.1   
+25. C9.8   h2-3   26. C8-8   p5+1   27. C8.9   r1.2   
+28. H9+8   r2+2   29. C9.8   r2.3   30. R4+3   r3+4   
+31. C8+1   r8.4   32. A4+5   r3-2   33. H8-9   r3.2   
+34. C8.6   c8-1   35. R4+4   c8.7   36. R2+3   c7+4   
+37. C6.3   h7+5   38. C3.1   k5.4   39. C1+4   r4+2   
+40. R4-2   r2.5   41. C1.5   r5.9   42. R2.5   h3+1   
+43. E5-3   r4-2   44. R4+2   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG Chuan(W)LI Aidong,95
+TIME       ;
+RESULT     1-0
+RED        JIANG Chuan ; NT  ; China-Wenzhou
+BLACK      LI Aidong ; CM ; China-Sichuan
+DATE       28-5-2008
+PLACE      
+EVENT      China National Xiangqi League ; 2008
+ROUND      
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  H8+7   h2+3   5.  P7+1   c2+4   6.  H7+8   r9+1   
+7.  R9+1   r9.4   8.  R9.7   r4+6   9.  C8.9   r4-4   
+10. A4+5   c2.7   11. H8+7   c5-1   12. P7+1   r1.2   
+13. R7+3   r2+7   14. C5.6   h7+6   15. E3+5   r4+2   
+16. R2.4   r4.3   17. E5+7   h6-7   18. R4+8   r2.3   
+19. E7+5   c5.1   20. R4-1   e3+5   21. H7+9   h3-2   
+22. H9+7   h2+4   23. R4-4   p7+1   24. P5+1   e5+3   
+25. R4.6   k5+1   26. E5+3   h7+8   27. E3-5   e7+5   
+28. C9+4   c7.1   29. E7-9   c+-2   30. C9.8   r3.2   
+31. E9-7   p9+1   32. C6+6   c-.4   33. R6.9   c4+3   
+34. H7-6   k5.4   35. C8.5   h8-7   36. C5.3   c4.7   
+37. R9.6   r2-2   38. H3+5   c1-2   39. P5+1   c1.4   
+40. R6.9   a4+5   41. H5+3   c4.3   42. E7+9   c3.1   
+43. R9.2   k4-1   44. P5.4   r2.4   45. H6-8   r4-2   
+46. P4.3   e5+7   47. H8+9   e3-1   48. H3+1   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG Chuan(L)XIE Kui,116
+TIME       ;
+RESULT     0-1
+RED        JIANG Chuan ; NT  ; China-Wenzhou
+BLACK      XIE Kui ; NT ; China-Shandong
+DATE       18-12-2007
+PLACE      
+EVENT      China National Xiangqi League ; 2007
+ROUND      
+START{
+1.  C8.5   h2+3   2.  H8+7   r1.2   3.  R9.8   h8+7   
+4.  P3+1   p3+1   5.  R8+6   c2.1   6.  R8.7   c1-1   
+7.  H2+3   a6+5   8.  P5+1   c1.3   9.  R7.6   h3+2   
+10. H7+5   p3+1   11. R6.7   h2-3   12. R7.6   p3+1   
+13. E7+9   h3+2   14. R6-1   h2-3   15. R6+1   h3+2   
+16. R6-1   h2-3   17. R6+1   r2+4   18. P5+1   e7+5   
+19. H5+4   r9.7   20. H3+5   p5+1   21. C2+3   p7+1   
+22. H4+3   r7+2   23. H5+4   r7-2   24. C5+5   e3+5   
+25. H4+5   a5+4   26. E3+5   r7+2   27. H5-4   r7.6   
+28. P3+1   r2.4   29. R6.1   a4+5   30. A4+5   h3+2   
+31. H4-5   r4-1   32. C2.5   k5.4   33. C5.6   p3.4   
+34. R+.6   h2-4   35. H5+3   r6+3   36. R1.2   c8.5   
+37. R2+9   a5-6   38. H3+1   k4.5   39. R2-3   c3.5   
+40. E9-7   p4+1   41. H1+3   r6-2   42. R2+1   h4-6   
+43. R2-5   p4+1   44. C6.4   r6.5   45. H3+5   r5-1   
+46. P3+1   h6+5   47. P3.4   h5+6   48. R2.4   r5+4   
+49. C4.2   p4+1   50. K5.4   c5+4   51. C2-2   h6-7   
+52. C2+6   a6+5   53. A5-6   r5.6   54. R4+1   h7+6   
+55. C2-8   c5.6   56. K4.5   h6+7   57. K5+1   p1+1   
+58. P1+1   c6.2   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN FuJie(D)YAN WenQing,55
+TIME       ;
+RESULT     0.5-0.5
+RED        CHEN FuJie ; CM  ; China-Guangdong
+BLACK      YAN WenQing ; CM ; China-Hebei
+DATE       20-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  E3+5   c2.4   2.  R9+1   h2+1   3.  R9.6   a6+5   
+4.  P9+1   r1.2   5.  H8+9   r2+4   6.  R6+3   p1+1   
+7.  H9+8   r2.6   8.  P9+1   r6.1   9.  H2+3   h8+7   
+10. P3+1   e7+5   11. H3+2   c8+5   12. C8.2   r9.6   
+13. A4+5   r6+6   14. C2.4   r6.5   15. H2+3   r1.8   
+16. R6+1   r8+2   17. R1.3   h7-8   18. P3+1   r5.3   
+19. P3.4   r3.6   20. P1+1   p3+1   21. P4.5   h8+7   
+22. R6+1   r6.5   23. H8+6   c4+2   24. P5.6   r8.7   
+25. R3+3   r5.7   26. H3-4   p3+1   27. H4+5   h1+2   
+28. R6.8   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG Qiang(D)WANG Yang,56
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHANG Qiang ; CM ; China-Beijing
+BLACK      WANG Yang ; CM ; China-Hubei
+DATE       20-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P3+1   p7+1   9.  R2.3   h7+6   
+10. R9.4   c2+1   11. R4.2   r1+1   12. P7+1   p3+1   
+13. R3.7   r8+1   14. C5.4   c8.7   15. R2+7   c7+7   
+16. K5+1   r1.8   17. R7+3   r8+7   18. C4-1   r8.7   
+19. H3+4   c7.8   20. H4-5   c2.5   21. C8-1   c5+3   
+22. E7+5   h6+8   23. C8+8   e5-3   24. R7.4   a6+5   
+25. R4-1   c8-1   26. K5-1   c8.6   27. A6+5   c6-4   
+28. H7+6   c6.8   }END
+
+
+FORMAT 	WXF
+GAME 	YANG DeQi(L)LI ZhiPing,132
+TIME       ;
+RESULT     0-1
+RED        YANG DeQi ; CM ; China-HuoCheTou
+BLACK      LI ZhiPing ; FM ; China-Tianjin
+DATE       20-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  P7+1   c2+4   6.  P5+1   e3+5   
+7.  H8+7   a4+5   8.  C8.9   r1.4   9.  R9.8   c2.3   
+10. R8+3   c3+3   11. A6+5   c3.1   12. H3+5   c8.9   
+13. R2+3   h7-8   14. P3+1   h8+7   15. P3+1   e5+7   
+16. H5+3   r4+8   17. C5.3   r4.3   18. A5+4   e7+5   
+19. P5+1   c9.8   20. C3.2   c8+2   21. H7+5   p5+1   
+22. H5+6   h3+5   23. H6+8   r3+1   24. K5+1   r3.4   
+25. C9.6   a5+4   26. H8+7   k5+1   27. R8.2   p5+1   
+28. C6.8   r4.2   29. C8.5   p5.6   30. C2+3   p6.7   
+31. C2.1   k5.4   32. C5.6   h5+4   33. C1-1   p7+1   
+34. R2+1   h7+5   35. C1.6   h5+4   36. R2.6   r2-3   
+37. K5.6   c1.7   38. C6.5   r2+2   39. K6+1   r2-6   
+40. C5+3   p7.6   41. H7+9   r2.1   42. R6.4   p6.5   
+43. R4+4   k4-1   44. R4+1   k4+1   45. R4.8   r1-1   
+46. K6-1   p1+1   47. R8.2   r1+1   48. R2-1   k4-1   
+49. C5.6   a4-5   50. R2+1   e5-7   51. H9-7   r1.3   
+52. H7+9   p3+1   53. R2-6   p5+1   54. R2.5   p5.6   
+55. R5+5   p3+1   56. R5.7   r3.1   57. R7+1   k4+1   
+58. R7.8   r1.3   59. R8-1   k4-1   60. R8-1   r3+2   
+61. R8.6   k4.5   62. A4+5   p6.5   63. C6.5   p3.4   
+64. R6-3   r3+4   65. A5+4   e7+5   66. ....   p5.4   
+66. ....   p4.5   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG Chuan(D)LI XueSong,180
+TIME       ;
+RESULT     0.5-0.5
+RED        JIANG Chuan ; NT  ; China-Wenzhou
+BLACK      LI XueSong ; CM ; China-Hubei
+DATE       20-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  C2.6   h8+7   2.  H2+3   r9.8   3.  P3+1   c8.9   
+4.  H8+7   p3+1   5.  C8+4   e7+5   6.  C8.3   h2+3   
+7.  R9.8   r1.2   8.  R1+1   r8+4   9.  R1.4   a6+5   
+10. R4+3   h7-8   11. E7+5   c9.7   12. P7+1   p3+1   
+13. R4.7   h3+2   14. R8.9   c2.4   15. H3+4   h8+6   
+16. C3.9   r2+3   17. C9-1   h2-4   18. C6+3   r2+1   
+19. P9+1   c4+2   20. H4+6   r8+4   21. R7.6   r8.6   
+22. E3+1   c7.8   23. E1-3   c8.7   24. E3+1   c7.8   
+25. A6+5   h4-2   26. R6.4   r6-3   27. H6-4   h2+1   
+28. P9+1   r2.3   29. H7+8   c8+3   30. H8+9   r3.6   
+31. H4-3   c8-1   32. E1-3   c8.1   33. P5+1   c1.3   
+34. R9+5   r6.4   35. R9.8   e3+1   36. R8+2   e1-3   
+37. R8-4   h6+8   38. R8.2   h8+6   39. R2+6   a5-6   
+40. R2-3   h6+5   41. R2.5   h5+3   42. H3+5   r4.8   
+43. R5.1   r8.5   44. H5+7   r5.4   45. P1+1   a6+5   
+46. R1.2   r4+1   47. R2+3   a5-6   48. R2-6   h3+1   
+49. H7-8   h1-2   50. H9-8   r4.2   51. H8+7   r2+4   
+52. A5-6   r2-6   53. P1+1   r2.4   54. R2+2   r4.5   
+55. R2.6   a6+5   56. P1.2   r5.7   57. A6+5   k5.6   
+58. H7-6   k6.5   59. H6+5   r7.5   60. H5+6   a5+4   
+61. H6+8   a4+5   62. H8+9   r5.1   63. H9-7   k5.4   
+64. R6-2   c3-2   65. R6.7   c3+2   66. R7.8   c3-2   
+67. R8.7   c3+2   68. R7.8   c3-2   69. R8+4   c3+2   
+70. A5-6   r1.3   71. H7+9   r3.1   72. H9-7   r1.3   
+73. H7+9   c3.5   74. A4+5   c5.1   75. R8-7   c1-3   
+76. E5-7   k4.5   77. E3+5   k5.4   78. R8.9   c1.2   
+79. R9+3   k4.5   80. R9.2   k5.4   81. P2.3   a5-6   
+82. R2.6   a6+5   83. R6.8   c2.1   84. P+.4   r3+1   
+85. R8.4   c1+3   86. P4+1   r3-1   87. P3+1   e3+1   
+88. H9-8   r3.2   89. R4.9   c1-1   90. P3+1   e5-3   }END
+
+
+FORMAT 	WXF
+GAME 	JIN Bo(L)HONG Zhi,62
+TIME       ;
+RESULT     0-1
+RED        JIN Bo ; CM ; China-HuoCheTou
+BLACK      HONG Zhi ; GM ; China-Jilin
+DATE       20-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  C5+4   a4+5   
+4.  E7+5   h2+4   5.  C5-1   r1.2   6.  H8+6   r9+1   
+7.  H2+3   r9.6   8.  P3+1   r2+4   9.  P5+1   r6+5   
+10. C8.7   r6.4   11. R1+1   h8+7   12. R1.2   h7+5   
+13. H6+5   r4-1   14. R2+4   p7+1   15. P3+1   r4.5   
+16. H5+3   c3+3   17. H-+5   c8.7   18. P3+1   c7+3   
+19. H5+3   e5+7   20. R2.3   c3.7   21. R3-1   r5.7   
+22. E5+3   r2.5   23. A6+5   r5+2   24. R9.6   h4+2   
+25. P3.4   h5+6   26. R6+4   r5.3   27. C7.6   h6+4   
+28. P9+1   r3+3   29. C6-2   h2+3   30. E3+5   h4+3   
+31. R6-3   h-+1   }END
+
+
+FORMAT 	WXF
+GAME 	SUN HaoYu(L)DONG Fei,138
+TIME       ;
+RESULT     0-1
+RED        SUN HaoYu ; NT ; China-Hunan
+BLACK      DONG Fei ; NT  ; China-Hubei
+DATE       20-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  C2.5   h8+7   2.  P7+1   r9.8   3.  H2+3   p7+1   
+4.  H8+7   h2+3   5.  H7+6   r1+1   6.  R1.2   r1.4   
+7.  C8+2   c8+4   8.  R9+1   e7+5   9.  C5.6   r4.6   
+10. C6.7   r6.4   11. C7.6   r4.6   12. C6.7   r6.4   
+13. R9.6   c2+2   14. R2+1   c2.4   15. R6.8   p5+1   
+16. P7+1   p3+1   17. C7+5   r4+1   18. C7.5   r4.5   
+19. R2.7   r5.3   20. E7+5   r8+3   21. C8+5   r8.6   
+22. R7.2   c8-3   23. H6-4   c8+1   24. R8.6   r3.2   
+25. C8.9   r6+3   26. R6+4   r2-2   27. C9-1   a6+5   
+28. R6.7   r6-4   29. R7+1   c8-4   30. R2+6   c8.7   
+31. P1+1   r6.5   32. C9.6   r5.4   33. C6.9   r4.5   
+34. A4+5   h7+6   35. R2+2   r5.7   36. R7.1   h6+7   
+37. P1+1   c7.6   38. R1.4   r2+2   39. R4.7   r2.3   
+40. R7+1   r7.3   41. R2.3   e3+5   42. R3-2   c6+2   
+43. P1+1   r3+1   44. P1+1   p5+1   45. P1+1   h7-6   
+46. C9+1   r3-3   47. R3.2   r3.1   48. P5+1   h6+4   
+49. E5+7   r1.3   50. E3+5   r3+3   51. P1.2   r3.6   
+52. P2.3   a5-6   53. R2-4   r6.5   54. R2.5   h4-3   
+55. P3.4   a4+5   56. H3+4   r5.8   57. A5-4   r8.6   
+58. H4-2   c6.9   59. P4.5   a6+5   60. P5+1   c9+7   
+61. A4+5   r6.8   62. P5.6   c9-3   63. H2-4   c9-2   
+64. R5.6   h3-4   65. P6+1   c9-2   66. H4+5   h4+2   
+67. A5+4   c9+1   68. P6+1   r8.5   69. R6.8   h2-3   }END
+
+
+FORMAT 	WXF
+GAME 	ZHUANG YuTing(W)SUN YongZheng,61
+TIME       ;
+RESULT     1-0
+RED        ZHUANG YuTing ; GM ; China-Guangdong
+BLACK      SUN YongZheng ; CM ; China-Shanghai
+DATE       20-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  C8.5   h2+3   2.  P7+1   p7+1   3.  C2+4   h8+7   
+4.  H8+7   e3+5   5.  C2.3   c8+2   6.  R9.8   r1.2   
+7.  H2+3   p3+1   8.  R1.2   r9.8   9.  R8+4   p3+1   
+10. R8.7   h3+4   11. P3+1   p7+1   12. R7.3   c2.3   
+13. H7+6   r2+5   14. C5.6   c3.4   15. E3+5   r2.4   
+16. R3.6   c4+3   17. C6+3   c8+2   18. H3+4   c8.1   
+19. R2+9   h7-8   20. A4+5   p5+1   21. C6.8   c1.9   
+22. H4+6   e5+3   23. H6+7   e3-5   24. C8+4   a4+5   
+25. C3.7   a5+4   26. H7+9   k5+1   27. H9-8   h8+9   
+28. C8-1   k5-1   29. H8+7   k5.4   30. C7.6   a4-5   
+31. C8-1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG XueChao(D)XIE Kui,47
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHANG XueChao ; NT  ; China-Xiamen
+BLACK      XIE Kui ; NT ; China-Shandong
+DATE       20-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P7+1   c8+2   9.  C8.9   a4+5   
+10. P3+1   p3+1   11. P3+1   p3+1   12. P3.2   p3+1   
+13. R9.8   h3+4   14. R2.3   p3.4   15. C5.4   h7-9   
+16. H3+4   h4+6   17. R8+5   h6-4   18. R8.5   r8+4   
+19. R5.1   r1.3   20. R1+2   p4+1   21. R3.6   r8+4   
+22. R6+1   r3+9   23. R6-4   r8.4   24. A4+5   }END
+
+
+FORMAT 	WXF
+GAME 	Li Hong Jia(D)WAN ChunLin,61
+TIME       ;
+RESULT     0.5-0.5
+RED        Li Hong Jia ; CM  ; China-Guangdong
+BLACK      WAN ChunLin ; GM ; China-Shanghai
+DATE       20-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  R1.2   p3+1   5.  H8+9   r9+1   6.  R9.8   r9.4   
+7.  C5+4   a4+5   8.  C5.1   h8+9   9.  A6+5   r4+4   
+10. C8.4   h2+4   11. E7+5   c8.7   12. P3+1   p7+1   
+13. C1-2   r4-2   14. H3+2   c7.8   15. C4.2   c8+5   
+16. R2+2   p7+1   17. C1.3   p3.4   18. C3-3   r1.2   
+19. R8+9   h4-2   20. H2+4   r4+1   21. H4+2   c3-1   
+22. H2-3   h9+8   23. C3.2   h8+6   24. R2+4   h2+3   
+25. R2.8   r4.2   26. R8.6   r2.4   27. R6.8   r4.2   
+28. R8.6   r2.4   29. R6.8   r4.2   30. R8.6   r2.4   
+31. R6.8   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(D)XIE Jing,59
+TIME       ;
+RESULT     0.5-0.5
+RED        XU YinChuan ; GM   ; China-Guangdong
+BLACK      XIE Jing ; CM ; China-Shanghai
+DATE       20-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  H8+7   c2.1   6.  P7+1   p7+1   
+7.  H7+6   a6+5   8.  R9+2   r9.8   9.  R2+9   h7-8   
+10. C6.7   r2+4   11. C7+4   e7+5   12. H3-5   c6+5   
+13. H5+7   h8+7   14. R9-1   c6.3   15. H6-7   h3-2   
+16. R9.2   c1.3   17. R2+6   p9+1   18. C5.1   h2+1   
+19. C1+3   p7+1   20. C7-1   e5+3   21. C1.8   c3.8   
+22. P3+1   p1+1   23. P7+1   h1+2   24. P7.8   e3+5   
+25. P1+1   c8+2   26. P8.9   h7+6   27. P-+1   c8+1   
+28. P1+1   c8.1   29. E7+5   c1.4   30. H7+6   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Bin(D)WANG TianYi,112
+TIME       ;
+RESULT     0.5-0.5
+RED        WANG Bin ; GM ; China-Jiangsu
+BLACK      WANG TianYi ; NT  ; China-Beijing
+DATE       20-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  H8+7   c2+4   6.  P5+1   c8+4   
+7.  R9+1   c2.3   8.  E7+9   r1.2   9.  R9.6   c3.6   
+10. R6+6   e3+5   11. P5+1   p5+1   12. R6.7   c6+1   
+13. H7+8   c6.2   14. H8+7   r2+6   15. H7+5   e7+5   
+16. R7.5   a4+5   17. R5-2   c2.7   18. R2+3   r8+6   
+19. R5.8   a5+6   20. R8-2   p7+1   21. R8+6   k5+1   
+22. P3+1   r8.7   23. R8-4   c7-2   24. R8.5   k5.6   
+25. C5.8   c7+4   26. A4+5   c7.8   27. C8.4   h7+6   
+28. A5+6   r7+3   29. K5+1   r7-1   30. K5-1   r7+1   
+31. K5+1   r7-1   32. K5-1   r7+1   33. K5+1   r7-5   
+34. P7+1   c8-8   35. P7.6   a6+5   36. R5-3   r7+4   
+37. K5-1   r7-1   38. E9-7   k6-1   39. P6.5   r7+2   
+40. K5+1   r7-5   41. R5+1   c8.6   42. P5.4   r7.6   
+43. C4.1   r6-1   44. R5.2   k6.5   45. C1.5   a5-4   
+46. R2+6   c6-1   47. R2-6   r6+3   48. R2+3   r6-3   
+49. R2-3   r6+3   50. R2.4   c6+6   51. K5.4   c6.7   
+52. C5-2   c7-5   53. E7+5   k5.6   54. C5.1   c7.9   
+55. C1+6   c9+5   56. C1.7   c9.2   }END
+
+
+FORMAT 	WXF
+GAME 	YU YouHua(L)ZHAO GuoRong,66
+TIME       ;
+RESULT     0-1
+RED        YU YouHua ; GM ; China-HuoCheTou
+BLACK      ZHAO GuoRong ; GM    ; China-HeilongJiang
+DATE       20-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  H8+7   p3+1   5.  P3+1   h2+3   6.  C2+4   c2+2   
+7.  P7+1   p3+1   8.  E5+7   h3+4   9.  E7-5   p7+1   
+10. P3+1   c2.7   11. R9.8   r1+1   12. C8+5   e7+5   
+13. H7+8   h4+3   14. H8+7   r1.3   15. R8+4   h3-4   
+16. R8.7   c4.3   17. H7-6   r3.2   18. C8-1   c3.4   
+19. C8.6   r2.6   20. A4+5   a6+5   21. R2+4   c7+2   
+22. R2.3   h7+8   23. H6-7   r6+7   24. C2.3   c7-3   
+25. C6.3   h8+6   26. C3+2   r8+1   27. H7+6   e5+7   
+28. H3+4   h4+6   29. H6+7   c4.7   30. R3+1   c7.3   
+31. R3-5   c3+3   32. E5+7   h6+8   33. R3+3   h8-7   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO XinXin(D)TAO HanMing,169
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHAO XinXin ; GM  ; China-Hangzhou
+BLACK      TAO HanMing ; GM ; China-Jilin
+DATE       20-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+7   3.  P3+1   p3+1   
+4.  R1.2   r9.8   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   e3+5   8.  H3+4   r1+3   9.  R2+6   r1.4   
+10. R9.4   h2+1   11. C7+3   c2.3   12. R4.8   r4+2   
+13. R8+6   r4.6   14. R8.7   c8.9   15. R2.3   r8+9   
+16. R3+1   r8.7   17. A6+5   e5+3   18. R7-2   r7-4   
+19. R3-3   r6.7   20. R7.9   c9+4   21. R9.2   r7+1   
+22. R2+1   r7.5   23. R2.5   a4+5   24. R5.1   e7+5   
+25. C5+5   a5+6   26. C5-3   h1-2   27. P7+1   h2-4   
+28. C5.3   h4+3   29. C3+5   a6+5   30. E7+5   c9.7   
+31. R1.3   h3-5   32. R3-1   c7.8   33. R3-3   c8+3   
+34. R3-2   c8-6   35. H9-7   c8.5   36. C3.1   k5.4   
+37. R3+9   k4+1   38. C1-1   a5+4   39. R3-1   k4-1   
+40. R3+1   k4+1   41. R3-1   k4-1   42. R3+1   k4+1   
+43. R3-4   h5+6   44. R3+3   k4-1   45. R3+1   k4+1   
+46. R3-1   k4-1   47. R3+1   k4+1   48. R3-1   k4-1   
+49. R3-2   a4-5   50. C1.4   h6-8   51. R3+3   a5-6   
+52. R3-5   r5.3   53. R3.6   k4.5   54. R6.5   r3+2   
+55. R5+2   a6+5   56. R5.2   k5.6   57. C4.3   h8+6   
+58. R2+3   k6+1   59. C3-6   a5+4   60. R2-1   k6-1   
+61. R2+1   k6+1   62. R2-1   k6-1   63. R2+1   k6+1   
+64. C3.4   k6.5   65. R2-4   r3-2   66. R2.4   r3.5   
+67. E5-7   r5.3   68. E7+5   r3.5   69. R4-1   k5-1   
+70. R4+3   h6-5   71. R4-1   r5+1   72. R4.5   a4-5   
+73. K5.6   r5-1   74. R5.8   a5-4   75. R8.5   a4+5   
+76. R5.8   a5-4   77. R8-2   h5+6   78. R8.6   a4+5   
+79. R6+2   r5-4   80. K6.5   r5.4   81. R6.1   a5-6   
+82. R1.5   a6+5   83. R5.3   a5-6   84. R3.5   a6+5   
+85. R5.7   }END
+
+
+FORMAT 	WXF
+GAME 	CHENG Ming(D)ÖÜÌÎ,95
+TIME       ;
+RESULT     0.5-0.5
+RED        CHENG Ming ; NT ; China-Jiangsu
+BLACK      ÖÜÌÎ ; NT ; China
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  P7+1   p7+1   2.  C2.3   c8.5   3.  H8+7   h8+7   
+4.  E7+5   h7+6   5.  A6+5   r9.8   6.  C3+3   h2+3   
+7.  H2+3   c2+4   8.  R9.6   c2.7   9.  C3-1   r8+8   
+10. R6+5   r8.6   11. R1+1   r6.9   12. H3-1   h6+5   
+13. H7+5   c5+4   14. H1+3   r1.2   15. H3+5   r2+7   
+16. H5+4   r2+2   17. A5-6   r2-3   18. H4+2   a6+5   
+19. C3.4   c7.5   20. A4+5   c5-2   21. H2+3   k5.6   
+22. C4-2   r2.7   23. H3-4   k6.5   24. K5.4   e3+5   
+25. R6+1   c5.2   26. E3+1   r7.6   27. H4-3   c2+5   
+28. E5-7   c2-2   29. C4-1   c2.3   30. H3+2   r6-3   
+31. H2-3   r6+3   32. H3+2   r6-3   33. H2-3   r6+3   
+34. E7+5   e5+7   35. C4+1   e7+5   36. K4.5   c3+1   
+37. P9+1   r6.1   38. R6+2   p3+1   39. P7+1   r1.3   
+40. R6-4   c3-4   41. C4-2   c3.2   42. R6.8   r3.7   
+43. A5+6   c2.6   44. A6+5   c6+4   45. R8.4   c6.7   
+46. P1+1   h3+4   47. R4.5   h4+3   48. R5+2   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG ShenHong(L)NEI TieWen,60
+TIME       ;
+RESULT     0-1
+RED        ZHANG ShenHong ; NT  ; China-Hunan
+BLACK      NEI TieWen ; CM ; China-HeilongJiang
+DATE       20-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R1
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  H7+6   e3+5   6.  C8+2   c2+2   
+7.  R1+1   c2.4   8.  C5.7   r1.2   9.  R9.8   r8+1   
+10. E7+5   r8.4   11. R1.8   r2+3   12. P7+1   p3+1   
+13. C7+5   r4+1   14. C7+1   r4.3   15. C7.9   p3+1   
+16. E5+7   r3+3   17. H6-4   c8+4   18. E3+5   c4+2   
+19. H4-3   h7+6   20. R+.6   h6+7   21. C9+1   a4+5   
+22. E5-3   r2+2   23. R8+4   r3.2   24. R6+2   h7+5   
+25. R6-2   r2.4   26. E3+5   r4+3   27. A4+5   r4-3   
+28. C9-1   p7+1   29. H-+1   p7.6   30. H3+2   r4-4   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG Qiang(D)WANG Bin,235
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHANG Qiang ; CM ; China-Beijing
+BLACK      WANG Bin ; GM ; China-Jiangsu
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  C2.6   c8.5   2.  H2+3   h8+7   3.  R1.2   h2+3   
+4.  P7+1   c2.1   5.  H8+7   r1.2   6.  C8+2   r2+4   
+7.  E7+5   r9.8   8.  R2+9   h7-8   9.  P3+1   h8+7   
+10. A6+5   p7+1   11. C6-1   p7+1   12. C6.8   r2.7   
+13. C+.3   h7+8   14. C8.7   c5.7   15. C3+3   c1.7   
+16. H3+4   r7.6   17. H4+2   r6.8   18. R9.6   e3+5   
+19. R6+6   c7+1   20. R6+1   c7-1   21. R6-1   c7+1   
+22. R6+1   h3-2   23. R6-3   r8.2   24. R6.4   r2+4   
+25. C7-1   h2+4   26. H7+6   r2.4   27. H6+4   c7+1   
+28. R4.1   p9+1   29. R1.2   r4-2   30. C7.6   p3+1   
+31. P7+1   e5+3   32. R2+2   e3-5   33. C6+8   r4-5   
+34. R2.5   r4+3   35. H4+6   c7-3   36. R5.3   a4+5   
+37. P5+1   c7.9   38. R3.1   e7+9   39. R1.5   e5-7   
+40. P5+1   r4.3   41. H6-7   p1+1   42. R5.2   c9.6   
+43. R2-1   a5-4   44. P5.6   r3-1   45. R2.1   c6.9   
+46. R1.5   a6+5   47. H7+9   r3.7   48. R5-2   r7+1   
+49. R5.6   r7.9   50. H9-7   r9+2   51. R6+1   r9-1   
+52. R6-2   r9-2   53. P9+1   c9.7   54. P9+1   c7+1   
+55. P9.8   c7.4   56. R6.8   c4.2   57. R8.9   r9.6   
+58. R9+5   c2.5   59. P6.5   k5.6   60. P8.7   c5.6   
+61. P7.6   r6.3   62. R9-2   r3.7   63. P6+1   k6.5   
+64. P5+1   r7+1   65. R9-2   r7.3   66. R9.5   c6.1   
+67. A5+6   r3.2   68. A4+5   r2+5   69. A5-6   r2-5   
+70. R5.4   r2.3   71. P5.4   c1.3   72. H7-8   r3.2   
+73. H8+7   r2.3   74. H7-8   c3.2   75. A6+5   c2.1   
+76. R4.9   c1.2   77. R9+4   c2+4   78. R9.8   c2.5   
+79. R8-4   c5-4   80. R8.5   r3.2   81. H8+7   c5.1   
+82. R5.9   c1.3   83. R9+4   r2.3   84. H7-5   c3.5   
+85. K5.6   r3.5   86. H5+3   r5.7   87. P6.5   c5.7   
+88. H3-5   c7.4   89. K6.5   c4+4   90. R9-3   r7.5   
+91. H5+3   r5.7   92. R9.5   c4-4   93. H3+5   c4.8   
+94. H5+7   r7.6   95. R5.2   c8.4   96. R2.7   c4.8   
+97. H7+9   k5.6   98. H9+7   c8+7   99. E3+1   c8-8   
+100. H7-6   c8+1   101. R7+5   c8.4   102. H6+8   k6.5   
+103. R7-6   r6.2   104. H8-7   c4.1   105. P5.6   r2+5   
+106. A5-6   r2-6   107. R7.6   r2+1   108. R6+2   r2+1   
+109. R6.5   r2.6   110. P4.3   c1.5   111. A6+5   r6.4   
+112. P6.7   r4.2   113. P3+1   r2+4   114. A5-6   r2-5   
+115. K5.4   r2+1   116. R5.4   c5.1   117. P3.4   r2-3   
+118. P4+1   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG Chuan(W)LI Qun,51
+TIME       ;
+RESULT     1-0
+RED        JIANG Chuan ; NT  ; China-Wenzhou
+BLACK      LI Qun ; FM ; China-Nanjing
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  P7+1   p7+1   2.  C2.3   c8.5   3.  H8+7   h8+7   
+4.  E7+5   h2+1   5.  R1+1   c2.3   6.  R1.6   r1.2   
+7.  R9.8   a6+5   8.  A6+5   e7+9   9.  H2+1   r9.6   
+10. P1+1   r2+4   11. H1+2   p1+1   12. R6+3   h7+6   
+13. R6.4   p7+1   14. R4.3   h6+5   15. H7+5   c5+4   
+16. R8.6   r6+3   17. R6+3   c5-2   18. R3+2   r6.7   
+19. H2+3   e9-7   20. C3.1   c3.7   21. C1+4   e7+5   
+22. C1.5   r2+3   23. H3-5   r2-3   24. H5+3   r2.7   
+25. H3+1   c7+4   26. C5.3   }END
+
+
+FORMAT 	WXF
+GAME 	DONG Fei(D)CHEN HanFeng,59
+TIME       ;
+RESULT     0.5-0.5
+RED        DONG Fei ; NT  ; China-Hubei
+BLACK      CHEN HanFeng ; CM ; China-Hangzhou
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  P7+1   h2+3   
+4.  H8+7   h7+8   5.  H7+6   e7+5   6.  R9+1   r1+1   
+7.  R9.4   r1.4   8.  C8+2   r9+1   9.  R1+1   p3+1   
+10. C5.6   p3+1   11. C6+6   r9.4   12. H6+4   p3.2   
+13. R4.6   r4+7   14. R1.6   p5+1   15. R6+5   c2+2   
+16. H4+5   e3+5   17. R6.2   h8+7   18. R2+1   h3+4   
+19. R2-3   c2-3   20. R2.6   h4-2   21. R6+2   h2+3   
+22. R6+2   c2+2   23. E7+5   h3+2   24. R6.8   c2.7   
+25. R8-4   h2-4   26. R8.6   h4+3   27. R6-3   h3-2   
+28. A6+5   h7+5   29. E3+5   c7+4   30. K5.6   }END
+
+
+FORMAT 	WXF
+GAME 	WU JunQiang(W)CHEN Zhuo,91
+TIME       ;
+RESULT     1-0
+RED        WU JunQiang ; NT  ; China-Yunnan
+BLACK      CHEN Zhuo ; NT ; NA
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+3   5.  C8+2   e7+5   6.  R1.2   r1+1   
+7.  R9+1   r1.4   8.  H7+6   c8+4   9.  C5.6   r4.6   
+10. C6.7   r6+6   11. C8-2   r6-2   12. R9.6   c2+3   
+13. P7+1   e5+3   14. P3+1   c8.7   15. P3+1   r6.7   
+16. E3+5   r7-1   17. R2+9   h7-8   18. H6+8   h3-2   
+19. R6+3   c2+1   20. R6+2   h8+7   21. R6.7   e3+5   
+22. R7.9   c7.8   23. A4+5   c8-3   24. R9-2   h2+1   
+25. H8+9   e3-1   26. R9+3   h7+6   27. R9-3   c8+4   
+28. P1+1   c8.9   29. R9.8   c2.3   30. R8.7   c3.2   
+31. R7.8   c2.3   32. R8.4   c9+2   33. C8+7   e5-3   
+34. E7+9   c3-4   35. R4.3   c3.8   36. A5+6   r7.8   
+37. C7-1   r8+4   38. R3.7   k5+1   39. C8-5   h6+7   
+40. C8-3   r8-1   41. R7+4   k5+1   42. R7.2   r8-3   
+43. E5+3   r8.2   44. R2-1   k5-1   45. C7.3   h7-9   
+46. A6+5   }END
+
+
+FORMAT 	WXF
+GAME 	Â½Î°èº(W)ZHAO XinXin,67
+TIME       ;
+RESULT     1-0
+RED        Â½Î°èº ; NT  ; China
+BLACK      ZHAO XinXin ; GM  ; China-Hangzhou
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c8+4   
+7.  R8+6   c2.1   8.  R8.7   r2+2   9.  R7-2   e3+5   
+10. P3+1   h3+4   11. P3+1   e5+7   12. H3+2   c8.6   
+13. C5.2   c6.8   14. C2.1   h4+5   15. C7.5   c1+4   
+16. R2+3   a6+5   17. R7.9   h5-7   18. R2-2   r8+5   
+19. R2.4   h++8   20. R9.2   h8+6   21. C1.4   h7+6   
+22. R2.4   h--4   23. R4.3   c1.9   24. R3+1   c9.5   
+25. A4+5   r2.6   26. K5.4   e7+5   27. R3.6   h6+8   
+28. R6+1   r6.7   29. E3+1   r7+1   30. H9+8   c5.8   
+31. R6-2   c8+2   32. R6.3   r7.8   33. R3-3   p5+1   
+34. H8+6   }END
+
+
+FORMAT 	WXF
+GAME 	LI XueSong(D)XIE Jing,46
+TIME       ;
+RESULT     0.5-0.5
+RED        LI XueSong ; CM ; China-Hubei
+BLACK      XIE Jing ; CM ; China-Shanghai
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P7+1   p7+1   5.  C8+4   e3+5   6.  H8+7   a4+5   
+7.  C8.5   h3+5   8.  C5+4   p3+1   9.  P7+1   r1.3   
+10. C5.7   e5+3   11. H7+6   c2.5   12. E7+5   h7+6   
+13. H6+4   r3+3   14. P3+1   r3.6   15. P3+1   c6+2   
+16. P3.4   r6+1   17. A6+5   p9+1   18. R2+4   r6.7   
+19. H3+4   r9+3   20. R9.6   c5.4   21. R2+1   r7.8   
+22. H4+2   r9.5   23. R6+3   c4.5   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DaHua(D)XIE Kui,80
+TIME       ;
+RESULT     0.5-0.5
+RED        LIU DaHua ; GM ; China-Hubei
+BLACK      XIE Kui ; NT ; China-Shandong
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  C2+4   p7+1   5.  P7+1   c2.3   6.  C2.7   h2+1   
+7.  R2+9   h7-8   8.  C7.8   e3+5   9.  P9+1   h1-3   
+10. C+-2   h8+7   11. R9+3   a4+5   12. A6+5   h7+6   
+13. P5+1   c3.1   14. H8+7   h3+4   15. R9.4   h6-7   
+16. P5+1   p5+1   17. R4+3   c1.3   18. R4.6   c3+5   
+19. H3+5   c3-1   20. P3+1   p1+1   21. P3+1   p1+1   
+22. C++3   p5+1   23. H5+3   p5.6   24. P3+1   p6.7   
+25. P3+1   r1+4   26. C-+4   r1-2   27. C++1   c4.7   
+28. C-.1   p7.8   29. C1.5   r1.4   30. R6+1   c7.4   
+31. C5-2   c4+3   32. P7+1   p1+1   33. C8-4   c3.5   
+34. P7.6   p1.2   35. C8.7   p2.3   36. C5+2   c4+1   
+37. P1+1   p8.9   38. C5.6   p9.8   39. K5.6   c5.9   
+40. C6-3   p3.4   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Yang(W)SUN YongZheng,107
+TIME       ;
+RESULT     1-0
+RED        WANG Yang ; CM ; China-Hubei
+BLACK      SUN YongZheng ; CM ; China-Shanghai
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  R1.2   p3+1   5.  H8+9   r9+1   6.  R9.8   r9.4   
+7.  C5+4   a4+5   8.  C5.1   h8+9   9.  A6+5   r4+4   
+10. C8.6   h2+1   11. P3+1   r1.2   12. R8+9   h1-2   
+13. E7+5   c3.4   14. C1-2   r4+1   15. R2+3   p3.4   
+16. E5-7   r4.1   17. C1.6   c4+5   18. A5+6   r1.4   
+19. C6.5   r4+1   20. E3+5   c8.6   21. R2.4   k5.4   
+22. A4+5   r4-4   23. C5.7   h2+1   24. P5+1   r4.5   
+25. R4.5   h1+3   26. R5.8   h3-1   27. R8.5   h1+3   
+28. R5.8   h3-1   29. C7.9   k4.5   30. H9+7   p1+1   
+31. C9-2   e5-3   32. R8.9   h1+3   33. H7+6   r5+2   
+34. R9.7   h3-5   35. R7+6   a5-4   36. H6-7   r5-2   
+37. R7.9   h5+3   38. C9.8   c6.2   39. R9.8   c2.5   
+40. H7+6   r5.4   41. H3+5   c5+3   42. R8-3   h9-7   
+43. H5+7   r4+1   44. R8.7   h7+5   45. C8+7   k5+1   
+46. R7.5   c5.4   47. C8.4   p1+1   48. C4-6   p1.2   
+49. H7+8   r4.3   50. C4.5   c4+3   51. H8+6   r3+5   
+52. A5-6   r3-3   53. R5.7   h5+4   54. H6-4   }END
+
+
+FORMAT 	WXF
+GAME 	HONG Zhi(D)WAN ChunLin,75
+TIME       ;
+RESULT     0.5-0.5
+RED        HONG Zhi ; GM ; China-Jilin
+BLACK      WAN ChunLin ; GM ; China-Shanghai
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  H8+7   c2.1   6.  P7+1   p7+1   
+7.  H7+6   a6+5   8.  R9+2   r9.8   9.  R2+9   h7-8   
+10. C6.7   r2+4   11. C7+4   e7+5   12. H3-5   h8+7   
+13. H5+7   c6+5   14. R9-1   c6.3   15. H6-7   h3-2   
+16. C5.1   c1.3   17. E7+5   h2+1   18. C7.6   r2.4   
+19. C6.8   p1+1   20. R9.2   h1+2   21. R2+6   h7-6   
+22. R2-1   c3+5   23. C1.7   h2+1   24. C7-1   h1+3   
+25. A4+5   r4-1   26. C8+2   h3-5   27. R2.1   h5+3   
+28. P7+1   r4+5   29. C7-1   h3+1   30. C7+4   h1-2   
+31. P7.8   r4-2   32. C8.7   r4-2   33. R1.5   r4.2   
+34. C-.4   r2.6   35. C4-2   r6+2   36. R5.7   r6.7   
+37. P1+1   p7+1   38. R7-2   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG XiaoPing(D)Li Hong Jia,88
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHANG XiaoPing ; CM ; China-HeilongJiang
+BLACK      Li Hong Jia ; CM  ; China-Guangdong
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  H8+7   p3+1   2.  C2.5   h8+7   3.  H2+3   r9.8   
+4.  R1.2   h2+3   5.  R2+4   c8.9   6.  R2+5   h7-8   
+7.  R9+1   p7+1   8.  P5+1   c9.5   9.  R9.6   h8+7   
+10. R6+5   c5+3   11. H7+5   c5+2   12. E3+5   p5+1   
+13. R6.7   h3+5   14. C8+4   h5-4   15. R7-1   p5+1   
+16. H5+7   p5.4   17. R7+3   c2.5   18. A4+5   p4.3   
+19. R7.6   r1.2   20. R6-2   p3.4   21. H3+5   c5+3   
+22. R6-2   r2+3   23. R6.5   r2.5   24. R5+2   h7+5   
+25. P7+1   e7+5   26. H5+4   a4+5   27. H4+6   k5.4   
+28. P7+1   h5+6   29. P7.8   h6-8   30. H6-5   h8+9   
+31. P9+1   h9-8   32. P8+1   p9+1   33. P8.9   p9+1   
+34. P+.8   p9+1   35. P9+1   p9.8   36. P3+1   p7+1   
+37. E5+3   p8.7   38. P8.7   h8+6   39. P9.8   p7.6   
+40. P7.6   e3+1   41. P8+1   p6.5   42. P8.7   e1-3   
+43. P7+1   e3+1   44. P7+1   p5.4   }END
+
+
+FORMAT 	WXF
+GAME 	NEI TieWen(L)ZHANG XueChao,110
+TIME       ;
+RESULT     0-1
+RED        NEI TieWen ; CM ; China-HeilongJiang
+BLACK      ZHANG XueChao ; NT  ; China-Xiamen
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  R1.2   p3+1   5.  H8+9   h2+4   6.  R9.8   a4+5   
+7.  C8.6   h4+3   8.  C5+4   p3.2   9.  E7+5   h8+7   
+10. C5-2   h7+5   11. P3+1   r9+1   12. R2+5   r1.2   
+13. R2.6   p2+1   14. R6+1   h5+4   15. E5+7   c8+4   
+16. R8+1   r9.6   17. H3+2   c3.2   18. H2+3   r6+3   
+19. R8.2   c2+1   20. R6-1   r6.4   21. C6+3   c2.7   
+22. R2+2   r2+4   23. C6+1   c7+6   24. A4+5   c7-2   
+25. R2.4   c7.3   26. K5.4   k5.4   27. H9-7   p2+1   
+28. C6.2   p2+1   29. H7-5   r2.8   30. R4+3   h3+5   
+31. E7-5   k4.5   32. P3+1   r8+5   33. K4+1   r8-1   
+34. K4-1   h4+5   35. C5-2   h5+7   36. R4.8   h7+9   
+37. A5+4   r8.9   38. P3.2   c3+2   39. R8.3   r9+1   
+40. K4+1   r9.5   41. C5+5   e7+5   42. C2+3   e5-7   
+43. R3+3   k5.4   44. R3-6   k4+1   45. R3.1   r5.6   
+46. K4.5   r6.5   47. K5.4   r5.6   48. K4.5   p2.3   
+49. P5+1   r6.4   50. K5.4   r4-5   51. P2+1   p3.4   
+52. P5+1   c3-1   53. K4-1   r4.2   54. R1.5   r2+5   
+55. R5-3   r2-2   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO GuoRong(D)ZHUANG YuTing,132
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHAO GuoRong ; GM    ; China-HeilongJiang
+BLACK      ZHUANG YuTing ; GM ; China-Guangdong
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  A6+5   p7+1   
+4.  H2+3   h8+7   5.  R1.2   r9.8   6.  R2+6   h2+4   
+7.  C8.6   r1.2   8.  H8+7   h7+6   9.  R2-2   h6+7   
+10. C5.4   r8+1   11. E7+5   r8.6   12. R9.6   c8.7   
+13. R2.6   h4+2   14. R-.8   p3+1   15. R8+6   p3+1   
+16. R6.7   c3+5   17. R7-2   r6+2   18. C6-2   r2.3   
+19. C6.7   r3+7   20. C4.7   h7-8   21. C++4   r6+1   
+22. C+.9   a4+5   23. P5+1   h8+7   24. C9.5   h7-5   
+25. H3+5   h2-4   26. H5+7   h4+5   27. R8.5   h5-3   
+28. R5.1   r6+2   29. C7+5   e5+3   30. P9+1   c7.5   
+31. P9+1   r6.2   32. K5.6   r2.4   33. A5+6   c5.4   
+34. K6.5   r4.2   35. P1+1   r2+3   36. K5+1   r2-1   
+37. K5-1   r2+1   38. K5+1   r2.6   39. P9.8   c4.5   
+40. K5.6   r6-1   41. K6-1   r6-4   42. R1.7   c5.4   
+43. K6.5   e7+5   44. R7.6   c4.3   45. R6.7   c3.4   
+46. R7.5   r6+1   47. P1+1   c4+2   48. P1+1   c4.2   
+49. R5.8   r6.3   50. E5+7   c2.1   51. R8.9   c1.2   
+52. P1.2   c2+2   53. R9-3   c2-6   54. R9+2   c2.4   
+55. E3+1   c4+4   56. R9+1   c4-4   57. R9-1   c4+4   
+58. R9+1   c4-4   59. R9.6   c4+2   60. R6.5   e5-7   
+61. R5.6   e7+5   62. R6.5   e5-7   63. R5.6   e7+5   
+64. P2.3   e3-1   65. P3.4   e1-3   66. P4.5   e5-7   }END
+
+
+FORMAT 	WXF
+GAME 	SHEN Peng(W)LI ShaoGeng,115
+TIME       ;
+RESULT     1-0
+RED        SHEN Peng ; NT  ; China-Anhui
+BLACK      LI ShaoGeng ; NT ; China-Henan
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  C2.6   c8.5   2.  H2+3   h8+7   3.  R1.2   h2+3   
+4.  P7+1   r9+1   5.  H8+7   r9.4   6.  A6+5   r1+1   
+7.  P3+1   p5+1   8.  C8+4   p5+1   9.  C8.3   h7+5   
+10. P5+1   p3+1   11. C6.5   p3+1   12. P5+1   p3+1   
+13. H7+5   p3.4   14. P5+1   p4.5   15. H3+5   c5+4   
+16. P5.6   r4.5   17. R9.8   h3+4   18. R8+7   r1.3   
+19. E7+9   h4+6   20. R8-4   h6+5   21. E3+5   r5+3   
+22. R2+3   c5-1   23. R2.7   r3.4   24. R7.6   a6+5   
+25. R8+1   p1+1   26. P3+1   c5+1   27. R8.6   r4.2   
+28. E9-7   r2+8   29. R+.7   r2-5   30. R7.6   r2+5   
+31. R-.7   r2-5   32. P3.4   r2.3   33. C3-1   r3+2   
+34. C3.5   k5.6   35. E7+9   r3.2   36. K5.6   c5.1   
+37. P4.3   r2.6   38. P3+1   c1.9   39. P3+1   r6-2   
+40. C5+1   c9.2   41. P6+1   r6-1   42. C5-3   r6+3   
+43. C5+3   r6-3   44. C5-3   r6.5   45. C5+5   a4+5   
+46. P6+1   k6.5   47. P3+1   r5.6   48. K6.5   r6-1   
+49. R6.8   r6.4   50. P6.5   k5+1   51. R8-1   r4+2   
+52. R8+5   k5+1   53. R8.7   e3+1   54. R7-1   r4-2   
+55. R7-1   r4+2   56. R7.5   k5.4   57. P3.4   e1+3   
+58. E5-7   }END
+
+
+FORMAT 	WXF
+GAME 	WANG TianYi(W)CHEN FuJie,121
+TIME       ;
+RESULT     1-0
+RED        WANG TianYi ; NT  ; China-Beijing
+BLACK      CHEN FuJie ; CM  ; China-Guangdong
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  P7+1   p7+1   2.  C2.3   e7+5   3.  H2+1   h8+7   
+4.  R1.2   r9.8   5.  R2+6   c8.9   6.  R2+3   h7-8   
+7.  C8.5   h2+3   8.  R9+1   r1+1   9.  H8+7   r1.4   
+10. R9.2   h8+6   11. R2+5   p9+1   12. R2.1   c9.6   
+13. C5.4   h6+8   14. R1.2   h8-7   15. C4+3   c2+2   
+16. A4+5   r4.9   17. C4+1   c6-1   18. C4.7   c6.3   
+19. C7+2   r9.3   20. E3+5   r3.9   21. H1-3   r9.6   
+22. C3.4   r6+4   23. R2+3   p9+1   24. P1+1   r6.9   
+25. P7+1   c2+4   26. P7+1   h3-5   27. H3+4   h5+7   
+28. R2-3   c2-2   29. P5+1   r9.5   30. H4+6   c2.3   
+31. H6+8   c3-2   32. R2.3   h-+9   33. P7.6   a6+5   
+34. H8+7   p5+1   35. H+-9   c3-3   36. H9-7   r5.6   
+37. H++8   a5-6   38. H8+6   a4+5   39. P6.7   r6.8   
+40. R3.6   r8-2   41. R6-1   p5+1   42. P7+1   c3.2   
+43. E5-3   c2+2   44. C4.5   e5-7   45. R6.5   r8.4   
+46. R5-1   e7+5   47. R5+3   h7+5   48. P7+1   h5+6   
+49. C5+2   h9+8   50. R5.2   k5.4   51. R2.8   a5+4   
+52. H6+4   c2.3   53. E7+5   k4.5   54. H4-3   h6+8   
+55. A5+4   h++7   56. K5+1   h8-6   57. R8-2   e3+1   
+58. H7+8   c3+1   59. R8+4   k5+1   60. R8.6   k5+1   
+61. H3-4   }END
+
+
+FORMAT 	WXF
+GAME 	YAN WenQing(L)ZHENG YiHong,80
+TIME       ;
+RESULT     0-1
+RED        YAN WenQing ; CM ; China-Hebei
+BLACK      ZHENG YiHong ; GM ; China-Xiamen
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  P7+1   p7+1   2.  C2.3   c8.5   3.  C8.5   h8+7   
+4.  H8+7   h2+1   5.  R9.8   r1.2   6.  C3+3   e7+9   
+7.  C3+1   r9.8   8.  H2+3   r8+5   9.  R8+4   c2.3   
+10. C3.7   r2+5   11. C7+3   a4+5   12. H7+8   c3.4   
+13. E7+9   c4+5   14. R1.2   r8.6   15. H3-1   c5+4   
+16. A6+5   h7+6   17. R2+7   c4-5   18. H8-7   c5-1   
+19. P3+1   r6.7   20. R2-2   h6+7   21. R2+1   c5-1   
+22. P7+1   h7+5   23. E3+5   r7.5   24. E9-7   c4+6   
+25. K5.6   c4.9   26. R2.5   c9.6   27. A5+4   c6.3   
+28. R5.6   a5+6   29. R6+1   c5.8   30. R6.9   r5-1   
+31. R9.7   c3.9   32. A4+5   c8+5   33. E5+3   c8.9   
+34. R7-1   r5.8   35. H7+8   r8+5   36. A5-4   r8.6   
+37. K6+1   r6-1   38. K6+1   r6-1   39. E7+5   r6+2   
+40. K6-1   c-.8   }END
+
+
+FORMAT 	WXF
+GAME 	MIAO LiMing(D)CAI Yi,191
+TIME       ;
+RESULT     0.5-0.5
+RED        MIAO LiMing ; NT  ; China-Anhui
+BLACK      CAI Yi ; NT  ; China-HuoCheTou
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  C2+4   p7+1   5.  P7+1   e7+5   6.  H8+7   h2+1   
+7.  P9+1   c2.3   8.  H7+8   c4+3   9.  H8+9   r1.2   
+10. C8.6   c3-1   11. R9+3   h7+6   12. P9+1   a4+5   
+13. C2+1   c4-3   14. C2.6   r8+9   15. H3-2   a5+4   
+16. H2+4   c3.6   17. H4+2   h6+7   18. A4+5   a6+5   
+19. C6+1   c6.7   20. C6.3   c7+5   21. P5+1   c7.2   
+22. H2+4   c2.9   23. H4+6   c9-2   24. H6+5   r2+3   
+25. H5-6   h1-3   26. P5+1   p3+1   27. P7+1   e5+3   
+28. P5+1   e3-5   29. P9.8   c9.2   30. R9.8   c2.1   
+31. H9+8   c1.4   32. R8+2   r2+1   33. H6+8   e5+3   
+34. H--7   c4+2   35. H8-7   c4.5   36. K5.4   e3+5   
+37. P5.4   c5.6   38. H+-5   c6-1   39. H7+6   c6.1   
+40. H6-7   c1-2   41. H7+5   c1+1   42. H+-7   c1.2   
+43. H7-9   c2.1   44. H9+7   c1.2   45. H7+9   p9+1   
+46. H9-8   p9+1   47. H8+6   c2.1   48. H6-8   c1.2   
+49. H8+6   c2.1   50. H6-8   c1.2   51. H5-7   c2+1   
+52. H7+5   c2-1   53. H8+6   c2.1   54. H6-8   c1.2   
+55. H5-7   c2+1   56. H7+5   p7+1   57. E5+3   c2.7   
+58. P4.5   c7-4   59. P5.6   e3-1   60. P6.7   e5-3   
+61. H5+4   k5.6   62. K4.5   c7+1   63. H4-6   e1+3   
+64. H8+7   h3+1   65. P7.6   h1+2   66. P6.5   c7+2   
+67. H7-8   c7.5   68. A5+4   p9.8   69. K5.4   p8.7   
+70. P5.4   p7.6   71. H8-6   h2+4   72. A6+5   p6.7   
+73. E7+9   h4-6   74. H-+7   c5+1   75. H7-6   c5-1   
+76. H-+7   c5+1   77. H6-5   p7+1   78. H7-6   c5.6   
+79. K4.5   h6+4   80. E9+7   h4-3   81. P4.5   h3+5   
+82. H5+6   c6.9   83. E7-9   h5+4   84. H++4   c9-1   
+85. H4-2   p7.8   86. H2+3   k6.5   87. H3-4   c9+1   
+88. H4+6   p8.7   89. H+-5   h4-6   90. P5.6   c9-2   
+91. K5.6   k5.6   92. H5+7   c9+1   93. H6+5   e3+5   
+94. H7-6   h6-8   95. P6.5   e5-7   96. H5+4   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN Zhong(L)SUN HaoYu,56
+TIME       ;
+RESULT     0-1
+RED        CHEN Zhong ; CM ; China-Yunnan
+BLACK      SUN HaoYu ; NT ; China-Hunan
+DATE       21-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R2
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  C2+4   p7+1   5.  C2.3   p3+1   6.  H8+9   h2+3   
+7.  R9+1   c2.1   8.  R9.2   r1.2   9.  C8.6   r8.9   
+10. R++3   r2+7   11. A4+5   h3+2   12. P7+1   h2+3   
+13. P7+1   h3+2   14. C6+4   r2.1   15. R+.8   r1+1   
+16. R8-2   h2+4   17. A5-6   r1.3   18. R8+5   a6+5   
+19. P7+1   e7+5   20. C6.9   c4+5   21. H3-4   r9.6   
+22. R8-5   c4-3   23. R8+2   c1+4   24. R2+4   r3-2   
+25. R8.7   c1.5   26. A6+5   r3-1   27. R2.7   r6+8   
+28. R7.5   c5+2   }END
+
+
+FORMAT 	WXF
+GAME 	GE WeiPu(D)JIANG Chuan,53
+TIME       ;
+RESULT     0.5-0.5
+RED        GE WeiPu ; CM  ; China-Shanghai
+BLACK      JIANG Chuan ; NT  ; China-Wenzhou
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   h7+6   6.  H8+7   e7+5   
+7.  P5+1   p7+1   8.  R2.4   h6+7   9.  H3+5   c8+7   
+10. R9+1   c8.9   11. R9.3   r8+9   12. P5+1   c2+1   
+13. P5+1   h7+5   14. C8.5   a4+5   15. H7-5   r8-3   
+16. H++6   c2.5   17. R3+3   r1+2   18. R3.5   c5+4   
+19. R5-2   r8.4   20. R5.1   r4-2   21. R1-2   p3+1   
+22. P7+1   r4.3   23. R1+2   h3+2   24. R1.7   r3.4   
+25. H5+4   h2+1   26. R7+4   p1+1   27. R4.6   }END
+
+
+FORMAT 	WXF
+GAME 	DONG XuBin(D)TANG Dan,246
+TIME       ;
+RESULT     0.5-0.5
+RED        DONG XuBin ; CM ; China-Qinggong
+BLACK      TANG Dan ; GM ; China-Beijing
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  E3+5   c2.4   2.  R9+1   h2+3   3.  R9.6   h8+7   
+4.  H8+9   r1.2   5.  H2+1   r2+4   6.  A4+5   a6+5   
+7.  R6+5   c4.6   8.  R1.4   p7+1   9.  R4+6   h7+6   
+10. R6.7   h6+7   11. C2+1   p7+1   12. C8.7   c8.9   
+13. R7-2   r2.8   14. H1-3   p7.6   15. R4.1   h7-6   
+16. P9+1   r8.7   17. H3+1   r9.8   18. C2-3   e3+5   
+19. C2.4   p6+1   20. C7.8   h6+5   21. R7.4   r8+6   
+22. H9+8   c6+2   23. R1-2   c9.6   24. R4.2   r8-1   
+25. R1.2   c++5   26. A5-4   h5-6   27. A6+5   c6.9   
+28. R2.4   c9.6   29. R4.5   h6-7   30. P1+1   p1+1   
+31. P9+1   r7.1   32. H1+2   p6.5   33. H8+7   r1.2   
+34. C8.9   r2-1   35. R5.7   h3+1   36. H2+3   c6+1   
+37. H7+6   p-+1   38. R7.9   p-+1   39. P1+1   r2.4   
+40. H6-8   h1-3   41. R9.5   r4.2   42. C9+7   h3-2   
+43. H8+6   r2.1   44. H6+8   r1-3   45. H8-7   r1+4   
+46. R5.4   c6-1   47. H7-5   r1-1   48. R4.5   p5.4   
+49. H3+5   e7+5   50. H5+3   r1.7   51. H3+1   e5-7   
+52. P7+1   c6+4   53. P1.2   c6.9   54. R5.2   c9-4   
+55. R2.1   c9.1   56. P7+1   c1+2   57. P2+1   r7-2   
+58. R1.9   r7.9   59. R9+1   r9+3   60. P7.6   r9.8   
+61. P2.3   e7+9   62. P6.5   p4.3   63. R9.6   p3.4   
+64. P5.4   p4.5   65. R6.5   p5.6   66. E5-3   p6.5   
+67. A5-6   k5.6   68. P3.4   r8.9   69. P+.5   p5.4   
+70. P5.6   r9.8   71. P6.7   p4.5   72. P7+1   r8.9   
+73. P7+1   r9.8   74. P7.6   r8.9   75. R5.9   k6+1   
+76. R9.6   r9.8   77. A6+5   r8.9   78. E7+5   r9.8   
+79. R6.8   r8.9   80. E5-7   r9.8   81. A5+4   r8.9   
+82. A4+5   r9.8   83. E3+1   r8.9   84. A5-6   r9.8   
+85. A6+5   r8.9   86. A5-6   r9.8   87. A6+5   r8+5   
+88. A5-4   r8-5   89. A4-5   r8.9   90. E1-3   r9.8   
+91. E3+5   r8.9   92. P6+1   r9.8   93. P6.5   r8.9   
+94. E5-3   r9.8   95. A5+4   r8.9   96. R8.5   a5+4   
+97. E3+1   r9.8   98. E7+5   r8.9   99. R5.9   a4-5   
+100. E5-3   r9.8   101. A4+5   r8.9   102. R9.5   r9.8   
+103. A5-6   a5+6   104. A6+5   r8.9   105. K5.4   r9.8   
+106. R5.9   a6-5   107. P4.5   r8.7   108. P-.6   r7.9   
+109. P6.5   r9.8   110. P-.4   r8.9   111. R9.5   r9.8   
+112. K4.5   r8.9   113. R5-2   r9.6   114. R5.1   a5+6   
+115. R1+4   k6.5   116. P5.6   k5.4   117. P6.7   r6.3   
+118. R1+1   a6-5   119. A5-6   r3.5   120. A4-5   r5.3   
+121. A5+6   r3.5   122. A6-5   r5-1   123. R1-3   r5.3   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO Wei(L)JIN Bo,110
+TIME       ;
+RESULT     0-1
+RED        ZHAO Wei ; NT ; China-Shanghai
+BLACK      JIN Bo ; CM ; China-HuoCheTou
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  P7+1   e3+5   2.  C8.6   p7+1   3.  H8+7   h2+3   
+4.  R9.8   r1.2   5.  H2+3   h8+7   6.  C2+4   h7+6   
+7.  C2.7   r9+1   8.  A4+5   c2+4   9.  R1.2   c8.7   
+10. R2+4   r2+4   11. E3+5   p9+1   12. R8+2   r9.2   
+13. H7+6   h6+4   14. R2.6   c2.7   15. R8+3   r2+3   
+16. P9+1   a4+5   17. R6.4   r2+1   18. R4-1   r2.1   
+19. P5+1   r1-1   20. C6.7   p7+1   21. R4.8   r1.7   
+22. E5+3   r7+1   23. E7+5   r7-1   24. C+.8   h3+4   
+25. C8+3   h4+6   26. R8.4   h6+8   27. C8-8   p1+1   
+28. H3-1   h8+9   29. C8.1   c-.9   30. C1.3   c9+4   
+31. C3+4   c9.6   32. C3.6   p1+1   33. C6+1   c7-2   
+34. C6-2   p1+1   35. E5-7   p1.2   36. C7.5   c6.5   
+37. K5.4   c7.6   38. A5+6   p2.3   39. A6-5   c6-3   
+40. C6+2   p9+1   41. P7+1   p9.8   42. P7.6   p8.7   
+43. P5+1   p7+1   44. P5+1   p7+1   45. K4.5   p7.6   
+46. P5.4   p6+1   47. P4.3   a5+6   48. C6.4   c6.3   
+49. C4.5   k5.4   50. E7+9   c3.6   51. C+.4   c6.2   
+52. P6.5   c2+8   53. E9-7   p3+1   54. C4.5   c5.1   
+55. C-+1   c1+3   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN FuJie(D)ZHANG Qiang,126
+TIME       ;
+RESULT     0.5-0.5
+RED        CHEN FuJie ; CM  ; China-Guangdong
+BLACK      ZHANG Qiang ; CM ; China-Beijing
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  C5+4   a4+5   
+4.  E7+5   h2+4   5.  C5-1   h8+7   6.  H2+3   r9.8   
+7.  R1+1   r1.2   8.  H8+6   c8+6   9.  R9.8   p7+1   
+10. C8+3   c3.1   11. P5+1   c1+4   12. H3+5   c1+2   
+13. R1+1   c1-1   14. H5-7   c8-1   15. H6+4   h4+5   
+16. R1-1   p3+1   17. P7+1   h5+3   18. R1.6   r2+3   
+19. R6+4   c1-3   20. C5.7   c1.3   21. A6+5   h7+5   
+22. R6-2   h5+6   23. C8-1   h6+8   24. H4+2   c8.3   
+25. H2-3   r8+5   26. C8.2   r2+6   27. R6-3   r2-3   
+28. C2+2   c++1   29. H3+1   r2-3   30. C2-2   r2.5   
+31. R6+4   p1+1   32. P1+1   c+.1   33. R6.8   p9+1   
+34. P1+1   c3.9   35. C2+1   r5.8   36. C2.9   c9.1   
+37. R8.9   c-.3   38. R9-3   r8.5   39. R9+3   a5-4   
+40. H1+2   c3+2   41. R9.6   a6+5   42. H2+4   c3.6   
+43. R6-1   c6-1   44. R6.5   r5.6   45. P5+1   c6.9   
+46. R5+1   c9-1   47. H4-5   r6+3   48. P5+1   r6.7   
+49. H5+7   e5+3   50. R5.2   r7.6   51. R2+5   r6-6   
+52. R2-4   c9-2   53. R2.3   c9.3   54. H7+5   e7+5   
+55. R3.1   r6.7   56. P5.6   r7+4   57. R1+4   r7-4   
+58. R1-3   r7+4   59. R1.5   e5-7   60. P6+1   c3.2   
+61. H5+7   r7.4   62. H7+8   c2+7   63. P6.7   e3-5   }END
+
+
+FORMAT 	WXF
+GAME 	XIE Jing(D)ZHANG XiaoPing,55
+TIME       ;
+RESULT     0.5-0.5
+RED        XIE Jing ; CM ; China-Shanghai
+BLACK      ZHANG XiaoPing ; CM ; China-HeilongJiang
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  P7+1   e3+5   2.  H8+7   p7+1   3.  C2.5   h8+7   
+4.  H2+3   h2+3   5.  R1.2   r9.8   6.  R2+6   c2+4   
+7.  P5+1   c8.9   8.  R2.3   r8+2   9.  R9+1   c2.3   
+10. E7+9   r1.2   11. R9.6   r2+6   12. C8-2   a4+5   
+13. C8.7   c3+3   14. E9-7   r2.7   15. H7+5   c9+4   
+16. H3+1   r7.5   17. H1-3   r5.7   18. H3-5   p3+1   
+19. P7+1   e5+3   20. P5+1   e3-5   21. R6.7   h3+2   
+22. P5+1   h2+3   23. P5+1   e7+5   24. R3.9   h3+5   
+25. E7+5   h7+6   26. R7.6   r7.3   27. R6+7   a5-4   
+28. R9+1   }END
+
+
+FORMAT 	WXF
+GAME 	WAN ChunLin(D)TAO HanMing,36
+TIME       ;
+RESULT     0.5-0.5
+RED        WAN ChunLin ; GM ; China-Shanghai
+BLACK      TAO HanMing ; GM ; China-Jilin
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  H7+6   r8+5   9.  C8+2   c9.7   
+10. R3.4   e3+5   11. C5.6   p3+1   12. P3+1   r8-1   
+13. P7+1   e5+3   14. C8.7   h3+4   15. C6+3   p7+1   
+16. C6+3   c7.4   17. C7.3   c2+1   18. R4-2   c2+2   }END
+
+
+FORMAT 	WXF
+GAME 	SUN HaoYu(W)ÖÜÌÎ,117
+TIME       ;
+RESULT     1-0
+RED        SUN HaoYu ; NT ; China-Hunan
+BLACK      ÖÜÌÎ ; NT  ; China
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  C2.5   h2+3   2.  P7+1   p7+1   3.  H2+3   c8.6   
+4.  R1.2   h8+7   5.  R2+6   a4+5   6.  H8+7   h7+6   
+7.  C8+4   e3+5   8.  C8.5   h3+5   9.  C5+4   p7+1   
+10. R2.4   h6+8   11. H3-5   p7+1   12. H7+6   r9.8   
+13. R9.8   r1.4   14. H5+7   h8+6   15. H6-4   p7.6   
+16. R8+6   r8+5   17. E3+5   r4+7   18. R8.9   p6.5   
+19. A4+5   r8+4   20. R4-6   r8.6   21. K5.4   p5.6   
+22. K4.5   r4-4   23. R9+3   r4-3   24. R9.6   k5.4   
+25. C5.6   c2+4   26. H7+6   c2.9   27. P9+1   c9-1   
+28. P9+1   c9.5   29. H6+7   p9+1   30. P7+1   p9+1   
+31. P7.6   p9.8   32. P6.5   p8.7   33. P5+1   p6+1   
+34. C6-4   p7+1   35. C6.4   c6+4   36. C4.1   p7+1   
+37. C1+3   p7+1   38. H7-6   c6.9   39. K5.4   c9.6   
+40. A5+6   c6-5   41. A6+5   a5+6   42. A5+4   a6-5   
+43. A4-5   a5+6   44. A5+4   e5+7   45. C1-2   c5+1   
+46. C1.3   e7+9   47. E5+3   a6-5   48. K4.5   c6+4   
+49. P5.4   c6.5   50. K5.4   c-.6   51. K4.5   p7.6   
+52. C3.2   e9-7   53. P9.8   k4.5   54. P8+1   c6.5   
+55. K5.6   c+.4   56. A6-5   c4.3   57. H6+8   c3-4   
+58. E7+5   c3.4   59. C2.4   }END
+
+
+FORMAT 	WXF
+GAME 	ZHUANG YuTing(W)DONG Fei,99
+TIME       ;
+RESULT     1-0
+RED        ZHUANG YuTing ; GM ; China-Guangdong
+BLACK      DONG Fei ; NT  ; China-Hubei
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  P3+1   c8.7   2.  C8.5   e7+5   3.  A4+5   p3+1   
+4.  H8+7   h2+3   5.  R9.8   r1.2   6.  R8+6   h8+6   
+7.  C2.4   c2.1   8.  R8+3   h3-2   9.  H2+3   p7+1   
+10. P3+1   c7+5   11. C5.3   e5+7   12. E3+5   e7-5   
+13. C3.1   c1.3   14. P5+1   h6+8   15. H7+5   h8+7   
+16. R1.2   r9+2   17. C4+4   h7+6   18. C1.4   r9.8   
+19. R2.3   r8.7   20. R3+7   c3.7   21. P5+1   h6-5   
+22. C+.9   p9+1   23. H5+4   c7.9   24. H4+2   c9+4   
+25. H2+3   k5+1   26. C4+5   h2+1   27. P9+1   h5+4   
+28. P9+1   k5.4   29. P9.8   h1+3   30. C4-6   h3+5   
+31. H3-5   a4+5   32. C9-4   c9.3   33. C9.6   a5+4   
+34. H5+4   k4-1   35. C6+5   k4.5   36. H4-3   e3+5   
+37. C6-3   h4-6   38. H3-4   p3+1   39. E5+7   h5+3   
+40. A5+4   h6-4   41. E7+5   c3.4   42. C4.5   h4-3   
+43. H4+5   k5+1   44. H5-7   k5.6   45. P8.7   p9+1   
+46. C5.4   k6.5   47. C6.5   k5.4   48. C4.6   h++4   
+49. K5+1   c4-4   50. C5-1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG XueChao(W)WU JunQiang,117
+TIME       ;
+RESULT     1-0
+RED        ZHANG XueChao ; NT  ; China-Xiamen
+BLACK      WU JunQiang ; NT  ; China-Yunnan
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  C2.6   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+1   5.  E3+5   r1+1   6.  A4+5   p3+1   
+7.  P7+1   r1.3   8.  C8-1   r3+3   9.  R9+2   c8+6   
+10. C8.2   r8+8   11. C6-1   r8-1   12. R9.8   c2+4   
+13. R8+1   r3+3   14. C6+1   r3-3   15. P5+1   r8-1   
+16. R1.4   e7+5   17. R4+6   h7+8   18. R4.1   p1+1   
+19. R8.5   r8.7   20. R1.5   r3+2   21. R-.7   r7.3   
+22. P5+1   p7+1   23. P5.4   p7+1   24. H3+5   h8-7   
+25. R5-1   h1+3   26. C6+4   r3.4   27. H5+6   r4.6   
+28. P4.3   h7+9   29. C6.5   a4+5   30. H6+8   r6-3   
+31. H8+7   h3-4   32. P3.4   r6.8   33. C5.4   h9+8   
+34. R5.6   k5.4   35. A5-4   a5+4   36. E5+3   a6+5   
+37. C4.6   h8+7   38. R6.5   p7.6   39. R5+2   k4.5   
+40. A6+5   h7-9   41. R5-3   h9+7   42. P4.5   r8.6   
+43. R5.7   a5-4   44. R7.6   a4+5   45. R6-2   h7-5   
+46. E7+5   r6.8   47. R6+1   r8+1   48. C6+2   k5.4   
+49. R6.7   k4+1   50. H7-6   e3+1   51. R7.8   e1-3   
+52. R8+6   a5-6   53. H6+8   k4.5   54. H8+7   k5.4   
+55. R8-1   k4-1   56. H7-6   h5+3   57. R8-3   r8-1   
+58. H6+4   k4.5   59. P5+1   }END
+
+
+FORMAT 	WXF
+GAME 	Li Hong Jia(D)ZHAO Li,118
+TIME       ;
+RESULT     0.5-0.5
+RED        Li Hong Jia ; CM  ; China-Guangdong
+BLACK      ZHAO Li ; NT  ; China-Henan
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  E3+5   h2+3   2.  P3+1   p3+1   3.  H2+3   e3+5   
+4.  H8+7   h8+9   5.  R9+1   a4+5   6.  R1+1   r1.4   
+7.  R9.6   r9+1   8.  R6+8   a5-4   9.  C8.9   c2-2   
+10. R1.4   r9.2   11. R4+6   c8+4   12. R4-4   c8-5   
+13. C2+5   h3+4   14. C9+4   c8.3   15. C9.7   r2+6   
+16. C2-5   c2+6   17. A4+5   p3+1   18. E5+7   h4+3   
+19. K5.4   a4+5   20. R4+2   c2-6   21. H3+4   r2-4   
+22. C7-3   c3+5   23. E7-5   c2.3   24. R4.6   p5+1   
+25. R6-2   r2.6   26. R6.7   r6+2   27. K4.5   c3+7   
+28. C2.7   r6+1   29. C7.8   p5+1   30. C8+7   r6.5   
+31. R7+6   a5-4   32. R7-5   a4+5   33. P9+1   r5.2   
+34. C8.9   p5+1   35. P1+1   r2-4   36. R7+5   a5-4   
+37. R7-6   a4+5   38. C9-3   r2+1   39. P9+1   p7+1   
+40. P3+1   e5+7   41. R7+6   a5-4   42. C9+3   e7-5   
+43. R7-3   r2-3   44. C9-3   r2+5   45. R7.1   a4+5   
+46. P1+1   r2.5   47. C9+3   r5-1   48. P9+1   a5+4   
+49. P9+1   r5.7   50. R1.7   r7.9   51. P9+1   r9.3   
+52. R7.8   h9+8   53. R8+3   k5+1   54. R8.4   r3-3   
+55. K5.4   k5.4   56. C9.5   r3.1   57. C5-6   r1+2   
+58. C5.6   k4.5   59. K4.5   r1.6   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(W)Â½Î°èº,173
+TIME       ;
+RESULT     1-0
+RED        XU YinChuan ; GM   ; China-Guangdong
+BLACK      Â½Î°èº ; NT   ; China
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  P3+1   r9.8   
+4.  H3+4   r8+4   5.  R1+1   c2+4   6.  R1.6   a6+5   
+7.  R6+4   r8+1   8.  A6+5   c2.5   9.  H4-3   r8+1   
+10. H3+5   r8.5   11. H8+9   h2+3   12. R6+1   c4.6   
+13. R6.7   e7+5   14. R9.8   p1+1   15. C8+5   r5-2   
+16. R8+4   p7+1   17. H9-7   r1.2   18. P3+1   r5.7   
+19. H7+6   r7.4   20. H6-4   r4.3   21. R7-1   e5+3   
+22. C8+1   e3-5   23. H4+3   c6-1   24. C8-1   h3+4   
+25. R8.6   r2+2   26. R6+1   r2.4   27. R6.9   r4+4   
+28. P7+1   r4.8   29. C2.3   r8.7   30. C3.2   r7.8   
+31. C2.1   c6.8   32. P9+1   r8.7   33. C1.2   c8.9   
+34. H3+2   c9.6   35. P1+1   r7.8   36. H2-3   c6.7   
+37. C2.1   c7+4   38. E5+3   r8-1   39. E7+5   r8.9   
+40. C1.3   h7-9   41. R9.4   r9+1   42. P9+1   r9.8   
+43. P9.8   h9+8   44. R4+1   h8-6   45. R4.1   r8-3   
+46. R1+3   a5-6   47. R1-4   r8+3   48. P7+1   r8.2   
+49. P7+1   h6+5   50. P8+1   h5+4   51. C3-1   r2+3   
+52. A5-6   h4+3   53. K5+1   h3-4   54. K5-1   h4+6   
+55. C3.4   r2-3   56. R1.4   h6-5   57. A4+5   a6+5   
+58. R4.2   h5-3   59. A5+4   a5-6   60. R2+1   a4+5   
+61. C4.1   e5-7   62. R2-1   e3+5   63. R2.4   r2.8   
+64. C1.3   h3+4   65. A6+5   p5+1   66. P7+1   r8-3   
+67. P8+1   r8.2   68. C3-1   h4-3   69. P8.9   r2.3   
+70. P9.8   r3.2   71. P8.9   r2.3   72. P9.8   r3.2   
+73. R4.5   h3-2   74. R5.6   h2-3   75. R6.7   h3+4   
+76. R7.9   r2.4   77. K5.4   h4-3   78. R9+4   a5-4   
+79. P7+1   r4.3   80. P7.6   a6+5   81. R9.8   r3.4   
+82. P6.7   r4.3   83. R8-1   e7+9   84. A5+6   r3.1   
+85. R8-1   h3+1   86. R8.5   r1.3   87. P7.8   }END
+
+
+FORMAT 	WXF
+GAME 	XU Chao(D)LI ZhiPing,55
+TIME       ;
+RESULT     0.5-0.5
+RED        XU Chao ; FM ; China-Nanjing
+BLACK      LI ZhiPing ; FM ; China-Tianjin
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  C2.5   h8+7   2.  P3+1   r9.8   3.  H2+3   c8.9   
+4.  H8+7   p3+1   5.  C8+4   h2+3   6.  C8.7   r1.2   
+7.  R9.8   e3+5   8.  R8+6   r8+8   9.  R1+2   c2.1   
+10. R8+3   h3-2   11. P5+1   p7+1   12. P3+1   e5+7   
+13. P5+1   c1.5   14. P5.6   h2+4   15. C7+2   h7+6   
+16. C5+5   h6-5   17. C7+1   a4+5   18. H3+5   r8-2   
+19. P7+1   h4+2   20. C7.8   p3+1   21. H5+7   r8.3   
+22. H-+5   h2+1   23. C8.7   h5-3   24. R1.7   r3.4   
+25. H7+9   r4.5   26. E7+5   c9-1   27. H9-7   r5.4   
+28. C7.8   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Bin(D)WANG Yang,42
+TIME       ;
+RESULT     0.5-0.5
+RED        WANG Bin ; GM ; China-Jiangsu
+BLACK      WANG Yang ; CM ; China-Hubei
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   e3+5   
+7.  R9.6   h7+6   8.  P5+1   p7+1   9.  R2.4   p7+1   
+10. R4-1   p7+1   11. R4.2   r1+1   12. P5+1   c2+2   
+13. H7+5   r1.8   14. H5+6   p5+1   15. R2.5   a6+5   
+16. R5.4   h3+4   17. R4.6   k5.6   18. R-.4   r+.6   
+19. R4+7   k6+1   20. R6-2   c8.6   21. C8.3   r8+4   }END
+
+
+FORMAT 	WXF
+GAME 	CHENG Ming(D)HONG Zhi,179
+TIME       ;
+RESULT     0.5-0.5
+RED        CHENG Ming ; NT ; China-Jiangsu
+BLACK      HONG Zhi ; GM ; China-Jilin
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   e3+5   8.  R2+6   p1+1   9.  P9+1   r1+5   
+10. R9.4   p3+1   11. C7+2   h2+3   12. C7+5   e5-3   
+13. H9+7   r1.3   14. H7+5   r3+4   15. R4.8   c2.1   
+16. R8.9   r8+1   17. P3+1   p7+1   18. H5+3   r8.4   
+19. A4+5   c8.9   20. R2.3   e7+5   21. H++5   h7+5   
+22. C5+4   a4+5   23. C5-2   r3-5   24. E3+5   p9+1   
+25. R9+5   r4+3   26. C5.9   r4+1   27. C9+3   c9.1   
+28. R3.7   r3.8   29. R7.6   r4-2   30. R9.6   r8+3   
+31. R6.3   c1+5   32. E5-7   c1-3   33. R3-2   r8.9   
+34. P5+1   c1.7   35. E7+5   c7-4   36. P5+1   r9.8   
+37. P5+1   c7.9   38. R3-1   c9+3   39. P5.4   r8-4   
+40. R3+2   c9.6   41. R3.1   c6.3   42. R1-1   r8+3   
+43. R1.7   c3.1   44. R7.9   c1.3   45. R9.7   c3.1   
+46. H3+4   r8.9   47. H4+6   r9-3   48. R7.9   c1.5   
+49. R9.5   e5+3   50. H6-4   c5.8   51. H4-3   r9+6   
+52. H3-4   c8+6   53. E5-3   c8-8   54. E3+5   e3-5   
+55. R5.2   c8.6   56. R2.4   c6.8   57. R4.3   a5-4   
+58. R3+4   c8+3   59. R3-4   a4+5   60. R3.2   c8.1   
+61. R2.9   c1.2   62. R9.8   c2.1   63. R8.9   c1.2   
+64. R9.8   c2.1   65. R8-1   r9-1   66. R8.9   c1.9   
+67. R9.2   r9.6   68. R2-2   c9.7   69. R2-1   a5+4   
+70. R2.3   c7.9   71. R3.1   c9.8   72. R1.2   c8.9   
+73. R2+3   e5-7   74. R2.1   c9.8   75. R1.5   a6+5   
+76. R5.2   c8.9   77. R2.1   c9.8   78. R1.2   c8.9   
+79. H4+2   r6.7   80. H2+1   k5.4   81. R2.7   e7+5   
+82. H1+3   c9-4   83. R7.1   c9.5   84. H3+4   e5-7   
+85. R1-1   a5+6   86. R1.4   c5.6   87. H4-3   a4-5   
+88. R4.2   c6.5   89. R2.4   r7-2   90. R4.2   }END
+
+
+FORMAT 	WXF
+GAME 	YU YouHua(L)SHEN Peng,40
+TIME       ;
+RESULT     0-1
+RED        YU YouHua ; GM ; China-HuoCheTou
+BLACK      SHEN Peng ; NT  ; China-Anhui
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P3+1   p3+1   
+4.  R1.2   h2+3   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   e7+5   8.  H3+4   h2+1   9.  R9.8   h1+3   
+10. R8+6   h3-5   11. H9+8   p1+1   12. H4+5   h7+5   
+13. C5+4   a4+5   14. H8+7   h5+6   15. R2+3   c8.2   
+16. R2+6   h6-4   17. K5+1   h4-6   18. K5.4   c2+3   
+19. C5-2   r1+3   20. H7+8   r1.6   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG ShenHong(L)MIAO LiMing,210
+TIME       ;
+RESULT     0-1
+RED        ZHANG ShenHong ; NT  ; China-Hunan
+BLACK      MIAO LiMing ; NT  ; China-Anhui
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  C2.5   h8+7   2.  H2+3   h2+3   3.  R1.2   r9.8   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   p1+1   8.  P9+1   r1+5   9.  R2+4   e7+5   
+10. R9.4   r1.4   11. R4+3   r4+1   12. A6+5   a4+5   
+13. R4.9   c8+2   14. C5.4   c2.4   15. C4+1   r4+2   
+16. C7.4   p3+1   17. C--1   r4-4   18. R9.7   p7+1   
+19. C-.3   h2+4   20. P5+1   r4.6   21. C4+1   p7+1   
+22. C3+3   r6+1   23. H3+4   c8.7   24. E3+5   r8+5   
+25. R7.6   c7.8   26. A5+4   h7+6   27. R6-1   p5+1   
+28. R6.5   e5-7   29. P5+1   c4.5   30. P5.4   r8.7   
+31. H4+6   c8+5   32. A4+5   r7+4   33. A5-4   c8.9   
+34. H9+8   k5.4   35. H8-6   r7-3   36. A4+5   c5.8   
+37. K5.6   r7+3   38. K6+1   c9-1   39. K6+1   c8+5   
+40. R5+3   r7.3   41. H+-8   r3.2   42. R5.6   k4.5   
+43. P7+1   r2-1   44. A5-6   c8+1   45. E5-3   r2.7   
+46. R6.2   c9-1   47. R2-4   c9+2   48. P7+1   c9.8   
+49. R2.1   r7+1   50. A4-5   r7-4   51. R1.4   c--6   
+52. R4+2   r7+2   53. K6-1   c+-1   54. R4-3   c+.7   
+55. H6+4   r7-2   56. K6+1   c8+5   57. H8-6   r7-3   
+58. P4.5   c7-1   59. K6-1   r7.2   60. H6-7   r2+6   
+61. H4-6   c7-5   62. A5+4   c7.1   63. R4.2   c8.7   
+64. R2.3   c7.8   65. K6.5   c8-5   66. R3+8   c1+6   
+67. K5-1   c1.3   68. H6-7   r2.3   69. R3-2   c8+7   
+70. P7.6   r3-2   71. P1+1   r3-1   72. R3.2   c8.9   
+73. A4-5   c9-2   74. A5+4   c9-1   75. R2-4   c9+3   
+76. R2+4   c9-3   77. R2-4   c9+2   78. P1+1   p9+1   
+79. R2.1   c9.1   80. R1+2   c1+1   81. A6+5   r3+4   
+82. A5-6   c1.4   83. P5+1   c4-3   84. K5+1   r3-1   
+85. K5-1   r3-1   86. A4-5   r3+2   87. A5-6   c4.1   
+88. P6+1   c1+3   89. R1.9   c1.4   90. R9.5   c4-3   
+91. K5+1   r3-4   92. R5-2   c4+1   93. R5-1   c4-1   
+94. R5+1   c4+1   95. P5.4   r3.4   96. P4.5   c4.9   
+97. R5-1   c9-6   98. R5.1   c9.6   99. R1.7   a5-4   
+100. R7.4   r4.5   101. R4.5   r5.6   102. R5.6   c6.5   
+103. P5.4   r6-2   104. P6+1   r6.5   105. K5.6   c5.9   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO XinXin(D)WANG RuiXiang,117
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHAO XinXin ; GM  ; China-Hangzhou
+BLACK      WANG RuiXiang ; NT  ; China-Tianjin
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  R1.2   p3+1   5.  H8+9   r9+1   6.  A6+5   r9.2   
+7.  C5+4   a4+5   8.  R9.8   p9+1   9.  C8+3   h2+4   
+10. C5.4   h4+3   11. C4+2   r2-1   12. C8-3   h8+9   
+13. R2+4   r2+4   14. C8.7   r2+5   15. H9-8   p3.4   
+16. C7+5   c8.3   17. E3+5   r1.2   18. H8+9   p1+1   
+19. C4.1   r2+4   20. P1+1   r2.8   21. P3+1   p9+1   
+22. C1-4   r8+1   23. H3+2   h9+8   24. C1-1   c3.1   
+25. C1.3   h8+6   26. H9-7   h3+2   27. H2+3   h6-7   
+28. C3+3   c1+4   29. C3.1   p1+1   30. C1-4   h2-3   
+31. C1+2   p1.2   32. H7+9   p4+1   33. C1-1   p2+1   
+34. P5+1   p4.3   35. E5-3   c1-1   36. H9-7   c1.3   
+37. H7+5   c3+4   38. H5-3   c3.1   39. H3+4   h3+2   
+40. P5+1   p3.4   41. C1+1   h2-1   42. P5.6   p2.3   
+43. H4+5   h1-3   44. P6+1   h3+2   45. H5-7   p3+1   
+46. C1-1   p4.3   47. C1-2   p-.4   48. C1+2   p4.3   
+49. C1-2   p-.4   50. C1+2   p4.3   51. C1-2   k5.4   
+52. C1+4   p-.4   53. P3+1   c1.3   54. C1.8   c3-4   
+55. P3+1   c3.5   56. K5.6   p3+1   57. C8.6   k4.5   
+58. C6-1   c5.8   59. C6.3   }END
+
+
+FORMAT 	WXF
+GAME 	Cheng JiJun(W)CHEN Zhong,63
+TIME       ;
+RESULT     1-0
+RED        Cheng JiJun ; NT ; China-Hangzhou
+BLACK      CHEN Zhong ; CM ; China-Yunnan
+DATE       22-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R3
+START{
+1.  H8+7   p3+1   2.  P3+1   h2+3   3.  H2+3   r1+1   
+4.  C2.1   r1.7   5.  C8+4   p7+1   6.  C8.7   p7+1   
+7.  C7+3   a4+5   8.  R9.8   c2-2   9.  R1.2   r9+2   
+10. H3-5   e7+5   11. C7-1   a5-4   12. R8+9   r7.3   
+13. R8-5   h8+7   14. R8.3   c8-2   15. C1.3   c8.7   
+16. R3.4   c7+7   17. H5+3   r3.4   18. R4+3   h3+4   
+19. R2+1   a4+5   20. R4+1   h4+3   21. H3+4   r4+6   
+22. H4+3   r9-1   23. R4.1   h7-9   24. H3+5   k5.4   
+25. R2+4   h3-4   26. A4+5   r4+1   27. H5-7   p3+1   
+28. H-+6   h4-6   29. R2.6   k4.5   30. H7+9   a5+4   
+31. H9+7   k5+1   32. R6.4   }END
+
+
+FORMAT 	WXF
+GAME 	TANG Dan(D)SUN HaoYu,58
+TIME       ;
+RESULT     0.5-0.5
+RED        TANG Dan ; GM ; China-Beijing
+BLACK      SUN HaoYu ; NT ; China-Hunan
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  R1.2   r9.8   
+4.  R2+6   p3+1   5.  H8+7   h2+3   6.  R9+1   a4+5   
+7.  R9.6   h7+6   8.  P5+1   p7+1   9.  R2.4   h6+7   
+10. H3+5   h7+5   11. C8.5   c8.7   12. H5+3   c7+7   
+13. A4+5   r8+9   14. P5+1   c2+1   15. R6+5   r1.2   
+16. P5+1   c2.5   17. K5.4   e3+5   18. K4+1   c7.5   
+19. H3+2   r8-1   20. K4+1   r8.7   21. R4+2   c+-2   
+22. E7+5   r2+7   23. H2+3   r7-7   24. R4.3   r2.3   
+25. R6.7   r3-1   26. R3.4   r3.1   27. R7+1   r1.9   
+28. K4-1   c5.4   29. R7.5   r9.6   }END
+
+
+FORMAT 	WXF
+GAME 	JIANG Chuan(W)CAI Yi,77
+TIME       ;
+RESULT     1-0
+RED        JIANG Chuan ; NT  ; China-Wenzhou
+BLACK      CAI Yi ; NT  ; China-HuoCheTou
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  R1.2   p3+1   5.  H8+9   r9+1   6.  R9.8   r9.4   
+7.  A6+5   r4+4   8.  C5+4   a4+5   9.  C5.1   h8+9   
+10. C8.6   h2+1   11. E7+5   r1.2   12. R8+9   h1-2   
+13. P9+1   c3.4   14. C1-2   h2+3   15. P3+1   r4+1   
+16. R2+3   p3.4   17. C6+2   c8.7   18. H9+8   r4.2   
+19. H8+7   p7+1   20. H3+2   p7+1   21. C1.3   r2.3   
+22. H7-5   h3+2   23. C3-1   r3+3   24. C6-4   r3-5   
+25. P5+1   h2+3   26. H2+4   c4.2   27. H4+3   h3+1   
+28. E5+7   h1+3   29. C6+1   c2.7   30. E3+5   r3.4   
+31. C3-2   h9+7   32. H5-3   h7+6   33. C3.2   r4+2   
+34. R2.6   h3-4   35. H3+2   h4+2   36. C6+3   h6-8   
+37. P5+1   a5+6   38. H2+3   k5+1   39. C6.2   }END
+
+
+FORMAT 	WXF
+GAME 	BU FengBo(D)ZHAO XinXin,218
+TIME       ;
+RESULT     0.5-0.5
+RED        BU FengBo ; GM  ; China-Dalian
+BLACK      ZHAO XinXin ; GM  ; China-Hangzhou
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H8+9   r9+1   
+4.  C5+4   a4+5   5.  H2+3   h2+4   6.  C5-1   r9.6   
+7.  P3+1   r1.2   8.  R9.8   r2+4   9.  P5+1   r6+5   
+10. E3+5   c8+4   11. A4+5   c8.1   12. R1.4   r6+3   
+13. K5.4   r2+2   14. C8.6   r2+3   15. H9-8   c1-1   
+16. H8+9   c1+1   17. H9-7   h4+2   18. H7+8   h2+1   
+19. H8+9   p1+1   20. C5.2   h8+7   21. P5+1   p7+1   
+22. P3+1   e5+7   23. C2+1   e7+5   24. H3+4   c3.4   
+25. C6+4   c1.3   26. C6.3   c4-1   27. H4+6   c3.2   
+28. C2.7   a5+4   29. H6+8   c2.8   30. C7.4   c4.6   
+31. K4.5   a6+5   32. P5+1   c8-4   33. P5.6   c8.9   
+34. P7+1   c9+4   35. P7+1   c9.8   36. P7+1   c8-6   
+37. P7.6   c8.6   38. C4.5   c-.8   39. C5-2   c8+3   
+40. H8-7   p1+1   41. P+.5   e7-5   42. C5.9   p9+1   
+43. C9-1   p9+1   44. C9.3   e5+7   45. C+.5   e7-5   
+46. C5-1   k5.6   47. C3.5   e5-3   48. P6.5   c6+5   
+49. A5+4   a5-4   50. P5.4   h7+6   51. P4.3   c8.9   
+52. C-+1   p9.8   53. C-.4   k6.5   54. C4.5   k5.6   
+55. C-.4   k6.5   56. C4.6   k5.6   57. C6+2   c9+2   
+58. H7+8   a4+5   59. C6.5   k6+1   60. H8+7   p8.7   
+61. C+.4   c6.7   62. C5+1   h6+4   63. C5.8   h4-5   
+64. C8+2   c7-3   65. E5+3   c9-1   66. H7-5   k6+1   
+67. H5-7   c9.2   68. A4-5   c2-1   69. C8.6   h5-4   
+70. H7+6   c7-2   71. H6-8   c2.5   72. E3-5   e3+5   
+73. H8-6   c7.6   74. C4.2   c6-1   75. C2-3   k6-1   
+76. C2.5   c6.5   77. H6+7   e5+7   78. H7+5   c5-3   
+79. C5+6   e7-9   80. C5.8   e9+7   81. A5+4   e7-5   
+82. E5+3   a5+6   83. C8-8   a6-5   84. E7+5   a5+6   
+85. A6+5   a6-5   86. A5+6   e5+3   87. K5.4   e3-5   
+88. C8.4   a5+6   89. E5+7   e5+3   90. C4.7   e3-1   
+91. A4-5   k6.5   92. K4+1   k5-1   93. K4+1   a6-5   
+94. C7-1   k5.4   95. C7.6   k4.5   96. A5-4   e1+3   
+97. C6.5   a5+4   98. C5.7   e3-1   99. C7.6   a4-5   
+100. E3-5   e1+3   101. E5-7   e3-1   102. E7+9   e1+3   
+103. A4+5   e3-1   104. C6.9   e1+3   105. C9.4   a5+4   
+106. C4.7   e3-1   107. C7.6   a4-5   108. K4.5   k5.6   
+109. C6.5   k6+1   }END
+
+
+FORMAT 	WXF
+GAME 	ÖÜÌÎ(L)CHEN HanFeng,132
+TIME       ;
+RESULT     0-1
+RED        ÖÜÌÎ ; NT  ; China
+BLACK      CHEN HanFeng ; CM ; China-Hangzhou
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P3+1   p3+1   
+4.  R1.2   h2+3   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   h2+1   8.  C7+3   r1+3   9.  R9.8   r1.4   
+10. R2+6   c2.4   11. C7+2   e7+5   12. H3+4   c8.9   
+13. R2+3   h7-8   14. H4+3   c9.7   15. E3+1   h8+6   
+16. H3-2   r4+1   17. R8.4   h6+8   18. H2+1   c7-1   
+19. P3+1   h8+7   20. H1-3   r4.7   21. C5+4   a4+5   
+22. R4+3   r7.3   23. C7.8   r3.2   24. C8.7   r2-1   
+25. C5-2   p1+1   26. R4+1   r2.3   27. C7.8   h1+3   
+28. C8+2   e3+1   29. R4.9   p1+1   30. R9+2   k5.4   
+31. C5.7   h3-5   32. R9-4   r3.2   33. R9+6   c4+3   
+34. A6+5   k4+1   35. R9-1   k4-1   36. R9+1   k4+1   
+37. R9-1   k4-1   38. R9+1   k4+1   39. R9-1   k4-1   
+40. R9+1   k4+1   41. R9-4   h5-3   42. P7+1   c4.5   
+43. A5+4   r2-3   44. H9+7   c5-2   45. R9+2   r2+3   
+46. R9+1   k4-1   47. R9+1   k4+1   48. R9-1   k4-1   
+49. R9+1   k4+1   50. R9-4   r2+6   51. R9.6   a5+4   
+52. R6-2   r2.3   53. K5+1   r3-1   54. K5-1   a6+5   
+55. P1+1   c7-1   56. P7+1   e5+3   57. H7+6   c5+1   
+58. R6.8   k4-1   59. R8.3   c7.6   60. R3+2   c6.5   
+61. H6+7   k4+1   62. R3+1   r3.4   63. R3.8   a5+6   
+64. R8.5   a4-5   65. R5.8   c+.8   66. H7-5   c5+3   }END
+
+
+FORMAT 	WXF
+GAME 	SONG GuoQiang(W)CHEN Zhuo,83
+TIME       ;
+RESULT     1-0
+RED        SONG GuoQiang ; CM ; China-HuoCheTou
+BLACK      CHEN Zhuo ; NT ; NA
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  E3+5   p7+1   2.  P7+1   h8+7   3.  H8+7   e7+5   
+4.  R9+1   h2+1   5.  R9.4   r1+1   6.  R4+3   r1.4   
+7.  P3+1   p7+1   8.  R4.3   c8-2   9.  R3.6   r9+1   
+10. R6+4   r9.4   11. H2+3   r4.6   12. A4+5   p1+1   
+13. R1.4   r6+8   14. A5-4   c2+4   15. H7+6   c2-1   
+16. H6-7   c2+1   17. A4+5   c2.3   18. H3+4   h1+2   
+19. H4+6   h2+4   20. P5+1   h7+6   21. C8+3   h6+7   
+22. H7+5   p3+1   23. C2+2   h7-6   24. C2.4   c3.9   
+25. H6+4   c8+9   26. K5.4   p3+1   27. H4+3   k5+1   
+28. H5+7   c9.4   29. C4.6   h6+4   30. C8.2   k5.4   
+31. C2-1   h4-3   32. C2+2   c4.3   33. C2+2   k4+1   
+34. H7+8   c8-7   35. P5+1   p5+1   36. H3-4   k4-1   
+37. H4+2   c3.6   38. H2-4   e5-7   39. H8-7   h3+4   
+40. H7+6   h4-5   41. C2-2   c6.5   42. H6+8   }END
+
+
+FORMAT 	WXF
+GAME 	WANG TianYi(D)Cheng JiJun,62
+TIME       ;
+RESULT     0.5-0.5
+RED        WANG TianYi ; NT  ; China-Beijing
+BLACK      Cheng JiJun ; NT ; China-Hangzhou
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  E3+5   c8.5   2.  H8+7   h8+7   3.  C2.4   r9.8   
+4.  H2+3   p7+1   5.  P7+1   h2+1   6.  A4+5   c2+4   
+7.  P3+1   p7+1   8.  E5+3   r8+6   9.  H3+4   r8.6   
+10. H4+6   r6-2   11. H6-8   h7+8   12. C4.3   e7+9   
+13. C3.5   r1+1   14. C5+4   a4+5   15. P9+1   r1.4   
+16. R9+3   c2.9   17. P5+1   r4+2   18. C5-1   c9-2   
+19. E3-5   h8-6   20. R9.2   r6+1   21. R2+3   r6.5   
+22. C5.8   r5.6   23. R1.4   r6+4   24. K5.4   c9.5   
+25. P7+1   c++1   26. P7+1   c-.6   27. C+.4   h1+3   
+28. C4+2   h3+2   29. H7+8   a5+6   30. E5-3   c5-4   
+31. C8.5   e3+5   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Bin(D)CHEN FuJie,54
+TIME       ;
+RESULT     0.5-0.5
+RED        WANG Bin ; GM ; China-Jiangsu
+BLACK      CHEN FuJie ; CM  ; China-Guangdong
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  C2.5   c2.5   2.  H2+3   h2+3   3.  R1.2   c8.7   
+4.  H8+7   h8+9   5.  P7+1   r1.2   6.  R9.8   r2+4   
+7.  C8.9   r2+5   8.  H7-8   p7+1   9.  C5.7   r9.8   
+10. R2+9   h9-8   11. E3+5   e3+1   12. C7+4   c7+4   
+13. H8+7   h8+7   14. H7+6   p5+1   15. A4+5   c5+4   
+16. P7+1   p5+1   17. H6+8   h3+5   18. P7.6   h5-4   
+19. C7-2   c5.4   20. C9+4   p5.4   21. H8-6   c4-2   
+22. H6-4   h4+5   23. C7.5   a4+5   24. H4+3   k5.4   
+25. H++5   h7+5   26. C9.1   h5+6   27. H3-1   c4+2   }END
+
+
+FORMAT 	WXF
+GAME 	WANG RuiXiang(L)Li Hong Jia,72
+TIME       ;
+RESULT     0-1
+RED        WANG RuiXiang ; NT  ; China-Tianjin
+BLACK      Li Hong Jia ; CM  ; China-Guangdong
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p3+1   
+4.  P3+1   h2+3   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   h2+1   8.  C7+3   r1+3   9.  R9.6   a6+5   
+10. R2+6   r1.3   11. C7.4   r3+1   12. C4-3   p7+1   
+13. H3+4   p7+1   14. R6+4   c2+1   15. R6.7   c2.8   
+16. H4+5   e7+5   17. R7.9   c+.7   18. H5+3   c7+6   
+19. K5+1   r8.7   20. H3-4   p7.6   21. H4+6   r7+8   
+22. C4-1   h1+3   23. C5.6   c8-1   24. R9.2   h3+4   
+25. C6-1   r7-2   26. H6-7   c8.7   27. R2+4   c--1   
+28. H9+8   p6+1   29. H8-7   h4-6   30. C6.4   p6+1   
+31. H++6   c+-1   32. K5-1   p6+1   33. R2-4   c-+1   
+34. R2.4   c++1   35. A4+5   c+.9   36. K5.6   r7-3   }END
+
+
+FORMAT 	WXF
+GAME 	SHEN Peng(D)XU YinChuan,52
+TIME       ;
+RESULT     0.5-0.5
+RED        SHEN Peng ; NT  ; China-Anhui
+BLACK      XU YinChuan ; GM   ; China-Guangdong
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  C8+4   e7+5   6.  H8+7   h3+2   
+7.  C8.3   r1+1   8.  R2+5   h2+3   9.  R9.8   c2.3   
+10. C5.4   r1.6   11. A6+5   c8.9   12. R2+4   h7-8   
+13. R8+4   h3-4   14. E7+5   c9.7   15. R8.6   r6+3   
+16. H7+8   p3+1   17. R6.7   h8+9   18. H3+2   p1+1   
+19. R7.6   h4+2   20. R6.8   a6+5   21. R8.5   p5+1   
+22. R5.7   r6-1   23. P3+1   c7+2   24. R7+3   h9+7   
+25. H2+3   r6.7   26. R7-3   r7.6   }END
+
+
+FORMAT 	WXF
+GAME 	MIAO LiMing(D)ZHUANG YuTing,59
+TIME       ;
+RESULT     0.5-0.5
+RED        MIAO LiMing ; NT  ; China-Anhui
+BLACK      ZHUANG YuTing ; GM ; China-Guangdong
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  C2+4   p7+1   5.  P7+1   h2+1   6.  P9+1   c2.3   
+7.  H8+9   r1.2   8.  R9.8   e7+5   9.  A6+5   r2+4   
+10. C2-2   c4+4   11. H9+8   c4.2   12. R8.9   c3.2   
+13. P7+1   p3+1   14. R9+3   p3+1   15. R9.8   p3.2   
+16. R8.6   p2.1   17. C8+5   r2-2   18. R6+1   p-+1   
+19. R6.4   h1+2   20. P3+1   p7+1   21. R4.3   h7+6   
+22. R3.4   h6+8   23. R2+4   r8.7   24. R2.3   r7+5   
+25. R4.3   r2.4   26. R3.7   r4+2   27. P1+1   r4.8   
+28. H3+4   r8.6   29. H4-3   r6+2   30. R7.5   }END
+
+
+FORMAT 	WXF
+GAME 	YAN WenQing(L)ZHANG XueChao,130
+TIME       ;
+RESULT     0-1
+RED        YAN WenQing ; CM ; China-Hebei
+BLACK      ZHANG XueChao ; NT  ; China-Xiamen
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  C2.6   c8.5   2.  H2+3   h8+7   3.  R1.2   h2+3   
+4.  P7+1   r9+1   5.  H8+7   r9.4   6.  A6+5   r1+1   
+7.  P3+1   p5+1   8.  C8+4   p5+1   9.  C6.5   h7+5   
+10. R2+5   a4+5   11. C8.5   h3+5   12. R9.8   r1+1   
+13. P5+1   h5+4   14. C5+5   e7+5   15. H7+5   c2-1   
+16. H3+4   c2.1   17. H4+3   r4+2   18. H3-5   p1+1   
+19. R2-3   p1+1   20. P9+1   r1+3   21. R2.8   h4-5   
+22. H--7   h5-7   23. E7+5   h7+8   24. R++1   h8-6   
+25. R+.5   r1-1   26. P3+1   h6+4   27. R5.6   e5+7   
+28. H5-3   r4-3   29. P5+1   h4-5   30. R6+6   a5-4   
+31. R8+8   a6+5   32. H7+6   c1+1   33. P5+1   r1.4   
+34. P5+1   r4+1   35. P5+1   a4+5   36. R8.7   r4-2   
+37. R7+1   a5-4   38. R7-2   c1+4   39. R7.3   c1.7   
+40. R3+2   k5+1   41. R3.4   k5.4   42. R4-6   c7+2   
+43. R4.8   k4.5   44. R8+3   c7.8   45. P7+1   c8-5   
+46. P7+1   c8.3   47. H3+5   r4+1   48. R8+2   k5+1   
+49. H5+3   k5.4   50. R8-2   c3+3   51. H3+4   a4+5   
+52. R8-3   c3-2   53. H4-5   e7-5   54. H5-4   r4+1   
+55. H4+3   r4-2   56. H3-5   k4-1   57. R8+5   k4-1   
+58. R8.5   r4.5   59. H5-7   r5+2   60. H7-6   r5+1   
+61. H6+7   r5-1   62. H7-6   c3.5   63. R5.8   r5.4   
+64. R8+1   k4+1   65. H6-8   r4.1   }END
+
+
+FORMAT 	WXF
+GAME 	Â½Î°èº(D)WAN ChunLin,52
+TIME       ;
+RESULT     0.5-0.5
+RED        Â½Î°èº ; NT   ; China
+BLACK      WAN ChunLin ; GM ; China-Shanghai
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   c2+2   6.  R2+6   h7+6   
+7.  R9.8   r1.2   8.  R8+4   e3+5   9.  P9+1   a4+5   
+10. C7+4   p7+1   11. R2.4   h6+7   12. R8.3   h7+5   
+13. E3+5   r2+3   14. R3.8   r2.3   15. R8+1   c8.6   
+16. R8-1   r8+4   17. R4.1   r8.7   18. R8.3   r7+1   
+19. E5+3   r3+1   20. E3-5   r3.7   21. H3+4   r7.6   
+22. H4-3   r6+2   23. R1.3   e7+9   24. R3-2   e9+7   
+25. R3.4   r6.7   26. R4.3   r7.6   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DaHua(L)TAO HanMing,100
+TIME       ;
+RESULT     0-1
+RED        LIU DaHua ; GM ; China-Hubei
+BLACK      TAO HanMing ; GM ; China-Jilin
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  P7+1   c2.3   2.  C2.5   e7+5   3.  H8+9   h2+1   
+4.  R9.8   r1+1   5.  P9+1   r1.4   6.  H2+3   r4+3   
+7.  C5+4   a6+5   8.  E3+5   p1+1   9.  P9+1   r4.1   
+10. C5-2   p9+1   11. P3+1   p7+1   12. P3+1   r1.7   
+13. R8+1   h8+7   14. R8.4   p3+1   15. P7+1   r9+3   
+16. A4+5   r7.3   17. R1.2   c8-2   18. C8.6   c8.6   
+19. R4+7   h1+2   20. H3+4   r3.5   21. H4-3   h2+4   
+22. C5.3   r5.3   23. P5+1   h4+2   24. R2+3   h2+1   
+25. H3+5   c3-1   26. R4-6   h7+6   27. C3.4   h6-4   
+28. C4.2   h1+3   29. C2+5   c6+1   30. C6+7   h4-6   
+31. R4.2   k5.4   32. H5+3   r9.4   33. H9-8   h3-2   
+34. C2.1   c6.8   35. R+.8   h2-4   36. A5+6   r3+4   
+37. A6+5   h4-3   38. R8+1   c3.1   39. H8+9   r3-1   
+40. H9-8   r3-1   41. P5+1   c1+8   42. H8+9   r3+3   
+43. A5-6   r3-2   44. A6+5   h3+4   45. R8-1   r3.1   
+46. P5+1   r4+2   47. R8.7   r1.2   48. P5.4   r2+2   
+49. A5-6   r2-3   50. R7-3   h4+2   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Yang(W)ZHANG XiaoPing,251
+TIME       ;
+RESULT     1-0
+RED        WANG Yang ; CM ; China-Hubei
+BLACK      ZHANG XiaoPing ; CM ; China-HeilongJiang
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  C2.5   c2.5   2.  H2+3   h2+3   3.  H8+7   h8+9   
+4.  P7+1   r1.2   5.  R9.8   r2+4   6.  R1.2   r9.8   
+7.  C8.9   r2+5   8.  H7-8   c8.7   9.  R2+9   h9-8   
+10. H8+7   c7+4   11. H7+6   c7.1   12. H6+7   p7+1   
+13. E3+1   h8+7   14. P7+1   c5-1   15. P7.8   h7+6   
+16. P8+1   c1.3   17. H7-8   h6+5   18. P8.7   h5+7   
+19. C9.3   c5+6   20. C3+7   a6+5   21. E7+5   c3.5   
+22. A4+5   h3-2   23. H8+6   c5-2   24. P7.8   e3+5   
+25. C3-1   a5-6   26. P8.9   h2+4   27. P9.8   p9+1   
+28. K5.4   h4+6   29. C3.9   e5-3   30. C9-2   h6-4   
+31. K4.5   a6+5   32. C9-3   c5.6   33. H6+4   p5+1   
+34. C9+3   p5+1   35. H4+2   c6.1   36. H2-3   p5+1   
+37. K5.4   a5-6   38. E5-7   e3+1   39. E1-3   p5.4   
+40. E3+5   p4.5   41. K4.5   p5.4   42. A5+4   p4.5   
+43. H3+2   h4+6   44. H2-1   h6+5   45. H1-3   h5+7   
+46. E5+3   a4+5   47. P1+1   a5+6   48. P1+1   a6+5   
+49. P1.2   e1-3   50. P8.7   e3+5   51. P7.6   p5.4   
+52. A6+5   k5.4   53. E7+5   k4.5   54. P2+1   p4.5   
+55. P2.3   p5.4   56. P6.5   e5-7   57. C9.6   c1-1   
+58. P3.4   c1.2   59. C6-1   c2.1   60. C6.2   c1.2   
+61. A5+6   c2+1   62. C2-4   c2.5   63. K5.6   p4.3   
+64. E3-1   c5.4   65. K6.5   c4.5   66. E5+3   p3.4   
+67. P4.3   p4.5   68. K5.6   c5.4   69. K6.5   c4.5   
+70. K5.6   c5.2   71. C2.3   c2.4   72. K6.5   c4.5   
+73. K5.6   c5.4   74. K6.5   c4.5   75. K5.6   e7+9   
+76. P3.2   c5.4   77. K6.5   c4.5   78. K5.6   c5.1   
+79. P2+1   c1-2   80. P5+1   e9-7   81. C3+8   a5+4   
+82. P5.6   a6-5   83. P6+1   a5+4   84. C3-2   c1+1   
+85. A6-5   p5.6   86. E1-3   c1.4   87. P6.7   c4.1   
+88. E3-1   k5+1   89. E3+5   c1.7   90. K6.5   c7.1   
+91. E1-3   c1.2   92. C3.4   c2.9   93. C4.3   c9.7   
+94. A5+6   k5.6   95. E3+1   p6.5   96. P7.6   p5.6   
+97. A4-5   p6.5   98. E5+7   p5.6   99. A5+4   p6.5   
+100. E1-3   c7.5   101. K5.4   c5.7   102. C3+1   p5.6   
+103. K4.5   c7.1   104. C3-1   c1.7   105. A6-5   c7.5   
+106. A5-4   p6+1   107. C3+2   c5.4   108. P6.7   c4.1   
+109. C3.8   c1-1   110. C8-1   k6-1   111. C8-1   a4-5   
+112. C8+1   a5+4   113. C8-1   a4-5   114. C8+1   k6+1   
+115. P2.3   c1.5   116. K5+1   p6+1   117. K5+1   p6+1   
+118. E3+1   c5+2   119. K5-1   c5-1   120. P7.6   c5+1   
+121. C8.5   c5.9   122. P6.7   c9-1   123. C5.6   c9+1   
+124. C6-5   c9-3   125. C6.7   c9+2   126. C7.8   }END
+
+
+FORMAT 	WXF
+GAME 	HONG Zhi(W)NEI TieWen,99
+TIME       ;
+RESULT     1-0
+RED        HONG Zhi ; GM ; China-Jilin
+BLACK      NEI TieWen ; CM ; China-HeilongJiang
+DATE       23-6-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  P7+1   h8+7   2.  P3+1   c8.9   3.  H2+1   c2.3   
+4.  H8+7   p3+1   5.  H7+6   p3+1   6.  H6+4   e3+5   
+7.  C2.3   h2+4   8.  P3+1   r1.2   9.  C8.5   r2+4   
+10. C3+4   r9.8   11. R1+1   h7-9   12. R1.6   r8+1   
+13. H1+3   e5+7   14. R6+6   h4-2   15. C5+4   r2.5   
+16. R6.5   a6+5   17. R5.2   r5-1   18. R2+1   r5.7   
+19. R2.1   c3-1   20. R1+1   h2+3   21. E7+5   h3+4   
+22. A6+5   h4+5   23. H4-5   c9+4   24. H3+1   p9+1   
+25. H5+7   p9+1   26. R1-5   c9.8   27. R1.2   c8.9   
+28. R2.1   c9.8   29. R1.3   e7+5   30. R3.2   c8.9   
+31. R9.6   c9-3   32. R6+5   c3+1   33. H7+5   r7.5   
+34. H5-4   c9.8   35. H4+6   r5.7   36. H6+8   c3.4   
+37. H8-7   c4.1   38. P9+1   e5-7   39. R6.4   e7+5   
+40. H7+6   c1-1   41. R2.3   r7.4   42. H6+4   c8-2   
+43. R3+1   a5+6   44. R3.2   c8.6   45. R2+4   c6-1   
+46. H4-2   a4+5   47. R4-1   r4.7   48. R4.5   e5-7   
+49. R2-2   c1+1   50. R2.4   }END
+
+
+FORMAT 	WXF
+GAME 	JIN Bo(D)ZHENG YiHong,84
+TIME       ;
+RESULT     0.5-0.5
+RED        JIN Bo ; CM ; China-HuoCheTou
+BLACK      ZHENG YiHong ; GM ; China-Xiamen
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  P7+1   r9.8   
+4.  H8+7   h2+3   5.  R1+1   e3+5   6.  R1.4   c8.9   
+7.  C8+2   h7+8   8.  R4.2   c2+2   9.  H7+6   c9.8   
+10. R2.4   h8+7   11. C5.6   c8.7   12. E7+5   a4+5   
+13. R4+5   c2-1   14. H6+7   r1.4   15. A6+5   r4+6   
+16. P7+1   r8+5   17. C8.4   e5+3   18. R9.8   c2-3   
+19. C4-1   r4-3   20. R4.3   r8-3   21. R3-1   c2.3   
+22. C6.7   h7-8   23. H3+4   h8-9   24. R3.7   r8+3   
+25. H4+2   c7.6   26. C4.3   p5+1   27. H2+1   r8-3   
+28. R8+8   h3-4   29. R8.6   r4-2   30. H7+6   c3+7   
+31. R7-3   c6.9   32. R7+4   r8.7   33. C3+1   c9-1   
+34. H6-5   r7+1   35. R7.9   h4+2   36. R9+3   a5-4   
+37. H5-7   r7.2   38. H7-6   r2+1   39. R9-5   c9+5   
+40. R9.8   r2+1   41. H6+8   c9.1   42. C3-2   h2+4   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG Qiang(D)LI ShaoGeng,72
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHANG Qiang ; CM ; China-Beijing
+BLACK      LI ShaoGeng ; NT ; China-Henan
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R4
+START{
+1.  C2.6   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+1   5.  C8+4   c8+5   6.  E3+5   c2.4   
+7.  A4+5   r1.2   8.  R9.8   p1+1   9.  R1.2   r2+2   
+10. C8.9   r2+7   11. H7-8   c4+4   12. P3+1   p7+1   
+13. E5+3   c8.4   14. R2+9   h7-8   15. A5+6   h8+7   
+16. H8+7   c4.3   17. H7-9   h1-2   18. H9+8   h2+3   
+19. C9+3   h3+1   20. H8+9   p3+1   21. P9+1   h7+6   
+22. C9.8   p3+1   23. H9-7   h1+3   24. P9+1   h6-4   
+25. E3-5   c3.4   26. E7+9   p9+1   27. H3+4   c4.9   
+28. H4+6   c9.7   29. C8-3   h4-3   30. H6+7   c7-4   
+31. C8-5   e7+5   32. H+-6   h-+2   33. H6+4   h2+3   
+34. E5+7   a6+5   35. P9.8   h3-4   36. C8.5   p5+1   }END
+
+
+FORMAT 	WXF
+GAME 	LIN HongMin(D)HONG Zhi,124
+TIME       ;
+RESULT     0.5-0.5
+RED        LIN HongMin ; GM ; China-Shanghai
+BLACK      HONG Zhi ; GM ; China-Jilin
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8+4   e7+5   
+7.  C8.7   r1+3   8.  R9.8   r1.3   9.  R8+7   c8.9   
+10. R2+9   h7-8   11. R8-6   r3.4   12. H3+2   r4+1   
+13. C5.2   a6+5   14. E7+5   c9.6   15. R8+3   h8+9   
+16. P9+1   r4.5   17. P9+1   r5+2   18. P3+1   p7+1   
+19. P1+1   h3+4   20. A6+5   c6+6   21. A5+4   h4+6   
+22. R8-3   r5.8   23. R8.4   r8+1   24. H2-4   r8-1   
+25. A4-5   p5+1   26. H4-6   h6+5   27. R4+5   h5+7   
+28. K5.6   r8-1   29. P9.8   p5+1   30. R4.1   h9-7   
+31. R1.6   h-+8   32. P8.7   h8+6   33. R6-1   h6+4   
+34. H9+8   p5+1   35. P++1   r8.9   36. P++1   r9.6   
+37. K6+1   p7+1   38. P++1   e3+1   39. P+.6   e1+3   
+40. H6+7   p5.4   41. H8+9   p4.3   42. H9+7   k5.6   
+43. H+-5   r6.5   44. H5-6   p3+1   45. K6-1   h7-6   
+46. H6-5   k6.5   47. H7-9   p3+1   48. H5-7   r5.1   
+49. P6+1   a5-4   50. R6+4   k5+1   51. R6-6   r1.4   
+52. H9+8   k5-1   53. H8+7   p7.6   54. E3+5   p6.5   
+55. H+-5   h6-5   56. R6+1   p5.4   57. H7+8   p4.5   
+58. H8+9   p5+1   59. E5-7   e3-1   60. H9+8   e1-3   
+61. H8+9   p5.4   62. H9-7   k5+1   }END
+
+
+FORMAT 	WXF
+GAME 	GE WeiPu(L)WANG Yang,102
+TIME       ;
+RESULT     0-1
+RED        GE WeiPu ; CM  ; China-Shanghai
+BLACK      WANG Yang ; CM ; China-Hubei
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8+4   e7+5   
+7.  C8.7   r1+3   8.  R9.8   r1.3   9.  R8+7   c8.9   
+10. R2+9   h7-8   11. R8-6   p3+1   12. R8.2   h8+6   
+13. R2+7   h6+4   14. H3+4   h4+5   15. E3+1   p3.4   
+16. R2.6   h5+6   17. A6+5   p5+1   18. R6-4   a6+5   
+19. A5+4   r3.6   20. H4-6   c9+4   21. R6+4   h3+2   
+22. H6+5   h6-5   23. C5+3   r6+4   24. R6-3   h2+1   
+25. R6.9   h1+3   26. H9+8   h3-5   27. R9-3   r6-3   
+28. H8+7   c9.8   29. A4+5   h5-7   30. R9.5   p7+1   
+31. P7+1   k5.6   32. C5-1   r6-1   33. H7-6   p9+1   
+34. H6-7   r6+3   35. C5+2   p9+1   36. C5.3   c8+3   
+37. K5.6   r6.4   38. K6.5   r4.8   39. C3-2   p7+1   
+40. H7+5   p7+1   41. E7+9   c8.9   42. K5.6   a5+6   
+43. H5+4   p9+1   44. R5+4   r8+3   45. K6+1   c9-1   
+46. A5+6   p7+1   47. R5.6   r8.5   48. R6+3   k6+1   
+49. R6.5   p7+1   50. A6-5   r5-1   51. K6+1   r5.2   }END
+
+
+FORMAT 	WXF
+GAME 	DONG XuBin(L)LIU DaHua,120
+TIME       ;
+RESULT     0-1
+RED        DONG XuBin ; CM ; China-Qinggong
+BLACK      LIU DaHua ; GM ; China-Hubei
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P3+1   p3+1   5.  H8+9   p1+1   6.  C8.7   h3+2   
+7.  R9+1   e3+5   8.  R2+6   p1+1   9.  P9+1   r1+5   
+10. R9.4   p3+1   11. C7+2   h2+3   12. R4+3   h3+1   
+13. E7+9   r1+2   14. C7+3   c2+7   15. A6+5   r1.3   
+16. C7.3   r3+2   17. A5-6   r3-6   18. A6+5   r8+1   
+19. R4.8   c2.1   20. C5.6   r3+6   21. A5-6   r3-2   
+22. R8-4   r3.4   23. R8.9   r4.7   24. R9+6   r7-1   
+25. R9.5   r7.9   26. A6+5   a6+5   27. P5+1   r9.5   
+28. P5+1   p9+1   29. R2-1   a5-6   30. R5.3   r8.2   
+31. R3.6   c8-1   32. P5.4   p9+1   33. P4+1   c8.3   
+34. R6-6   a4+5   35. R2.9   r2+2   36. R9.4   c3+4   
+37. C3-1   r2-3   38. R4-1   c3.5   39. P3+1   r2+8   
+40. R4.5   r5-1   41. C3+1   p9.8   42. P3+1   r5-1   
+43. C3+1   e7+9   44. C3-1   e5-7   45. R6+2   r2+1   
+46. R6-2   r2-2   47. C3+1   p8+1   48. C3-1   e9+7   
+49. C3.9   a5+4   50. R6+7   r5.1   51. C9.7   r2.3   
+52. C7.8   r1.2   53. C8.9   r3.1   54. C9.7   r1-5   
+55. E3+5   r2+5   56. A5-6   r2-2   57. A4+5   r2.5   
+58. K5.4   r5.9   59. P4.5   r9+2   60. K4+1   p8.7   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN FuJie(D)LI XueSong,172
+TIME       ;
+RESULT     0.5-0.5
+RED        CHEN FuJie ; CM  ; China-Guangdong
+BLACK      LI XueSong ; CM ; China-Hubei
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  H8+7   p7+1   5.  P7+1   e3+5   6.  R9+1   a4+5   
+7.  R9.6   r8+6   8.  C8+1   r8-2   9.  C2.1   r8+5   
+10. H3-2   h2+1   11. C8-2   p1+1   12. R6+4   c2+2   
+13. R6-1   r1.3   14. C8.7   c4.3   15. P3+1   p3+1   
+16. P7+1   e5+3   17. C7.3   c3+5   18. C1.7   e3-5   
+19. C7.6   h7-9   20. P3+1   e5+7   21. P9+1   p1+1   
+22. R6.9   h1+3   23. R9.5   e7-5   24. R5+2   c2-1   
+25. R5-2   r3.4   26. A4+5   r4+5   27. H2+3   h9+8   
+28. R5.2   r4.8   29. H3+2   h8-6   30. H2+4   h6+8   
+31. H4-2   h8-6   32. C3.1   h6+7   33. H2+4   a5+4   
+34. E5+3   c2-2   35. C6.3   c2.9   36. C3.1   h3+5   
+37. A5+4   c9.5   38. E7+5   h5-6   39. C-.5   c5.9   
+40. C1.2   h6+8   41. H4+6   c9+5   42. P5+1   c9.6   
+43. C2+3   h8-7   44. H6-4   p9+1   45. P5+1   p9+1   
+46. H4+3   h-+9   47. C2+3   p9.8   48. P5.4   h7+9   
+49. E3-1   a4-5   50. P4+1   k5.4   51. C5.1   c6.2   
+52. H3-4   h-+8   53. C2-4   h9+8   54. P4.5   h+-6   
+55. C2.8   h6+4   56. C1.6   k4.5   57. H4+2   a5+4   
+58. H2+3   k5+1   59. C8.1   h8-7   60. A6+5   c2-5   
+61. A5+6   c2.7   62. P5.4   k5-1   63. C6+6   h7+8   
+64. P4.3   h8+7   65. C1+5   c7.4   66. C6-4   h7+9   
+67. P3.4   h9+7   68. K5+1   h7-6   69. P4+1   e5+3   
+70. C6.5   h6-7   71. P4.3   h7-9   72. P3.4   h9+7   
+73. P4.3   h7-9   74. P3.4   k5+1   75. E5+3   h9+7   
+76. P4.3   h7-9   77. P3.4   h9+7   78. P4.3   h7-9   
+79. P3.4   c4-1   80. K5.4   k5.4   81. C5-3   c4+7   
+82. C5.6   k4.5   83. A4-5   c4+1   84. K4+1   h9+7   
+85. C6.5   k5.4   86. K4.5   c4-5   }END
+
+
+FORMAT 	WXF
+GAME 	WAN ChunLin(L)SHEN Peng,158
+TIME       ;
+RESULT     0-1
+RED        WAN ChunLin ; GM ; China-Shanghai
+BLACK      SHEN Peng ; NT  ; China-Anhui
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  P7+1   c2+4   5.  H8+7   r9+1   6.  R2+4   c2.7   
+7.  E3+1   r1+1   8.  R9+1   r1.4   9.  H7+6   h2+3   
+10. P9+1   r9.6   11. C8.6   r4.2   12. P9+1   h7+6   
+13. R9.4   h6+4   14. R4+7   r2.6   15. R2.6   p1+1   
+16. R6+3   h3-1   17. R6-2   e7+9   18. C6.9   h1+2   
+19. R6.8   h2-3   20. P7+1   r6+5   21. P7.6   c7.5   
+22. H3+5   r6.5   23. R8+3   c5.3   24. R8-5   r5-1   
+25. A6+5   a6+5   26. E1-3   r5.3   27. C9.6   r3+4   
+28. C6-2   r3-3   29. R8+4   c3.5   30. R8.7   c5+5   
+31. E3+5   h3+5   32. R7+2   p7+1   33. P6+1   h5+7   
+34. R7.8   h7+5   35. R8-5   h5+4   36. R8.6   h4+3   
+37. R6-3   p7.6   38. C6.7   h3-2   39. C7+6   p5+1   
+40. R6+2   h2+3   41. R6-2   h3-2   42. R6+2   h2+3   
+43. R6-2   h3-2   44. R6+2   h2+3   45. C7-5   r3+2   
+46. R6.2   p5+1   47. R2+6   a5-6   48. R2-3   r3-1   
+49. R2.1   r3.5   50. R1+1   r5.3   51. P1+1   r3-3   
+52. R1-2   r3+5   53. A5-6   p1+1   54. R1.5   a4+5   
+55. P1+1   r3-3   56. P1.2   p5+1   57. P2+1   p6+1   
+58. A4+5   r3+1   59. P2.3   r3.7   60. P3.4   p5+1   
+61. A5-4   p6+1   62. P4.5   p6+1   63. R5.4   p6+1   
+64. R4-5   p1+1   65. P5+1   p1+1   66. P6+1   r7-5   
+67. R4+3   p1.2   68. P5+1   a6+5   69. P6+1   r7+7   
+70. R4-3   r7-7   71. R4+3   r7+7   72. R4-3   r7-8   
+73. R4+3   r7+8   74. R4-3   r7-7   75. R4+3   p2.3   
+76. K5.4   p3.4   77. R4+5   a5+6   78. R4.2   r7+7   
+79. K4+1   p5.6   }END
+
+
+FORMAT 	WXF
+GAME 	SUN YongZheng(D)WANG RuiXiang,57
+TIME       ;
+RESULT     0.5-0.5
+RED        SUN YongZheng ; CM ; China-Shanghai
+BLACK      WANG RuiXiang ; NT  ; China-Tianjin
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H8+9   p7+1   
+4.  H2+3   h8+7   5.  R1.2   r9.8   6.  R2+4   c8.9   
+7.  R2+5   h7-8   8.  C5+4   a4+5   9.  P5+1   c3+3   
+10. C5.2   h2+3   11. E3+5   c3+2   12. H3+5   c3.1   
+13. R9+2   r1.2   14. P5+1   c9+4   15. H5+6   c9-2   
+16. H6+8   c9.5   17. A4+5   r2+3   18. C2.8   c5.1   
+19. C-.7   c1+3   20. E7+9   h3-1   21. C8.1   h8+7   
+22. C1.9   h7+6   23. P3+1   h6+4   24. C7-2   h4+5   
+25. P3+1   e5+7   26. K5.4   e7-5   27. P9+1   p3+1   
+28. P9+1   h5-3   29. C9.6   }END
+
+
+FORMAT 	WXF
+GAME 	XIE Kui(D)MIAO LiMing,148
+TIME       ;
+RESULT     0.5-0.5
+RED        XIE Kui ; NT ; China-Shandong
+BLACK      MIAO LiMing ; NT  ; China-Anhui
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  P7+1   p7+1   2.  C2.3   e7+5   3.  H2+1   h8+7   
+4.  R1.2   r9.8   5.  R2+4   c8.9   6.  R2+5   h7-8   
+7.  C8.5   h2+3   8.  R9+1   r1+1   9.  R9.2   h8+6   
+10. R2+7   r1.4   11. R2.3   r4+7   12. R3.4   r4.2   
+13. C3.2   c9.8   14. C5.7   c2+7   15. A4+5   p9+1   
+16. R4.2   c8.6   17. R2.3   c6.8   18. C7+4   c8+4   
+19. P3+1   r2-1   20. C2.4   a4+5   21. H1-3   c8.1   
+22. E3+5   r2-1   23. C4.2   k5.4   24. P3+1   c1.5   
+25. P3.4   r2.4   26. C2-2   c5-1   27. P7+1   e5+3   
+28. R3-4   r4.5   29. C2+9   k4+1   30. R3.4   e3+1   
+31. K5.4   p1+1   32. C2-7   c2-4   33. R4-1   r5.6   
+34. H3+4   c5+1   35. C2.1   c2-1   36. H4+2   p5+1   
+37. C7.2   p5+1   38. C2+2   k4-1   39. C2+1   k4+1   
+40. C1+3   h3+5   41. C1+3   a5+4   42. P4+1   h5+6   
+43. H2+1   c5.6   44. P4.3   p5+1   45. P3+1   h6+4   
+46. C2-6   c2-1   47. A5+6   c6-3   48. C2.6   p5.4   
+49. H1-3   c6+1   50. A6-5   k4-1   51. H3-1   a6+5   
+52. H1+2   c6-4   53. C1+1   k4+1   54. C1-4   k4-1   
+55. C1.9   c6+3   56. H2-3   c6.3   57. C9-1   c3-1   
+58. C9.6   k4.5   59. H3+2   c2-2   60. H2-4   c2+1   
+61. H4+2   c2-1   62. P3+1   c3-1   63. P1+1   c3.7   
+64. P1+1   c7.6   65. H2-3   c2.4   66. C6.5   k5.4   
+67. P1.2   e3-5   68. P2+1   e1+3   69. P2.3   p4.5   
+70. K4.5   p5.4   71. H3+5   p4.3   72. P3.4   c4.3   
+73. H5+3   c6.9   74. P4.5   c3.4   }END
+
+
+FORMAT 	WXF
+GAME 	XIE Jing(D)YAN WenQing,56
+TIME       ;
+RESULT     0.5-0.5
+RED        XIE Jing ; CM ; China-Shanghai
+BLACK      YAN WenQing ; CM ; China-Hebei
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  H8+9   r9.8   
+4.  C8.7   h2+1   5.  R9.8   r1.2   6.  R1+1   e7+5   
+7.  P9+1   a6+5   8.  R1.4   c8.9   9.  R8+4   r8+6   
+10. P3+1   r8.7   11. R4+3   c2.4   12. P3+1   r7-2   
+13. C5.6   r2+5   14. H9+8   p1+1   15. P9+1   r7.1   
+16. H8+7   h1+3   17. C7+4   c9-2   18. E3+5   c9.7   
+19. H3+2   r1.5   20. R4.5   r5.8   21. C6-1   c7.9   
+22. C6.2   r8.7   23. H2+1   h7+9   24. C7.1   r7.8   
+25. C2.7   c9+6   26. R5+2   r8+2   27. R5-1   c9.5   
+28. A6+5   r8.6   }END
+
+
+FORMAT 	WXF
+GAME 	SUN HaoYu(L)XU Chao,78
+TIME       ;
+RESULT     0-1
+RED        SUN HaoYu ; NT ; China-Hunan
+BLACK      XU Chao ; FM ; China-Nanjing
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   c8.9   5.  H7+6   e3+5   6.  R1+1   a4+5   
+7.  R9+1   h2+4   8.  R1.6   c2-2   9.  C8.6   c2.4   
+10. C6+6   r8+5   11. R9.8   r8.4   12. R6+3   c4+5   
+13. P5+1   c4+2   14. C5-1   r1.3   15. R8+1   c4-5   
+16. C6.9   r3.1   17. C9.7   r1.3   18. C7.9   p3+1   
+19. P7+1   e5+3   20. P5+1   p5+1   21. E7+5   e3-5   
+22. C5+4   h7+5   23. H3+5   h5+3   24. H5+7   c4.3   
+25. A4+5   c3+3   26. E5+7   h3-2   27. E3+5   r3+1   
+28. C9+1   r3+3   29. C5-1   r3.5   30. C5.1   c9.6   
+31. C9.8   p7+1   32. E5+3   r5.8   33. E3-5   r8+1   
+34. R8+4   p9+1   35. R8.9   p9+1   36. P1+1   e5+7   
+37. R9.7   c6.5   38. R7+3   a5-4   39. R7-2   k5+1   }END
+
+
+FORMAT 	WXF
+GAME 	LI ShaoGeng(W)ZHU Xiaohu,67
+TIME       ;
+RESULT     1-0
+RED        LI ShaoGeng ; NT ; China-Henan
+BLACK      ZHU Xiaohu ; NT  ; China-Jiangsu
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  R1.2   p3+1   5.  H8+9   r9+1   6.  R9.8   r9.4   
+7.  C5+4   a4+5   8.  C5.1   h8+9   9.  A6+5   r4+4   
+10. C8.6   c3.2   11. R8+6   h2+4   12. E7+5   r1.3   
+13. P3+1   r4+1   14. C6+6   r4-5   15. H3+4   c8.6   
+16. R2+5   p3.4   17. P9+1   p4+1   18. R2.5   c2.1   
+19. H9+8   p4.5   20. R5-2   c1+3   21. H8+7   r4+7   
+22. R5.6   r4-2   23. H4-6   p1+1   24. H6+5   c1+4   
+25. C1-2   c6+1   26. R8-1   c6.5   27. R8.9   c1.2   
+28. R9-5   c2-7   29. P3+1   p7+1   30. H7+6   r3+4   
+31. C1.5   r3.5   32. C5+2   c2-2   33. R9.7   k5.4   
+34. H6+8   }END
+
+
+FORMAT 	WXF
+GAME 	ZHENG YiHong(D)LI Qun,142
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHENG YiHong ; GM ; China-Xiamen
+BLACK      LI Qun ; FM ; China-Nanjing
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  C2.6   c8.5   2.  H2+3   h8+7   3.  R1.2   h2+3   
+4.  H8+7   r9+1   5.  P7+1   r9.4   6.  A6+5   r1+1   
+7.  P3+1   r4+5   8.  C6.4   p5+1   9.  E7+5   h3+5   
+10. C8+4   r1.6   11. R2+6   p5+1   12. C4+5   r6+1   
+13. C8.5   a6+5   14. R9.8   c2.4   15. R2.3   r6+6   
+16. P5+1   h7+5   17. R3.5   a5-6   18. R8+6   c4-1   
+19. R8.7   c4.7   20. R7.6   r4-3   21. R5.6   c7+6   
+22. H7+6   r6-2   23. P5+1   r6.1   24. H6+4   r1+3   
+25. A5-6   r1-5   26. H4+2   a6+5   27. P5+1   c5.8   
+28. P5.4   r1.8   29. P4+1   c7.8   30. P4.3   c+-4   
+31. P+.2   p1+1   32. P7+1   p9+1   33. P7.6   e3+5   
+34. P6.5   r8.5   35. R6.2   r5.6   36. P2.3   p1+1   
+37. P++1   a5-6   38. R2.6   r6+2   39. R6.5   a4+5   
+40. R5.9   r6.9   41. R9.4   r9.7   42. R4.1   r7.5   
+43. R1-1   r5-3   44. R1.4   p1.2   45. P+.4   p2+1   
+46. R4-2   r5+1   47. R4.8   r5.6   48. P4.3   r6.5   
+49. R8+3   r5.6   50. A6+5   a5-4   51. R8.6   a4+5   
+52. K5.6   r6+2   53. R6.3   r6-2   54. R3.8   r6.4   
+55. K6.5   r4.6   56. R8.3   k5.4   57. P++1   e5-7   
+58. R3+3   k4.5   59. R3-3   r6.5   60. R3.6   r5.6   
+61. R6-3   r6.5   62. R6.3   r5.4   63. P3+1   k5.4   
+64. P3+1   r4-1   65. P3+1   r4-1   66. P3+1   r4+1   
+67. R3.8   r4+1   68. E5+3   r4-1   69. A5+6   r4+4   
+70. P3.4   r4-3   71. R8.5   r4-1   }END
+
+
+FORMAT 	WXF
+GAME 	Ö£Î¬Í©(D)WANG Bin,53
+TIME       ;
+RESULT     0.5-0.5
+RED        Ö£Î¬Í© ; NT ; NA
+BLACK      WANG Bin ; GM ; China-Jiangsu
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H2+3   p3+1   
+4.  H8+9   p3+1   5.  R1.2   r9+1   6.  R9.8   r9.4   
+7.  C5+4   a4+5   8.  C5.1   h2+1   9.  C1+3   h8+9   
+10. C8.5   h1+3   11. R8+6   h3+4   12. A6+5   h4+5   
+13. E7+5   r4+3   14. R2+4   r4.3   15. E5+7   r1.4   
+16. H9-7   r3.8   17. R2+1   h9+8   18. H7+5   r4+5   
+19. E7-9   c3+5   20. H3-1   h8+6   21. P5+1   h6+5   
+22. E3+5   r4.5   23. E9-7   c8+7   24. H1-3   c3-1   
+25. R8+3   a5-4   26. R8-6   c3.9   27. P3+1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHUANG YuTing(D)WANG TianYi,127
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHUANG YuTing ; GM ; China-Guangdong
+BLACK      WANG TianYi ; NT  ; China-Beijing
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  P3+1   c2.6   2.  E3+5   h2+3   3.  H8+9   r1.2   
+4.  R9.8   r2+4   5.  C8.7   r2.6   6.  R8+4   e7+5   
+7.  H2+3   a6+5   8.  C7+4   h8+6   9.  A4+5   r9.7   
+10. C2-2   p7+1   11. P3+1   r7+4   12. H3+2   r6+4   
+13. C2+7   h6+8   14. H2+1   r7+2   15. R8.2   h8+9   
+16. R2+5   a5-6   17. P1+1   h9-7   18. H1+2   h7-8   
+19. R2-1   a4+5   20. R1.2   r7.5   21. R+-5   r5-2   
+22. P7+1   r5.2   23. C7.6   h3+4   24. R++3   h4+6   
+25. R+.4   r2+2   26. H9-7   r2.1   27. E5+3   r6-2   
+28. H7+5   r1.5   29. H5-3   r6.7   30. R4-2   r7+2   
+31. P1+1   r5.4   32. C6.8   r4.2   33. C8.6   r2.4   
+34. C6.8   r4.2   35. C8.6   e5-7   36. E3-5   r2.4   
+37. C6.8   r4.2   38. C8.6   r2.4   39. C6.8   r4.2   
+40. C8.6   r7-4   41. R2+5   r2-2   42. R2.3   r2.7   
+43. P1+1   r7.4   44. C6.8   r4.2   45. C8.6   r2-1   
+46. C6-4   p5+1   47. R4.1   e3+5   48. P1+1   c6+4   
+49. R1-1   c6-1   50. P1+1   p5+1   51. P1.2   p5.4   
+52. R1.4   c6.5   53. K5.4   p1+1   54. P2.3   p1+1   
+55. P7+1   e5+3   56. P3+1   c5-3   57. P3.4   a5-6   
+58. R4+6   k5+1   59. R4-1   k5-1   60. E5+3   r2.5   
+61. R4+1   k5+1   62. R4-1   k5-1   63. R4-3   p1.2   
+64. C6.5   }END
+
+
+FORMAT 	WXF
+GAME 	ZHANG XueChao(D)BU FengBo,56
+TIME       ;
+RESULT     0.5-0.5
+RED        ZHANG XueChao ; NT  ; China-Xiamen
+BLACK      BU FengBo ; GM  ; China-Dalian
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  C2.6   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+1   5.  C8+4   c2.5   6.  E3+5   r1+1   
+7.  H7+6   c8+4   8.  A4+5   p5+1   9.  H6+5   h7+6   
+10. R1.2   r1.8   11. H5-3   a6+5   12. R9.8   h6+5   
+13. C8.1   r++3   14. R2+3   r++2   15. H+-2   r8+6   
+16. R8+3   r8.7   17. C1.5   p5+1   18. C5-3   c5+4   
+19. H3+5   p5+1   20. P1+1   r7.9   21. C6.9   r9+3   
+22. A5-4   p5+1   23. E7+5   r9-4   24. R8.5   r9-1   
+25. C9+4   r9.1   26. C9.8   r1.2   27. C8.9   e7+5   
+28. A4+5   h1-2   }END
+
+
+FORMAT 	WXF
+GAME 	Li Hong Jia(W)SONG GuoQiang,75
+TIME       ;
+RESULT     1-0
+RED        Li Hong Jia ; CM  ; China-Guangdong
+BLACK      SONG GuoQiang ; CM ; China-HuoCheTou
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  P7+1   p7+1   2.  H8+7   h2+3   3.  E3+5   h8+7   
+4.  R9+1   c8.9   5.  H2+3   r9.8   6.  R1.2   r8+6   
+7.  C8+1   e3+5   8.  P3+1   r8-2   9.  P3+1   r8.7   
+10. H3+2   p3+1   11. P7+1   r7.3   12. C8-2   r3.7   
+13. C8.3   h3+2   14. R9.4   r1.3   15. R2.3   r3+4   
+16. R4+7   a6+5   17. H7+6   r3.4   18. H6+8   r4.2   
+19. H2+1   c2-1   20. R4-2   r7.6   21. R4.3   h7+9   
+22. C2+7   a5-6   23. C3+8   e5-7   24. R+.5   a4+5   
+25. R3+9   r6.8   26. R3-4   r8-4   27. R3.8   c9-1   
+28. R5.1   r8+6   29. R1.9   c2.4   30. R9.5   r8.9   
+31. A6+5   c4-1   32. E5-3   r9.7   33. E7+5   c9+5   
+34. R8-2   r7.6   35. P9+1   r6-4   36. P5+1   c9-4   
+37. P9+1   r6.3   38. P5+1   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(W)ÖÜÌÎ,77
+TIME       ;
+RESULT     1-0
+RED        XU YinChuan ; GM   ; China-Guangdong
+BLACK      ÖÜÌÎ ; NT  ; China
+DATE       1-7-2009
+PLACE      
+EVENT      China National Xiangqi League ; 2009
+ROUND      R5
+START{
+1.  E3+5   c8.4   2.  C2.3   h8+7   3.  C3+4   r9.8   
+4.  H2+3   e7+5   5.  H8+9   h2+1   6.  P9+1   r8+4   
+7.  R1.2   r8.7   8.  R2+6   r7+2   9.  R9+1   c2+2   
+10. R9.6   a4+5   11. R6+4   c2.3   12. H3-1   r7.5   
+13. A6+5   r1.2   14. C8+2   r5-2   15. R6.5   p5+1   
+16. C3-5   p5+1   17. R2.3   h7-9   18. P7+1   c3.8   
+19. C8.5   r2+4   20. H1+3   r2.5   21. C5.2   p3+1   
+22. P7+1   r5.3   23. H9+8   c4+3   24. R3.6   c4.5   
+25. K5.6   h9-7   26. C3.1   h1-3   27. R6-3   r3.7   
+28. C1+5   r7-1   29. C1.9   r7.2   30. C9-1   r2+1   
+31. H8+6   h7+6   32. H6+4   c8.1   33. H4-5   c1-2   
+34. C2+5   h6-7   35. H5+4   r2.7   36. R6+5   a5+6   
+37. R6.7   r7+3   38. R7.4   r7-4   39. H4+6   }END
+

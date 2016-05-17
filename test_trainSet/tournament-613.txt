@@ -1,0 +1,141 @@
+
+
+FORMAT 	WXF
+GAME 	YUNG Tak Keung(D)CHIU Yu Kuen,51
+TIME       ;
+RESULT     0.5-0.5
+RED        YUNG Tak Keung ; ICM ; China-Hong Kong
+BLACK      CHIU Yu Kuen ; IM  ; China-Hong Kong
+DATE       2014-03-16
+PLACE      
+EVENT      2014Ïã¸ÛÏóÆåÍÅÌåÈü ; 2014
+ROUND      µÚ 9 ÂÖ
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   h7+6   6.  C8+3   h6+4   
+7.  R2-2   h4+5   8.  E7+5   r8+1   9.  H8+7   r1+1   
+10. H7+6   c8.7   11. R2+4   r1.8   12. H6+7   e7+5   
+13. C8-2   r8.4   14. C8.7   r4+5   15. R9.7   c2-1   
+16. H7-8   h3+2   17. P7+1   c2+4   18. P7.8   c2+2   
+19. R7+2   c2+2   20. K5+1   c7+4   21. C7+3   r4.2   
+22. E5-7   r2-2   23. E3+5   r2+4   24. K5-1   r2.7   
+25. R7.8   r7-1   26. R8-2   }END
+
+
+FORMAT 	WXF
+GAME 	²ÌÖ²¼á(W)SU FuYin,65
+TIME       ;
+RESULT     1-0
+RED        ²ÌÖ²¼á ; NT ; China-Guangdong
+BLACK      SU FuYin ; NT ; China-Hong Kong
+DATE       2014-03-16
+PLACE      
+EVENT      2014Ïã¸ÛÏóÆåÍÅÌåÈü ; 2014
+ROUND      µÚ 9 ÂÖ
+START{
+1.  H2+3   p7+1   2.  P7+1   h8+7   3.  H8+7   e3+5   
+4.  H7+6   r9+1   5.  C8.6   h2+3   6.  E3+5   c2+3   
+7.  H6+7   c2+1   8.  A4+5   r1.2   9.  R1.4   c8.9   
+10. C2+4   r9.8   11. C2.3   r8+2   12. R4+6   a6+5   
+13. R9.8   c2+1   14. H7+9   r2+2   15. R8+2   r2.1   
+16. P7+1   h3-1   17. P7+1   r1.4   18. R8+3   h1-3   
+19. R8.3   h3+2   20. P7.8   h2-4   21. P3+1   p9+1   
+22. R3.8   c9+1   23. P3+1   r8+4   24. R4-3   e7+9   
+25. H3-4   r8-2   26. P3.2   r8.7   27. C3.4   p5+1   
+28. C4+2   a5-6   29. P2+1   c9.2   30. R8+1   h7+8   
+31. C4.2   r7.6   32. R4+1   h8+6   33. R8.4   }END
+
+
+FORMAT 	WXF
+GAME 	WONG Hok Him(D)WEN LiShen,36
+TIME       ;
+RESULT     0.5-0.5
+RED        WONG Hok Him ; NT  ; China-Hong Kong
+BLACK      WEN LiShen ; NT ; China-Hong Kong
+DATE       2014-03-16
+PLACE      
+EVENT      2014Ïã¸ÛÏóÆåÍÅÌåÈü ; 2014
+ROUND      µÚ 9 ÂÖ
+START{
+1.  P7+1   c8.5   2.  H2+3   h8+7   3.  R1.2   c2.4   
+4.  H8+7   h2+3   5.  R9.8   r1.2   6.  C8+4   h3-1   
+7.  C8+2   c4+1   8.  R8+7   p5+1   9.  A4+5   r9.8   
+10. C2+6   h7-5   11. E3+5   p7+1   12. H7+6   h5+3   
+13. R8-5   c4+1   14. H6-4   h3+5   15. C2.9   r8+9   
+16. H3-2   c4+2   17. H4+5   c5+2   18. P5+1   c5.1   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN Zheng(D)ÀîÎ°Ç¿,82
+TIME       ;
+RESULT     0.5-0.5
+RED        CHEN Zheng ; NT ; USA-San Francisco
+BLACK      ÀîÎ°Ç¿ ; NT ; China-Hong Kong
+DATE       2014-03-16
+PLACE      
+EVENT      2014Ïã¸ÛÏóÆåÍÅÌåÈü ; 2014
+ROUND      µÚ 9 ÂÖ
+START{
+1.  P9+1   c8.4   2.  R1+1   h8+7   3.  R1.6   a6+5   
+4.  C2.5   r9.8   5.  H2+3   r8+4   6.  H8+7   h2+3   
+7.  C8+2   p3+1   8.  R6+5   c4.6   9.  R6.7   e3+5   
+10. C8.3   h7-9   11. R9+1   p7+1   12. C3.6   h9+7   
+13. R9.4   c2+2   14. C6+3   c6.4   15. R7+1   r1.2   
+16. P5+1   c2+2   17. P5+1   c2-2   18. P5+1   h7+5   
+19. A4+5   c2+3   20. R7.9   c2.5   21. E7+5   h5+4   
+22. H7+5   r2+3   23. R4+3   r2.4   24. H5+4   h4-6   
+25. R4+1   r8+2   26. R4.5   r8.7   27. H3+5   r7.6   
+28. P7+1   r4+3   29. H5+6   p3+1   30. H6+8   r6-3   
+31. R9-1   c4-1   32. P9+1   p3+1   33. P1+1   r6.3   
+34. H8-9   r3.1   35. P9+1   r4-3   36. P9.8   p3+1   
+37. R5-1   c4.1   38. R5.7   c1+1   39. P8.7   r4+3   
+40. R7-2   r4-1   41. R7+2   r4.3   }END
+
+
+FORMAT 	WXF
+GAME 	³Â¡¡Õý(D)ÀîÎ°Ç¿,82
+TIME       ;
+RESULT     0.5-0.5
+RED        ³Â¡¡Õý ; NT ; China-Hong Kong
+BLACK      ÀîÎ°Ç¿ ; NT ; China-Hong Kong
+DATE       2014-03-16
+PLACE      
+EVENT      2014Ïã¸ÛÏóÆåÍÅÌåÈü ; 2014
+ROUND      µÚ 9 ÂÖ
+START{
+1.  P9+1   c8.4   2.  R1+1   h8+7   3.  R1.6   a6+5   
+4.  C2.5   r9.8   5.  H2+3   r8+4   6.  H8+7   h2+3   
+7.  C8+2   p3+1   8.  R6+5   c4.6   9.  R6.7   e3+5   
+10. C8.3   h7-9   11. R9+1   p7+1   12. C3.6   h9+7   
+13. R9.4   c2+2   14. C6+3   c6.4   15. R7+1   r1.2   
+16. P5+1   c2+2   17. P5+1   c2-2   18. P5+1   h7+5   
+19. A4+5   c2+3   20. R7.9   c2.5   21. E7+5   h5+4   
+22. H7+5   r2+3   23. R4+3   r2.4   24. H5+4   h4-6   
+25. R4+1   r8+2   26. R4.5   r8.7   27. H3+5   r7.6   
+28. P7+1   r4+3   29. H5+6   p3+1   30. H6+8   r6-3   
+31. R9-1   c4-1   32. P9+1   p3+1   33. P1+1   r6.3   
+34. H8-9   r3.1   35. P9+1   r4-3   36. P9.8   p3+1   
+37. R5-1   c4.1   38. R5.7   c1+1   39. P8.7   r4+3   
+40. R7-2   r4-1   41. R7+2   r4.3   }END
+
+
+FORMAT 	WXF
+GAME 	CHAN Keung On(L)WANG LiangDa,47
+TIME       ;
+RESULT     0-1
+RED        CHAN Keung On ; NT  ; China-Hong Kong
+BLACK      WANG LiangDa ; NT ; China-Hong Kong
+DATE       2014-03-16
+PLACE      
+EVENT      2014Ïã¸ÛÏóÆåÍÅÌåÈü ; 2014
+ROUND      µÚ 9 ÂÖ
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  H8+9   h2+3   5.  P7+1   r9+1   6.  C8.7   h7+6   
+7.  P7+1   h6+4   8.  P7+1   h4+3   9.  P7+1   r9.4   
+10. A4+5   c2+3   11. P9+1   r1.2   12. H9+8   r2+5   
+13. C5+4   a4+5   14. R9+2   r2.3   15. R2+6   r3-3   
+16. C5-2   k5.4   17. E3+5   r4+7   18. R9-2   h3-5   
+19. H3+5   c5+4   20. E7+9   r3.4   21. K5.4   r-.6   
+22. K4.5   r6+3   23. C5+2   r4-5   24. R9.7   }END
+

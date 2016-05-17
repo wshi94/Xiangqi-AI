@@ -1,0 +1,887 @@
+
+
+FORMAT 	WXF
+GAME 	YAN WenQing(L)ZHAO GuoRong,132
+TIME       ;
+RESULT     0-1
+RED        YAN WenQing ; CM ; China-Hebei
+BLACK      ZHAO GuoRong ; GM   ; China-HeilongJiang
+DATE       
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.4   c2.5   2.  H8+7   h2+3   3.  H2+3   h8+9   
+4.  R9.8   r1.2   5.  R1.2   r9.8   6.  C8+6   p3+1   
+7.  R2+5   c5.6   8.  C4.5   a4+5   9.  R2.7   e3+5   
+10. R7.4   c8+2   11. C5.6   c8.7   12. E7+5   r8+7   
+13. H3-5   r8-1   14. P3+1   c7.8   15. H5+3   p7+1   
+16. R4-1   p7+1   17. R4.3   c8.3   18. H7-9   c3.7   
+19. C6+1   r8+1   20. H3+2   c6+6   21. R8+2   c7+5   
+22. R3-4   r8-2   23. H9-7   r8.4   24. C8-5   c6-4   
+25. A6+5   c6.3   26. C6-3   c3+5   27. E5-7   r2+5   
+28. R3+2   p9+1   29. A5+6   r4.6   30. A6-5   p5+1   
+31. P9+1   h3+5   32. C8.9   r2+2   33. R3.8   r6.1   
+34. C9-3   r1+3   35. P7+1   h5+7   36. A5+6   a5-4   
+37. A4+5   h7+8   38. R8+4   p1+1   39. R8-1   p1+1   
+40. R8.5   p1.2   41. P7+1   p2+1   42. P7+1   p2+1   
+43. R5.8   p2.3   44. C9.8   a6+5   45. C8+3   h8+7   
+46. K5.4   p3.4   47. R8.3   r1.5   48. C8+6   e5-3   
+49. R3+4   a5-6   50. R3.4   k5+1   51. R4-1   k5-1   
+52. R4+1   k5+1   53. R4-1   k5-1   54. R4.6   r5+1   
+55. K4+1   r5.4   56. R6+1   k5+1   57. R6.5   k5.4   
+58. R5.6   k4.5   59. R6.5   k5.4   60. P7+1   r4-1   
+61. K4-1   r4+1   62. K4+1   h9+8   63. R5.3   r4-1   
+64. K4-1   h7-5   65. K4.5   r4+1   66. K5+1   p4+1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO GuoRong(W)YAN WenQing,45
+TIME       ;
+RESULT     1-0
+RED        ZHAO GuoRong ; GM   ; China-HeilongJiang
+BLACK      YAN WenQing ; CM ; China-Hebei
+DATE       
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  E3+5   c2.4   2.  H8+9   h2+3   3.  R9+1   r1.2   
+4.  R9.6   h8+7   5.  P9+1   c8.9   6.  R6+3   r2+6   
+7.  C2.4   c4.5   8.  A4+5   p5+1   9.  H2+3   r9.8   
+10. C8.7   r8+6   11. R6+2   p5+1   12. P5+1   r8.7   
+13. C4-2   h7+5   14. C4.3   r7.6   15. H3+2   r6.7   
+16. H2-3   r7.6   17. C7+4   h5+7   18. C7+3   a4+5   
+19. H3+2   r6-1   20. R6.3   r2-2   21. R3.4   h7+8   
+22. R4-2   h8-6   23. H2-3   }END
+
+
+FORMAT 	WXF
+GAME 	HONG Zhi(D)HU RongHua,151
+TIME       ;
+RESULT     0.5-0.5
+RED        HONG Zhi ; GM ; China-Jilin
+BLACK      HU RongHua ; GM ; China-Shanghai
+DATE       
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  H8+9   p7+1   5.  C8.6   e3+5   6.  R9.8   c2.1   
+7.  R2+6   a4+5   8.  R2.3   r9+2   9.  R8+4   c6-1   
+10. A4+5   r1.2   11. P9+1   p3+1   12. R3.4   r2+5   
+13. H9+8   c1-1   14. P5+1   h7+8   15. P5+1   p7+1   
+16. R4.2   h8+6   17. P3+1   h6+5   18. E3+5   p5+1   
+19. R2.7   c6+1   20. P3+1   c1.3   21. R7.4   p5+1   
+22. P3+1   r9.8   23. H8+7   c6-1   24. P3.2   r8.7   
+25. P2.3   r7.8   26. P3.2   r8.7   27. H3+2   c6.9   
+28. H7+9   c3.1   29. R4.7   e5-3   30. H2+4   r7.4   
+31. H4+6   p5.4   32. H6-4   p4.5   33. P9+1   e3+1   
+34. P9+1   c1+2   35. P7+1   r4.6   36. H4-3   p5.6   
+37. P7+1   p6+1   38. H3-4   c1+2   39. P7.6   c1.5   
+40. H4+2   h3-4   41. R7.5   r6+3   42. C6+7   k5.4   
+43. H2+4   r6.7   44. R5.3   r7.6   45. R3.5   c9+5   
+46. P2.1   r6.7   47. K5.4   c5.6   48. H4-2   r7+2   
+49. R5-3   c9+2   50. R5.1   c9.8   51. H2+3   c8+1   
+52. P1.2   r7+2   53. K4+1   r7-1   54. K4-1   r7+1   
+55. K4+1   c6-4   56. P2.3   r7-1   57. K4-1   r7+1   
+58. K4+1   r7-1   59. K4-1   r7+1   60. K4+1   r7-2   
+61. K4-1   e1-3   62. P6.5   r7+2   63. K4+1   c8-7   
+64. P3+1   c8+2   65. R1.2   c8.7   66. R2+5   c6+5   
+67. P5.4   r7-4   68. P4.3   r7-1   69. K4-1   r7-2   
+70. R2-5   c6-3   71. K4.5   c6.9   72. R2.1   c9.5   
+73. R1.5   c5.9   74. R5.1   c9.5   75. R1.5   c5.9   
+76. R5.4   }END
+
+
+FORMAT 	WXF
+GAME 	HU RongHua(W)HONG Zhi,71
+TIME       ;
+RESULT     1-0
+RED        HU RongHua ; GM ; China-Shanghai
+BLACK      HONG Zhi ; GM ; China-Jilin
+DATE       2000/12/16
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   h7+6   6.  H8+7   e3+5   
+7.  R2.4   h6+7   8.  H7+6   a4+5   9.  C5.6   c8.7   
+10. E7+5   c2+1   11. R9.7   p9+1   12. A6+5   p1+1   
+13. H6+7   r1.4   14. R4-2   r8+3   15. P7+1   p5+1   
+16. H7-5   r8.5   17. P5+1   c2+2   18. R4-1   r4+5   
+19. H5-7   r4.5   20. P7+1   r-.3   21. C8.7   e5+3   
+22. R7.8   c2-3   23. C6+1   p7+1   24. H7-6   r3.7   
+25. C6.5   r5-2   26. C7+5   k5.4   27. R8+4   r5.2   
+28. R8.6   c7.4   29. R4+2   p7.6   30. R4-1   h7-8   
+31. R4+1   h8-7   32. C7.3   c2.7   33. H3+4   r7.3   
+34. R4+4   a5-6   35. R6+3   k4.5   36. R6.3   }END
+
+
+FORMAT 	WXF
+GAME 	BU FengBo(W)Lv Qin,93
+TIME       ;
+RESULT     1-0
+RED        BU FengBo ; GM  ; China-Dalian
+BLACK      Lv Qin ; GM;IGM ; China-Guangdong
+DATE       2000/12/23
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  C8.9   c9.7   9.  R3.4   h7+8   
+10. R9.8   r1.2   11. C9+4   p7+1   12. C5+4   e3+5   
+13. R4.3   h8-9   14. R3-2   r8+4   15. H3-5   c2+2   
+16. H7+6   h3+1   17. C5.9   r2.1   18. C9.1   c2.7   
+19. R3.4   r8-1   20. C1-2   c++5   21. H5-3   c7+8   
+22. A4+5   r1.4   23. E7+5   c7-1   24. H6+4   r8+1   
+25. R4-4   r4+4   26. R8+9   a5-4   27. C1.5   a6+5   
+28. R8-4   r4+2   29. R8.5   h9-7   30. C5.3   r8+4   
+31. C3.5   r8-6   32. P3+1   c7.8   33. R4.2   k5.6   
+34. P3+1   r4-3   35. R5+2   e7+5   36. H4+6   r8+1   
+37. R2.4   r8.6   38. R4+5   r6+1   39. P3.4   a5+4   
+40. C5.4   k6.5   41. H6+4   k5+1   42. C4.5   k5.6   
+43. H4-5   h7+8   44. P4+1   h8+6   45. C5+3   c8-4   
+46. H5+6   h6+5   47. C5-3   }END
+
+
+FORMAT 	WXF
+GAME 	BU FengBo(D)Lv Qin,64
+TIME       ;
+RESULT     0.5-0.5
+RED        BU FengBo ; GM  ; China-Dalian
+BLACK      Lv Qin ; GM;IGM ; China-Guangdong
+DATE       2000/12/23
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  H8+7   c2.1   6.  P7+1   p7+1   
+7.  R2+6   a6+5   8.  R9+2   r9.8   9.  R2+3   h7-8   
+10. H7+6   e7+5   11. C6.7   r2+4   12. R9.8   r2+3   
+13. C5.8   c1+4   14. C7+4   h8+7   15. E3+5   p1+1   
+16. C8+5   p1+1   17. P7+1   c1.7   18. C7.6   c6-1   
+19. P7+1   h3-2   20. C8.3   c7-4   21. H3+2   p5+1   
+22. H2+1   c7.8   23. C6.2   h2+1   24. P7.6   p1.2   
+25. P6.5   a5+6   26. C2-1   p7+1   27. E5+3   p2.3   
+28. H6-7   c6.3   29. H7+9   p3.4   30. H9+8   h1+2   
+31. C2.8   p4+1   32. E3-5   p4.5   }END
+
+
+FORMAT 	WXF
+GAME 	Lv Qin(W)BU FengBo,71
+TIME       ;
+RESULT     1-0
+RED        Lv Qin ; GM;IGM ; China-Guangdong
+BLACK      BU FengBo ; GM  ; China-Dalian
+DATE       2000/12/23
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+2   
+7.  R2+6   h7+6   8.  R8+4   e3+5   9.  R2.4   h6+7   
+10. R4.2   h7-6   11. P9+1   p3+1   12. R2-3   a4+5   
+13. C7-1   c8+2   14. C7.2   h6-7   15. C2.3   c8-1   
+16. H3+4   h7+6   17. C5.3   e7+9   18. P7+1   c8+2   
+19. P7+1   e5+3   20. E3+5   e3-5   21. C+.4   p7+1   
+22. C4+3   r8+4   23. C4+3   e9+7   24. C4.3   a5-4   
+25. C+-4   r2+1   26. H9+7   c2-1   27. H4+6   c8.2   
+28. R2+2   c+-1   29. R2+2   c-.4   30. H6+4   c2-2   
+31. H4+3   r2.6   32. R2.4   k5+1   33. R4+1   k5.6   
+34. C-.7   h3-2   35. C7.2   a6+5   36. C3.4   }END
+
+
+FORMAT 	WXF
+GAME 	YU YouHua(D)ZONG YongSheng,102
+TIME       ;
+RESULT     0.5-0.5
+RED        YU YouHua ; GM ; China-HuoCheTou
+BLACK      ZONG YongSheng ; CM  ; China-Guangdong
+DATE       2000/12/30
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  R9+1   e7+5   
+4.  C2.5   r9.8   5.  H2+3   h2+3   6.  R1.2   r1+1   
+7.  R9.6   c8+4   8.  R6+3   r1.8   9.  E3+1   c2+4   
+10. R6-1   c2-2   11. R6+4   r+.3   12. A4+5   c2.6   
+13. C8+7   a6+5   14. R6.5   c6-2   15. R2.4   h7-6   
+16. R4+7   h6+5   17. R4.5   c8+1   18. H7+6   c8.5   
+19. E7+5   r8.6   20. R5.3   r6+2   21. R3+2   r6-2   
+22. R3.4   a5-6   23. C8-7   r3.4   24. H6+7   r4+5   
+25. P9+1   h3-5   26. P3+1   p7+1   27. E1+3   h5+7   
+28. C8.9   r4.1   29. C9.6   h7+6   30. H7+6   a6+5   
+31. H6-5   h6+5   32. H3+5   r1.5   33. H5+7   r5.9   
+34. H7-9   r9.4   35. H9-7   e3+5   36. H7+5   r4-2   
+37. H5+7   r4.8   38. C6+3   p9+1   39. P9+1   p9+1   
+40. P9.8   p9.8   41. C6+1   r8-1   42. C6.9   k5.6   
+43. E3-1   r8.3   44. C9+3   k6+1   45. H7+9   r3.5   
+46. E1-3   p8+1   47. P7+1   e5+3   48. P8.7   a5+4   
+49. H9-7   a4+5   50. C9-8   r5.6   51. P7.6   r6+1   }END
+
+
+FORMAT 	WXF
+GAME 	ZONG YongSheng(D)YU YouHua,43
+TIME       ;
+RESULT     0.5-0.5
+RED        ZONG YongSheng ; CM  ; China-Guangdong
+BLACK      YU YouHua ; GM ; China-HuoCheTou
+DATE       2000/12/30
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  H8+7   c2.1   6.  P7+1   p7+1   
+7.  H7+6   a6+5   8.  R9+2   r9.8   9.  R2+9   h7-8   
+10. C6.7   r2+5   11. H6+7   r2.3   12. H7+9   e3+1   
+13. C7+5   r3-3   14. C5+4   c6.5   15. E3+5   h8+7   
+16. C5-2   h7+5   17. C5+3   e7+5   18. R9.8   r3+4   
+19. R8+2   r3.1   20. A4+5   e1-3   21. R8.5   h5+3   
+22. R5.2   }END
+
+
+FORMAT 	WXF
+GAME 	YU YouHua(L)ZONG YongSheng,66
+TIME       ;
+RESULT     0-1
+RED        YU YouHua ; GM ; China-HuoCheTou
+BLACK      ZONG YongSheng ; CM  ; China-Guangdong
+DATE       2000/12/30
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  E3+5   c8.4   2.  P7+1   h8+7   3.  H2+1   r9.8   
+4.  R1.2   r8+4   5.  C2.3   r8.4   6.  H8+7   h2+3   
+7.  R2+4   e3+5   8.  R9+1   p7+1   9.  P1+1   r1+1   
+10. C8.9   c2-2   11. R9.8   c2.3   12. A6+5   p3+1   
+13. P7+1   r4.3   14. H7+6   h3+4   15. C9.6   a4+5   
+16. P3+1   p7+1   17. R2.3   h7+8   18. H6+4   c4+5   
+19. C3.6   h4-6   20. H4+2   h6+7   21. H2+3   k5.4   
+22. R8+3   c3+1   23. R8.6   c3.4   24. E5+3   r1+1   
+25. E3-5   r1.4   26. R6+3   a5+4   27. C6.9   h8-7   
+28. H1+3   r3+2   29. H--4   r3.1   30. H3+1   r1-2   
+31. H4+3   r1.7   32. H3+5   r7.8   33. H5+4   r8.6   }END
+
+
+FORMAT 	WXF
+GAME 	TAO HanMing(L)LIU DaHua,105
+TIME       ;
+RESULT     0-1
+RED        TAO HanMing ; GM ; China-Jilin
+BLACK      LIU DaHua ; GM ; China-Hubei
+DATE       2000/12/30
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  H8+9   r9+1   
+4.  C5+4   a4+5   5.  H2+3   h2+4   6.  C5-2   r9.6   
+7.  R1.2   r6+3   8.  C5.3   c8+2   9.  R9.8   r1.2   
+10. E3+5   p9+1   11. P9+1   h8+9   12. A4+5   p3+1   
+13. P7+1   c8.3   14. C3.8   r2.3   15. C-.6   c-.2   
+16. C6.8   c3+3   17. C-+5   h4+2   18. A5+6   c3-6   
+19. P3+1   c3.1   20. R2.4   r6+5   21. K5.4   c1+4   
+22. C8.7   h2+4   23. C7-3   c1-1   24. R8+6   h4-6   
+25. R8.9   c1.8   26. H3+4   c8-1   27. R9-1   r3.4   
+28. A6+5   p7+1   29. P3+1   h6+7   30. H9+7   c8-2   
+31. K4.5   a5+6   32. H7+6   r4.3   33. C7+3   a6+5   
+34. H6+4   r3+4   35. R9+4   r3-4   36. R9-3   h9-7   
+37. H+-2   h-+6   38. H2-3   c8.6   39. H4+3   c6-1   
+40. H+-1   h6+4   41. H1-3   r3.2   42. H-+5   h4+5   
+43. H5+3   h5-3   44. H++4   a5+6   45. E5+7   r2+1   
+46. H3+2   a6-5   47. P1+1   r2+3   48. R9.4   c6+2   
+49. R4.9   e5-3   50. R9+3   e7+5   51. E7-5   r2-1   
+52. H2-3   r2.7   53. R9-3   }END
+
+
+FORMAT 	WXF
+GAME 	XU TianHong(L)HUANG HaiLin,171
+TIME       ;
+RESULT     0-1
+RED        XU TianHong ; GM ; China-Jiangsu
+BLACK      HUANG HaiLin ; CM  ; China-Guangdong
+DATE       2000/12/30
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  P3+1   p3+1   
+4.  R1.2   h8+7   5.  H8+9   e3+5   6.  C8.6   r9+1   
+7.  R9.8   r1.2   8.  R8+6   r9.2   9.  C6+4   c2.1   
+10. R8.7   r++4   11. R2+4   c1-1   12. C6.3   c1.3   
+13. R7.6   a6+5   14. P9+1   r+.1   15. C5.4   p3+1   
+16. P3+1   r1-1   17. P3.2   p3+1   18. E7+5   r2+4   
+19. R6+2   c6-1   20. R6-4   r2.8   21. R2+1   r1.8   
+22. H3+4   r8.3   23. C4.2   c6.9   24. H9+8   p1+1   
+25. H8+6   h3+4   26. R6+1   r3.4   27. H4+6   c9+5   
+28. P5+1   p3.4   29. A6+5   c9.7   30. C2+3   c3+3   
+31. H6-4   p1+1   32. C2+1   c7.5   33. C2-3   p4+1   
+34. C2-1   p4.5   35. E3+5   c3.7   36. K5.6   p9+1   
+37. C2.3   p9+1   38. H4+2   h7-9   39. H2-3   c7+3   
+40. C3-4   h9+8   41. C3.4   c5.6   42. E5-3   p9.8   
+43. C4.5   p8.7   44. H3-4   p7.6   45. C5+4   p6.5   
+46. H4+2   c6.4   47. H2+4   h8+6   48. C5-1   e7+9   
+49. H4-2   h6+7   50. H2+3   e9+7   51. H3+1   p1.2   
+52. H1+2   k5.6   53. H2-4   p2.3   54. A5+4   a5+6   
+55. A4+5   c4-5   56. K6.5   p3.4   57. C5.9   c4.9   
+58. K5.6   a4+5   59. C9-2   k6.5   60. C9.8   c9+8   
+61. K6+1   h7-6   62. E3+5   p5+1   63. E5+3   p5.6   
+64. K6-1   p4.5   65. C8.9   p5+1   66. H4-6   h6+4   
+67. K6.5   c9-6   68. H6+4   p5+1   69. C9.6   c9-2   
+70. H4-5   a5-4   71. H5+6   a6-5   72. H6-5   a5+6   
+73. H5+6   a4+5   74. K5.6   c9.7   75. E3-1   c7+2   
+76. H6-5   c7.5   77. E1-3   p6.5   78. C6.7   h4+3   
+79. K6+1   p-.4   80. C7+1   c5+1   81. E3+5   c5.4   
+82. A5+6   p4+1   83. K6.5   c4.5   84. K5.4   p4.5   
+85. A4-5   p5+1   86. K4+1   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG HaiLin(W)XU TianHong,62
+TIME       ;
+RESULT     1-0
+RED        HUANG HaiLin ; CM  ; China-Guangdong
+BLACK      XU TianHong ; GM ; China-Jiangsu
+DATE       2001/1/13
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   h7+6   6.  P7+1   e3+5   
+7.  C8.9   r1.2   8.  R9.8   p7+1   9.  R2.4   h6+8   
+10. H3-5   p7+1   11. R8+6   c8.9   12. R4-2   c9+4   
+13. R4.3   p7+1   14. H5+3   h8+7   15. R3-2   r8+5   
+16. C5.4   a4+5   17. E7+5   r8+1   18. R3+2   c2.1   
+19. R8.7   h3-4   20. R7.5   r2+7   21. C9-2   h4+2   
+22. R3+2   c1.3   23. R5.8   r2-4   24. R3.8   c3+5   
+25. C4.7   h2+4   26. R8-3   h4+5   27. A6+5   r8.6   
+28. R8+6   a5-4   29. C9+6   c9.5   30. C9+3   h5-6   
+31. C7.8   h6+7   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(D)LI XueSong,116
+TIME       ;
+RESULT     0.5-0.5
+RED        XU YinChuan ; GM   ; China-Guangdong
+BLACK      LI XueSong ; CM ; China-Hubei
+DATE       2001/1/20
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P3+1   p7+1   9.  R2.3   h7+6   
+10. R9.4   c2+1   11. R4.2   a4+5   12. R3.8   c2+3   
+13. C5.8   c8+2   14. E7+5   r1.4   15. P7+1   r8+3   
+16. P7+1   c8.3   17. R2+5   h6-8   18. H7+6   h8-6   
+19. A6+5   c3.8   20. C8.6   r4.3   21. R8.7   c8-2   
+22. C6.7   h6+5   23. R7-1   r3.4   24. P5+1   h5-7   
+25. C7+5   c8.3   26. H6+5   r4+3   27. H5-4   c3.1   
+28. H4+3   r4.7   29. H3+2   r7.2   30. P5+1   p1+1   
+31. H2+4   r2+6   32. A5-6   r2-5   33. R7.5   e5+7   
+34. H4+3   c1.5   35. P5.4   r2+2   36. R5+2   e7-9   
+37. A4+5   r2.1   38. H3-2   p9+1   39. R5.8   a5-4   
+40. P4+1   a6+5   41. P4.3   r1.6   42. R8.9   k5.6   
+43. R9.5   c5.6   44. P3.4   c6.5   45. P4.3   c5.6   
+46. A5+6   k6.5   47. A6+5   c6.5   48. P3+1   c5.4   
+49. R5.6   c4.3   50. R6.5   c3.4   51. R5+1   e9+7   
+52. P3+1   e7+5   53. R5.1   c4-1   54. R1+3   r6-6   
+55. R1-1   r6+2   56. H2-3   r6+4   57. H3-2   c4.2   
+58. H2+4   c2.1   }END
+
+
+FORMAT 	WXF
+GAME 	LI XueSong(D)XU YinChuan,90
+TIME       ;
+RESULT     0.5-0.5
+RED        LI XueSong ; CM ; China-Hubei
+BLACK      XU YinChuan ; GM   ; China-Guangdong
+DATE       2001/1/20
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  P3+1   p3+1   5.  H8+9   e7+5   6.  C8.7   r1.2   
+7.  R9.8   c2+4   8.  P7+1   p3+1   9.  P3+1   p7+1   
+10. R2+4   c2.3   11. R8.9   c6+4   12. H9+7   c6.3   
+13. R2.7   h3+4   14. C7.6   a6+5   15. R7.6   h4-3   
+16. R9+2   c3-2   17. R9.8   r2+7   18. C5.8   h7+6   
+19. R6.5   r9.6   20. E7+5   r6+3   21. C6+1   c3+3   
+22. C6-1   c3-3   23. C6+1   c3+2   24. C6+5   h3+4   
+25. R5.7   p5+1   26. C8+7   r6.2   27. R7+5   c3.4   
+28. R7-4   r2-3   29. R7.6   c4-5   30. R6+3   r2+4   
+31. R6-4   h6+7   32. R6.2   r2-1   33. R2+5   a5-6   
+34. R2-6   h7-6   35. R2.4   r2.6   36. R4+1   a6+5   
+37. H3+2   p7+1   38. E5+3   r6.8   39. R4+1   r8+2   
+40. R4.5   r8+1   41. P1+1   r8.9   42. R5+1   p1+1   
+43. R5-1   e5+3   44. E3+5   r9-1   45. R5.7   r9+1   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(W)LI XueSong,52
+TIME       ;
+RESULT     1-0
+RED        XU YinChuan ; GM   ; China-Guangdong
+BLACK      LI XueSong ; CM ; China-Hubei
+DATE       2001/1/20
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h2+3   2.  P7+1   p7+1   3.  H2+3   c8.6   
+4.  R1+1   h8+7   5.  H8+7   r9.8   6.  R1.4   a4+5   
+7.  C8.9   c2+2   8.  R4+5   h7+8   9.  R9.8   r1.2   
+10. C5+4   h3+5   11. R4.5   c2+4   12. H7+6   h8+7   
+13. R5.7   r8+8   14. A6+5   c2-1   15. E7+5   h7+9   
+16. C9-1   c2+1   17. H6-4   p7+1   18. H4+5   h9+7   
+19. K5.6   r8-6   20. A5+6   c2-2   21. A6-5   c2+2   
+22. A5+6   c2-2   23. A6-5   c2+2   24. E5+3   c6.4   
+25. R7+1   c2-7   26. H5+6   c2.4   }END
+
+
+FORMAT 	WXF
+GAME 	JIN Bo(D)LIU DianZhong,124
+TIME       ;
+RESULT     0.5-0.5
+RED        JIN Bo ; CM ; China-HuoCheTou
+BLACK      LIU DianZhong ; GM  ; China-Hebei
+DATE       2001/1/27
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  P7+1   h8+7   2.  H8+7   p7+1   3.  C8.9   h2+3   
+4.  R9.8   r1.2   5.  C2.6   r9+1   6.  H2+3   c2+2   
+7.  E3+5   r9.4   8.  A4+5   r4+5   9.  P9+1   r4.3   
+10. R8+2   c2.4   11. R8+7   h3-2   12. H7-8   r3+2   
+13. R1.2   h7+8   14. R2.4   e7+5   15. R4+5   c4-2   
+16. C9+4   r3.2   17. C9.5   a4+5   18. R4.3   h8-7   
+19. C5-2   r2+1   20. R3+1   r2-5   21. R3.7   r2.5   
+22. P3+1   h2+1   23. R7.2   h7+6   24. R2-1   r5.2   
+25. C5.4   h6+4   26. R2.8   h1+2   27. P5+1   c4+5   
+28. A5+6   h4-3   29. C4-1   h2+3   30. C4.6   h+-1   
+31. H3+2   c8.9   32. H2+1   c9+4   33. P3+1   e5+7   
+34. H1-3   c9.5   35. K5.4   e3+5   36. H3+2   h1+2   
+37. C6+2   h2-4   38. C6.1   a5+6   39. A6+5   c5.6   
+40. K4.5   h3+1   41. C1+4   k5+1   42. C1-6   c6-2   
+43. E7+9   h4-6   44. P5+1   c6.8   45. H2-4   c8+2   
+46. E9-7   h6+7   47. H4-3   h7-9   48. H3-1   h1+2   
+49. H1+2   c8.6   50. H2-4   k5-1   51. K5.4   a6+5   
+52. P5+1   e5-3   53. P5.6   e3+1   54. P6.7   c6.9   
+55. H4+3   c9-6   56. P+.6   h2+3   57. A5+4   h3-4   
+58. A6-5   c9+3   59. H3-2   c9.6   60. K4.5   k5.4   
+61. H2+4   h4+3   62. K5.4   c6.9   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DianZhong(W)JIN Bo,87
+TIME       ;
+RESULT     1-0
+RED        LIU DianZhong ; GM  ; China-Hebei
+BLACK      JIN Bo ; CM ; China-HuoCheTou
+DATE       2001/1/27
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   c8+4   
+4.  P3+1   c2.5   5.  H8+7   h2+3   6.  C8+4   r1+1   
+7.  H3+4   r1.4   8.  H4+5   h3+5   9.  C8.5   a6+5   
+10. C+.9   r4+5   11. R2+2   r4.3   12. R9.8   c8-2   
+13. P3+1   p7+1   14. R8+9   c5+5   15. R8.7   r3+1   
+16. C9+3   r3.2   17. R2.5   e7+5   18. R5.8   e5-3   
+19. R8+7   a5-6   20. C9.7   a4+5   21. C7.4   a5-4   
+22. C4.6   r8+3   23. C6-7   k5+1   24. C6.5   k5.4   
+25. R8-1   k4-1   26. R8-1   r8.4   27. R8.3   r4+6   
+28. K5+1   r4-5   29. P9+1   p3+1   30. E7+9   c8+3   
+31. P9+1   c8.7   32. R3.4   c7.1   33. P9.8   r4+4   
+34. K5-1   r4+1   35. K5+1   p3+1   36. P8.7   p3+1   
+37. P7+1   c1-1   38. P7+1   r4-1   39. K5-1   c1.5   
+40. C5.9   r4-2   41. R4+2   k4+1   42. P7+1   k4.5   
+43. C9+6   k5+1   44. R4.2   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG HaiLin(D)Lv Qin,82
+TIME       ;
+RESULT     0.5-0.5
+RED        HUANG HaiLin ; CM  ; China-Guangdong
+BLACK      Lv Qin ; GM;IGM ; China-Guangdong
+DATE       2001/2/3
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  C8.6   a4+5   6.  H8+7   c8.9   
+7.  R2.3   r1.2   8.  P5+1   c2.1   9.  P5+1   p5+1   
+10. H3+5   h7+5   11. A6+5   p5+1   12. C5+2   c9.5   
+13. C5+3   c1.5   14. C6.5   h5+4   15. P7+1   c5+5   
+16. E7+5   h3+5   17. H7+6   h5+4   18. R9.6   h4+6   
+19. R3.4   h6+7   20. R4-5   h7-8   21. H5+4   r8+2   
+22. H4+6   r2+1   23. R4.2   p7+1   24. P3+1   h8+6   
+25. R2.4   h6-8   26. H6-5   r2+5   27. H5+4   r8.6   
+28. R6+6   r2.1   29. R6.7   e3+1   30. R7.8   r1-2   
+31. R4+2   h8+7   32. R4-2   h7-8   33. A5-6   a5-4   
+34. R8-3   h8+7   35. R4.3   r6+1   36. P3+1   e7+5   
+37. P3+1   r6.5   38. R8.3   a4+5   39. A4+5   p9+1   
+40. P3+1   r5+1   41. R++3   r5.7   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DianZhong(L)LIU DaHua,95
+TIME       ;
+RESULT     0-1
+RED        LIU DianZhong ; GM  ; China-Hebei
+BLACK      LIU DaHua ; GM ; China-Hubei
+DATE       2001/2/10
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  C8.9   r1.2   9.  R9.8   c9.7   
+10. R3.4   h7+8   11. R4+2   c2-1   12. R4-3   e3+5   
+13. R8+7   h8+7   14. R4-2   c7+1   15. C9+4   r2.1   
+16. C9-2   c2.4   17. H7+6   r8+8   18. R8+1   c4+3   
+19. C5.9   r8.4   20. A4+5   r1.2   21. R8.7   r4-2   
+22. C++5   c4-4   23. C+.6   r2.4   24. H6+7   r-+3   
+25. P7+1   r+.3   26. H7+9   r3-2   27. R7.8   h3-4   
+28. R8.7   h4+3   29. E3+5   r4.2   30. P5+1   r2-1   
+31. P9+1   r3.6   32. R4+2   h7-6   33. R7.6   p7+1   
+34. P9+1   c7+2   35. H9-8   h3+2   36. P9.8   r2+2   
+37. R6-5   p7+1   38. H3-2   c7.8   39. R6.7   r2.1   
+40. H2+4   c8+2   41. R7+3   h6+4   42. R7.6   h4+2   
+43. H4+3   r1.7   44. C9+1   h2+3   45. R6-5   c8.1   
+46. H3+1   r7.3   47. H1+2   a5+4   48. K5.4   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DaHua(W)LIU DianZhong,75
+TIME       ;
+RESULT     1-0
+RED        LIU DaHua ; GM ; China-Hubei
+BLACK      LIU DianZhong ; GM  ; China-Hebei
+DATE       2001/2/10
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  H8+7   p3+1   2.  P3+1   h2+3   3.  H2+3   r1+1   
+4.  R9+1   r1.7   5.  H3+4   h8+9   6.  C2.5   r9.8   
+7.  C8+4   r7.4   8.  C8.7   e3+1   9.  R9.8   c8.5   
+10. R1+1   r4+6   11. R1.6   r4.3   12. H4+6   a6+5   
+13. H6+7   r8+6   14. A6+5   c5+4   15. R8+6   r3+2   
+16. R6-1   r3-1   17. R8+2   k5.6   18. R6+9   a5-4   
+19. R8.6   k6+1   20. H7-5   k6+1   21. R6.4   k6.5   
+22. H5-4   c5.6   23. C7.5   c6.5   24. H4+6   k5-1   
+25. H6+7   k5+1   26. C+.8   c5.4   27. C8+1   c4-4   
+28. R4.5   k5.6   29. C8.6   r8.4   30. R5.4   k6.5   
+31. H7+6   k5-1   32. R4-1   k5-1   33. H6-5   r4.5   
+34. C6-7   r5-3   35. H5+7   k5.4   36. R4+1   k4+1   
+37. H7-6   r3.4   38. H6+8   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(W)ZONG YongSheng,55
+TIME       ;
+RESULT     1-0
+RED        XU YinChuan ; GM   ; China-Guangdong
+BLACK      ZONG YongSheng ; CM  ; China-Guangdong
+DATE       2001/2/10
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  P7+1   h8+7   2.  P3+1   c2.3   3.  H2+3   p3+1   
+4.  E7+5   p3+1   5.  E5+7   h2+1   6.  C8+5   e3+5   
+7.  H8+9   r9+1   8.  R9.8   r9.6   9.  R1+1   r6+5   
+10. R8+2   p1+1   11. R1.6   r6-2   12. R6.8   p7+1   
+13. P3+1   r6.7   14. C2-1   c8+4   15. H3+4   c8.1   
+16. E7-5   p1+1   17. R+.6   c1.9   18. H4+6   c3-1   
+19. H9+7   c9.3   20. H6-7   r1.2   21. R6+6   c3+2   
+22. R8+5   a6+5   23. H7+9   r7.1   24. H9-8   h7+8   
+25. C2.8   r1.6   26. R8.7   h8+6   27. R7-2   h6+8   
+28. A6+5   }END
+
+
+FORMAT 	WXF
+GAME 	ZONG YongSheng(L)XU YinChuan,62
+TIME       ;
+RESULT     0-1
+RED        ZONG YongSheng ; CM  ; China-Guangdong
+BLACK      XU YinChuan ; GM   ; China-Guangdong
+DATE       2001/2/17
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1+1   r9+1   
+4.  P7+1   r9.4   5.  C8.7   r4+3   6.  R9+1   e3+5   
+7.  C7+4   a4+5   8.  R1.6   r1.4   9.  R6+4   r4+4   
+10. H8+7   c2-2   11. R9.8   p7+1   12. P5+1   h8+7   
+13. R8+5   c2.4   14. H3+5   r4+2   15. P5+1   p5+1   
+16. C7.3   c6+3   17. P7+1   c6.5   18. P7+1   c4.3   
+19. A6+5   h3-4   20. P7.6   c5+2   21. E7+5   p5+1   
+22. H5-3   r4.3   23. H7-6   h4+3   24. R8-2   r3.6   
+25. P6.7   h3+5   26. P7.6   h5+6   27. C3.9   r6.1   
+28. C9-2   h6+7   29. C9.5   h-+6   30. P6+1   r1.4   
+31. P6.7   r4-1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO GuoRong(W)HU RongHua,59
+TIME       ;
+RESULT     1-0
+RED        ZHAO GuoRong ; GM   ; China-HeilongJiang
+BLACK      HU RongHua ; GM ; China-Shanghai
+DATE       2001/2/24
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  H8+9   e7+5   5.  C8.7   r1.2   6.  R9.8   c2+4   
+7.  P3+1   p3+1   8.  P7+1   p3+1   9.  P3+1   p7+1   
+10. R2+4   c2.3   11. R8+9   c3+3   12. A6+5   h3-2   
+13. C5+4   a6+5   14. R2.4   h2+3   15. C5-1   p3+1   
+16. R4+3   p3+1   17. R4.3   p3.2   18. H9-8   p2+1   
+19. R3-1   h3+2   20. R3.8   h2+1   21. R8-3   p7+1   
+22. P5+1   p2+1   23. R8.9   r9.7   24. R9+3   c3-5   
+25. E3+5   p9+1   26. R9.7   c3.1   27. H3+5   p7.6   
+28. H5+7   c1+5   29. A5-6   p6.5   30. H7+8   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO GuoRong(W)HU RongHua,89
+TIME       ;
+RESULT     1-0
+RED        ZHAO GuoRong ; GM   ; China-HeilongJiang
+BLACK      HU RongHua ; GM ; China-Shanghai
+DATE       2001/2/24
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+4   
+7.  R2+4   e7+5   8.  P9+1   h7+6   9.  H9+8   p7+1   
+10. R2.3   c2.5   11. A6+5   c5-2   12. R3.4   c8.7   
+13. R4+1   r8+5   14. H8-9   r2+9   15. H9-8   a4+5   
+16. P3+1   r8.7   17. H3-1   p3+1   18. R4-2   r7.1   
+19. H8+9   r1.4   20. R4.5   c5.7   21. C5.2   e5-7   
+22. E7+5   e3+5   23. H1+2   c+.5   24. C7.6   p1+1   
+25. H9-7   r4.2   26. H7+6   c5.6   27. R5.4   c6.5   
+28. H2-4   p1+1   29. H6+5   p5+1   30. R4+3   r2.8   
+31. C2.1   p5+1   32. R4.3   c7.8   33. H4+3   p5.6   
+34. H3+2   r8+1   35. P1+1   p1.2   36. C1+4   p2+1   
+37. C1+3   p2.3   38. E5-7   p6+1   39. C6.5   r8.7   
+40. R3.4   k5.4   41. R4.6   a5+4   42. H2-4   r7+3   
+43. H4+5   k4+1   44. H5+4   k4.5   45. R6+1   }END
+
+
+FORMAT 	WXF
+GAME 	Lv Qin(W)LIU DaHua,57
+TIME       ;
+RESULT     1-0
+RED        Lv Qin ; GM;IGM ; China-Guangdong
+BLACK      LIU DaHua ; GM ; China-Hubei
+DATE       2001/3/3
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  R1.2   r9.8   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P3+1   p7+1   9.  R2.3   h7+6   
+10. P5+1   h6+4   11. P5+1   h4+5   12. C8.5   p5+1   
+13. R9.2   a4+5   14. R2+5   c2-2   15. H3+5   r1.4   
+16. P7+1   c2.3   17. P7+1   c3+3   18. H7+8   r8+1   
+19. H8+7   r4+6   20. H5-3   r4.3   21. E7+9   c3.2   
+22. R3.8   r8.7   23. H7-5   r7+1   24. H3+4   c2.3   
+25. H5+6   k5.4   26. H4+5   c3.5   27. C5.6   h3+4   
+28. R8+5   k4+1   29. H6-5   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DaHua(D)Lv Qin,106
+TIME       ;
+RESULT     0.5-0.5
+RED        LIU DaHua ; GM ; China-Hubei
+BLACK      Lv Qin ; GM;IGM ; China-Guangdong
+DATE       2001/3/3
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C8.5   h2+3   2.  H8+7   r1.2   3.  R9.8   p3+1   
+4.  R8+6   h8+7   5.  C2.4   r9.8   6.  H2+3   c8.9   
+7.  P5+1   c2.1   8.  R8.7   a6+5   9.  C4-1   c1-1   
+10. P5+1   c1.3   11. R7.6   e3+5   12. H7+5   p5+1   
+13. R6.3   h7-6   14. H5+3   p5+1   15. H++4   r2+5   
+16. C4.5   r2.4   17. H4-5   c3.4   18. R3.6   r4-2   
+19. H5+6   h6+7   20. P3+1   r8+3   21. H6-5   h7+6   
+22. P3+1   h6+4   23. P3.4   h3+2   24. C+.8   c4.3   
+25. R1.2   r8+6   26. H3-2   p3+1   27. C5.7   c9+4   
+28. C7+3   a5+6   29. C8+2   c3.5   30. C8.6   h2+4   
+31. E3+5   c9.1   32. H5+6   c5.6   33. P4.5   h4+6   
+34. H6+4   a4+5   35. H4-2   h6-5   36. C7.5   k5.4   
+37. H-+3   c6+2   38. A4+5   p1+1   39. H3+4   c6.3   
+40. H2+3   p1+1   41. H4+5   p1.2   42. H5+7   k4+1   
+43. C5.2   c1-2   44. C2+5   c1.3   45. H7+8   k4+1   
+46. H3-4   c-.5   47. K5.4   h5+6   48. C2-8   c3.6   
+49. A5+4   h6+4   50. C2.4   c6+4   51. K4+1   h4+2   
+52. H8-9   k4-1   53. H9-7   k4-1   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(D)ZHAO GuoRong,60
+TIME       ;
+RESULT     0.5-0.5
+RED        XU YinChuan ; GM   ; China-Guangdong
+BLACK      ZHAO GuoRong ; GM   ; China-HeilongJiang
+DATE       2001/3/10
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  E3+5   e7+5   2.  P3+1   p3+1   3.  H2+3   h2+3   
+4.  H8+9   r1+1   5.  R9+1   r1.6   6.  R1+1   h8+7   
+7.  R9.4   r9+1   8.  C2-2   c8-2   9.  C2.3   c8.7   
+10. R4+7   r9.6   11. R1.6   p7+1   12. P3+1   c7+4   
+13. C3+5   e5+7   14. P9+1   e7-5   15. R6+5   r6+5   
+16. C8.6   r6.7   17. H9+8   h7+6   18. R6.7   h3-5   
+19. R7.5   h5+7   20. R5-2   c2-1   21. H8+6   h7+8   
+22. R5.3   r7-1   23. E5+3   c2.1   24. C6.9   c1+4   
+25. C9+4   c1-1   26. H6+7   a6+5   27. A4+5   c1+2   
+28. H7-6   c1-2   29. H6-4   c1+2   30. P5+1   c1-2   }END
+
+
+FORMAT 	WXF
+GAME 	ZHAO GuoRong(L)XU YinChuan,154
+TIME       ;
+RESULT     0-1
+RED        ZHAO GuoRong ; GM   ; China-HeilongJiang
+BLACK      XU YinChuan ; GM   ; China-Guangdong
+DATE       2001/3/10
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   r9+1   
+4.  H8+7   r9.4   5.  P3+1   h2+3   6.  P7+1   r1+1   
+7.  A6+5   r4+5   8.  E7+9   r4.3   9.  R9.7   r1.6   
+10. H7-6   r3+3   11. E9-7   r6+3   12. R2+8   c5-1   
+13. C5.7   e3+1   14. E7+5   p7+1   15. R2-4   p7+1   
+16. R2.3   c5.7   17. R3.6   p3+1   18. R6+2   h7-5   
+19. R6.9   p3+1   20. R9+1   c7+1   21. R9-3   p3.2   
+22. R9.8   h3+2   23. H3+2   r6.4   24. R8.5   p5+1   
+25. R5.4   c2+5   26. H2+4   c7+2   27. R4.3   r4+4   
+28. C7-2   h2+4   29. R3+1   c2+2   30. R3-1   h4-6   
+31. R3.8   c2.1   32. R8-4   c1-1   33. R8+5   h5+4   
+34. R8.5   a4+5   35. C7.9   c1.3   36. R5.7   c3.1   
+37. R7-2   h6+4   38. A5+4   c1-1   39. A4+5   c1.2   
+40. C9.8   c2-5   41. R7+4   c2+4   42. R7-4   c2-4   
+43. R7+4   c2+4   44. R7-4   c2-5   45. P9+1   e7+5   
+46. P9+1   a5+6   47. E5+3   c2.9   48. E3+5   h+-6   
+49. R7.8   a6+5   50. P9+1   h6+4   51. R8.7   h-+2   
+52. C8+4   c9+5   53. P5+1   c9-1   54. R7.1   p9+1   
+55. P5+1   r4.1   56. R1.2   r1-5   57. R2+6   a5-6   
+58. R2-5   c9+1   59. R2-1   p9+1   60. H6+8   a6+5   
+61. H8+6   r1+2   62. C8-4   r1+1   63. R2+6   a5-6   
+64. H6+7   r1.3   65. H7+8   a6-5   66. H8-6   c9.6   
+67. C8.6   e5-3   68. E3-1   r3-2   69. C6+3   r3+2   
+70. C6-3   r3-2   71. C6+3   h2+3   72. R2-3   h3-4   
+73. P5.6   r3+2   74. C6-1   h4+5   75. A5-6   c6.5   
+76. A4-5   c5-1   77. R2.4   r3.4   }END
+
+
+FORMAT 	WXF
+GAME 	XU YinChuan(W)Lv Qin,59
+TIME       ;
+RESULT     1-0
+RED        XU YinChuan ; GM   ; China-Guangdong
+BLACK      Lv Qin ; GM;IGM ; China-Guangdong
+DATE       2001/3/10
+PLACE      
+EVENT      ÄêÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  P7+1   h8+7   2.  P3+1   c2.3   3.  E3+5   h2+1   
+4.  C8+5   e3+5   5.  H8+7   c8.9   6.  H2+1   r9.8   
+7.  R1.2   r8+4   8.  R9.8   p1+1   9.  C2.3   r8.2   
+10. R8+5   h1+2   11. C3+4   r1.2   12. C3+3   e5-7   
+13. C8.3   h2+3   14. C3.4   p3+1   15. C4-4   p3+1   
+16. R2+7   c3+1   17. C4.3   p3.4   18. C3+6   a6+5   
+19. R2.1   c3+4   20. H1+3   r2+4   21. R1+2   r2.6   
+22. H3+1   c3.2   23. C3.2   r6.8   24. H1+3   r8-3   
+25. C2.6   a5-6   26. C6.4   r8.6   27. C4.2   k5+1   
+28. R1-3   h3+4   29. R1.5   k5.4   30. K5+1   }END
+
+
+FORMAT 	WXF
+GAME 	YAN WenQing(D)SUN YongZheng,52
+TIME       ;
+RESULT     0.5-0.5
+RED        YAN WenQing ; CM ; China-Hebei
+BLACK      SUN YongZheng ; CM ; China-Shanghai
+DATE       2000/8/26
+PLACE      
+EVENT      ÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  P7+1   c2.3   2.  C8.5   c8.5   3.  H2+3   p3+1   
+4.  C2+6   p3+1   5.  H8+9   c3+2   6.  P3+1   h2+3   
+7.  R1.2   r9+1   8.  A6+5   p3.4   9.  R9.8   r1+1   
+10. C2-1   h3+4   11. C5+4   a6+5   12. H9+7   r1.4   
+13. R8+5   c3+1   14. R2+5   h8+7   15. R2.6   r4+3   
+16. R8.6   h7+5   17. E3+5   r9.8   18. C2-3   p7+1   
+19. R6+1   p7+1   20. R6.5   p7+1   21. C2+2   p4+1   
+22. H7+9   p1+1   23. H9+7   e3+1   24. H7+8   p7+1   
+25. H8-6   c3-3   26. P5+1   c3.4   }END
+
+
+FORMAT 	WXF
+GAME 	LIU DaHua(L)LI LaiQun,98
+TIME       ;
+RESULT     0-1
+RED        LIU DaHua ; GM ; China-Hubei
+BLACK      LI LaiQun ; GM ; China-Hebei
+DATE       14-10-2000
+PLACE      
+EVENT      ÏèÁú±­ÏóÆåÈü ; 2000
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  P7+1   c8.9   
+4.  H8+7   p7+1   5.  H7+6   e3+5   6.  R1+1   h2+4   
+7.  C8+2   r1.3   8.  C5.6   p3+1   9.  P7+1   r3+4   
+10. E7+5   h7+6   11. H6+4   r3.6   12. R9.7   r6.2   
+13. C8.6   h4+6   14. R1.4   r8+3   15. R7+6   p1+1   
+16. A4+5   a6+5   17. C++4   c2-1   18. C+.7   r2.4   
+19. C6.7   e5-3   20. R4+3   c2+8   21. E5-7   r4.2   
+22. C+.6   e3+1   23. C6.9   e7+5   24. P9+1   p1+1   
+25. R4.9   h6+5   26. R7-3   h5+6   27. C7.4   r8+5   
+28. P5+1   r2+4   29. R7.5   r8.7   30. R9-3   r2.1   
+31. C9-7   r7+1   32. H3-4   c9+4   33. R5-1   c9+3   
+34. R5.8   c2.1   35. R8-2   r7-3   36. H4+5   r7+3   
+37. C4-2   h6-8   38. C9+1   c1-1   39. R8+1   c1+1   
+40. R8+5   r7-2   41. C4+2   h8+9   42. C4.1   r7.5   
+43. R8-6   r5.9   44. R8.9   r9.8   45. C9.5   r8+2   
+46. A5-4   e1-3   47. R9+6   p9+1   48. R9.5   p7+1   
+49. P5+1   p7+1   }END
+

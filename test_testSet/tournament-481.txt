@@ -1,0 +1,628 @@
+
+
+FORMAT 	WXF
+GAME 	TANG Dan(L)SO XiaoRui,198
+TIME       ;
+RESULT     0-1
+RED        TANG Dan ; GM ; China-Beijing
+BLACK      SO XiaoRui ; CM ; China-Nantong
+DATE       21-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   p7+1   3.  R1.2   r9.8   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P7+1   c8+2   9.  R9.6   a4+5   
+10. R6+7   r1.3   11. H3-5   p3+1   12. R2.7   c8+3   
+13. C8.9   c2+1   14. C9-1   c2.3   15. H7+8   c8-6   
+16. R6-5   c8.6   17. C5.7   c3+3   18. H5+7   c6+1   
+19. R7.4   r8+6   20. R4+2   r8.7   21. R4.3   h7-8   
+22. E7+5   r7.9   23. A6+5   p9+1   24. C9.7   r3.2   
+25. C7.8   r2.3   26. C8.7   r3.2   27. C7.8   r2.3   
+28. H8+7   h8+9   29. R3.1   h9-7   30. R6-3   r3.4   
+31. R6+9   k5.4   32. H+-6   r9.8   33. C8+5   k4.5   
+34. C8.7   r8-2   35. H6+5   h3+5   36. R1.5   p1+1   
+37. C7.9   p7+1   38. R5.8   r8.3   39. R8+3   a5-4   
+40. H7+8   e5-3   41. C9+3   e7+5   42. R8-3   p7.6   
+43. R8.3   r3.2   44. H8-7   r2.7   45. R3.6   a6+5   
+46. H7+6   r7.3   47. H6+7   c6+1   48. H7+6   r3-3   
+49. R6-1   p9+1   50. H6-5   p6+1   51. P5+1   r3+2   
+52. P5+1   p6.5   53. R6.9   c6+5   54. R9-1   p5+1   
+55. R9.4   r3+6   56. A5-6   c6.2   57. E3+5   r3-2   
+58. A6+5   r3.5   59. R4.1   r5-3   60. R1.8   c2.3   
+61. R8.7   c3.2   62. H5+7   h7+6   63. R7.8   c2.3   
+64. R8+2   h6+7   65. R8.6   r5.3   66. R6-2   h7-6   
+67. H7-5   r3.5   68. H5+7   c3-2   69. K5.6   h6-4   
+70. H7+6   r5.1   71. C9.8   c3-5   72. H6-7   e3+1   
+73. K6.5   r1.3   74. H7-9   r3+5   75. R6-4   r3-6   
+76. C8.9   e1+3   77. H9-8   r3.2   78. R6+4   h4+5   
+79. R6.5   h5-6   80. H8-6   a5+4   81. R5.8   c3.7   
+82. A5+4   r2.5   83. A4+5   h6+7   84. H6+4   r5.8   
+85. R8+5   k5+1   86. R8-6   c7.6   87. K5.6   r8.6   
+88. H4+2   r6.4   89. K6.5   r4.8   90. C9-1   c6+1   
+91. C9-3   r8+1   92. C9.3   r8.7   93. R8.4   c6.9   
+94. R4.1   c9.6   95. A5-4   r7.5   96. A4-5   c6.7   
+97. R1.3   c7+2   98. P9+1   r5+2   99. R3-1   r5.1   }END
+
+
+FORMAT 	WXF
+GAME 	LIN WenXian(W)JIN YuYan,65
+TIME       ;
+RESULT     1-0
+RED        LIN WenXian ; NT ; China-Macau
+BLACK      JIN YuYan ; CM  ; China-Jidian
+DATE       25-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  P7+1   c2.3   2.  C8.5   c8.5   3.  H2+3   h8+7   
+4.  R1.2   p3+1   5.  H8+9   p3+1   6.  R9.8   h2+1   
+7.  C2+4   p7+1   8.  R2+4   r9.8   9.  R2.7   c3+7   
+10. R8.7   r8+3   11. P3+1   r8+1   12. P9+1   r1.2   
+13. A6+5   r8+2   14. H3+4   r8.7   15. H4+6   r7+3   
+16. R++5   r7-4   17. R+.8   h1-2   18. R7+9   c5-1   
+19. R7.8   c5.8   20. A5+4   c8+8   21. A4+5   r7+4   
+22. A5-4   p7+1   23. C5.7   p7.6   24. C7+7   a4+5   
+25. H6+8   c8-8   26. H9+8   p5+1   27. C7-1   a5-4   
+28. H++6   c8.4   29. H8+7   h7+5   30. H7+6   h5-4   
+31. H6+4   h4+6   32. H4+6   k5+1   33. C7.9   }END
+
+
+FORMAT 	WXF
+GAME 	CAI Yi(L)WANG Bin,100
+TIME       ;
+RESULT     0-1
+RED        CAI Yi ; NT  ; China-HuoCheTou
+BLACK      WANG Bin ; GM ; China-Jiangsu
+DATE       26-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  P7+1   c2.3   2.  C2.5   e3+5   3.  A6+5   a4+5   
+4.  H2+3   h8+7   5.  R1.2   r9.8   6.  R2+4   c8.9   
+7.  R2.6   r8+4   8.  H8+7   h2+1   9.  H7+8   p1+1   
+10. C5.6   h1+2   11. R6.4   c3.2   12. P7+1   p3+1   
+13. C8+3   p3+1   14. R4.7   r8.2   15. C6.8   r2.3   
+16. R7+1   e5+3   17. C8.9   p7+1   18. E7+5   c2.1   
+19. R9.7   e7+5   20. H8+6   r1.2   21. H6+4   a5+6   
+22. P3+1   p7+1   23. H4-3   h7+6   24. R7+4   c9.7   
+25. R7.4   r2+7   26. C9+3   h6-4   27. H-+2   c7-1   
+28. C9+1   h4+2   29. H3+2   c7.4   30. R4.6   k5.4   
+31. R6+3   r2+2   32. A5-6   c1+4   33. C9.6   a6+5   
+34. R6.5   c4+8   35. E5-7   r2.3   36. R5.6   k4.5   
+37. R6.8   c1.2   38. H++3   k5.6   39. C6.1   c4-6   
+40. K5+1   c2-4   41. C1-1   r3.6   42. C1.4   r6-5   
+43. H2+4   c4-2   44. H3-2   h2+1   45. H4-6   c2.5   
+46. H2-4   p5+1   47. E3+5   a5+4   48. H6+7   h1+3   
+49. K5-1   c4.5   50. H7+5   e3-5   }END
+
+
+FORMAT 	WXF
+GAME 	NIU BaoMing(D)LIU Qiang,25
+TIME       ;
+RESULT     0.5-0.5
+RED        NIU BaoMing ; NT ; China-Shanyi
+BLACK      LIU Qiang ; NT ; China-Xian
+DATE       21-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  H8+7   p3+1   6.  R9.8   c2+4   
+7.  H7-9   c6+5   8.  C6.4   c2.5   9.  A4+5   r2+9   
+10. H9+7   r2-7   11. H7+5   r9.8   12. H5+4   h3-5   
+13. H4+2   }END
+
+
+FORMAT 	WXF
+GAME 	NIU BaoMing(L)FANG XiaoLin,80
+TIME       ;
+RESULT     0-1
+RED        NIU BaoMing ; NT ; China-Shanyi
+BLACK      FANG XiaoLin ; NT ; China-Shandong
+DATE       24-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  R1.2   h8+7   
+4.  C8.6   r1.2   5.  H8+7   c2.1   6.  P7+1   r2+6   
+7.  R9+2   e7+5   8.  A4+5   p7+1   9.  R2+6   a6+5   
+10. R2.3   r9.7   11. H7+6   r2.4   12. H6+5   h3+5   
+13. C5+4   c1+4   14. E3+5   c6+6   15. C5.9   c1.5   
+16. H3+5   r4.5   17. C6+6   r5.7   18. C9+3   c6-2   
+19. A5-4   c6.9   20. R3.2   r-.8   21. R2+3   h7-8   
+22. R9.8   h8+7   23. R8+7   a5+4   24. R8.7   r7.1   
+25. R7.8   h7+8   26. C6.7   h8+7   27. A4+5   k5+1   
+28. R8.6   h7+9   29. R6.4   h9+7   30. R4-8   h7-8   
+31. C9.8   r1.6   32. R4+2   c9.6   33. C8-5   k5.6   
+34. A5-4   h8+7   35. K5+1   c6.8   36. K5.6   h7-5   
+37. C7.9   h5+6   38. K6.5   h6-7   39. K5-1   c8.5   
+40. C9-2   c5-2   }END
+
+
+FORMAT 	WXF
+GAME 	LI DeZhi(D)HAO JiChao,108
+TIME       ;
+RESULT     0.5-0.5
+RED        LI DeZhi ; CM ; China-Guangzhou
+BLACK      HAO JiChao ; NT  ; China-HeilongJiang
+DATE       25-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
+4.  H8+9   p7+1   5.  C8.7   r1.2   6.  R9.8   c2+4   
+7.  R2+4   c8.9   8.  R2.4   r8+1   9.  P9+1   r8.2   
+10. R8+1   c2.5   11. R8.5   c5-2   12. H3+5   r++3   
+13. R5.2   c5+3   14. E3+5   p5+1   15. R2+6   h7+5   
+16. C7+4   p9+1   17. H5+7   r+.4   18. R4+1   e3+5   
+19. R4.5   r4.5   20. H7+5   r2+4   21. H5+3   c9+4   
+22. R2-3   r2.6   23. H3-1   r6+2   24. A4+5   r6.7   
+25. H1+2   c9+3   26. H2-4   a6+5   27. H9+8   r7.3   
+28. R2.1   c9.8   29. R1-4   r3.8   30. H8+6   r8-5   
+31. H4+3   r8.7   32. R1.2   a5-6   33. R2+6   r7.4   
+34. H6+4   h5+6   35. C7-4   h3+5   36. C7+7   a4+5   
+37. H4+3   k5.4   38. R2.4   r4+4   39. C7-7   r4.1   
+40. C7.6   r1-1   41. R4.1   r1+2   42. R1.4   r1-2   
+43. E7+9   r1.2   44. H3-2   p1+1   45. E9+7   p1+1   
+46. A5+4   p1.2   47. A6+5   p7+1   48. C6-1   p2.3   
+49. E5+7   r2.7   50. E7-5   p7+1   51. A5+6   k4.5   
+52. C6.5   p7.6   53. C5+5   h6-5   54. R4.5   p6+1   }END
+
+
+FORMAT 	WXF
+GAME 	ZHU Xiaohu(W)YU Bing,47
+TIME       ;
+RESULT     1-0
+RED        ZHU Xiaohu ; NT  ; China-Jiangsu
+BLACK      YU Bing ; CM ; China-Yaudian
+DATE       26-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  P7+1   c2+4   5.  H8+7   h2+3   6.  H7+8   c2.7   
+7.  R9+1   r9.8   8.  R2+9   c7+3   9.  A4+5   h7-8   
+10. R9.6   a4+5   11. R6+3   h8+7   12. R6.2   c5.6   
+13. R2-4   c7-1   14. R2+1   c7+1   15. C8-1   h7+6   
+16. R2-1   c6.7   17. R2.3   h6+5   18. H3+5   c7+7   
+19. H5+6   h3-1   20. H8+7   e3+5   21. H7+9   r1.4   
+22. H6+8   r4+8   23. C5.6   e5-3   24. H8+6   }END
+
+
+FORMAT 	WXF
+GAME 	LI Lin(L)SUN HaoYu,68
+TIME       ;
+RESULT     0-1
+RED        LI Lin ; NT ; China-Nongxie
+BLACK      SUN HaoYu ; NT ; China-Hunan
+DATE       25-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  C2.5   c8.5   2.  H2+3   r9+1   3.  R1.2   h8+7   
+4.  P3+1   r9.4   5.  H8+7   h2+3   6.  P7+1   r4+7   
+7.  C8+2   r1+1   8.  H3+4   p3+1   9.  P7+1   r1.6   
+10. H4+3   r6+3   11. P7+1   h3-5   12. C8.5   r6.3   
+13. R9.8   c2.4   14. R8+8   r3+3   15. R8.6   c5.6   
+16. R2+8   r3+2   17. A4+5   r3-6   18. R2.4   c4.2   
+19. R6.8   r3-1   20. C-.3   c2+6   21. C3-1   c2.3   
+22. R8-8   r4-6   23. C3.7   r3+6   24. R8+5   c6.5   
+25. C5+3   e3+5   26. R8.4   e5-3   27. R+.3   h5+3   
+28. R3+1   h3+4   29. R4+3   h4+5   30. H3+1   a4+5   
+31. P3+1   h5+3   32. E3+5   r3.4   33. K5.4   h3+5   
+34. K4+1   r++1   }END
+
+
+FORMAT 	WXF
+GAME 	WANG GuoMin(W)LIANG Jun,109
+TIME       ;
+RESULT     1-0
+RED        WANG GuoMin ; FM ; China-Shanghai
+BLACK      LIANG Jun ; CM ; China-Gansu
+DATE       26-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  E3+5   c2.4   2.  R9+1   h2+3   3.  R9.6   h8+7   
+4.  H8+9   a6+5   5.  R6+3   c8.9   6.  C2.4   r9.8   
+7.  H2+3   e7+5   8.  P3+1   p3+1   9.  P9+1   p1+1   
+10. P9+1   r1+4   11. C4-1   r8+8   12. R1+1   r8.9   
+13. H3-1   p3+1   14. R6.7   h3+4   15. H1+3   r1.2   
+16. C8.7   r2+3   17. C7-1   e3+1   18. C4.3   c9.8   
+19. A4+5   r2-3   20. R7.9   e1-3   21. R9.5   c8+5   
+22. R5.9   r2+3   23. H3+2   h4+3   24. R9.8   h3-4   
+25. R8.7   r2-1   26. R7+1   h4+5   27. H2+3   c8.1   
+28. E7+9   h5+7   29. P1+1   r2.8   30. R7.6   r8-3   
+31. C7+5   h++9   32. R6-2   r8+6   33. A5-4   r8-3   
+34. C3+2   h7-8   35. A6+5   h8+9   36. H3-4   p5+1   
+37. P3+1   r8-1   38. C3+1   p5+1   39. H4+5   r8+1   
+40. C3-1   h+-7   41. A5+4   r8+3   42. C7-6   e5-7   
+43. H5+3   h9-7   44. R6+3   h-+5   45. R6.5   r8-3   
+46. H3-4   e3+1   47. C7.9   e1-3   48. C9.7   e3+1   
+49. C7+3   r8+3   50. A4-5   c4+4   51. C7-1   c4.5   
+52. H4-5   h7-5   53. C7.8   r8-4   54. C8+7   e1-3   
+55. R5-1   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN HanFeng(D)LIU ZongZe,42
+TIME       ;
+RESULT     0.5-0.5
+RED        CHEN HanFeng ; CM ; China-Hangzhou
+BLACK      LIU ZongZe ; NT ; China-Jilin
+DATE       27-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
+7.  R2-2   e3+5   8.  P3+1   c2+1   9.  P7+1   c8+2   
+10. R9.6   a4+5   11. C8-1   p7+1   12. R2.3   p3+1   
+13. R3.7   c2.3   14. H3+2   r1.3   15. C8+6   c3+3   
+16. R7-2   c8.3   17. H2+3   r8+4   18. P5+1   r8.4   
+19. R6+4   h3+4   20. R7.6   r3+2   21. R6+3   r3.2   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN HanFeng(W)ZHANG XueChao,73
+TIME       ;
+RESULT     1-0
+RED        CHEN HanFeng ; CM ; China-Hangzhou
+BLACK      ZHANG XueChao ; NT  ; China-Xiamen
+DATE       25-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   c8.6   3.  P3+1   h8+7   
+4.  R1.2   p3+1   5.  H8+9   e7+5   6.  C8.7   r1.2   
+7.  R9.8   c2+4   8.  P7+1   p3+1   9.  P3+1   p7+1   
+10. R2+4   p3.2   11. P9+1   c6+4   12. R2.8   r2+5   
+13. H9+8   c6.7   14. H8+7   e5+3   15. A4+5   r9+1   
+16. P5+1   r9.2   17. P5+1   c2.3   18. P5+1   a4+5   
+19. P5.6   e3+5   20. R8.9   c3-3   21. P6.7   h3+5   
+22. R9+3   p7+1   23. C5+3   r2+4   24. P7.6   h5+7   
+25. R9.7   h++5   26. R7.6   r2-2   27. C7.5   h7+8   
+28. R6+1   h8-6   29. P6+1   r2-1   30. P6.5   e3-5   
+31. R6+2   h6-8   32. H3+5   p7.6   33. H5+7   h8+7   
+34. R6.9   c7.4   35. H7+6   r2.4   36. R9+3   r4-2   
+37. C-.2   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN HanFeng(W)SUN HaoYu,113
+TIME       ;
+RESULT     1-0
+RED        CHEN HanFeng ; CM ; China-Hangzhou
+BLACK      SUN HaoYu ; NT ; China-Hunan
+DATE       26-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  C2.6   c8.5   2.  H2+3   h8+7   3.  A4+5   r9.8   
+4.  E3+5   r8+4   5.  R1.4   c5.4   6.  H8+9   p1+1   
+7.  R4+6   c4+1   8.  R4-2   h2+1   9.  R9+1   a4+5   
+10. C6.7   c2.4   11. P9+1   h1+2   12. P9+1   r1+4   
+13. P7+1   h2+3   14. C8+5   e3+5   15. C8.7   h3+1   
+16. R9+1   r1+3   17. E7+9   p3+1   18. C-+3   c++5   
+19. C-+1   r8.1   20. C-.3   r1+3   21. P7+1   r1.5   
+22. R4.8   h7-8   23. P3+1   e5+3   24. R8+5   c--2   
+25. R8-8   a5+4   26. C7+2   c-+1   27. P3+1   h8+9   
+28. H3+4   r5-1   29. C7.9   c+-4   30. R8+8   k5+1   
+31. C9-1   c--1   32. R8-1   k5-1   33. C9+1   c-+1   
+34. R8+1   k5+1   35. C3.2   c+.5   36. H4+5   h9-8   
+37. H5+6   k5.4   38. R8-1   k4-1   39. R8+1   k4+1   
+40. R8-1   k4-1   41. K5.4   r5.6   42. A5+4   c5-1   
+43. R8+1   k4+1   44. R8-1   k4-1   45. R8+1   k4+1   
+46. R8-1   k4-1   47. C2+2   c5.6   48. R8+1   k4+1   
+49. R8-1   k4-1   50. K4.5   r6.5   51. A4-5   c6.5   
+52. K5.4   r5.6   53. A5+4   r6+1   54. K4.5   r6.1   
+55. C9.4   r1.5   56. K5.4   r5.6   57. K4.5   }END
+
+
+FORMAT 	WXF
+GAME 	HUANG ZhuFeng(W)ÕÅÔØÈÙ,146
+TIME       ;
+RESULT     1-0
+RED        HUANG ZhuFeng ; NT ; China-Hangzhou
+BLACK      ÕÅÔØÈÙ ; NT ; China-Zhejiang
+DATE       26-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  E3+5   c8.4   2.  H2+3   h8+7   3.  R1.2   h2+1   
+4.  H8+9   p1+1   5.  P3+1   r1+1   6.  R9+1   r1.6   
+7.  R9.6   a6+5   8.  R6+4   r6+5   9.  A4+5   c2+2   
+10. C2+3   c2+2   11. C2.9   e7+5   12. P7+1   r9.6   
+13. P9+1   c2-5   14. C9+1   r-+4   15. R6.4   r6-2   
+16. R2.4   r6.8   17. R4+4   p7+1   18. P3+1   r8.7   
+19. R4.3   r7+1   20. E5+3   p3+1   21. P7+1   e5+3   
+22. E3-5   h7+6   23. C8+4   h6+4   24. H3+4   p5+1   
+25. C9.1   c2.1   26. H4+3   h4+6   27. C8.9   c1.3   
+28. A5+4   p5+1   29. P5+1   h6+4   30. K5+1   h4-5   
+31. H9+8   h5+6   32. H8+6   c3+2   33. H3-4   c4+7   
+34. P9+1   h6+8   35. C1.5   e3-5   36. H4+2   c4.8   
+37. H6-4   c3+1   38. P9.8   c3.5   39. E5+7   h1+3   
+40. P8.7   h3-4   41. P7.6   c8-5   42. H4+2   c5.7   
+43. C5.8   h8+6   44. K5.4   h6-4   45. P6.5   e5-7   
+46. E7-5   a5+6   47. H2+3   h-+2   48. P5.4   c7+2   
+49. P4+1   a4+5   50. H3-4   c7.1   51. K4.5   h4-2   
+52. P1+1   h+-4   53. K5.4   h4-3   54. C8-1   h3-4   
+55. P4.5   h4+5   56. H4+2   c1.6   57. H2+3   k5.6   
+58. P1+1   c6-1   59. K4-1   h5+6   60. K4.5   h2+3   
+61. C9-1   h6+4   62. K5+1   h3-5   63. C8.4   h5-6   
+64. C9+4   a5-4   65. C9.6   k6.5   66. C6.3   h4+3   
+67. K5.4   h3-1   68. C3.7   h1-3   69. C7-6   h3-5   
+70. C4.5   k5.6   71. C7+3   h6+4   72. H3-5   a6-5   
+73. C5+3   h5+7   }END
+
+
+FORMAT 	WXF
+GAME 	LIU ZongZe(W)NI Min,145
+TIME       ;
+RESULT     1-0
+RED        LIU ZongZe ; NT ; China-Jilin
+BLACK      NI Min ; NT ; China-Anhui
+DATE       26-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  P7+1   e3+5   2.  C2.5   p7+1   3.  H2+3   h8+7   
+4.  H8+7   r9.8   5.  C8.9   h2+3   6.  R9.8   r1.2   
+7.  R1.2   c2+4   8.  R2+6   c8-1   9.  P5+1   c8.2   
+10. R2+3   c-+8   11. R2-2   c+.1   12. R2.3   c2.3   
+13. H7-9   c1-2   14. E7+9   r2+8   15. P5+1   a4+5   
+16. H3+5   c3+2   17. P5+1   c3.1   18. P5+1   c1+1   
+19. A6+5   r2+1   20. A5-6   k5.4   21. P5.6   h3-2   
+22. C5.6   k4.5   23. H5-4   r2-1   24. A6+5   r2+1   
+25. A5-6   r2-1   26. A6+5   r2+1   27. A5-6   r2-5   
+28. A6+5   a5+4   29. K5.6   r2.4   30. R3+2   h2+1   
+31. H4+5   r4+2   32. H5+4   c1.6   33. R3-4   r4-2   
+34. P3+1   p1+1   35. H4+5   r4.7   36. P3+1   c6-8   
+37. H5-3   h1+2   38. P3.4   a6+5   39. C6.1   h2+1   
+40. C1+4   p1+1   41. P4+1   h1+3   42. K6.5   h3-4   
+43. E9-7   p1.2   44. E3+5   k5.4   45. P1+1   a5-6   
+46. C1+3   a6+5   47. P1+1   h4+6   48. H3+1   k4+1   
+49. P1.2   p2+1   50. C1-1   k4-1   51. H1-3   c6.7   
+52. C1-2   h6+7   53. K5.6   p2.3   54. H3+1   c7.6   
+55. C1.7   p3.4   56. P7+1   a5-6   57. C7.6   c6.4   
+58. C6+2   k4+1   59. P7+1   h7-6   60. K6.5   p4.3   
+61. H1-3   p3+1   62. H3-4   p3+1   63. K5.6   k4-1   
+64. P7+1   a6+5   65. P4.5   k4.5   66. P2+1   h6-4   
+67. P2.3   h4-2   68. H4+6   k5.6   69. P5+1   h2+4   
+70. P3.4   h4+6   71. P7.6   a5+4   72. P5.6   h6+5   
+73. H6-8   }END
+
+
+FORMAT 	WXF
+GAME 	LIU ZongZe(W)LIN WenXian,84
+TIME       ;
+RESULT     1-0
+RED        LIU ZongZe ; NT ; China-Jilin
+BLACK      LIN WenXian ; NT ; China-Macau
+DATE       26-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  C8.5   h2+3   2.  H8+7   r1.2   3.  P3+1   p3+1   
+4.  H2+3   h8+7   5.  R9+1   e7+5   6.  R9.6   c2.1   
+7.  C2.1   r2+6   8.  R1.2   r9.8   9.  R2+6   r2.3   
+10. C5-1   p3+1   11. R6+7   a4+5   12. R6.7   h3+4   
+13. C5.7   r3.4   14. R7-4   c8.9   15. R2+3   h7-8   
+16. E3+5   h8+7   17. C7.3   c9.8   18. A4+5   c8+4   
+19. H7+6   h4-2   20. R7.8   h2+4   21. R8.7   h4-2   
+22. R7.8   h2+4   23. R8.7   r4.3   24. R7-1   c8.3   
+25. H3+2   c3.9   26. H6+4   c9.1   27. P3+1   p9+1   
+28. P3+1   h7-8   29. C3.1   h4+6   30. C-+4   h8+9   
+31. P3.4   h9+8   32. P4.5   e5-7   33. E5+3   h6+4   
+34. A5+6   h4-3   35. C-.2   h3+2   36. C2+3   h2+4   
+37. K5.4   h4+3   38. E3-5   h3-2   39. A6+5   c-.6   
+40. H4+2   c6-1   41. H++3   k5.4   42. C2.6   c1.2   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Bin(W)HUANG ZhuFeng,49
+TIME       ;
+RESULT     1-0
+RED        WANG Bin ; GM ; China-Jiangsu
+BLACK      HUANG ZhuFeng ; NT ; China-Hangzhou
+DATE       25-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  C2.5   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
+4.  P7+1   h2+3   5.  H8+7   c2+4   6.  P5+1   c8+4   
+7.  R9+1   c2.3   8.  E7+9   r1.2   9.  R9.6   c3.6   
+10. R6+6   e3+5   11. P5+1   c6-4   12. P5+1   c6.4   
+13. P5+1   a4+5   14. P5.6   a5+4   15. R2+1   c8-3   
+16. C8-1   c8.4   17. R2.4   r2+4   18. C8.5   k5.4   
+19. R4+6   a6+5   20. R4.3   r2.4   21. H3+5   r4+3   
+22. R3-1   r8+8   23. H5+4   r8.6   24. R3.6   r4.5   
+25. H7+5   }END
+
+
+FORMAT 	WXF
+GAME 	SUN HaoYu(W)LIU ZongZe,107
+TIME       ;
+RESULT     1-0
+RED        SUN HaoYu ; NT ; China-Hunan
+BLACK      LIU ZongZe ; NT ; China-Jilin
+DATE       26-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  C2.6   h8+7   2.  H2+3   r9.8   3.  P7+1   p7+1   
+4.  H8+7   h2+1   5.  E7+5   r1+1   6.  A6+5   p3+1   
+7.  P7+1   r1.3   8.  H7+6   r3+3   9.  R1.2   c8+4   
+10. C8.7   e7+5   11. R9.8   c2.3   12. C7+5   r3-2   
+13. R8+6   p1+1   14. R2+1   c8-3   15. R8-2   r3+4   
+16. R8+3   c8+2   17. C6.7   h7-9   18. P3+1   p7+1   
+19. E5+3   c8-2   20. E3-5   a4+5   21. H3+4   c8-1   
+22. R8-4   r3.2   23. H6-8   h9+7   24. R2+5   c8.9   
+25. R2.3   r8+2   26. R3.1   h7+6   27. R1.5   r8+3   
+28. H4+6   h6+4   29. H8+6   r8.4   30. H6+4   c9.6   
+31. C7.9   c6-1   32. H4+3   a5+6   33. C9+3   k5.4   
+34. C9.1   c6.1   35. R5.8   e5-7   36. C1+4   r4-4   
+37. H3-5   k4.5   38. H5-4   r4.9   39. R8.5   a6-5   
+40. H4+2   r9+1   41. P1+1   r9.5   42. R5.6   h1+2   
+43. R6+2   r5.8   44. H2-3   r8.9   45. C1.2   r9.8   
+46. C2.1   h2-3   47. C1-4   c1+2   48. C1.5   c1.5   
+49. K5.6   e7+5   50. P9+1   r8.7   51. H3+2   r7.8   
+52. C5+2   a5-4   53. H2-4   r8.6   54. H4+6   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN HongAheng(W)HAO JiChao,69
+TIME       ;
+RESULT     1-0
+RED        CHEN HongAheng ; NT ; China-Xiamen
+BLACK      HAO JiChao ; NT  ; China-HeilongJiang
+DATE       25-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  P7+1   c2.3   2.  C8.5   c8.5   3.  H2+3   h8+7   
+4.  R1.2   p3+1   5.  H8+9   p3+1   6.  R9.8   h2+1   
+7.  C2+4   p7+1   8.  R2+4   r9.8   9.  R2.7   r8+3   
+10. R7+3   r8+3   11. R8+8   a4+5   12. H9+7   r8.7   
+13. H7+6   r7+1   14. R8.6   r7-2   15. H6+4   r7.6   
+16. H4+3   r6-4   17. R7.5   r6.7   18. R5.7   p1+1   
+19. P5+1   r1.2   20. P5+1   h1+2   21. R7-1   r7.6   
+22. P5+1   r6+3   23. P5.4   r6.5   24. P4+1   e3+1   
+25. R6-3   r5+1   26. R7-2   r5+1   27. C5-1   h7+6   
+28. P4+1   h6-5   29. R6.3   k5.4   30. R3+4   r5.4   
+31. C5.2   r4+3   32. K5+1   r2+1   33. R7+5   k4+1   
+34. P4.5   a6+5   35. C2+7   }END
+
+
+FORMAT 	WXF
+GAME 	CHEN HongAheng(W)LI ZhiWei,158
+TIME       ;
+RESULT     1-0
+RED        CHEN HongAheng ; NT ; China-Xiamen
+BLACK      LI ZhiWei ; NT ; China-Hangzhou
+DATE       26-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  P7+1   p7+1   2.  H8+7   h8+7   3.  R9+1   h2+3   
+4.  E3+5   e3+5   5.  R9.3   c2.1   6.  P3+1   r1.2   
+7.  C8.9   r2+4   8.  P3+1   e5+7   9.  H2+4   r9+1   
+10. C2.3   e7-5   11. C3+4   r2.8   12. H7+6   h7-8   
+13. H4+3   r8.7   14. H3-1   r7.4   15. R3+3   c8.7   
+16. C3.7   c7+2   17. A4+5   h8+7   18. R1.4   c1+4   
+19. R4+6   c1-1   20. C9.6   r4.1   21. C7-1   c1.4   
+22. R3.6   e5+3   23. R4.3   e3-5   24. R3+1   r9.2   
+25. H1+3   r2.8   26. R6.4   a4+5   27. H3+4   r1.5   
+28. R4-1   h3+2   29. E5-3   r8+8   30. R4-3   h2+3   
+31. R3+1   h3+2   32. C6.5   r5.4   33. C5+4   k5.4   
+34. C5-2   r8-6   35. R3.4   r4.5   36. H4+3   r8.7   
+37. H3+4   c7.8   38. E3+5   r5.4   39. R-+5   r4.6   
+40. R4-3   e5+7   41. R4+3   a5-6   42. R4+1   k4+1   
+43. C5.3   r7.5   44. R4-1   r5-2   45. R4-5   h2-3   
+46. R4.2   r5.8   47. R2+1   e7+5   48. C3-1   h3-1   
+49. C3.2   k4.5   50. C2+2   r8+2   51. P5+1   h1+2   
+52. P5+1   p1+1   53. P5.4   p1+1   54. R2-1   r8.4   
+55. R2.8   h2-4   56. C2-4   r4+2   57. R8+5   k5-1   
+58. P4+1   r4.6   59. R8.6   h4-5   60. R6-2   k5+1   
+61. P7+1   r6+1   62. P7+1   r6.3   63. P7.8   r3.9   
+64. C2.4   p1+1   65. R6-1   h5+4   66. P4+1   r9.6   
+67. K5.4   r6.8   68. C4.3   r8.6   69. C3.4   r6.8   
+70. C4.3   r8.6   71. C3.4   h4-3   72. P4.5   e7-5   
+73. P8.7   h3+4   74. P7+1   r6.8   75. K4.5   h4-6   
+76. R6.4   h6+4   77. P7.6   r8+3   78. A5-4   r8-3   
+79. A6+5   h4-3   }END
+
+
+FORMAT 	WXF
+GAME 	LIU Qiang(W)YU Bing,47
+TIME       ;
+RESULT     1-0
+RED        LIU Qiang ; NT ; China-Xian
+BLACK      YU Bing ; CM ; China-Yaudian
+DATE       21-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  H8+7   a4+5   8.  C8.9   r1.2   9.  R9.8   c9.7   
+10. R3.4   h7+8   11. C5+4   h3+5   12. R4.5   c7+5   
+13. H3-5   p7+1   14. R8+6   h8+6   15. R5.7   r8+2   
+16. H7+6   r8.4   17. H6+4   r4+2   18. H4+6   c2.4   
+19. H6+4   a5+6   20. R8+3   e7+5   21. R8-3   c4+7   
+22. C9+4   a6-5   23. C9+3   a5-4   24. R8+1   }END
+
+
+FORMAT 	WXF
+GAME 	WANG Yang(W)LI ShaoGeng,63
+TIME       ;
+RESULT     1-0
+RED        WANG Yang ; CM ; China-Hubei
+BLACK      LI ShaoGeng ; NT ; China-Henan
+DATE       11-9-2004
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2004
+ROUND      
+START{
+1.  C2.5   c8.5   2.  H2+3   h8+7   3.  R1.2   p7+1   
+4.  P7+1   c2+4   5.  H8+7   h2+3   6.  H7+6   c2.7   
+7.  R9.8   r9+1   8.  C5.7   r1.2   9.  E3+5   r9.4   
+10. R2+4   r2+6   11. A4+5   r2.4   12. H6+7   c5.6   
+13. C8+4   r-+3   14. H7-8   r-.2   15. C8.7   e3+5   
+16. P7+1   r2.3   17. H8-6   c7.4   18. R8+2   r3-1   
+19. R2.6   p7+1   20. R6-1   p7+1   21. H3-2   p5+1   
+22. C7+5   c6.3   23. R8.6   a6+5   24. R++3   r3+5   
+25. H2+4   h7+8   26. R-+2   p7.6   27. R-.2   c3+2   
+28. R6.5   p6+1   29. H4+2   p6.5   30. E7+5   r3.4   
+31. A5+4   h8-9   32. R2+2   }END
+
+
+FORMAT 	WXF
+GAME 	YU YunTao(W)HUANG ZhuFeng,95
+TIME       ;
+RESULT     1-0
+RED        YU YunTao ; FM ; China-Nongxie
+BLACK      HUANG ZhuFeng ; NT ; China-Hangzhou
+DATE       26-5-2005
+PLACE      
+EVENT      È«¹úÏóÆåµÈ¼¶Èü ; 2005
+ROUND      
+START{
+1.  C2.5   h2+3   2.  H2+3   h8+7   3.  R1.2   r9.8   
+4.  P7+1   p7+1   5.  R2+6   c8.9   6.  R2.3   c9-1   
+7.  P5+1   a4+5   8.  P5+1   c9.7   9.  R3.4   p7+1   
+10. H3+5   r8+8   11. H8+7   p7+1   12. H5+6   e3+5   
+13. H6+7   r1.3   14. H+-5   p3+1   15. P7+1   h7+5   
+16. P5+1   c7+8   17. A4+5   r3+4   18. C8-1   r8-8   
+19. R9+2   c7.9   20. R9.8   c2.4   21. A5+6   p7+1   
+22. K5+1   c9.3   23. R8+7   e5-3   24. P5.6   c4.5   
+25. K5.6   r8+6   26. P6.7   r8.4   27. R8.7   r4-6   
+28. R7.6   k5.4   29. A6+5   r3.5   30. C5+5   e7+5   
+31. K6-1   k4.5   32. H7+6   r5+1   33. C8.6   c3-5   
+34. P7+1   c3.8   35. R4.2   c8+1   36. H6+7   r5.3   
+37. K6.5   c8.5   38. K5.4   e5+3   39. H7-5   r3+4   
+40. C6-1   e3-1   41. R2.7   r3.2   42. R7-2   c5+1   
+43. R7-1   c5-1   44. R7.5   r2-4   45. P7+1   e1+3   
+46. P7.6   e3-5   47. R5.7   r2-5   48. R7.4   }END
+

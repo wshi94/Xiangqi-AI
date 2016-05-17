@@ -21,12 +21,15 @@ def train():
     vector = []
 
     for i in range(20, 30):
-        txtfile = 'test/tournament-' + str(i) + '.txt'
-        removeComments(txtfile)
-        vectors_fromOnetxtfile = makeVector(txtfile)
+        if i == 26:
+            pass
+        else:
+            txtfile = 'test/tournament-' + str(i) + '.txt'
+            removeComments(txtfile)
+            vectors_fromOnetxtfile = makeVector(txtfile)
 
-        vector_features.extend(vectors_fromOnetxtfile[0])
-        vector_results.extend(vectors_fromOnetxtfile[1])
+            vector_features.extend(vectors_fromOnetxtfile[0])
+            vector_results.extend(vectors_fromOnetxtfile[1])
 
     vector.append(vector_features)
     vector.append(vector_results)
@@ -68,7 +71,7 @@ def learn_random_forest(vector_features, vector_results):
     X = np.asarray(vector_features)
     Y = np.asarray(vector_results)
 
-    rf = RandomForestClassifier()
+    rf = RandomForestClassifier(n_estimators=100)
     rf.fit(X, Y)
 
     return rf
@@ -103,16 +106,16 @@ v_features = results[0]
 v_results = results[1]
 print(len(v_features))
 print(len(v_results))
-svm = learn_svm(v_features, v_results)
+#svm = learn_svm(v_features, v_results)
 # lsvm = learn_linear_svm(v_features, v_results)
 nb = learn_naive_bayes(v_features, v_results)
 rf = learn_random_forest(v_features, v_results)
-sr = test(svm)
+#sr = test(svm)
 # lsr = test(lsvm)
 nbr = test(nb)
 rfr = test(rf)
 
-print(sr)
+#print(sr)
 # print(lsr)
 print(nbr)
 print(rfr)
