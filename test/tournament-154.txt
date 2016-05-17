@@ -735,7 +735,7 @@ START{
 52. P9.8   k5.6   53. P8.7   k6+1   54. H1+2   k6-1   
 55. H2-3   k6.5   56. P7+1   p4.5   57. P7+1   p-.4   
 58. P7.6   
-/*<r01 Red win>*/}END
+}END
 
 
 FORMAT 	WXF

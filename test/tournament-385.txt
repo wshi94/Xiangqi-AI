@@ -961,7 +961,7 @@ START{
 31. R2.3   h7-6   32. R3.4   r2+5   33. R4-1   r2.3   
 34. R4-4   r3+2   35. A5-6   r3-4   36. R4.8   h1+3   
 37. C9+4   r3+1   38. C5-2   c9+5   
-/*<r10 Red run out of time>*/}END
+}END
 
 
 FORMAT 	WXF

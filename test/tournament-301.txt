@@ -1820,7 +1820,7 @@ START{
 85. P5.4   p8.9   86. P3+1   r8.9   87. E5-3   r9+1   
 88. R3.4   e5-7   89. P3.4   r9+3   90. R4.3   r9.5   
 91. E3+5   e7+9   92. R3.2   e9-7   93. R2+4   
-/*black  stop the clock , there is only 49 moves without capture, so he ruled lost the game*/}END
+}END
 
 
 FORMAT 	WXF
@@ -2352,7 +2352,7 @@ START{
 10. R8+4   e3+5   11. P3+1   p7+1   12. R8.3   a4+5   
 13. P9+1   c9.6   14. H9+8   h8+9   15. H3+2   h9+7   
 16. H2+3   c2.7   17. R3+2   r2+5   18. C5+4   
-/*/*    ºÍ*/}END
+}END
 
 
 FORMAT 	WXF
@@ -2917,5 +2917,5 @@ START{
 31. A6+5   c2.1   32. K5.6   c3-1   33. C4.6   e3-5   
 34. E9+7   r2+5   35. K6+1   r2-3   36. H2+3   c1.7   
 37. C6.3   
-/*/*    ºÚ·½³¬Ê±¡£*/}END
+}END
 

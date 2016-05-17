@@ -13,35 +13,24 @@ ROUND
 START{
 1.  C2.5   h8+7   2.  H2+3   r9.8   3.  H8+7   h2+3   
 4.  R1+1   c8.9   
-/*Red's Chariot move clearly  reveals his intention, he is going to attack
-from the central file with the Pawn and  two linked Horses. Black's p8.9 is
-not the best defending move. He should play p3+1 instead. After P5+1 a6+5,
-H7+5 H3+4, black has a satisfactory position*/
+
 5.  P5+1   a4+5   6.  H7+5   c2+4   
-/*This is to break Red's linked Horses. But, it also weakens Black's own
-defensive system after trading the Cannon for a Horse. Still p3+1 is
-preferred here.*/
+
 7.  P5+1   c2.5   8.  H3+5   r1.2   9.  R9.8   p5+1   
 10. C8+4   e3+5   11. H5+3   h7+5   12. R8+1   h5+7   
-/*Bash and fatal, allowing Red to invade from the central file. The right
-move is p7+1, after H3+5 p3+1, Black has an inferior position, but still
-defendable.*/
+
 13. H3+5   h7+5   14. R8+3   r8+1   15. R8.5   r2+3   
 16. R1.4   p3+1   
-/*r2+1 will also be met by R5.2 c9.8, R4+4. Black will not be able to hold
-its position.*/
+
 17. R5.2   
-/*Brilliant! Black is forced to shield the Chariot with the Cannon. If he
-plays r8.7, H5+4 r8.6, R2+4 and Red wins.*/
+
 17. ....   c9.8   18. R4.6   r2.6   19. H5+6   k5.4   
 20. H6-7   k4.5   21. H7-5   r6.3   22. R6+5   
-/*Red's moves are very firm and concise after gaining the advantage. After
-exchanging the Chariot, Black is totally denied of any chance of counter
-attack. */
+
 22. ....   r3.4   23. H5+6   c8+2   24. H6+7   k5.4   
 25. C5.6   c8-2   26. R2.6   a5+4   27. R6+3   r8.4   
 28. R6-4   c8+4   29. P3+1   c8.3   30. H7-9   
-/*Black resigned, as there is no way to save his Chariot. */}END
+}END
 
 
 FORMAT 	WXF
@@ -127,12 +116,7 @@ START{
 130. K4-1   r5-3   131. R8.4   a6+5   132. R4+5   r5+1   
 133. C2-1   r5+1   134. C2.4   a5+6   135. K4+1   r5+1   
 136. K4-1   r5-3   
-/*The game was declared a draw as the same pieces of
-both sides were on the board for 60 moves.
-(Shall we call it "draw on stagnation"?)
-I just wondered why Black did not think of capturing
-the bottom Red Pawn first? He would have another 60
-moves to reorganize his pieces for a fatal attack.*/}END
+}END
 
 
 FORMAT 	WXF
@@ -167,7 +151,7 @@ START{
 52. R7.6	r5.3	53. R6-1	r3+3	54. R6.3	p9+1	
 55. H6-7	e5-3	56. H7-5	r3-3	57. R3-1	e3+5	
 58. R3.1	
-/*A sure win for Red, the rest of the moves omitted.*/}END
+}END
 
 
 FORMAT 	WXF

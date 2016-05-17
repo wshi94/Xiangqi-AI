@@ -79,7 +79,7 @@ START{
 64. C5.7   h3+1   65. C7.9   k4.5   66. C9-1   h5-7   
 67. C9-1   h1+3   68. E5+7   c4-1   69. C6-1   h7-6   
 70. C6+2   h6+5   71. E3-1   p6+1   72. A5+4   
-/*<b10 Black run out of time>*/}END
+}END
 
 
 FORMAT 	WXF
@@ -1529,7 +1529,7 @@ START{
 58. R5.9   c1.3   59. R9.7   c3.1   60. R7.9   c1.3   
 61. P1.2   a5+4   62. R9.6   a6+5   63. R6.7   c3.1   
 64. R7.9   c1.3   65. P2.1   c3+3   66. P1.2   c3.5   
-/*<r10 Red run out of time>*/}END
+}END
 
 
 FORMAT 	WXF

@@ -14,21 +14,21 @@ AUTHOR     Bill Brydon
 ANNOTATOR  Ruan Youfu
 START{
 1.  C2.5   
-/*Analysis by Phuc Nguyen, as told to Bill Brydon. Tournament rules: six round Swiss, followed by two-game match between top two finishers. Time-control: one hour for any number of games, and then 10 moves every 10 minutes.  """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""In the first game, I tried one shot to kill her. She's not easy to kill with one shot"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""".*/
+
 1. ....   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
 4.  H8+7   h2+3   5.  R2+6   e7+5   6.  R9+1   p3+1   
 7.  P5+1   c2+1   8.  R2-2   c8+2   9.  R9.6   r1+1   
 10. H7+5   c2+3   11. P7+1   c2.7   12. E3+1   r1.2   
-/*This is a big mistake. I changed plans, and this change cost me the game. 12... R9=6 threatening R6+5 is correct.*/
+
 13. C8.7   r2+5   
-/*A mistake again. 13... C7=1 is OK. 14. P7+1 C1=3 15. M7+9 C8=3 16. R2+5 N7-8 17. C7+3 M5+3 18. P5+1 G6+5 is no trouble.*/
+
 	VAR{ 
 	13. ....   c7.1   14. P7+1   c1.3   
 	15. E7+9   c8.3   16. R2+5   h7-8   
 	17. C7+3   e5+3   18. P5+1   a6+5   
 	 }VAREND
 14. R2-1   
-/*Now she plays very carefully until I give her a killing shot.*/
+
 14. ....   c7-1   15. P7+1   h3-2   16. P7.6   h2+3   
 17. C7+4   r2.3   18. P6+1   a6+5   19. R2+1   c7+1   
 20. R2-1   c7-1   21. R6.8   a5+6   22. P5+1   p5+1   
@@ -49,15 +49,15 @@ AUTHOR     Bill Brydon
 ANNOTATOR  Ruan Youfu
 START{
 1.  P7+1   
-/*Analysis by Phuc Nguyen, as told to Bill Brydon. """"In the third game, I had the advantage. First because I was playing Red (we drew for colour), and secondly because I won the second game. Whoever won the second game was going to win the match. She lost confidence. It was a fast game: 30 minutes, and then 10 moves every 10 minutes.""""*/
+
 1. ....   c2.3   2.  C2.5   e3+5   3.  H2+3   r9+1   
 4.  R1.2   r9.2   5.  H8+7   h2+4   6.  R9.8   
-/*I don't go up with R9+1. R9=8 is a waste of time, but I wanted to surprise her so that she would think a lot.*/
+
 6. ....   h8+9   7.  H7+6   a4+5   8.  R2+4   p9+1   
 9.  C8+3   
-/*This is a lousy move. Black is playing the same way, trying to make normal moves. Red is making changes. I played this lousy move to waste time. I knew Black wouldn't attack, but just play safe.*/
+
 9. ....   c8+2   10. P7+1   
-/*This is another lousy move. After the game, I realized that 10. G6+5 is better. If 10... C8=7, then 11. P7+1 C7+3 12. C5=8 R2=3 13. P7+1 is very dangerous.*/
+
 	VAR{ 
 	10. A6+5   c8.7   11. P7+1   c7+3   
 	12. C5.8   r2.3   13. P7+1   
@@ -65,12 +65,12 @@ START{
 10. ....   p3+1   11. C5.8   c8.5   12. E7+5   r2.3   
 13. C+.5   p5+1   14. C8.6   c3.1   15. H6-4   p3+1   
 16. E5+7   r3+3   17. R2.6   r1.2   18. R8.9   h4+2   
-/*Like in game two, this horse has nowhere to go.*/
+
 19. E3+5   h2-3   20. R6+2   p1+1   21. R6.5   h3+4   
 22. R5.6   h4-3   23. A6+5   r2+6   24. R6.9   c1.4   
-/*The only move. Others are useless. Red's plan is to trade everything, including one pair of knights by taking Black's pawn on the third line. Red wants to get to the end-game with more pawns than Black.*/
+
 25. R+.5   h9+8   
-/*This is a mistake. If I was Black, I'd play C4+4, not to get the advantage, but to draw the game more easily. Play could go: 25... C4+4 26. N4+5 C4=1 (26... C4=6 is useless, after 27. P9+1, Black is in trouble) 27. P3+1 C1=5 (no choice) 28. N5+3 N9+7 (again forced) 29. N3+5, the game is easy to draw for both sides.*/
+
 	VAR{ 
 	25. ....   c4+4   26. H4+5   c4.1   
 		VAR{ 
@@ -81,29 +81,29 @@ START{
 	 }VAREND
 26. P3+1   c4+4   27. H4+5   c4.1   28. H5+3   p1+1   
 29. H++4   h3+4   
-/*This is a big mistake by Black, and Black can't afford to make a mistake in this position. If Red eats the minister, the rook and the knight are trapped. But Red is dreaming of N4-2, N2+1, and N1--3, attacking the King. He won't eat the minister.  Black should play 29... P1=2. After 30. N4-2 P2=3, Red has nothing much.*/
+
 30. R5.6   h4-3   31. H4-2   h3+2   32. R6.5   r3.6   
 33. P3+1   
-/*A very good move. Red looks ahead and plays a five-step combination to win the game.*/
+
 33. ....   e5+7   
-/*As in game two, the defensive knight goes away, and leaves the king alone in his castle.*/
+
 34. H2-4   h8-9   35. C6+2   h2+3   36. R5.7   
-/*This move traps the knight and threatens the king.*/
+
 36. ....   e7+5   37. H3+2   
-/*This is the winning step for Red. The Black rook is trapped by the two knights.*/
+
 37. ....   r6+4   38. H4-6   
-/*This locks in the Knight.*/
+
 38. ....   r2-6   
-/*A good move. Black still loses, but more slowly.*/
+
 39. C6.5   c1.9   40. H2-1   r6-4   
-/*The knight has nowhere to go. Red wins a piece, and the game. 40... N9+8 would lose more quickly: 41. R7-1 N8+7 42. R7+1 N7+9 43. N6+8.*/
+
 	VAR{ 
 	40. ....   h9+8   41. R7-1   h8+7   
 	42. R7+1   h7+9   43. H6+8   
 	 }VAREND
 41. R7-1   r6.5   42. R7.9   h9+7   43. R-.6   c9.6   
 44. H6+8   
-/*Red should play 44. N1+2, which wins immediately.*/
+
 44. ....   c6-5   45. R9.5   h7+5   46. H8-9   r2.4   
 47. R6.8   r4+6   48. R8+9   a5-4   49. R8-4   r4.5   
 50. R8.5   c6.

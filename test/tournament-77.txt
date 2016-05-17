@@ -443,7 +443,7 @@ START{
 19. C--1   h7+8   20. C+.2   r8.7   21. C8.9   h4-2   
 22. H8-7   h2+3   23. R4.2   c8.9   24. H7+5   r7.4   
 25. C2.7   r4+5   26. E5-3   
-/*black run out of time*/}END
+}END
 
 
 FORMAT 	WXF

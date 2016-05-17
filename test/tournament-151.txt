@@ -2583,11 +2583,7 @@ ROUND      3
 AUTHOR     Bill Brydon
 START{
 1.  C2.5   
-/*Peter Sung of the Xiangqi homepage arrived with the flu, but had a
-great start: three straight wins. After this, exhaustion set in. His
-third round win was against Lu Zhi Jin (don't know his "passport name")
-of Hong Kong -- Peter originally came from here. It sure would be fun
-to watch this lively battle in a Hong Kong chess club.*/
+
 1. ....   h2+3   2.  H2+3   p7+1   3.  R1.2   c8.6   
 4.  R2+8   a4+5   5.  C8.6   e3+5   6.  H8+7   r1.4   
 7.  A6+5   c2-1   8.  R2-2   h8+9   9.  R9.8   c2.3   
@@ -2622,13 +2618,7 @@ ROUND      6
 AUTHOR     Bill Brydon
 START{
 1.  C2.5   
-/*Xu Yin Chuan's Round Four draw with Wu Kui Lin allowed Yan Wen Qing to
-take the lead. This meant Xu had to beat Yan to win the tournament.
-Everyone was talking about how Xu stopped Yan from winning the 1998
-Chinese championship by beating him in the last round. In Round Six of
-this tournament, history repeated itself. 
 
-*/
 1. ....   h8+7   2.  H2+3   r9.8   3.  R1.2   p7+1   
 4.  R2+6   h2+3   5.  H8+7   p3+1   6.  R9+1   c2+1   
 7.  R2-2   e3+5   8.  P7+1   c8+2   9.  R9.6   a4+5   
@@ -2657,9 +2647,7 @@ ROUND      7
 AUTHOR     Bill Brydon
 START{
 1.  P7+1   
-/*Here's GM Xu Yin Chuan's win over Hor Weng Yu of West Malaysia. It's a
-darn good game. Hor had a very tough schedule, and finished fifth
-despite three losses.*/
+
 1. ....   p7+1   2.  C2.3   c2.5   3.  H8+7   h2+3   
 4.  R9.8   r1.2   5.  C8+4   h8+7   6.  E3+5   h3-1   
 7.  C8-1   c8+2   8.  C8+2   c8.9   9.  C3.1   h7+6   

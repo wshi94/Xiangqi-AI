@@ -31,18 +31,18 @@ START{
 52. A5-4   c9+3   53. R5-2   r8-6   54. A4+5   r8.2   
 55. H8+6   a5-4   56. R5.6   r2+6   57. A5-6   r2-4   
 58. P1+1   r2-1   59. P1+1   r2-1   
-/*FEN £ºrnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1*/
+
 60. ....   c9-1   60. ....   c9.7   61. ....   a4+5   
 61. ....   r2+4   62. ....   r2-3   62. ....   r2+3   
 63. ....   k5.4   63. K5+1   K5-1   64. ....   k4+1   
-/*FEN £ºrnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1*/
+
 65. A6+5   R6+3   66. P1+1   R6+2   67. R6.5   R5.8   
 68. R8.6   a5+4   69. ....   c7.9   69. A5-6   e7+5   
 70. ....   a4-5   71. ....   a5+4   71. ....   c9-1   
 72. ....   c9+1   
-/*FEN £ºrnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1*/
+
 72. A6+5   A5+6   
-/*FEN £ºrnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1*/
+
 73. K5.4   K4+1   74. ....   r2-4   75. ....   r2.6   
 75. K4.5   r6+3   76. ....   r6.5   77. ....   k4.5   
 77. ....   r5-3   78. K5.4   r5.6   79. ....   r6.4   
@@ -51,20 +51,20 @@ START{
 82. ....   r6.8   83. ....   k4.5   83. ....   r8.6   
 84. K4.5   a4-5   85. ....   r6+4   85. ....   e5-7   
 86. ....   k5.6   86. K5-1   r6.2   
-/*FEN £ºrnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1*/
+
 87. ....   r2.8   88. ....   r8-1   88. ....   r8+3   
 89. ....   a5-4   89. ....   a4+5   90. ....   e7+5   
 90. ....   e5+3   91. ....   e3-5   91. ....   e5+3   
 92. ....   e3-5   92. ....   e5+3   93. ....   e3-5   
 93. ....   a5+4   94. K5.6   
-/*FEN £ºrnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1*/
+
 94. ....   r8-2   
-/*FEN £ºrnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1*/
+
 95. ....   r8+2   95. ....   c9-2   96. ....   c9.7   
 96. ....   r8.7   
-/*FEN £ºrnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1*/
+
 97. ....   r7.6   97. ....   r6.2   98. ....   r2-8   
-/*FEN £ºrnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1*/
+
 98. ....   e5+3   99. ....   e3-5   }END
 
 
@@ -343,14 +343,14 @@ START{
 22. E7+5   h9+8   23. C7.8   h8+6   24. E5+3   h6+4   
 25. A4+5   c3.4   26. C8+1   p1+1   27. E3-5   p1.2   
 28. P3.4   p2.3   29. H6-7   c4.3   30. P4.5   
-/*FEN £ºrnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1*/
+
 30. C8+2   P++1   31. C8-3   C8.1   
-/*FEN £ºrnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1*/
+
 32. P++1   a4+5   33. P5+1   e3+5   34. ....   h1+3   
 35. H7+9   H9+8   36. P5+1   k5.4   37. ....   k4+1   
-/*FEN £ºrnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1*/
+
 37. H8+7   
-/*FEN £ºrnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1*/
+
 38. C4+6   C1.3   39. C4.3   }END
 
 

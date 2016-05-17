@@ -1893,7 +1893,7 @@ START{
 52. R+-2   p4+1   53. R+.6   r2-2   54. R6.5   k5.6   
 55. K4.5   r2+2   56. R5.6   r2-2   57. A5+6   r6+1   
 58. R6.1   k6.5   59. A6-5   r6-7   
-/*Black run out of time*/}END
+}END
 
 
 FORMAT 	WXF

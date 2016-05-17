@@ -11,7 +11,7 @@ import numpy as np
 def PieceFitness(board):
     #Evaluates board value for each side
     #Returns difference of piece values, red is positive value and uppercase
-    #black is negative and lowercase, 
+    #black is negative and lowercase,
     #tl;dr pos=red winning, neg=black winning
     red=0
     black=0
@@ -24,8 +24,8 @@ def PieceFitness(board):
             else:
                 black +=pval(board[i][j], i, j)
     return  red-black
- 
-    
+
+
 def pval(piece, i, j):
     red=piece.isupper()
     p=piece.lower()
@@ -70,18 +70,18 @@ def KingFitness(board):
         for j in range(len(board[0])):
             if board[i][j].isupper():
                 sign='g'
-            else: 
+            else:
                 sign='G'
             if(board[i][j]==sign):
                 gi=i
                 gj=j
-                
-                
+
+
     for i in range(len(board)):
         for j in range(len(board[0])):
             if board[i][j].isupper():
                 sign='g'
-            else: 
+            else:
                 sign='G'
             p=board[i][j].lower()
             if(p=='s'):
@@ -123,7 +123,7 @@ def ccR(gi, gj, i, j, sign, board):
             if(board[col][j]!='.'):
                 break;
         total+=1
-    return total   
+    return total
 
 def ccH(gi, gj, i, j, sign, board):
     dr=np.array([1,-1,0,0])
@@ -152,7 +152,7 @@ def ccH(gi, gj, i, j, sign, board):
                                 if((i+dmi[2*dx+1]+dmi[2*dxx+1])==gi and (j+dmj[2*dx+1]+dmj[2*dxx+1])==gj):
                                     total+=1
     return total
-                                    
+
 
 def ccC(gi, gj, i, j, sign, board):
     total=0
@@ -185,7 +185,7 @@ def ccC(gi, gj, i, j, sign, board):
 # In[86]:
 
 def AttackingFitness(board):
-    #evaluates possibility for advantagous trades 
+    #evaluates possibility for advantagous trades
         #Counts the number of pieces defending a piece being attacked
     #on board, then divides it
     #by the cost of the defended piece.  All values are then averaged
@@ -199,7 +199,7 @@ def AttackingFitness(board):
         for j in range(len(board[0])):
             if board[i][j].isupper():
                 sign=1
-            else: 
+            else:
                 sign=-1
             p=board[i][j].lower()
             if(p=='s'):
@@ -237,8 +237,8 @@ def inBoard(i, j):
         return True
     else:
         return False
-    
-    
+
+
 def inPalace(i,j):
     if(i>=0 and i<=2 and j>=4 and j<=6):
         return True
@@ -269,19 +269,19 @@ def possR(valb, i, j, sign, board):#done
             valb[col][j]=valb[col][j]+v
             if(board[col][j]!='.'):
                 break
-    
+
     if(inBoard(i,j+1)):
         for row in range(j+1,9):
             valb[i][row]=valb[i][row]+v
             if(board[i][row]!='.'):
                 break
-            
+
     if(inBoard(i,j-1)):
         for row in range(0,j-1):
             valb[i][row]=valb[i][row]+v
             if(board[i][row]!='.'):
                 break
-    
+
 def possH(valb, i, j, sign, board):
     v=sign/pval('h', i, j)
     if(inBoard(i+1,j)):
@@ -331,7 +331,7 @@ def possC(valb, i, j, sign, board):
                     break
             if(board[col][j]!='.'):
                 step=True
-    
+
     if(inBoard(i,j+1)):
         step=False
         for row in range(j+1,9):
@@ -341,7 +341,7 @@ def possC(valb, i, j, sign, board):
                     break
             if(board[i][row]!='.'):
                 step=True
-            
+
     if(inBoard(i,j-1)):
         step=False
         for row in range(0,j-1):
@@ -411,12 +411,12 @@ def pst(board):
     [0,  0,  0, 20,  0, 20,  0,  0,  0]]))
     Epst=np.array(([[ 0,  0,  0,  0,  0,  0,  0,  0,  0],
     [ 0,  0,  0,  0,  0,  0,  0,  0,  0],
-    [ 0,  0,  0,  0,  0,  0,  0,  0,  0], 
-    [ 0,  0,  0,  0,  0,  0,  0,  0,  0],  
-    [ 0,  0,  0,  0,  0,  0,  0,  0,  0], 
-    [ 0,  0, 20,  0,  0,  0, 20,  0,  0], 
-    [ 0,  0,  0,  0,  0,  0,  0,  0,  0], 
-    [18,  0,  0,  0, 23,  0,  0,  0, 18], 
+    [ 0,  0,  0,  0,  0,  0,  0,  0,  0],
+    [ 0,  0,  0,  0,  0,  0,  0,  0,  0],
+    [ 0,  0,  0,  0,  0,  0,  0,  0,  0],
+    [ 0,  0, 20,  0,  0,  0, 20,  0,  0],
+    [ 0,  0,  0,  0,  0,  0,  0,  0,  0],
+    [18,  0,  0,  0, 23,  0,  0,  0, 18],
     [ 0,  0,  0,  0,  0,  0,  0,  0,  0],
     [ 0,  0, 20,  0,  0,  0, 20,  0,  0]]))
     Hpst=np.array(([[90, 90, 90, 96, 90, 96, 90, 90, 90],

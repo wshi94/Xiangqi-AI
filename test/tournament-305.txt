@@ -125,7 +125,7 @@ START{
 34. C8-4   p4+1   35. C8.9   r3.4   36. R7.8   p4+1   
 37. C9.5   p4+1   38. A5-6   h5+6   39. K5+1   h7+5   
 40. P7+1   h6+7   
-/*Red run out of time*/}END
+}END
 
 
 FORMAT 	WXF
@@ -205,7 +205,7 @@ START{
 43. P3+1   p9+1   44. C6.8   p9.8   45. P3.4   c5+1   
 46. P9+1   p8.7   47. C8+6   p7.6   48. P++1   a4+5   
 49. P++1   p6+1   50. C8.4   p6.7   51. P9.8   p7+1   
-/*Black run out of time*/}END
+}END
 
 
 FORMAT 	WXF
@@ -308,7 +308,7 @@ START{
 46. R7+8   a5-4   47. R7.6   k5+1   48. R6.1   h6-8   
 49. K4.5   c4.1   50. H2-1   h8+7   51. K5+1   r6.8   
 52. P1+1   
-/*black runout of time*/}END
+}END
 
 
 FORMAT 	WXF
@@ -989,7 +989,7 @@ START{
 67. R8-2   p4+1   68. R8.5   e3+5   69. R5.8   p4+1   
 70. K6.5   p4.5   71. R8+1   r4.5   72. K5.4   e5-3   
 73. P4+1   k5-1   74. R8-1   p5.6   
-/*Red run out of time*/}END
+}END
 
 
 FORMAT 	WXF
@@ -1351,7 +1351,7 @@ START{
 37. K6.5   c2-9   38. R5-3   r4.2   39. C8.6   r2+5   
 40. C6-6   c2+2   41. R5.4   r6+5   42. H3+4   h7-6   
 43. R2.4   c2.6   
-/*<b01 Black win>*/}END
+}END
 
 
 FORMAT 	WXF
@@ -1678,7 +1678,7 @@ START{
 40. P7+1   k4.5   41. P7+1   c4-2   42. H8+7   k5.6   
 43. R6.3   h7-6   44. C1.4   r1-4   45. R3-3   c4+1   
 46. R3.6   
-/*Black run out of time*/}END
+}END
 
 
 FORMAT 	WXF
@@ -2740,7 +2740,7 @@ START{
 19. R2.5   h7+6   20. C7.4   r4+1   21. A6+5   c8.7   
 22. H3+2   c2-2   23. R5.4   p3+1   24. R4-4   r4-3   
 25. H2+4   r4-1   
-/*<b10 Black run out of time>*/}END
+}END
 
 
 FORMAT 	WXF
@@ -2987,7 +2987,7 @@ START{
 67. K4.5   e3-5   68. H4+3   a4-5   69. R4+3   r4-1   
 70. K5-1   r4+1   71. K5+1   r4-1   72. K5-1   r4+1   
 73. K5+1   r4-1   74. K5-1   r4+1   
-/*<r10 Red run out of time>*/}END
+}END
 
 
 FORMAT 	WXF

@@ -1317,13 +1317,13 @@ START{
 	14. ....   h4+5?   15. E7+5   c5+5   
 	16. K5.4   c5.7   17. H7+5   c7+2   
 	18. R8+5   
-	/*<r05 Red has a slight advantage>*/
+	
 	 }VAREND
 15. A5+4   h4+3   16. R8+2   h3-4   17. A6+5   r1+1   
 18. R8+1   r1.6   19. R2+3   p3+1   20. R8.7   r6.2!! 
 21. P7+1   r2+8   22. H3-4   h5+6   23. R7+1   h6+4   
 24. K5.6   h+-2!! 25. R7-3   c5.3   
-/*<r01 Red win>*/}END
+}END
 
 
 FORMAT 	WXF

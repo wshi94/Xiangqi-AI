@@ -548,7 +548,7 @@ START{
 52. R7+2   k4-1   53. C6-4   r5.7   54. R7.8   h2-3   
 55. R8-1   h3+5   56. R8.9   h5+6   57. R9+2   k4+1   
 58. R9-1   k4-1   59. R9-1   
-/*<r10 Red run out of time>*/}END
+}END
 
 
 FORMAT 	WXF
@@ -663,7 +663,7 @@ START{
 	11. P3+1   p7+1   
 		VAR{ 
 		11. ....   p1+1   
-		/*This is the 3 test*/
+		
 		12. P1+1   
 		 }VAREND
 	12. R2.3   

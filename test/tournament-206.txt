@@ -2540,7 +2540,7 @@ START{
 43. H9+7   p5+1   44. H7-5   a6+5   45. P2.3   c4+1   
 46. H5+3   c4.5   47. K5.6   c5.1   48. H3+1   h3+2   
 49. K6.5   c1.5   50. E3+5   h2-4   
-/*<r01 Red win>*/}END
+}END
 
 
 FORMAT 	WXF
@@ -2563,7 +2563,7 @@ START{
 16. R2.4   r2+4   17. R4-2   h4+2   18. A6+5   c2+1   
 19. P9+1   r2+2   20. A5+6   c4.5   21. A4+5   c5+4   
 22. E3+5   r7.5   23. R4-2   k5.4   24. H6+7   k4.5   
-/*<r10 Red run out of time>*/}END
+}END
 
 
 FORMAT 	WXF

@@ -454,8 +454,7 @@ START{
 16. R8.9   c2+1   17. H4+5   c2.8   18. H5+7   r2.3   
 19. R9.5   e7-5   20. R5.2   r3+2   21. P5+1   r3.1   
 22. P5+1   
-/*black run out of time
-*/}END
+}END
 
 
 FORMAT 	WXF
@@ -796,7 +795,7 @@ START{
 25. H3-1   e3+5   26. R3.2   r4.5   27. C5.1   r5.8   
 28. R2-1   h6+8   29. P7+1   h8+6   30. C6.4   c6.8   
 31. R9.5   r2.8   
-/*red run out of time*/}END
+}END
 
 
 FORMAT 	WXF

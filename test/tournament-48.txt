@@ -1489,7 +1489,7 @@ START{
 34. C2-8   h3-1   35. R1-2   r4.6   36. K4.5   r6-1   
 37. H5-6   r6.8   38. C2.4   e5+7   39. H6-5   r8+6   
 40. R1.6   a5+4   41. A5-4   r8.7   42. R6-2   c6+5   
-/*<r10 Red run out of time>*/}END
+}END
 
 
 FORMAT 	WXF

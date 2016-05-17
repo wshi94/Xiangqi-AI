@@ -172,16 +172,7 @@ ROUND      4
 AUTHOR     Felix Tan
 START{
 1.  E3+5   
-/*Most of the heavy pieces were gone after 20 moves. Red
-was left with a Chariot, a Horse and three Pawns, and
-Black a Chariot, a Cannon and also three Pawns.
 
-Capturing on the positional edge, Black played actively within
-the next dozen moves and had two extra Pawns. Red however
-was able to restrict the movement of the enemy Cannon and
-soon found the opportunity for simplication by trading off the
-Chariots. The China master could not do anything better than
-a draw after trying for another 30 moves.*/
 1. ....   c8.5   2.  H2+3   h8+7   3.  R1.2   r9.8   
 4.  H8+7   p7+1   5.  P7+1   c2.3   6.  H7+8   h7+6   
 7.  A4+5   r8+6   8.  R9+1   h6+5   9.  H3+5   c5+4   
@@ -221,11 +212,7 @@ ROUND      7
 AUTHOR     Felix Tan
 START{
 1.  C2.5   
-/*This is the match that shatters Bu's enthoning hope.
-As both players are going all out for a win, a sharp
-and thrilling game is the logical product.
 
-*/
 1. ....   h8+7   2.  H2+3   r9.8   3.  R1.2   h2+3   
 4.  P7+1   p7+1   5.  R2+6   r1+1   6.  H8+7   r1.4   
 7.  C8.9   c2+4   8.  P5+1   r4+5   9.  P5+1   a6+5   
@@ -1179,7 +1166,7 @@ START{
 16. R9.8   c2.1   17. H4+6   r6+5   18. A6+5   c8+1   
 19. C9.8   r3.2   20. R6.7   h3+4   21. H6+7   r6.9   
 22. R7.6   h4-6   23. R8.7   a6+5   24. R7+1   h6+8   
-/*Red run out of time*/}END
+}END
 
 
 FORMAT 	WXF
@@ -1410,7 +1397,7 @@ START{
 16. R9.8   c2.4   17. R8+3   r5.6   18. R4.2   r6+2   
 19. C6+1   c4+2   20. C6.5   r3+2   21. R2+3   r6-6   
 22. R8+6   e5-3   23. R2-2   c4-4   24. R8-4   
-/*Red run out of time*/}END
+}END
 
 
 FORMAT 	WXF

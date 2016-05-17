@@ -1782,7 +1782,7 @@ START{
 58. H8-6   k5.6   59. C1-5   c8.5   60. A6+5   a5+4   
 61. C1+2   h7+6   62. C1.6   h6+8   63. A5-4   a4+5   
 64. C6-1   p6.5   
-/*<r10 Red run out of time>*/}END
+}END
 
 
 FORMAT 	WXF

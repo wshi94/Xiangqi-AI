@@ -148,7 +148,7 @@ EVENT 	Malaysian Qiwang Championship ; 1998,7
 ROUND 	8
 START{
 1.  C2.5	
-/*Zeng Xianjun (Red) was the Malaysian University champion. He is well known for his ability to play blindfold xiangqi. Together with his university mate IM Xu Juguang, Zeng had played one against five in blindfold simultaneous matches. He has the potential of becoming a IM class player.*/
+
 1. .........	h8+7	2.  H2+3	r9.8	3.  R1.2	p7+1	
 4.  R2+6	h2+3	5.  H8+7	p3+1	6.  R9+1	c2+1	
 7.  R2-2	e3+5	8.  P3+1	p7+1	9.  R2.3	h7+6	

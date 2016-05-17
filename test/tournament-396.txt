@@ -28,7 +28,7 @@ START{
 43. P5.6   c2+2   44. H5+4   c2.8   45. C6+2   c8-1   
 46. P6.5   k5.6   47. C6.3   h7-9   48. C3-2   c8-5   
 49. E5+3   e7-9   50. H8-6   
-/*<b10 Black run out of time>*/}END
+}END
 
 
 FORMAT 	WXF
@@ -407,7 +407,7 @@ START{
 28. H4+2   c8.5   29. A5+6   a4+5   30. H3+4   r4.7   
 31. H4-5   r7+5   32. K5+1   c9-1   33. K5.6   r7-2   
 34. R7.3   
-/*<r02 Red has a crushing advantage (Black should resign)>*/}END
+}END
 
 
 FORMAT 	WXF

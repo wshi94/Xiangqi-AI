@@ -2,20 +2,1312 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="403c813e-9fce-49d6-8793-dd4644dc298a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FitnessFunction2.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-1-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-1-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-1-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-1-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-1-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-1-6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-1-7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-10-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-10-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-101-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-104-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-105-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-107-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-11-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-110-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-111-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-114-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-115-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-116-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-116-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-12-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-12-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-12-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-12-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-12-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-12-6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-121-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-122-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-127.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-129-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-129-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-129-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-129-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-129-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-13-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-13-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-13-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-13-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-13-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-13-6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-13-7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-13-8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-13-9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-133-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-134-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-135-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-136-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-137-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-138-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-138-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-33.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-34.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-35.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-37.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-139-9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-140-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-140-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-140-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-141-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-141-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-142-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-143-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-144-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-144-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-145-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-145-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-145-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-146-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-147-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-148-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-15-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-150-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-150-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-150-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-150-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-150-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-150-6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-151-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-152-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-153-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-154-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-156-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-157-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-158-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-158-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-158-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-158-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-159-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-16-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-16-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-16-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-16-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-16-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-16-6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-160-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-161-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-164-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-167-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-168-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-168-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-17-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-19-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-203-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-203-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-204-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-205-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-206-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-208-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-208-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-208-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-21-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-210-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-211-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-212-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-213-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-215-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-216-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-217-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-218-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-218-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-218-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-219-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-220-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-220-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-221-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-222-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-223-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-225-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-226-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-227-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-228-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-229-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-230-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-231-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-232-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-232-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-232-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-240-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-240-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-241-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-242-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-243-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-244-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-25-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-257-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-264-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-266-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-27-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-28-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-288-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-29-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-293-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-294-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-296-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-299-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-3-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-30-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-30-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-30-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-30-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-30-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-30-6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-30-7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-30-8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-300-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-305-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-306-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-306-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-307-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-307-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-308-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-31-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-310-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-32-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-320-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-321-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-33-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-33-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-332-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-334-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-337-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-338.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-34-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-340-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-341-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-342-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-343-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-344-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-347-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-348-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-349-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-351-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-352-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-355-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-358-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-359-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-36-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-361-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-361-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-362-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-363-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-364-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-367-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-368-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-37-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-370-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-371-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-371.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-375-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-379-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-38-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-380-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-385-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-387-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-389-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-39-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-390-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-393-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-394-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-395-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-396-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-33.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-34.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-35.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-37.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-41.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-42.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-43.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-46.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-47.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-48.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-51.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-52.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-53.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-54.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-56.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-57.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-58.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-59.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-60.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-61.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-62.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-63.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-64.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-4-9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-401-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-406-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-407-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-408-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-409-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-41-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-41-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-410-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-411-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-413-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-414-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-42-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-420-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-421-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-425-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-426-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-429-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-43-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-430-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-439-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-44-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-441-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-442-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-444-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-444.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-445-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-446-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-447-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-448-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-449-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-449-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-45-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-450-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-452-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-452-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-453-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-454-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-455-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-456-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-457-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-458-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-459-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-46-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-460-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-461-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-462-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-463-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-464-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-465-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-466-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-467-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-467-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-468-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-469-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-47-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-470-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-471-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-472-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-473-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-474-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-475-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-476-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-477-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-478-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-479-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-48-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-480-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-481-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-482-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-483-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-484-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-485-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-486-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-487-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-489-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-490-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-491-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-492-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-493-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-494-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-495-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-496-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-497-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-498-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-499-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-33.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-34.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-35.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-37.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-41.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-42.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-43.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-46.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-47.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-48.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-51.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-52.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-53.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-54.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-56.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-57.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-58.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-59.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-60.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-61.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-62.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-63.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-64.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-65.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-66.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-67.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-68.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-69.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-70.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-71.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-72.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-73.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-74.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-75.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-76.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-77.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-78.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-79.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-5-9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-50-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-500-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-501-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-502-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-503-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-504-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-506-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-508-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-509-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-509-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-51-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-510-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-513-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-518-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-52-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-520-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-521-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-522-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-526-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-53-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-530-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-531-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-532-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-533-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-534-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-534-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-535-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-536-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-537-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-538-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-539-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-539-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-540-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-541-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-542-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-543-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-543-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-544-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-545-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-546-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-547-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-547-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-547-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-547-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-547-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-547-6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-547-7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-547-8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-548-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-549-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-550-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-551-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-552-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-553-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-554-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-555-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-556-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-557-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-558-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-559-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-560-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-561-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-562-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-563-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-564-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-565-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-566-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-567-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-568-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-569-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-570-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-571-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-572-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-573-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-574-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-58-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-6-9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-60-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-62-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-64-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-65-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-66-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-68-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-7-9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-70-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-72-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-72.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-73-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-74-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-75-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-76-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-77-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-78-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-80-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-82-9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-83-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-83-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-84-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-84-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-85-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-86-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-87-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-87-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-87-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-88-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-88-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-89-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-89-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-9-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-9-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-9-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-90-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-90-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-90-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-90-4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-90-5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-92-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-93-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/tournament-94-1.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FitnessFunction.py" afterPath="$PROJECT_DIR$/FitnessFunction.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classify.py" afterPath="$PROJECT_DIR$/classify.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/move.py" afterPath="$PROJECT_DIR$/move.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_game.py" afterPath="$PROJECT_DIR$/new_game.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-20.txt" afterPath="$PROJECT_DIR$/test/tournament-20.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-21.txt" afterPath="$PROJECT_DIR$/test/tournament-21.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-22.txt" afterPath="$PROJECT_DIR$/test/tournament-22.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-23.txt" afterPath="$PROJECT_DIR$/test/tournament-23.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-24.txt" afterPath="$PROJECT_DIR$/test/tournament-24.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-25.txt" afterPath="$PROJECT_DIR$/test/tournament-25.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-26.txt" afterPath="$PROJECT_DIR$/test/tournament-26.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-27.txt" afterPath="$PROJECT_DIR$/test/tournament-27.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-28.txt" afterPath="$PROJECT_DIR$/test/tournament-28.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-29.txt" afterPath="$PROJECT_DIR$/test/tournament-29.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-100.txt" afterPath="$PROJECT_DIR$/test/tournament-100.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-101.txt" afterPath="$PROJECT_DIR$/test/tournament-101.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-102.txt" afterPath="$PROJECT_DIR$/test/tournament-102.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-103.txt" afterPath="$PROJECT_DIR$/test/tournament-103.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-104.txt" afterPath="$PROJECT_DIR$/test/tournament-104.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-105.txt" afterPath="$PROJECT_DIR$/test/tournament-105.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-106.txt" afterPath="$PROJECT_DIR$/test/tournament-106.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-107.txt" afterPath="$PROJECT_DIR$/test/tournament-107.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-108.txt" afterPath="$PROJECT_DIR$/test/tournament-108.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-109.txt" afterPath="$PROJECT_DIR$/test/tournament-109.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-110.txt" afterPath="$PROJECT_DIR$/test/tournament-110.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-111.txt" afterPath="$PROJECT_DIR$/test/tournament-111.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-112.txt" afterPath="$PROJECT_DIR$/test/tournament-112.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-113.txt" afterPath="$PROJECT_DIR$/test/tournament-113.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-114.txt" afterPath="$PROJECT_DIR$/test/tournament-114.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-115.txt" afterPath="$PROJECT_DIR$/test/tournament-115.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-116.txt" afterPath="$PROJECT_DIR$/test/tournament-116.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-117.txt" afterPath="$PROJECT_DIR$/test/tournament-117.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-118.txt" afterPath="$PROJECT_DIR$/test/tournament-118.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-119.txt" afterPath="$PROJECT_DIR$/test/tournament-119.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-120.txt" afterPath="$PROJECT_DIR$/test/tournament-120.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-121.txt" afterPath="$PROJECT_DIR$/test/tournament-121.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-122.txt" afterPath="$PROJECT_DIR$/test/tournament-122.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-123.txt" afterPath="$PROJECT_DIR$/test/tournament-123.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-124.txt" afterPath="$PROJECT_DIR$/test/tournament-124.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-125.txt" afterPath="$PROJECT_DIR$/test/tournament-125.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-126.txt" afterPath="$PROJECT_DIR$/test/tournament-126.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-128.txt" afterPath="$PROJECT_DIR$/test/tournament-128.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-129.txt" afterPath="$PROJECT_DIR$/test/tournament-129.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-13.txt" afterPath="$PROJECT_DIR$/test/tournament-13.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-130.txt" afterPath="$PROJECT_DIR$/test/tournament-130.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-131.txt" afterPath="$PROJECT_DIR$/test/tournament-131.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-132.txt" afterPath="$PROJECT_DIR$/test/tournament-132.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-133.txt" afterPath="$PROJECT_DIR$/test/tournament-133.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-134.txt" afterPath="$PROJECT_DIR$/test/tournament-134.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-135.txt" afterPath="$PROJECT_DIR$/test/tournament-135.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-136.txt" afterPath="$PROJECT_DIR$/test/tournament-136.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-137.txt" afterPath="$PROJECT_DIR$/test/tournament-137.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-138.txt" afterPath="$PROJECT_DIR$/test/tournament-138.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-139.txt" afterPath="$PROJECT_DIR$/test/tournament-139.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-14.txt" afterPath="$PROJECT_DIR$/test/tournament-14.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-140.txt" afterPath="$PROJECT_DIR$/test/tournament-140.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-141.txt" afterPath="$PROJECT_DIR$/test/tournament-141.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-142.txt" afterPath="$PROJECT_DIR$/test/tournament-142.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-143.txt" afterPath="$PROJECT_DIR$/test/tournament-143.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-144.txt" afterPath="$PROJECT_DIR$/test/tournament-144.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-145.txt" afterPath="$PROJECT_DIR$/test/tournament-145.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-146.txt" afterPath="$PROJECT_DIR$/test/tournament-146.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-147.txt" afterPath="$PROJECT_DIR$/test/tournament-147.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-148.txt" afterPath="$PROJECT_DIR$/test/tournament-148.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-149.txt" afterPath="$PROJECT_DIR$/test/tournament-149.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-15.txt" afterPath="$PROJECT_DIR$/test/tournament-15.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-150.txt" afterPath="$PROJECT_DIR$/test/tournament-150.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-151.txt" afterPath="$PROJECT_DIR$/test/tournament-151.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-152.txt" afterPath="$PROJECT_DIR$/test/tournament-152.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-153.txt" afterPath="$PROJECT_DIR$/test/tournament-153.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-154.txt" afterPath="$PROJECT_DIR$/test/tournament-154.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-155.txt" afterPath="$PROJECT_DIR$/test/tournament-155.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-156.txt" afterPath="$PROJECT_DIR$/test/tournament-156.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-157.txt" afterPath="$PROJECT_DIR$/test/tournament-157.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-158.txt" afterPath="$PROJECT_DIR$/test/tournament-158.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-159.txt" afterPath="$PROJECT_DIR$/test/tournament-159.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-16.txt" afterPath="$PROJECT_DIR$/test/tournament-16.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-160.txt" afterPath="$PROJECT_DIR$/test/tournament-160.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-161.txt" afterPath="$PROJECT_DIR$/test/tournament-161.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-162.txt" afterPath="$PROJECT_DIR$/test/tournament-162.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-163.txt" afterPath="$PROJECT_DIR$/test/tournament-163.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-164.txt" afterPath="$PROJECT_DIR$/test/tournament-164.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-165.txt" afterPath="$PROJECT_DIR$/test/tournament-165.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-166.txt" afterPath="$PROJECT_DIR$/test/tournament-166.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-167.txt" afterPath="$PROJECT_DIR$/test/tournament-167.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-168.txt" afterPath="$PROJECT_DIR$/test/tournament-168.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-169.txt" afterPath="$PROJECT_DIR$/test/tournament-169.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-17.txt" afterPath="$PROJECT_DIR$/test/tournament-17.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-170.txt" afterPath="$PROJECT_DIR$/test/tournament-170.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-171.txt" afterPath="$PROJECT_DIR$/test/tournament-171.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-172.txt" afterPath="$PROJECT_DIR$/test/tournament-172.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-173.txt" afterPath="$PROJECT_DIR$/test/tournament-173.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-174.txt" afterPath="$PROJECT_DIR$/test/tournament-174.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-175.txt" afterPath="$PROJECT_DIR$/test/tournament-175.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-176.txt" afterPath="$PROJECT_DIR$/test/tournament-176.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-177.txt" afterPath="$PROJECT_DIR$/test/tournament-177.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-178.txt" afterPath="$PROJECT_DIR$/test/tournament-178.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-179.txt" afterPath="$PROJECT_DIR$/test/tournament-179.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-18.txt" afterPath="$PROJECT_DIR$/test/tournament-18.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-180.txt" afterPath="$PROJECT_DIR$/test/tournament-180.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-181.txt" afterPath="$PROJECT_DIR$/test/tournament-181.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-182.txt" afterPath="$PROJECT_DIR$/test/tournament-182.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-183.txt" afterPath="$PROJECT_DIR$/test/tournament-183.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-184.txt" afterPath="$PROJECT_DIR$/test/tournament-184.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-185.txt" afterPath="$PROJECT_DIR$/test/tournament-185.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-186.txt" afterPath="$PROJECT_DIR$/test/tournament-186.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-187.txt" afterPath="$PROJECT_DIR$/test/tournament-187.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-188.txt" afterPath="$PROJECT_DIR$/test/tournament-188.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-189.txt" afterPath="$PROJECT_DIR$/test/tournament-189.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-19.txt" afterPath="$PROJECT_DIR$/test/tournament-19.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-190.txt" afterPath="$PROJECT_DIR$/test/tournament-190.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-191.txt" afterPath="$PROJECT_DIR$/test/tournament-191.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-192.txt" afterPath="$PROJECT_DIR$/test/tournament-192.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-193.txt" afterPath="$PROJECT_DIR$/test/tournament-193.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-194.txt" afterPath="$PROJECT_DIR$/test/tournament-194.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-195.txt" afterPath="$PROJECT_DIR$/test/tournament-195.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-196.txt" afterPath="$PROJECT_DIR$/test/tournament-196.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-197.txt" afterPath="$PROJECT_DIR$/test/tournament-197.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-198.txt" afterPath="$PROJECT_DIR$/test/tournament-198.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-199.txt" afterPath="$PROJECT_DIR$/test/tournament-199.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-200.txt" afterPath="$PROJECT_DIR$/test/tournament-200.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-201.txt" afterPath="$PROJECT_DIR$/test/tournament-201.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-202.txt" afterPath="$PROJECT_DIR$/test/tournament-202.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-203.txt" afterPath="$PROJECT_DIR$/test/tournament-203.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-204.txt" afterPath="$PROJECT_DIR$/test/tournament-204.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-205.txt" afterPath="$PROJECT_DIR$/test/tournament-205.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-206.txt" afterPath="$PROJECT_DIR$/test/tournament-206.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-207.txt" afterPath="$PROJECT_DIR$/test/tournament-207.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-208.txt" afterPath="$PROJECT_DIR$/test/tournament-208.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-209.txt" afterPath="$PROJECT_DIR$/test/tournament-209.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-210.txt" afterPath="$PROJECT_DIR$/test/tournament-210.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-211.txt" afterPath="$PROJECT_DIR$/test/tournament-211.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-212.txt" afterPath="$PROJECT_DIR$/test/tournament-212.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-213.txt" afterPath="$PROJECT_DIR$/test/tournament-213.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-214.txt" afterPath="$PROJECT_DIR$/test/tournament-214.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-215.txt" afterPath="$PROJECT_DIR$/test/tournament-215.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-216.txt" afterPath="$PROJECT_DIR$/test/tournament-216.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-217.txt" afterPath="$PROJECT_DIR$/test/tournament-217.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-218.txt" afterPath="$PROJECT_DIR$/test/tournament-218.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-219.txt" afterPath="$PROJECT_DIR$/test/tournament-219.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-220.txt" afterPath="$PROJECT_DIR$/test/tournament-220.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-221.txt" afterPath="$PROJECT_DIR$/test/tournament-221.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-222.txt" afterPath="$PROJECT_DIR$/test/tournament-222.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-223.txt" afterPath="$PROJECT_DIR$/test/tournament-223.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-224.txt" afterPath="$PROJECT_DIR$/test/tournament-224.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-225.txt" afterPath="$PROJECT_DIR$/test/tournament-225.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-226.txt" afterPath="$PROJECT_DIR$/test/tournament-226.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-227.txt" afterPath="$PROJECT_DIR$/test/tournament-227.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-228.txt" afterPath="$PROJECT_DIR$/test/tournament-228.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-229.txt" afterPath="$PROJECT_DIR$/test/tournament-229.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-230.txt" afterPath="$PROJECT_DIR$/test/tournament-230.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-231.txt" afterPath="$PROJECT_DIR$/test/tournament-231.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-232.txt" afterPath="$PROJECT_DIR$/test/tournament-232.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-233.txt" afterPath="$PROJECT_DIR$/test/tournament-233.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-234.txt" afterPath="$PROJECT_DIR$/test/tournament-234.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-235.txt" afterPath="$PROJECT_DIR$/test/tournament-235.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-236.txt" afterPath="$PROJECT_DIR$/test/tournament-236.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-237.txt" afterPath="$PROJECT_DIR$/test/tournament-237.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-238.txt" afterPath="$PROJECT_DIR$/test/tournament-238.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-239.txt" afterPath="$PROJECT_DIR$/test/tournament-239.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-240.txt" afterPath="$PROJECT_DIR$/test/tournament-240.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-241.txt" afterPath="$PROJECT_DIR$/test/tournament-241.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-242.txt" afterPath="$PROJECT_DIR$/test/tournament-242.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-243.txt" afterPath="$PROJECT_DIR$/test/tournament-243.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-244.txt" afterPath="$PROJECT_DIR$/test/tournament-244.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-245.txt" afterPath="$PROJECT_DIR$/test/tournament-245.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-246.txt" afterPath="$PROJECT_DIR$/test/tournament-246.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-247.txt" afterPath="$PROJECT_DIR$/test/tournament-247.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-248.txt" afterPath="$PROJECT_DIR$/test/tournament-248.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-249.txt" afterPath="$PROJECT_DIR$/test/tournament-249.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-250.txt" afterPath="$PROJECT_DIR$/test/tournament-250.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-251.txt" afterPath="$PROJECT_DIR$/test/tournament-251.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-252.txt" afterPath="$PROJECT_DIR$/test/tournament-252.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-253.txt" afterPath="$PROJECT_DIR$/test/tournament-253.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-254.txt" afterPath="$PROJECT_DIR$/test/tournament-254.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-255.txt" afterPath="$PROJECT_DIR$/test/tournament-255.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-256.txt" afterPath="$PROJECT_DIR$/test/tournament-256.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-257.txt" afterPath="$PROJECT_DIR$/test/tournament-257.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-258.txt" afterPath="$PROJECT_DIR$/test/tournament-258.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-259.txt" afterPath="$PROJECT_DIR$/test/tournament-259.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-260.txt" afterPath="$PROJECT_DIR$/test/tournament-260.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-261.txt" afterPath="$PROJECT_DIR$/test/tournament-261.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-262.txt" afterPath="$PROJECT_DIR$/test/tournament-262.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-263.txt" afterPath="$PROJECT_DIR$/test/tournament-263.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-264.txt" afterPath="$PROJECT_DIR$/test/tournament-264.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-265.txt" afterPath="$PROJECT_DIR$/test/tournament-265.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-266.txt" afterPath="$PROJECT_DIR$/test/tournament-266.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-267.txt" afterPath="$PROJECT_DIR$/test/tournament-267.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-268.txt" afterPath="$PROJECT_DIR$/test/tournament-268.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-269.txt" afterPath="$PROJECT_DIR$/test/tournament-269.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-270.txt" afterPath="$PROJECT_DIR$/test/tournament-270.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-271.txt" afterPath="$PROJECT_DIR$/test/tournament-271.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-272.txt" afterPath="$PROJECT_DIR$/test/tournament-272.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-273.txt" afterPath="$PROJECT_DIR$/test/tournament-273.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-274.txt" afterPath="$PROJECT_DIR$/test/tournament-274.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-275.txt" afterPath="$PROJECT_DIR$/test/tournament-275.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-276.txt" afterPath="$PROJECT_DIR$/test/tournament-276.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-277.txt" afterPath="$PROJECT_DIR$/test/tournament-277.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-278.txt" afterPath="$PROJECT_DIR$/test/tournament-278.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-279.txt" afterPath="$PROJECT_DIR$/test/tournament-279.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-280.txt" afterPath="$PROJECT_DIR$/test/tournament-280.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-281.txt" afterPath="$PROJECT_DIR$/test/tournament-281.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-282.txt" afterPath="$PROJECT_DIR$/test/tournament-282.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-283.txt" afterPath="$PROJECT_DIR$/test/tournament-283.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-284.txt" afterPath="$PROJECT_DIR$/test/tournament-284.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-285.txt" afterPath="$PROJECT_DIR$/test/tournament-285.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-286.txt" afterPath="$PROJECT_DIR$/test/tournament-286.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-287.txt" afterPath="$PROJECT_DIR$/test/tournament-287.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-288.txt" afterPath="$PROJECT_DIR$/test/tournament-288.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-289.txt" afterPath="$PROJECT_DIR$/test/tournament-289.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-290.txt" afterPath="$PROJECT_DIR$/test/tournament-290.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-291.txt" afterPath="$PROJECT_DIR$/test/tournament-291.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-292.txt" afterPath="$PROJECT_DIR$/test/tournament-292.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-293.txt" afterPath="$PROJECT_DIR$/test/tournament-293.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-294.txt" afterPath="$PROJECT_DIR$/test/tournament-294.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-295.txt" afterPath="$PROJECT_DIR$/test/tournament-295.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-296.txt" afterPath="$PROJECT_DIR$/test/tournament-296.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-297.txt" afterPath="$PROJECT_DIR$/test/tournament-297.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-298.txt" afterPath="$PROJECT_DIR$/test/tournament-298.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-299.txt" afterPath="$PROJECT_DIR$/test/tournament-299.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-30.txt" afterPath="$PROJECT_DIR$/test/tournament-30.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-300.txt" afterPath="$PROJECT_DIR$/test/tournament-300.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-301.txt" afterPath="$PROJECT_DIR$/test/tournament-301.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-302.txt" afterPath="$PROJECT_DIR$/test/tournament-302.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-303.txt" afterPath="$PROJECT_DIR$/test/tournament-303.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-304.txt" afterPath="$PROJECT_DIR$/test/tournament-304.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-305.txt" afterPath="$PROJECT_DIR$/test/tournament-305.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-306.txt" afterPath="$PROJECT_DIR$/test/tournament-306.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-307.txt" afterPath="$PROJECT_DIR$/test/tournament-307.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-308.txt" afterPath="$PROJECT_DIR$/test/tournament-308.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-309.txt" afterPath="$PROJECT_DIR$/test/tournament-309.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-31.txt" afterPath="$PROJECT_DIR$/test/tournament-31.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-310.txt" afterPath="$PROJECT_DIR$/test/tournament-310.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-311.txt" afterPath="$PROJECT_DIR$/test/tournament-311.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-312.txt" afterPath="$PROJECT_DIR$/test/tournament-312.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-313.txt" afterPath="$PROJECT_DIR$/test/tournament-313.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-314.txt" afterPath="$PROJECT_DIR$/test/tournament-314.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-315.txt" afterPath="$PROJECT_DIR$/test/tournament-315.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-316.txt" afterPath="$PROJECT_DIR$/test/tournament-316.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-317.txt" afterPath="$PROJECT_DIR$/test/tournament-317.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-318.txt" afterPath="$PROJECT_DIR$/test/tournament-318.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-319.txt" afterPath="$PROJECT_DIR$/test/tournament-319.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-32.txt" afterPath="$PROJECT_DIR$/test/tournament-32.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-320.txt" afterPath="$PROJECT_DIR$/test/tournament-320.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-321.txt" afterPath="$PROJECT_DIR$/test/tournament-321.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-322.txt" afterPath="$PROJECT_DIR$/test/tournament-322.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-323.txt" afterPath="$PROJECT_DIR$/test/tournament-323.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-324.txt" afterPath="$PROJECT_DIR$/test/tournament-324.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-325.txt" afterPath="$PROJECT_DIR$/test/tournament-325.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-326.txt" afterPath="$PROJECT_DIR$/test/tournament-326.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-327.txt" afterPath="$PROJECT_DIR$/test/tournament-327.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-328.txt" afterPath="$PROJECT_DIR$/test/tournament-328.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-329.txt" afterPath="$PROJECT_DIR$/test/tournament-329.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-33.txt" afterPath="$PROJECT_DIR$/test/tournament-33.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-330.txt" afterPath="$PROJECT_DIR$/test/tournament-330.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-331.txt" afterPath="$PROJECT_DIR$/test/tournament-331.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-332.txt" afterPath="$PROJECT_DIR$/test/tournament-332.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-333.txt" afterPath="$PROJECT_DIR$/test/tournament-333.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-334.txt" afterPath="$PROJECT_DIR$/test/tournament-334.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-335.txt" afterPath="$PROJECT_DIR$/test/tournament-335.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-336.txt" afterPath="$PROJECT_DIR$/test/tournament-336.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-337.txt" afterPath="$PROJECT_DIR$/test/tournament-337.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-339.txt" afterPath="$PROJECT_DIR$/test/tournament-339.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-34.txt" afterPath="$PROJECT_DIR$/test/tournament-34.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-340.txt" afterPath="$PROJECT_DIR$/test/tournament-340.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-341.txt" afterPath="$PROJECT_DIR$/test/tournament-341.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-342.txt" afterPath="$PROJECT_DIR$/test/tournament-342.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-343.txt" afterPath="$PROJECT_DIR$/test/tournament-343.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-344.txt" afterPath="$PROJECT_DIR$/test/tournament-344.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-345.txt" afterPath="$PROJECT_DIR$/test/tournament-345.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-346.txt" afterPath="$PROJECT_DIR$/test/tournament-346.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-347.txt" afterPath="$PROJECT_DIR$/test/tournament-347.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-348.txt" afterPath="$PROJECT_DIR$/test/tournament-348.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-349.txt" afterPath="$PROJECT_DIR$/test/tournament-349.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-35.txt" afterPath="$PROJECT_DIR$/test/tournament-35.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-350.txt" afterPath="$PROJECT_DIR$/test/tournament-350.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-351.txt" afterPath="$PROJECT_DIR$/test/tournament-351.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-352.txt" afterPath="$PROJECT_DIR$/test/tournament-352.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-353.txt" afterPath="$PROJECT_DIR$/test/tournament-353.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-354.txt" afterPath="$PROJECT_DIR$/test/tournament-354.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-355.txt" afterPath="$PROJECT_DIR$/test/tournament-355.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-356.txt" afterPath="$PROJECT_DIR$/test/tournament-356.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-357.txt" afterPath="$PROJECT_DIR$/test/tournament-357.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-358.txt" afterPath="$PROJECT_DIR$/test/tournament-358.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-359.txt" afterPath="$PROJECT_DIR$/test/tournament-359.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-36.txt" afterPath="$PROJECT_DIR$/test/tournament-36.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-360.txt" afterPath="$PROJECT_DIR$/test/tournament-360.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-361.txt" afterPath="$PROJECT_DIR$/test/tournament-361.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-362.txt" afterPath="$PROJECT_DIR$/test/tournament-362.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-363.txt" afterPath="$PROJECT_DIR$/test/tournament-363.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-364.txt" afterPath="$PROJECT_DIR$/test/tournament-364.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-365.txt" afterPath="$PROJECT_DIR$/test/tournament-365.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-366.txt" afterPath="$PROJECT_DIR$/test/tournament-366.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-367.txt" afterPath="$PROJECT_DIR$/test/tournament-367.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-368.txt" afterPath="$PROJECT_DIR$/test/tournament-368.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-369.txt" afterPath="$PROJECT_DIR$/test/tournament-369.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-37.txt" afterPath="$PROJECT_DIR$/test/tournament-37.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-370.txt" afterPath="$PROJECT_DIR$/test/tournament-370.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-372.txt" afterPath="$PROJECT_DIR$/test/tournament-372.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-373.txt" afterPath="$PROJECT_DIR$/test/tournament-373.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-374.txt" afterPath="$PROJECT_DIR$/test/tournament-374.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-375.txt" afterPath="$PROJECT_DIR$/test/tournament-375.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-376.txt" afterPath="$PROJECT_DIR$/test/tournament-376.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-377.txt" afterPath="$PROJECT_DIR$/test/tournament-377.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-378.txt" afterPath="$PROJECT_DIR$/test/tournament-378.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-379.txt" afterPath="$PROJECT_DIR$/test/tournament-379.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-38.txt" afterPath="$PROJECT_DIR$/test/tournament-38.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-380.txt" afterPath="$PROJECT_DIR$/test/tournament-380.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-381.txt" afterPath="$PROJECT_DIR$/test/tournament-381.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-382.txt" afterPath="$PROJECT_DIR$/test/tournament-382.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-383.txt" afterPath="$PROJECT_DIR$/test/tournament-383.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-384.txt" afterPath="$PROJECT_DIR$/test/tournament-384.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-385.txt" afterPath="$PROJECT_DIR$/test/tournament-385.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-386.txt" afterPath="$PROJECT_DIR$/test/tournament-386.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-387.txt" afterPath="$PROJECT_DIR$/test/tournament-387.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-388.txt" afterPath="$PROJECT_DIR$/test/tournament-388.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-389.txt" afterPath="$PROJECT_DIR$/test/tournament-389.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-39.txt" afterPath="$PROJECT_DIR$/test/tournament-39.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-390.txt" afterPath="$PROJECT_DIR$/test/tournament-390.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-391.txt" afterPath="$PROJECT_DIR$/test/tournament-391.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-392.txt" afterPath="$PROJECT_DIR$/test/tournament-392.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-393.txt" afterPath="$PROJECT_DIR$/test/tournament-393.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-394.txt" afterPath="$PROJECT_DIR$/test/tournament-394.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-395.txt" afterPath="$PROJECT_DIR$/test/tournament-395.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-396.txt" afterPath="$PROJECT_DIR$/test/tournament-396.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-397.txt" afterPath="$PROJECT_DIR$/test/tournament-397.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-398.txt" afterPath="$PROJECT_DIR$/test/tournament-398.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-399.txt" afterPath="$PROJECT_DIR$/test/tournament-399.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-40.txt" afterPath="$PROJECT_DIR$/test/tournament-40.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-400.txt" afterPath="$PROJECT_DIR$/test/tournament-400.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-401.txt" afterPath="$PROJECT_DIR$/test/tournament-401.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-402.txt" afterPath="$PROJECT_DIR$/test/tournament-402.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-403.txt" afterPath="$PROJECT_DIR$/test/tournament-403.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-404.txt" afterPath="$PROJECT_DIR$/test/tournament-404.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-405.txt" afterPath="$PROJECT_DIR$/test/tournament-405.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-406.txt" afterPath="$PROJECT_DIR$/test/tournament-406.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-407.txt" afterPath="$PROJECT_DIR$/test/tournament-407.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-408.txt" afterPath="$PROJECT_DIR$/test/tournament-408.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-409.txt" afterPath="$PROJECT_DIR$/test/tournament-409.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-41.txt" afterPath="$PROJECT_DIR$/test/tournament-41.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-410.txt" afterPath="$PROJECT_DIR$/test/tournament-410.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-411.txt" afterPath="$PROJECT_DIR$/test/tournament-411.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-412.txt" afterPath="$PROJECT_DIR$/test/tournament-412.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-413.txt" afterPath="$PROJECT_DIR$/test/tournament-413.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-414.txt" afterPath="$PROJECT_DIR$/test/tournament-414.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-415.txt" afterPath="$PROJECT_DIR$/test/tournament-415.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-416.txt" afterPath="$PROJECT_DIR$/test/tournament-416.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-417.txt" afterPath="$PROJECT_DIR$/test/tournament-417.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-418.txt" afterPath="$PROJECT_DIR$/test/tournament-418.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-419.txt" afterPath="$PROJECT_DIR$/test/tournament-419.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-42.txt" afterPath="$PROJECT_DIR$/test/tournament-42.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-420.txt" afterPath="$PROJECT_DIR$/test/tournament-420.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-421.txt" afterPath="$PROJECT_DIR$/test/tournament-421.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-422.txt" afterPath="$PROJECT_DIR$/test/tournament-422.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-423.txt" afterPath="$PROJECT_DIR$/test/tournament-423.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-424.txt" afterPath="$PROJECT_DIR$/test/tournament-424.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-425.txt" afterPath="$PROJECT_DIR$/test/tournament-425.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-426.txt" afterPath="$PROJECT_DIR$/test/tournament-426.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-427.txt" afterPath="$PROJECT_DIR$/test/tournament-427.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-428.txt" afterPath="$PROJECT_DIR$/test/tournament-428.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-429.txt" afterPath="$PROJECT_DIR$/test/tournament-429.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-43.txt" afterPath="$PROJECT_DIR$/test/tournament-43.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-430.txt" afterPath="$PROJECT_DIR$/test/tournament-430.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-431.txt" afterPath="$PROJECT_DIR$/test/tournament-431.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-432.txt" afterPath="$PROJECT_DIR$/test/tournament-432.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-433.txt" afterPath="$PROJECT_DIR$/test/tournament-433.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-434.txt" afterPath="$PROJECT_DIR$/test/tournament-434.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-435.txt" afterPath="$PROJECT_DIR$/test/tournament-435.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-436.txt" afterPath="$PROJECT_DIR$/test/tournament-436.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-437.txt" afterPath="$PROJECT_DIR$/test/tournament-437.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-438.txt" afterPath="$PROJECT_DIR$/test/tournament-438.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-439.txt" afterPath="$PROJECT_DIR$/test/tournament-439.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-44.txt" afterPath="$PROJECT_DIR$/test/tournament-44.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-440.txt" afterPath="$PROJECT_DIR$/test/tournament-440.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-441.txt" afterPath="$PROJECT_DIR$/test/tournament-441.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-442.txt" afterPath="$PROJECT_DIR$/test/tournament-442.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-443.txt" afterPath="$PROJECT_DIR$/test/tournament-443.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-445.txt" afterPath="$PROJECT_DIR$/test/tournament-445.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-446.txt" afterPath="$PROJECT_DIR$/test/tournament-446.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-447.txt" afterPath="$PROJECT_DIR$/test/tournament-447.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-448.txt" afterPath="$PROJECT_DIR$/test/tournament-448.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-449.txt" afterPath="$PROJECT_DIR$/test/tournament-449.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-45.txt" afterPath="$PROJECT_DIR$/test/tournament-45.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-450.txt" afterPath="$PROJECT_DIR$/test/tournament-450.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-451.txt" afterPath="$PROJECT_DIR$/test/tournament-451.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-452.txt" afterPath="$PROJECT_DIR$/test/tournament-452.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-453.txt" afterPath="$PROJECT_DIR$/test/tournament-453.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-454.txt" afterPath="$PROJECT_DIR$/test/tournament-454.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-455.txt" afterPath="$PROJECT_DIR$/test/tournament-455.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-456.txt" afterPath="$PROJECT_DIR$/test/tournament-456.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-457.txt" afterPath="$PROJECT_DIR$/test/tournament-457.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-458.txt" afterPath="$PROJECT_DIR$/test/tournament-458.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-459.txt" afterPath="$PROJECT_DIR$/test/tournament-459.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-46.txt" afterPath="$PROJECT_DIR$/test/tournament-46.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-460.txt" afterPath="$PROJECT_DIR$/test/tournament-460.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-461.txt" afterPath="$PROJECT_DIR$/test/tournament-461.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-462.txt" afterPath="$PROJECT_DIR$/test/tournament-462.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-463.txt" afterPath="$PROJECT_DIR$/test/tournament-463.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-464.txt" afterPath="$PROJECT_DIR$/test/tournament-464.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-465.txt" afterPath="$PROJECT_DIR$/test/tournament-465.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-466.txt" afterPath="$PROJECT_DIR$/test/tournament-466.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-467.txt" afterPath="$PROJECT_DIR$/test/tournament-467.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-468.txt" afterPath="$PROJECT_DIR$/test/tournament-468.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-469.txt" afterPath="$PROJECT_DIR$/test/tournament-469.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-47.txt" afterPath="$PROJECT_DIR$/test/tournament-47.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-470.txt" afterPath="$PROJECT_DIR$/test/tournament-470.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-471.txt" afterPath="$PROJECT_DIR$/test/tournament-471.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-472.txt" afterPath="$PROJECT_DIR$/test/tournament-472.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-473.txt" afterPath="$PROJECT_DIR$/test/tournament-473.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-474.txt" afterPath="$PROJECT_DIR$/test/tournament-474.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-475.txt" afterPath="$PROJECT_DIR$/test/tournament-475.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-476.txt" afterPath="$PROJECT_DIR$/test/tournament-476.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-477.txt" afterPath="$PROJECT_DIR$/test/tournament-477.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-478.txt" afterPath="$PROJECT_DIR$/test/tournament-478.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-479.txt" afterPath="$PROJECT_DIR$/test/tournament-479.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-48.txt" afterPath="$PROJECT_DIR$/test/tournament-48.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-480.txt" afterPath="$PROJECT_DIR$/test/tournament-480.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-481.txt" afterPath="$PROJECT_DIR$/test/tournament-481.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-482.txt" afterPath="$PROJECT_DIR$/test/tournament-482.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-483.txt" afterPath="$PROJECT_DIR$/test/tournament-483.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-484.txt" afterPath="$PROJECT_DIR$/test/tournament-484.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-485.txt" afterPath="$PROJECT_DIR$/test/tournament-485.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-486.txt" afterPath="$PROJECT_DIR$/test/tournament-486.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-487.txt" afterPath="$PROJECT_DIR$/test/tournament-487.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-488.txt" afterPath="$PROJECT_DIR$/test/tournament-488.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-489.txt" afterPath="$PROJECT_DIR$/test/tournament-489.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-49.txt" afterPath="$PROJECT_DIR$/test/tournament-49.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-490.txt" afterPath="$PROJECT_DIR$/test/tournament-490.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-491.txt" afterPath="$PROJECT_DIR$/test/tournament-491.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-492.txt" afterPath="$PROJECT_DIR$/test/tournament-492.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-493.txt" afterPath="$PROJECT_DIR$/test/tournament-493.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-494.txt" afterPath="$PROJECT_DIR$/test/tournament-494.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-495.txt" afterPath="$PROJECT_DIR$/test/tournament-495.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-496.txt" afterPath="$PROJECT_DIR$/test/tournament-496.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-497.txt" afterPath="$PROJECT_DIR$/test/tournament-497.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-498.txt" afterPath="$PROJECT_DIR$/test/tournament-498.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-499.txt" afterPath="$PROJECT_DIR$/test/tournament-499.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-50.txt" afterPath="$PROJECT_DIR$/test/tournament-50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-500.txt" afterPath="$PROJECT_DIR$/test/tournament-500.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-501.txt" afterPath="$PROJECT_DIR$/test/tournament-501.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-502.txt" afterPath="$PROJECT_DIR$/test/tournament-502.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-503.txt" afterPath="$PROJECT_DIR$/test/tournament-503.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-504.txt" afterPath="$PROJECT_DIR$/test/tournament-504.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-505.txt" afterPath="$PROJECT_DIR$/test/tournament-505.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-506.txt" afterPath="$PROJECT_DIR$/test/tournament-506.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-507.txt" afterPath="$PROJECT_DIR$/test/tournament-507.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-508.txt" afterPath="$PROJECT_DIR$/test/tournament-508.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-509.txt" afterPath="$PROJECT_DIR$/test/tournament-509.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-51.txt" afterPath="$PROJECT_DIR$/test/tournament-51.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-510.txt" afterPath="$PROJECT_DIR$/test/tournament-510.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-511.txt" afterPath="$PROJECT_DIR$/test/tournament-511.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-512.txt" afterPath="$PROJECT_DIR$/test/tournament-512.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-513.txt" afterPath="$PROJECT_DIR$/test/tournament-513.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-514.txt" afterPath="$PROJECT_DIR$/test/tournament-514.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-515.txt" afterPath="$PROJECT_DIR$/test/tournament-515.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-516.txt" afterPath="$PROJECT_DIR$/test/tournament-516.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-517.txt" afterPath="$PROJECT_DIR$/test/tournament-517.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-518.txt" afterPath="$PROJECT_DIR$/test/tournament-518.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-519.txt" afterPath="$PROJECT_DIR$/test/tournament-519.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-52.txt" afterPath="$PROJECT_DIR$/test/tournament-52.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-520.txt" afterPath="$PROJECT_DIR$/test/tournament-520.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-521.txt" afterPath="$PROJECT_DIR$/test/tournament-521.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-522.txt" afterPath="$PROJECT_DIR$/test/tournament-522.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-523.txt" afterPath="$PROJECT_DIR$/test/tournament-523.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-524.txt" afterPath="$PROJECT_DIR$/test/tournament-524.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-525.txt" afterPath="$PROJECT_DIR$/test/tournament-525.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-526.txt" afterPath="$PROJECT_DIR$/test/tournament-526.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-527.txt" afterPath="$PROJECT_DIR$/test/tournament-527.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-528.txt" afterPath="$PROJECT_DIR$/test/tournament-528.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-529.txt" afterPath="$PROJECT_DIR$/test/tournament-529.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-53.txt" afterPath="$PROJECT_DIR$/test/tournament-53.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-530.txt" afterPath="$PROJECT_DIR$/test/tournament-530.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-531.txt" afterPath="$PROJECT_DIR$/test/tournament-531.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-532.txt" afterPath="$PROJECT_DIR$/test/tournament-532.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-533.txt" afterPath="$PROJECT_DIR$/test/tournament-533.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-534.txt" afterPath="$PROJECT_DIR$/test/tournament-534.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-535.txt" afterPath="$PROJECT_DIR$/test/tournament-535.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-536.txt" afterPath="$PROJECT_DIR$/test/tournament-536.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-537.txt" afterPath="$PROJECT_DIR$/test/tournament-537.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-538.txt" afterPath="$PROJECT_DIR$/test/tournament-538.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-539.txt" afterPath="$PROJECT_DIR$/test/tournament-539.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-54.txt" afterPath="$PROJECT_DIR$/test/tournament-54.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-540.txt" afterPath="$PROJECT_DIR$/test/tournament-540.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-541.txt" afterPath="$PROJECT_DIR$/test/tournament-541.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-542.txt" afterPath="$PROJECT_DIR$/test/tournament-542.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-543.txt" afterPath="$PROJECT_DIR$/test/tournament-543.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-544.txt" afterPath="$PROJECT_DIR$/test/tournament-544.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-545.txt" afterPath="$PROJECT_DIR$/test/tournament-545.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-546.txt" afterPath="$PROJECT_DIR$/test/tournament-546.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-547.txt" afterPath="$PROJECT_DIR$/test/tournament-547.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-548.txt" afterPath="$PROJECT_DIR$/test/tournament-548.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-549.txt" afterPath="$PROJECT_DIR$/test/tournament-549.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-55.txt" afterPath="$PROJECT_DIR$/test/tournament-55.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-550.txt" afterPath="$PROJECT_DIR$/test/tournament-550.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-551.txt" afterPath="$PROJECT_DIR$/test/tournament-551.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-552.txt" afterPath="$PROJECT_DIR$/test/tournament-552.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-553.txt" afterPath="$PROJECT_DIR$/test/tournament-553.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-554.txt" afterPath="$PROJECT_DIR$/test/tournament-554.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-555.txt" afterPath="$PROJECT_DIR$/test/tournament-555.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-556.txt" afterPath="$PROJECT_DIR$/test/tournament-556.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-557.txt" afterPath="$PROJECT_DIR$/test/tournament-557.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-558.txt" afterPath="$PROJECT_DIR$/test/tournament-558.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-559.txt" afterPath="$PROJECT_DIR$/test/tournament-559.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-56.txt" afterPath="$PROJECT_DIR$/test/tournament-56.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-560.txt" afterPath="$PROJECT_DIR$/test/tournament-560.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-561.txt" afterPath="$PROJECT_DIR$/test/tournament-561.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-562.txt" afterPath="$PROJECT_DIR$/test/tournament-562.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-563.txt" afterPath="$PROJECT_DIR$/test/tournament-563.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-564.txt" afterPath="$PROJECT_DIR$/test/tournament-564.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-565.txt" afterPath="$PROJECT_DIR$/test/tournament-565.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-566.txt" afterPath="$PROJECT_DIR$/test/tournament-566.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-567.txt" afterPath="$PROJECT_DIR$/test/tournament-567.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-568.txt" afterPath="$PROJECT_DIR$/test/tournament-568.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-569.txt" afterPath="$PROJECT_DIR$/test/tournament-569.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-57.txt" afterPath="$PROJECT_DIR$/test/tournament-57.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-570.txt" afterPath="$PROJECT_DIR$/test/tournament-570.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-571.txt" afterPath="$PROJECT_DIR$/test/tournament-571.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-572.txt" afterPath="$PROJECT_DIR$/test/tournament-572.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-573.txt" afterPath="$PROJECT_DIR$/test/tournament-573.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-574.txt" afterPath="$PROJECT_DIR$/test/tournament-574.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-575.txt" afterPath="$PROJECT_DIR$/test/tournament-575.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-576.txt" afterPath="$PROJECT_DIR$/test/tournament-576.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-577.txt" afterPath="$PROJECT_DIR$/test/tournament-577.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-578.txt" afterPath="$PROJECT_DIR$/test/tournament-578.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-579.txt" afterPath="$PROJECT_DIR$/test/tournament-579.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-58.txt" afterPath="$PROJECT_DIR$/test/tournament-58.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-580.txt" afterPath="$PROJECT_DIR$/test/tournament-580.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-581.txt" afterPath="$PROJECT_DIR$/test/tournament-581.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-582.txt" afterPath="$PROJECT_DIR$/test/tournament-582.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-583.txt" afterPath="$PROJECT_DIR$/test/tournament-583.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-584.txt" afterPath="$PROJECT_DIR$/test/tournament-584.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-585.txt" afterPath="$PROJECT_DIR$/test/tournament-585.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-586.txt" afterPath="$PROJECT_DIR$/test/tournament-586.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-587.txt" afterPath="$PROJECT_DIR$/test/tournament-587.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-588.txt" afterPath="$PROJECT_DIR$/test/tournament-588.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-589.txt" afterPath="$PROJECT_DIR$/test/tournament-589.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-59.txt" afterPath="$PROJECT_DIR$/test/tournament-59.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-590.txt" afterPath="$PROJECT_DIR$/test/tournament-590.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-591.txt" afterPath="$PROJECT_DIR$/test/tournament-591.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-592.txt" afterPath="$PROJECT_DIR$/test/tournament-592.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-593.txt" afterPath="$PROJECT_DIR$/test/tournament-593.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-594.txt" afterPath="$PROJECT_DIR$/test/tournament-594.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-595.txt" afterPath="$PROJECT_DIR$/test/tournament-595.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-596.txt" afterPath="$PROJECT_DIR$/test/tournament-596.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-597.txt" afterPath="$PROJECT_DIR$/test/tournament-597.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-598.txt" afterPath="$PROJECT_DIR$/test/tournament-598.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-599.txt" afterPath="$PROJECT_DIR$/test/tournament-599.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-60.txt" afterPath="$PROJECT_DIR$/test/tournament-60.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-600.txt" afterPath="$PROJECT_DIR$/test/tournament-600.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-601.txt" afterPath="$PROJECT_DIR$/test/tournament-601.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-602.txt" afterPath="$PROJECT_DIR$/test/tournament-602.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-603.txt" afterPath="$PROJECT_DIR$/test/tournament-603.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-604.txt" afterPath="$PROJECT_DIR$/test/tournament-604.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-605.txt" afterPath="$PROJECT_DIR$/test/tournament-605.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-606.txt" afterPath="$PROJECT_DIR$/test/tournament-606.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-607.txt" afterPath="$PROJECT_DIR$/test/tournament-607.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-608.txt" afterPath="$PROJECT_DIR$/test/tournament-608.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-609.txt" afterPath="$PROJECT_DIR$/test/tournament-609.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-61.txt" afterPath="$PROJECT_DIR$/test/tournament-61.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-610.txt" afterPath="$PROJECT_DIR$/test/tournament-610.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-611.txt" afterPath="$PROJECT_DIR$/test/tournament-611.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-612.txt" afterPath="$PROJECT_DIR$/test/tournament-612.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-613.txt" afterPath="$PROJECT_DIR$/test/tournament-613.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-614.txt" afterPath="$PROJECT_DIR$/test/tournament-614.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-615.txt" afterPath="$PROJECT_DIR$/test/tournament-615.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-616.txt" afterPath="$PROJECT_DIR$/test/tournament-616.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-617.txt" afterPath="$PROJECT_DIR$/test/tournament-617.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-618.txt" afterPath="$PROJECT_DIR$/test/tournament-618.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-619.txt" afterPath="$PROJECT_DIR$/test/tournament-619.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-62.txt" afterPath="$PROJECT_DIR$/test/tournament-62.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-620.txt" afterPath="$PROJECT_DIR$/test/tournament-620.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-621.txt" afterPath="$PROJECT_DIR$/test/tournament-621.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-622.txt" afterPath="$PROJECT_DIR$/test/tournament-622.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-623.txt" afterPath="$PROJECT_DIR$/test/tournament-623.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-624.txt" afterPath="$PROJECT_DIR$/test/tournament-624.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-625.txt" afterPath="$PROJECT_DIR$/test/tournament-625.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-626.txt" afterPath="$PROJECT_DIR$/test/tournament-626.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-627.txt" afterPath="$PROJECT_DIR$/test/tournament-627.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-628.txt" afterPath="$PROJECT_DIR$/test/tournament-628.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-629.txt" afterPath="$PROJECT_DIR$/test/tournament-629.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-63.txt" afterPath="$PROJECT_DIR$/test/tournament-63.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-630.txt" afterPath="$PROJECT_DIR$/test/tournament-630.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-631.txt" afterPath="$PROJECT_DIR$/test/tournament-631.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-632.txt" afterPath="$PROJECT_DIR$/test/tournament-632.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-633.txt" afterPath="$PROJECT_DIR$/test/tournament-633.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-634.txt" afterPath="$PROJECT_DIR$/test/tournament-634.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-635.txt" afterPath="$PROJECT_DIR$/test/tournament-635.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-636.txt" afterPath="$PROJECT_DIR$/test/tournament-636.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-637.txt" afterPath="$PROJECT_DIR$/test/tournament-637.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-638.txt" afterPath="$PROJECT_DIR$/test/tournament-638.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-639.txt" afterPath="$PROJECT_DIR$/test/tournament-639.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-64.txt" afterPath="$PROJECT_DIR$/test/tournament-64.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-640.txt" afterPath="$PROJECT_DIR$/test/tournament-640.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-641.txt" afterPath="$PROJECT_DIR$/test/tournament-641.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-642.txt" afterPath="$PROJECT_DIR$/test/tournament-642.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-643.txt" afterPath="$PROJECT_DIR$/test/tournament-643.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-644.txt" afterPath="$PROJECT_DIR$/test/tournament-644.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-645.txt" afterPath="$PROJECT_DIR$/test/tournament-645.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-646.txt" afterPath="$PROJECT_DIR$/test/tournament-646.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-647.txt" afterPath="$PROJECT_DIR$/test/tournament-647.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-648.txt" afterPath="$PROJECT_DIR$/test/tournament-648.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-649.txt" afterPath="$PROJECT_DIR$/test/tournament-649.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-65.txt" afterPath="$PROJECT_DIR$/test/tournament-65.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-650.txt" afterPath="$PROJECT_DIR$/test/tournament-650.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-651.txt" afterPath="$PROJECT_DIR$/test/tournament-651.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-652.txt" afterPath="$PROJECT_DIR$/test/tournament-652.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-653.txt" afterPath="$PROJECT_DIR$/test/tournament-653.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-654.txt" afterPath="$PROJECT_DIR$/test/tournament-654.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-655.txt" afterPath="$PROJECT_DIR$/test/tournament-655.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-656.txt" afterPath="$PROJECT_DIR$/test/tournament-656.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-657.txt" afterPath="$PROJECT_DIR$/test/tournament-657.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-658.txt" afterPath="$PROJECT_DIR$/test/tournament-658.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-659.txt" afterPath="$PROJECT_DIR$/test/tournament-659.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-66.txt" afterPath="$PROJECT_DIR$/test/tournament-66.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-660.txt" afterPath="$PROJECT_DIR$/test/tournament-660.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-661.txt" afterPath="$PROJECT_DIR$/test/tournament-661.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-67.txt" afterPath="$PROJECT_DIR$/test/tournament-67.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-68.txt" afterPath="$PROJECT_DIR$/test/tournament-68.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-69.txt" afterPath="$PROJECT_DIR$/test/tournament-69.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-70.txt" afterPath="$PROJECT_DIR$/test/tournament-70.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-71.txt" afterPath="$PROJECT_DIR$/test/tournament-71.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-73.txt" afterPath="$PROJECT_DIR$/test/tournament-73.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-74.txt" afterPath="$PROJECT_DIR$/test/tournament-74.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-75.txt" afterPath="$PROJECT_DIR$/test/tournament-75.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-76.txt" afterPath="$PROJECT_DIR$/test/tournament-76.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-77.txt" afterPath="$PROJECT_DIR$/test/tournament-77.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-78.txt" afterPath="$PROJECT_DIR$/test/tournament-78.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-79.txt" afterPath="$PROJECT_DIR$/test/tournament-79.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-80.txt" afterPath="$PROJECT_DIR$/test/tournament-80.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-81.txt" afterPath="$PROJECT_DIR$/test/tournament-81.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-82.txt" afterPath="$PROJECT_DIR$/test/tournament-82.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-83.txt" afterPath="$PROJECT_DIR$/test/tournament-83.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-84.txt" afterPath="$PROJECT_DIR$/test/tournament-84.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-85.txt" afterPath="$PROJECT_DIR$/test/tournament-85.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-86.txt" afterPath="$PROJECT_DIR$/test/tournament-86.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-87.txt" afterPath="$PROJECT_DIR$/test/tournament-87.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-88.txt" afterPath="$PROJECT_DIR$/test/tournament-88.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-89.txt" afterPath="$PROJECT_DIR$/test/tournament-89.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-90.txt" afterPath="$PROJECT_DIR$/test/tournament-90.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-91.txt" afterPath="$PROJECT_DIR$/test/tournament-91.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-92.txt" afterPath="$PROJECT_DIR$/test/tournament-92.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-93.txt" afterPath="$PROJECT_DIR$/test/tournament-93.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-94.txt" afterPath="$PROJECT_DIR$/test/tournament-94.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-95.txt" afterPath="$PROJECT_DIR$/test/tournament-95.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-96.txt" afterPath="$PROJECT_DIR$/test/tournament-96.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-97.txt" afterPath="$PROJECT_DIR$/test/tournament-97.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-98.txt" afterPath="$PROJECT_DIR$/test/tournament-98.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tournament-99.txt" afterPath="$PROJECT_DIR$/test/tournament-99.txt" />
     </list>
     <ignored path="xiangqi-ai.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,7 +1342,17 @@
         <entry file="file://$PROJECT_DIR$/FitnessFunction.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="106" column="8" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
+              <caret line="554" column="0" selection-start-line="554" selection-start-column="0" selection-end-line="554" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FitnessFunction2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FitnessFunction2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="563" column="0" selection-start-line="563" selection-start-column="0" selection-end-line="563" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -59,8 +1361,8 @@
       <file leaf-file-name="move.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/move.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="27.222221">
-              <caret line="56" column="70" selection-start-line="56" selection-start-column="70" selection-end-line="56" selection-end-column="70" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="73" column="47" selection-start-line="73" selection-start-column="47" selection-end-line="73" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -69,8 +1371,8 @@
       <file leaf-file-name="classify.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/classify.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.09615385">
-              <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.28846154">
+              <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -93,39 +1395,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1462432091000" expanded="true" signature="108:241" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="132:241" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="317:2192" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="341:2192" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="2244:6853" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="2287:2410" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="2440:2459" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="2564:2598" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="2660:6853" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="6896:12306" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="6939:7062" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="7092:7111" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="7216:7250" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="7312:12306" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="12347:17899" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="12390:12509" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="12539:12558" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="12594:12626" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="12657:12689" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="12751:17899" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="17967:23519" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="18159:18178" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="18214:18246" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="18371:23519" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="23569:24166" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="23612:23735" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="23773:23807" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="23840:23874" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="23936:24166" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="166493:167862" placeholder="..." />
-                <marker date="1462432091000" expanded="true" signature="166493:167948" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -151,10 +1421,11 @@
         <option value="$PROJECT_DIR$/new_game/start_game.py" />
         <option value="$PROJECT_DIR$/new_game/fen_to_board_translator.py" />
         <option value="$PROJECT_DIR$/new_game/new_game.py" />
-        <option value="$PROJECT_DIR$/FitnessFunction.py" />
         <option value="$PROJECT_DIR$/notes" />
         <option value="$PROJECT_DIR$/move.py" />
         <option value="$PROJECT_DIR$/new_game.py" />
+        <option value="$PROJECT_DIR$/FitnessFunction.py" />
+        <option value="$PROJECT_DIR$/FitnessFunction2.py" />
         <option value="$PROJECT_DIR$/classify.py" />
       </list>
     </option>
@@ -190,26 +1461,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiangqi-ai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiangqi-ai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiangqi-ai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -239,6 +1490,26 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xiangqi-ai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xiangqi-ai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xiangqi-ai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -408,7 +1679,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="23" width="1405" height="877" extended-state="6" />
+    <frame x="35" y="23" width="1405" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15800712" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -416,18 +1687,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -451,7 +1722,7 @@
     <entry file="file://$PROJECT_DIR$/new_game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="207" column="67" selection-start-line="207" selection-start-column="67" selection-end-line="207" selection-end-column="67" />
+          <caret line="240" column="55" selection-start-line="240" selection-start-column="55" selection-end-line="240" selection-end-column="55" />
           <folding />
         </state>
       </provider>
@@ -467,7 +1738,7 @@
     <entry file="file://$PROJECT_DIR$/move.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="129" column="28" selection-start-line="129" selection-start-column="28" selection-end-line="129" selection-end-column="28" />
+          <caret line="56" column="70" selection-start-line="56" selection-start-column="70" selection-end-line="56" selection-end-column="70" />
           <folding />
         </state>
       </provider>
@@ -494,39 +1765,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1462432091000" expanded="true" signature="108:241" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="132:241" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="317:2192" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="341:2192" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2244:6853" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2287:2410" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2440:2459" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2564:2598" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2660:6853" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="6896:12306" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="6939:7062" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="7092:7111" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="7216:7250" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="7312:12306" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12347:17899" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12390:12509" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12539:12558" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12594:12626" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12657:12689" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12751:17899" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="17967:23519" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="18159:18178" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="18214:18246" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="18371:23519" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23569:24166" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23612:23735" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23773:23807" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23840:23874" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23936:24166" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="166493:167862" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="166493:167948" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -576,39 +1815,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="207" column="67" selection-start-line="207" selection-start-column="67" selection-end-line="207" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FitnessFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="8" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/move.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="129" column="28" selection-start-line="129" selection-start-column="28" selection-end-line="129" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1462432091000" expanded="true" signature="108:241" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="132:241" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="317:2192" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="341:2192" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2244:6853" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2287:2410" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2440:2459" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2564:2598" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2660:6853" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="6896:12306" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="6939:7062" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="7092:7111" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="7216:7250" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="7312:12306" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12347:17899" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12390:12509" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12539:12558" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12594:12626" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12657:12689" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12751:17899" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="17967:23519" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="18159:18178" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="18214:18246" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="18371:23519" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23569:24166" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23612:23735" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23773:23807" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23840:23874" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23936:24166" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="166493:167862" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="166493:167948" placeholder="..." />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xiangqi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -630,39 +1887,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1462432091000" expanded="true" signature="108:241" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="132:241" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="317:2192" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="341:2192" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2244:6853" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2287:2410" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2440:2459" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2564:2598" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="2660:6853" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="6896:12306" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="6939:7062" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="7092:7111" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="7216:7250" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="7312:12306" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12347:17899" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12390:12509" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12539:12558" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12594:12626" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12657:12689" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="12751:17899" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="17967:23519" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="18159:18178" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="18214:18246" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="18371:23519" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23569:24166" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23612:23735" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23773:23807" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23840:23874" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="23936:24166" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="166493:167862" placeholder="..." />
-            <marker date="1462432091000" expanded="true" signature="166493:167948" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -670,22 +1895,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FitnessFunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="106" column="8" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/move.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="27.222221">
-          <caret line="56" column="70" selection-start-line="56" selection-start-column="70" selection-end-line="56" selection-end-column="70" />
           <folding />
         </state>
       </provider>
@@ -698,10 +1907,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/move.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="47" selection-start-line="73" selection-start-column="47" selection-end-line="73" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FitnessFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="554" column="0" selection-start-line="554" selection-start-column="0" selection-end-line="554" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FitnessFunction2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="563" column="0" selection-start-line="563" selection-start-column="0" selection-end-line="563" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/classify.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.09615385">
-          <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.28846154">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
